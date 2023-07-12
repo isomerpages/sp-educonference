@@ -32,8 +32,8 @@ sections:
       title: Mr Tan Kai Hoe
       subtitle: Keynote Speaker
       description: Group CEO / President  Accuron Technologies
-      button: Button Text
       alt: speaker
+      image: /images/bog2021-tankaihoe.png
   - infopic:
       title: Singapore Polytechnic
       subtitle: About
