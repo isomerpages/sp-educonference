@@ -44,4 +44,10 @@ sections:
       button: Learn more
       url: gmail.com
       alt: Image alt text
+  - infopic:
+      title: Synposis
+      description: Lorem ipsum sit amet
+      button: Learn more
+      url: gmail.com
+      alt: Image alt text
 ---
