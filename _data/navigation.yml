@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: History
+    url: /example-page/
+  - title: Registration
+    url: /permalink
+  - title: Programme
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
     collection: example-folder
