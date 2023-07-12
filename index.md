@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: History
           description: ""
-          url: https://google.com
+          url: /example-page/
         - title: Registration
           description: ""
-          url: https://gmail.com
+          url: /example-page/
         - title: Programme
           description: ""
           url: /privacy/
@@ -34,14 +34,14 @@ sections:
       description: Group CEO / President  Accuron Technologies
       alt: Tan Kai Hoe
       image: /images/bog2021-tankaihoe.png
-      url: gmail.com
+      url: /example-page/
   - infopic:
       title: Singapore Polytechnic
       subtitle: About
       description: Singapore Polytechnic was set up on 27 October 1954, making it the
         very first polytechnic to be established in Singapore.
       button: Learn more
-      url: gmail.com
+      url: /example-page/
       alt: Singapore Polytechnic
       image: /images/image1.jpg
   - infopic:
@@ -50,14 +50,14 @@ sections:
       description: Located in Southeast Asia, Singapore has a land area of about 710
         square kilometres.
       button: Learn more
-      url: gmail.com
+      url: /example-page/
       alt: Marina Bay Sands
       image: /images/marina_bay_sands_in_the_evening_-_20101120.jpg
   - infopic:
       title: Synposis
       description: Lorem ipsum sit amet
       button: Learn more
-      url: gmail.com
+      url: /example-page/
       alt: SP Students
       image: /images/why-sp_1.jpg
 ---
