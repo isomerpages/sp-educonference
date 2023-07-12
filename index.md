@@ -31,16 +31,16 @@ sections:
   - infopic:
       title: Singapore Polytechnic
       subtitle: About
-      description: "Singapore Polytechnic was set up on 27 October 1954, making it the
-        very first polytechnic to be established in Singapore.  "
+      description: Singapore Polytechnic was set up on 27 October 1954, making it the
+        very first polytechnic to be established in Singapore.
       button: Learn more
       url: gmail.com
       alt: Image alt text
   - infopic:
       title: Singapore
       subtitle: About
-      description: "Located in Southeast Asia, Singapore has a land area of about 710
-        square kilometres. "
+      description: Located in Southeast Asia, Singapore has a land area of about 710
+        square kilometres.
       button: Learn more
       url: gmail.com
       alt: Image alt text
