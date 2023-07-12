@@ -34,6 +34,7 @@ sections:
       description: Group CEO / President  Accuron Technologies
       alt: Tan Kai Hoe
       image: /images/bog2021-tankaihoe.png
+      url: gmail.com
   - infopic:
       title: Singapore Polytechnic
       subtitle: About
