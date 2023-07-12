@@ -36,6 +36,7 @@ sections:
       button: Learn more
       url: gmail.com
       alt: Image alt text
+      image: /images/image1.jpg
   - infopic:
       title: Singapore
       subtitle: About
@@ -44,10 +45,12 @@ sections:
       button: Learn more
       url: gmail.com
       alt: Image alt text
+      image: /images/marina_bay_sands_in_the_evening_-_20101120.jpg
   - infopic:
       title: Synposis
       description: Lorem ipsum sit amet
       button: Learn more
       url: gmail.com
       alt: Image alt text
+      image: /images/why-sp_1.jpg
 ---
