@@ -35,7 +35,7 @@ sections:
         very first polytechnic to be established in Singapore.
       button: Learn more
       url: gmail.com
-      alt: Image alt text
+      alt: Singapore Polytechnic
       image: /images/image1.jpg
   - infopic:
       title: Singapore
@@ -44,13 +44,13 @@ sections:
         square kilometres.
       button: Learn more
       url: gmail.com
-      alt: Image alt text
+      alt: Marina Bay Sands
       image: /images/marina_bay_sands_in_the_evening_-_20101120.jpg
   - infopic:
       title: Synposis
       description: Lorem ipsum sit amet
       button: Learn more
       url: gmail.com
-      alt: Image alt text
+      alt: SP Students
       image: /images/why-sp_1.jpg
 ---
