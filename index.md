@@ -9,7 +9,8 @@ sections:
   - hero:
       title: ISATE 2024
       subtitle: 17th – 19th September 2024
-      background: /images/national icon.jpg
+      background: /images/0 celebrating 50 years of the merlion_ stories behind the
+        national icon.png
       button: Register Now
       url: /contact-us/
       key_highlights:
