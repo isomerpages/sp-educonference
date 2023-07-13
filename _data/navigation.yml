@@ -1,12 +1,24 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: History
+  - title: Home
     url: /example-page/
+  - title: Call for Papers
+    url: /example-page/
+  - title: Author's Page
+    url: /example-page/
+  - title: Program
+    url: /permalink
   - title: Registration
-    url: /example-page/
-  - title: Programme
-    url: /example-page/
+    url: /permalink
+  - title: Accomodation
+    url: /permalink
+  - title: Venue
+    url: /permalink
+  - title: Committee
+    url: /permalink
+  - title: Full Paper Library
+    url: /permalink
+  - title: Announcement
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Folder
-    collection: example-folder
