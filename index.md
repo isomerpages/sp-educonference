@@ -13,7 +13,7 @@ sections:
       button: Register Now
       url: /contact-us/
       key_highlights:
-        - title: About
+        - title: Call for Papers
           description: ""
           url: /example-page/
         - title: Program
