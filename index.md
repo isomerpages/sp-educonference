@@ -13,13 +13,13 @@ sections:
       button: Register Now
       url: /contact-us/
       key_highlights:
-        - title: Call for Papers
+        - title: About Singapore
           description: ""
           url: /example-page/
-        - title: Program
+        - title: About SP
           description: ""
           url: /privacy/
-        - title: Registration
+        - title: About ISATE
           description: ""
           url: /example-page/
   - infobar:
