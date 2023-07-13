@@ -13,15 +13,15 @@ sections:
       button: Register Now
       url: /contact-us/
       key_highlights:
-        - title: History
+        - title: About
           description: ""
           url: /example-page/
+        - title: Program
+          description: ""
+          url: /privacy/
         - title: Registration
           description: ""
           url: /example-page/
-        - title: Programme
-          description: ""
-          url: /privacy/
   - infobar:
       title: Welcome
       description: This year's conference theme is Evolving Teaching and Learning in
