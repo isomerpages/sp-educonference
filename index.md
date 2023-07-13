@@ -30,13 +30,6 @@ sections:
       button: Learn more
       url: /faq/
   - infopic:
-      title: Mr Tan Kai Hoe
-      subtitle: Keynote Speaker
-      description: Group CEO / President  Accuron Technologies
-      alt: Tan Kai Hoe
-      image: /images/bog2021-tankaihoe.png
-      url: /example-page/
-  - infopic:
       title: Singapore Polytechnic
       subtitle: About
       description: Singapore Polytechnic was set up on 27 October 1954, making it the
