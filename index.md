@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: About Singapore
           description: ""
-          url: /example-page/
+          url: /aboutisate
         - title: About SP
           description: ""
           url: /privacy/
         - title: About ISATE
           description: ""
-          url: /example-page/
+          url: /aboutisate
   - infobar:
       title: Welcome
       description: This year's conference theme is Evolving Teaching and Learning in
