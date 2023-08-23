@@ -13,10 +13,10 @@ links:
   - title: Accomodation
     url: /accomodation
   - title: Venue
-    url: /example-page/
+    url: /venue
   - title: Committee
-    url: /example-page/
-  - title: Announcement
-    url: /permalink
+    url: /committee
+  - title: Announcements
+    url: /announcements
   - title: Contact Us
-    url: /contact-us/
+    url: /contactus
