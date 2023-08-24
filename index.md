@@ -48,9 +48,8 @@ sections:
       image: /images/image1.jpg
   - infopic:
       title: ISATE
-      description: Lorem ipsum sit amet
       button: Learn more
-      url: /example-page/
+      url: /aboutisate
       alt: SP Students
       image: /images/why-sp_1.jpg
       subtitle: About
