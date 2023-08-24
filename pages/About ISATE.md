@@ -45,4 +45,4 @@ ISATE 2021 – Turku University of Applied Sciences, Finland
 
 ISATE 2022 – Temasek Polytechnic, Singapore
 
-ISATE 2023 – Matsue, Japan
+ISATE 2023 – NIT Matsue College, Japan
