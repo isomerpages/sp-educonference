@@ -12,16 +12,6 @@ sections:
       background: /images/isate2024-splash.png
       button: Register Now
       url: /contact-us/
-      key_highlights:
-        - title: About Singapore
-          description: ""
-          url: /aboutisate
-        - title: About SP
-          description: ""
-          url: /privacy/
-        - title: About ISATE
-          description: ""
-          url: /aboutisate
   - infobar:
       title: Welcome
       description: This year's symposium theme is Evolving Teaching and Learning in
