@@ -10,7 +10,6 @@ sections:
       title: ISATE 2024
       subtitle: September 24 - 27, 2024; Singapore Polytechnic, Singapore
       background: /images/isate2024-splash3.png
-      button: Register Now
       url: /contact-us/
   - infobar:
       title: Welcome
