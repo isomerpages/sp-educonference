@@ -16,6 +16,10 @@ Transportation to SP
 **Genting Hotel Jurong**
 
 Transportation to SP
-* Take the MRT from Jurong East to Dover Station (Green Line)
+* Take the MRT from Jurong East Station to Dover Station (Green Line)
 
 
+**Momentus Hotel Alexandra**
+
+Transportation to SP
+* Take the MRT from Queenstown Station to Dover Station.
