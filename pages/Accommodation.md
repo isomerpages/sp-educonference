@@ -13,7 +13,7 @@ We have 3 recommended hotels below:
 
 Transportation to SP
 * Take the MRT from Buona Vista Station to Dover Station (Green Line)
-* Take Buses 105, 106, 14 or 147 from The Star Vista
+* Take Buses 105, 106, 14 or 147 from The Star Vista towards Clementi
 
 **Genting Hotel Jurong**
 
