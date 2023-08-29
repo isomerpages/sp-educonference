@@ -41,8 +41,8 @@ ISATE 2019 – NIT Tokuyama College, Japan
   
 ISATE 2020 – No event due to the COVID-19 pandemic  
   
-ISATE 2021 – Turku University of Applied Sciences, Finland
+ISATE 2021 – Online, hosted by Turku University of Applied Sciences, Finland
 
-ISATE 2022 – Temasek Polytechnic, Singapore
+ISATE 2022 – Online, hosted by Temasek Polytechnic, Singapore
 
 ISATE 2023 – NIT Matsue College, Japan
