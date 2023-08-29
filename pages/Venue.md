@@ -6,7 +6,7 @@ description: ""
 ![](/images/sp-campus-map.jpg)
 
 ISATE2024 will be held at Singapore Polytechnic, Singapore.
-The address is 500 Dover Road, Singapore 139651.
+The address is: 500 Dover Road, Singapore 139651.
 
 **Transportation**
 The nearest Mass Rapid Transit (MRT) train station is EW22 Dover Station which is on the Green Line.
