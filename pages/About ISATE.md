@@ -3,7 +3,7 @@ title: About ISATE
 permalink: /aboutisate/
 description: ""
 ---
-Brief History of ISATE
+A Brief History of ISATE
 ----------------------
 
 The International Symposium on Advances in Technology Education (ISATE) event started in 2007 as an international academic exchange between ten engineering colleges (known as Kosen in Japan) in the Kyushu and Okinawa districts of Japan, and three polytechnics in Singapore. Its aim was to enhance the quality of Engineering Education in each participating institution.  
