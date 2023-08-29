@@ -10,11 +10,11 @@ links:
     url: /authorspage
   - title: Programme
     url: /programme
+  - title: Venue
+    url: /venue
   - title: Registration
     url: /registration
   - title: Accommodation
     url: /accommodation
-  - title: Venue
-    url: /venue
   - title: Contact Us
     url: /contactus
