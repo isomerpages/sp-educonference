@@ -16,4 +16,4 @@ Bus services include numbers 14, 74, 105, 106, 147, 166, 185
 
 **Singapore Polytechnic Campus Map**
 
-[Click this link to view the full video the interactive map of Singapore Polytechnic](https://www.sp.edu.sg/map/)
+[Click this link to view an interactive map of Singapore Polytechnic](https://www.sp.edu.sg/map/)
