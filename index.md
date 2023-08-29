@@ -15,8 +15,6 @@ sections:
       title: Welcome
       description: This year's symposium theme is Evolving Teaching and Learning in
         the Age of Artificial Intelligence & Sustainability
-      button: Learn more
-      url: /faq/
   - infopic:
       title: ISATE
       button: Learn more
