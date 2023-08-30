@@ -20,7 +20,7 @@ sections:
       button: Learn more
       url: /aboutisate
       alt: SP Students
-      image: /images/about-isate.jpg
+      image: /images/about-isate-large.jpg
       subtitle: About
   - infopic:
       title: Singapore Polytechnic
