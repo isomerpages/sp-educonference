@@ -30,4 +30,8 @@ Transportation to SP
 ![](/images/momentus-hotel.jpg)
 
 Transportation to SP
-* Take the MRT from Queenstown Station to Dover Station.
+* Take the MRT from Queenstown Station to Dover Station
+
+[More information on Momentus Hotel Alexandra](https://www.momentushotels.com/?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect)
+
+
