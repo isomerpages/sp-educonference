@@ -3,4 +3,13 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-Annoucements go here.
+**Call for Papers**
+
+Release Date: 
+
+
+Date
+
+Message
+
+Link
