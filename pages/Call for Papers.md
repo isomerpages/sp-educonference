@@ -15,5 +15,3 @@ This year's symposium theme is Evolving Teaching and Learning in the Age of Arti
 
 
 **Submission Guidelines**
-
-
