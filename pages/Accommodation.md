@@ -22,6 +22,8 @@ Transportation to SP
 Transportation to SP
 * Take the MRT from Jurong East Station to Dover Station (Green Line)
 
+[More information on Genting Hotel Jurong](https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7612688-Reviews-Genting_Hotel_Jurong-Singapore.html)
+
 
 **Momentus Hotel Alexandra**
 
