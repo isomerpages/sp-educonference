@@ -28,7 +28,7 @@ sections:
       description: Singapore Polytechnic was set up on 27 October 1954, making it the
         very first polytechnic to be established in Singapore.
       button: Learn more
-      url: /example-page/
+      url: https://www.sp.edu.sg
       alt: Singapore Polytechnic
       image: /images/image1.jpg
 ---
