@@ -22,6 +22,8 @@ sections:
       alt: SP Students
       image: /images/about-isate-vtc.jpg
       subtitle: About
+      description: ISATE stands for the International Symposium on Advances in
+        Technology Education.
   - infopic:
       title: Singapore Polytechnic
       subtitle: About
