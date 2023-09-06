@@ -3,11 +3,11 @@ title: Venue
 permalink: /venue/
 description: ""
 ---
-The event will be happening in-person at Singapore Polytechnic in Singapore.
+# Singapore Polytechnic
 
 ![](/images/sp-campus-map.jpg)
 
-ISATE2024 will be held at Singapore Polytechnic, Singapore.
+ISATE2024 will be held in person at Singapore Polytechnic, Singapore.
 The address is: 500 Dover Road, Singapore 139651.
 
 **Transportation**
