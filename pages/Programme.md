@@ -23,7 +23,9 @@ Parallel Tracks:
 * ISATE Paper Presentations
 * ISATE Council Meeting
 
+**Evening**
 
+Free & Easy
 
 **Day 2: 25 Sep 2024**
 
@@ -36,10 +38,39 @@ Parallel Tracks:
 
 * ISATE Paper Presentations
 
+**Evening**
 
+Banquet
 
 
 **Day 3: 26 Sep 2024**
 
+**AM**
+* Keynotes and Round tables
+
+
+**PM**
+
+Parallel Tracks:
+
+* ISATE PaperPresentations
+* ClosingCeremony
+
+**Evening**
+
+Free & Easy
+
 
 **Day 4: 27 Sep 2024**
+
+**AM**
+* Optional Learning Journeys to various Polytechnics/Universities
+
+**PM**
+
+Optional Tours
+
+
+**Evening**
+
+Free & Easy
