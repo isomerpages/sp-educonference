@@ -37,4 +37,5 @@ Required information:
     
 *   Key Words  
     Key words can help attendees find your presentation when searching.  
-    \* Please carefully consider your key words and only use key words that are actually relevant to your paper or poster presentation.
+
+Please carefully consider your key words and only use key words that are actually relevant to your paper or poster presentation.
