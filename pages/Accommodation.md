@@ -5,7 +5,7 @@ description: ""
 ---
 We have 3 recommended hotels below:
 
-**Park Avenue Rochester**
+**Park Avenue Rochester (4 stars)**
 
 ![](/images/park-avenue-rochester.jpg)
 
@@ -30,6 +30,6 @@ Transportation to SP
 ![](/images/momentus-hotel.jpg)
 
 Transportation to SP
-* Take the MRT from Queenstown Station to Dover Station
+* Take the MRT from Queenstown Station to Dover Station (Green Line)
 
 [More information on Momentus Hotel Alexandra](https://www.momentushotels.com/?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect)
