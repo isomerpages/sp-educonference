@@ -18,7 +18,6 @@ The full programme can be downloaded below:
 * Keynote Speeches
 
 **PM**
-
 Parallel Tracks:
 * ISATE Paper Presentations
 * ISATE Council Meeting
