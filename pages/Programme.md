@@ -18,6 +18,7 @@ The full programme can be downloaded below:
 * Keynote Speeches
 
 **PM**
+
 Parallel Tracks:
 * ISATE Paper Presentations
 * ISATE Council Meeting
@@ -25,6 +26,17 @@ Parallel Tracks:
 
 
 **Day 2: 25 Sep 2024**
+
+**AM**
+* Keynotes & Institutional Speeches
+
+**PM**
+
+Parallel Tracks:
+
+* ISATE Paper Presentations
+
+
 
 
 **Day 3: 26 Sep 2024**
