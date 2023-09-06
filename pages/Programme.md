@@ -5,7 +5,9 @@ description: ""
 ---
 # ISATE 2024 Programme (Draft)
 
-The full programme can be downloaded here.
+The full programme can be downloaded below:
+
+[Draft ISATE 2024 Programme (Sep 6 2023)](/files/draft%20isate%202024%20(sep%206%202023).pdf)
 
 
 **Day 1: 24 Sep 2024**
