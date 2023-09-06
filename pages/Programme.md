@@ -12,6 +12,18 @@ The full programme can be downloaded below:
 
 **Day 1: 24 Sep 2024**
 
+**AM**
+* Welcome Address
+* VIP Address
+* Keynote Speeches
+
+**PM**
+
+Parallel Tracks:
+* ISATE Paper Presentations
+* ISATE Council Meeting
+
+
 
 **Day 2: 25 Sep 2024**
 
