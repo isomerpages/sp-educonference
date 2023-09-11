@@ -8,8 +8,5 @@ If you need more information on ISATE 2024, please contact the ISATE 2024 Secret
 
 **Photo Credits**
 
-* Splash image on home page - Singapore Tourism Board. Used by permission.
+* Splash image on home page - Copyright 2023, Singapore Tourism Board. Used by permission.
 * About ISATE section - Copyright 2023, Vocational Training Council. Used by permission.
-
-
-
