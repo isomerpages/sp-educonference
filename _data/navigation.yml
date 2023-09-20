@@ -1,15 +1,20 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/isate2024-logo.png
 links:
+  - title: Home
+    url: /
+  - title: Announcements
+    url: /announcements
+  - title: Call for Papers
+    url: /callforpapers
+  - title: Author's Page
+    url: /authorspage
+  - title: Programme
+    url: /programme
+  - title: Venue
+    url: /venue
+  - title: Registration
+    url: /registration
+  - title: Accommodation
+    url: /accommodation
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contactus
