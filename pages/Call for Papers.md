@@ -54,3 +54,39 @@ Full Paper
 
 
 Roundtable
+
+
+
+**Presenting Your Full Paper**
+
+We regret to inform that, to promote interactions among participants, online presentation is not available for ISATE 2024. At least one author must register for the symposium before the deadline, and attend the symposium in person to present the paper; or the paper will be withdrawn from the program.
+
+We also request that, any author, who is not able to present of the scheduled presentation slot, to inform us in writing (email) via his/her institution’s TPC representative.  This list will be made available at the symposium website at a later date.
+
+
+**Important Dates and Deadlines
+**
+
+Authors are kindly requested to adhere strictly to the deadlines below, as any request for extension will not be entertained. 
+
+
+
+| Item | Date |
+| -------- | -------- |
+| Call for Paper     | January 15, 2024     |
+| Abstract Submission Due | March 15, 2024 |
+| Abstract Review Outcome | April 15, 2024 |
+| Draft Full Paper Submission Due | May 15, 2024 |
+| Draft Full Paper Review Outcome | July 15, 2024 |
+| Final Full Paper Submission Due | August 15, 2024 |
+| Early Bird Registration | From July 15, 2024 to August 14, 2024 |
+| Normal Registration | From August 15, 2024 to September 15, 2024 |
+
+Each institution is encouraged to set its own internal deadlines for reviewing their own papers.
+
+The deadline for submission of proposal for roundtable is also March 15, 2024; and notice of acceptance will be made on April 15, 2024.
+
+
+
+
+
