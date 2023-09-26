@@ -87,6 +87,11 @@ Each institution is encouraged to set its own internal deadlines for reviewing t
 The deadline for submission of proposal for roundtable is also March 15, 2024; and notice of acceptance will be made on April 15, 2024.
 
 
+**Enquiries**
+
+Any enquiry can be directed to the ISATE Secretariat at ISATE_2024_Secretariat@sp.edu.sg
+
+
 
 
 
