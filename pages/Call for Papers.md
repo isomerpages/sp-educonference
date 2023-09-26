@@ -16,31 +16,26 @@ There are 4 subthemes under the main theme, and some topics of interests (not ex
 ![](/images/subthemes-table.jpg)
 
 
+**Submission Categories**
 
+*Paper Presentation*
 
+Only paper presentations will be used for ISATE 2024. There will be NO poster presentations. In addition, only academic papers will be accepted. Authors who wished to present scientific works are respectfully requested to share their works elsewhere.
 
-**Submission Guidelines**
+The maximum length for a paper is 6 pages, including references. The paper submission will undergo the following process:
 
+1. Submission of an abstract using the prescribed template, and between 300-400 words; for review 
+2. Submission of a full paper using the prescribed template; for review
+3. Submission of the final version of full paper duly revised taking reviewer suggestions into account.
 
-Required information:
+In addition, the main author must also submit an Approval Certificate to address the necessary copyright requirements. 
 
-*   Author information: name, email address, and affiliation.  
-    \* You only need email addresses for additional authors, who will update their own name and affiliation information.  
-    \* Additional biographical information is optional. 
-    
-*   Title
-    
-*   Session type: paper or poster
-    
-*   Track
-    
-*   Abstract: 250-400 words in English  
-    Reviewers will use this abstract to rate the strength of the submission. Include basic information about your research, methodology, and relevance to the audience.
-    
-*   Short Description: 50-100 words in English  
-    This will be published on the website. Attendees can use it at a quick glance to determine whether or not attend the presentation, so think carefully about your appeal to the audience.
-    
-*   Key Words  
-    Key words can help attendees find your presentation when searching.  
+Paper presentations will follow a traditional conference format of multiple, parallel tracks with short presentations (15 minutes, using PowerPoint) followed by Q&A (5 minutes). There is no template for PowerPoint presentations
 
-Please carefully consider your key words and only use key words that are actually relevant to your paper or poster presentation.
+*Roundtable Discussion*
+
+These are informal discussions of a topic proposed by a roundtable facilitator. The goal of a roundtable discussion can be, for example, to generate ideas for a particular problem facing engineering educators or to collaborate on a new advancement within ISATE. Roundtables in ISATE are allocated 90 minutes.
+
+Proposal for roundtable should use the prescribed template, with an Activity Description that describes a topic and outline of the session, with discussion questions. Resources needed for the roundtable must be specified.
+
+Roundtable discussions will follow run along parallel tracks together with workshops.
