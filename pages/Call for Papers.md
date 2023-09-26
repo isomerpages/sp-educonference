@@ -43,18 +43,13 @@ Roundtable discussions will follow run along parallel tracks together with works
 
 **Downloadable Templates**
 
-Abstract
+[ISATE 2024 - Abstract Submission Template](https://docs.google.com/document/d/1bOFW4nmmvL8eTK6GS_jBUtzebSqnmh1l/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
 
+[ISATE 2024 - Full Paper Submission Template](https://docs.google.com/document/d/10n5G0_n0ew906uzD1Uhcvza-gfw5wkxS/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
 
+[ISATE 2024 - Approval Cert](https://drive.google.com/file/d/1bkcI6R-PQP3Jx8wpMgL9K6vYw9GlcHkz/view?usp=sharing)
 
-Full Paper
-
-
-[ISATE 2024 Approval Cert](/files/isate%202024%20-%20approval%20cert.pdf)
-
-
-Roundtable
-
+[ISATE 2024 - Roundtable Submission Template](https://docs.google.com/document/d/1bMbTIENnNH0ES748LVi3VX7_HDmrzffw/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
 
 
 **Presenting Your Full Paper**
@@ -90,8 +85,3 @@ The deadline for submission of proposal for roundtable is also March 15, 2024; a
 **Enquiries**
 
 Any enquiry can be directed to the ISATE Secretariat at ISATE_2024_Secretariat@sp.edu.sg
-
-
-
-
-
