@@ -39,3 +39,18 @@ These are informal discussions of a topic proposed by a roundtable facilitator. 
 Proposal for roundtable should use the prescribed template, with an Activity Description that describes a topic and outline of the session, with discussion questions. Resources needed for the roundtable must be specified.
 
 Roundtable discussions will follow run along parallel tracks together with workshops.
+
+
+**Downloadable Templates**
+
+Abstract
+
+
+
+Full Paper
+
+
+[ISATE 2024 Approval Cert](/files/isate%202024%20-%20approval%20cert.pdf)
+
+
+Roundtable
