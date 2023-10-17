@@ -50,6 +50,8 @@ Proposal for roundtable should use the prescribed template, with an Activity Des
 
 [ISATE 2024 - Roundtable Submission Template](https://docs.google.com/document/d/1bMbTIENnNH0ES748LVi3VX7_HDmrzffw/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
 
+[ISATE 2024 Learning Journey Submission Template](https://docs.google.com/document/d/1xyF69CMmdOt5XWwweUbW_N3Fvv7Zw3YX/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+
 
 **Presenting Your Full Paper**
 
@@ -62,6 +64,8 @@ We also request that, any author, who is not able to present of the scheduled pr
 **
 
 Authors are kindly requested to adhere strictly to the deadlines below, as any request for extension will not be entertained. 
+
+**The dates below are tentative and subject to confirmation.**
 
 
 
