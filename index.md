@@ -9,6 +9,7 @@ sections:
   - hero:
       background: /images/isate2024_splash_black_test.png
       url: /contact-us/
+      variant: image
   - infobar:
       title: Welcome
       description: This year's symposium theme is Evolving Teaching and Learning in
