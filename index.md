@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/isate2024_splash_black_test.png
+      background: /images/isate2024_splash_sp70.png
       url: /contact-us/
       variant: image
   - infobar:
