@@ -40,16 +40,13 @@ Proposal for roundtable should use the prescribed template, with an Activity Des
 
 **Downloadable Templates**
 
-[ISATE 2024 - Abstract Submission Template](https://docs.google.com/document/d/1bOFW4nmmvL8eTK6GS_jBUtzebSqnmh1l/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+Links will be made available soon.
 
-[ISATE 2024 - Full Paper Submission Template](https://docs.google.com/document/d/10n5G0_n0ew906uzD1Uhcvza-gfw5wkxS/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
-[ISATE 2024 - Approval Cert](https://drive.google.com/file/d/1bkcI6R-PQP3Jx8wpMgL9K6vYw9GlcHkz/view?usp=sharing)
-
-[ISATE 2024 - Roundtable Submission Template](https://docs.google.com/document/d/1bMbTIENnNH0ES748LVi3VX7_HDmrzffw/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
-[ISATE 2024 Learning Journey Submission Template](https://docs.google.com/document/d/1xyF69CMmdOt5XWwweUbW_N3Fvv7Zw3YX/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
+* ISATE 2024 - Abstract Submission Template
+* ISATE 2024 - Full Paper Submission Template
+* ISATE 2024 - Approval Certificate
+* ISATE 2024 - Roundtable Submission Template
+* ISATE 2024 Learning Journey Submission Template
 
 **Presenting Your Full Paper**
 
