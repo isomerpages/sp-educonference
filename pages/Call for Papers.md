@@ -2,12 +2,10 @@
 title: Call for Papers
 permalink: /callforpapers/
 description: ""
+variant: markdown
 ---
-# Call for Papers (draft dated 26 Sep 2023)
+# Call for Papers (will be released on 17 Jan 2024)
 
-The International Symposium on Advances in Technology Education (ISATE) event started in 2007 as international academic exchange between ten engineering colleges (known as Kosen in Japan) in the Kyushu and Okinawa districts of Japan, and three polytechnics in Singapore. It aimed to enhance the quality of Engineering Education in each participating institution. In 2010, all the other Kosen institutions of Japan joined the symposium under the initiative of the National Institute of Technology (NIT). In 2011, two more polytechnics from Singapore joined this international exchange effort as organizers. In 2013, Nagaoka University of Technology and Toyo¬hashi University of Technology also joined the sympo¬sium. Hong Kong Institute of Vocational Education (IVE) of Vocational Training Council (VTC) officially joined to become one of the ISATE organizers in 2017. 
-
-Singapore Polytechnic (SP) is proud to be the host for ISATE 2024. It will be held in SP campus [https://www.sp.edu.sg/map](https://www.sp.edu.sg/map) 
 
 **Evolving Teaching and Learning in the Age of Artificial Intelligence and Sustainability**
 
@@ -42,16 +40,13 @@ Proposal for roundtable should use the prescribed template, with an Activity Des
 
 **Downloadable Templates**
 
-[ISATE 2024 - Abstract Submission Template](https://docs.google.com/document/d/1bOFW4nmmvL8eTK6GS_jBUtzebSqnmh1l/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+Links will be made available soon.
 
-[ISATE 2024 - Full Paper Submission Template](https://docs.google.com/document/d/10n5G0_n0ew906uzD1Uhcvza-gfw5wkxS/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
-[ISATE 2024 - Approval Cert](https://drive.google.com/file/d/1bkcI6R-PQP3Jx8wpMgL9K6vYw9GlcHkz/view?usp=sharing)
-
-[ISATE 2024 - Roundtable Submission Template](https://docs.google.com/document/d/1bMbTIENnNH0ES748LVi3VX7_HDmrzffw/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
-[ISATE 2024 Learning Journey Submission Template](https://docs.google.com/document/d/1xyF69CMmdOt5XWwweUbW_N3Fvv7Zw3YX/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
+* ISATE 2024 - Abstract Submission Template
+* ISATE 2024 - Full Paper Submission Template
+* ISATE 2024 - Approval Certificate
+* ISATE 2024 - Roundtable Submission Template
+* ISATE 2024 - Learning Journey Submission Template
 
 **Presenting Your Full Paper**
 
@@ -71,18 +66,18 @@ Authors are kindly requested to adhere strictly to the deadlines below, as any r
 
 | Item | Date |
 | -------- | -------- |
-| Call for Paper     | January 15, 2024     |
+| Call for Paper     | January 17, 2024     |
 | Abstract Submission Due | March 15, 2024 |
 | Abstract Review Outcome | April 15, 2024 |
 | Draft Full Paper Submission Due | May 15, 2024 |
+| Rountable and Learning Journey Submission | May 15, 2024 |
+| Rountable and Learning Journey Review Outcome | June 1, 2024 |
 | Draft Full Paper Review Outcome | July 15, 2024 |
 | Final Full Paper Submission Due | August 15, 2024 |
-| Early Bird Registration | From July 15, 2024 to August 14, 2024 |
-| Normal Registration | From August 15, 2024 to September 15, 2024 |
+
 
 Each institution is encouraged to set its own internal deadlines for reviewing their own papers.
 
-The deadline for submission of proposal for roundtable is also March 15, 2024; and notice of acceptance will be made on April 15, 2024.
 
 
 **Enquiries**

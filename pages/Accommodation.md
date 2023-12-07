@@ -2,6 +2,7 @@
 title: Accommodation
 permalink: /accommodation/
 description: ""
+variant: markdown
 ---
 We have 3 recommended hotels below:
 
@@ -14,6 +15,14 @@ Transportation to SP
 
 [More information on Park Avenue Rochester](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/)
 
+**lyf one-north Singapore (4 stars)**
+
+![](/images/lyf.jpg)
+
+Transportation to SP
+* Take the MRT from Buona Vista Station to Dover Station (Green Line)
+
+[More information on lyf One-North Singapore](https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore)
 
 **Genting Hotel Jurong**
 
