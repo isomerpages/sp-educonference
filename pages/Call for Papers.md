@@ -77,7 +77,6 @@ Authors are kindly requested to adhere strictly to the deadlines below, as any r
 
 Each institution is encouraged to set its own internal deadlines for reviewing their own papers.
 
-The deadline for submission of proposal for roundtable is also March 15, 2024; and notice of acceptance will be made on April 15, 2024.
 
 
 **Enquiries**
