@@ -2,6 +2,7 @@
 title: Accommodation
 permalink: /accommodation/
 description: ""
+variant: markdown
 ---
 We have 3 recommended hotels below:
 
@@ -13,6 +14,9 @@ Transportation to SP
 * Take the MRT from Buona Vista Station to Dover Station (Green Line)
 
 [More information on Park Avenue Rochester](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/)
+
+
+
 
 
 **Genting Hotel Jurong**
