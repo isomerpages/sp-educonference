@@ -10,6 +10,8 @@ The full programme can be downloaded below:
 
 [Draft ISATE 2024 Programme (Sep 6 2023)](/files/draft%20isate%202024%20(sep%206%202023).pdf)
 
+Biographies of Keynote Speakers will be made available at a later date.
+
 **Day 1: 24 Sep 2024 (Tuesday, Morning)**
 - Opening and Welcome Address by PCEO, Singapore Polytechnic
 - Speech by Guest of Honour
