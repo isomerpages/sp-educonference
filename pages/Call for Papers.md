@@ -46,7 +46,7 @@ Links will be made available soon.
 * ISATE 2024 - Full Paper Submission Template
 * ISATE 2024 - Approval Certificate
 * ISATE 2024 - Roundtable Submission Template
-* ISATE 2024 Learning Journey Submission Template
+* ISATE 2024 - Learning Journey Submission Template
 
 **Presenting Your Full Paper**
 
