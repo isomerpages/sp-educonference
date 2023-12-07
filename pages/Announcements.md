@@ -2,11 +2,8 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
-Please bookmark this page and check back regularly for announcements.
-
-New announcements will be added as necessary –  the latest one shall always push down the earlier one, so as to always remain on top
-
 **Call for Papers**
 
-Release Date:
+Call for Papers will be released on 17 Jan 2024.
