@@ -37,11 +37,11 @@ Biographies of Keynote Speakers will be made available at a later date.
 - ISATE 2024 Banquet
 
 **Day 3: 26 Sep 2024 (Thursday, Morning)**
-- ISATE 2024 Paper Presentation
+- ISATE 2024 Paper Presentation Session 6
 - ISATE 2024 Roundtables
 
 **Day 3: 26 Sep 2024 (Thursday, Afternoon)**
-- ISATE 2024 Paper Presentation
+- ISATE 2024 Paper Presentation Session 7 (last)
 - Presentation of ISATE 2025
 - Closing Ceremony
 
