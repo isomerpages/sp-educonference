@@ -5,9 +5,16 @@ description: ""
 variant: markdown
 ---
 # Call for Papers (will be released on 17 Jan 2024)
+latest update: 8 Dec 2023
 
+The Call for Papers for ISATE 2024 can be downloaded in the link below.
 
-**Evolving Teaching and Learning in the Age of Artificial Intelligence and Sustainability**
+[Call for Papers - (v3 December 8, 2023)](/files/Call_for_Papers__v3_December_8__2023_.pdf)
+
+**The Main Theme for ISATE 2024 is:** 
+
+***Evolving Teaching and Learning in the Age of Artificial Intelligence and Sustainability***
+
 
 There are 4 subthemes under the main theme, and some topics of interests (not exhaustive) are as shown below:
 
@@ -16,25 +23,25 @@ There are 4 subthemes under the main theme, and some topics of interests (not ex
 
 **Submission Categories**
 
-*Paper Presentation*
+***Paper Presentations***
 
-Only paper presentations will be used for ISATE 2024. There will be NO poster presentations. In addition, only academic papers will be accepted. Authors who wished to present scientific works are respectfully requested to share their works elsewhere.
+Only paper presentations will be used for ISATE 2024. There will be NO poster presentations. In addition, only academic papers will be accepted. Authors who wished to present scientific works are respectfully requested to share their works elsewhere. The maximum length for a paper is 6 pages, including references. The paper must be submitted using the prescribe template. In addition, the main author must also submit an Approval Certificate to address the necessary copyright requirements. 
 
-The maximum length for a paper is 6 pages, including references. The paper submission will undergo the following process:
-
-1. Submission of an abstract using the prescribed template, and between 300-400 words; for review 
-2. Submission of a full paper using the prescribed template; for review
-3. Submission of the final version of full paper duly revised taking reviewer suggestions into account.
-
-In addition, the main author must also submit an Approval Certificate to address the necessary copyright requirements. 
-
-Paper presentations will follow a traditional conference format of multiple, parallel tracks with short presentations (15 minutes, using PowerPoint) followed by Q&A (5 minutes). There is no template for PowerPoint presentations
-
-*Roundtable Discussion*
+***Roundtables***
 
 These are informal discussions of a topic proposed by a roundtable facilitator. The goal of a roundtable discussion can be, for example, to generate ideas for a particular problem facing engineering educators or to collaborate on a new advancement within ISATE. Roundtables in ISATE are allocated 90 minutes.
 
-Proposal for roundtable should use the prescribed template, with an Activity Description that describes a topic and outline of the session, with discussion questions. Resources needed for the roundtable must be specified.
+Proposal for roundtable should use the prescribed template, with an Activity Description that describes a topic and outline of the session, with discussion questions. Resources needed for the roundtable must be specified. More details can be found in the template.
+
+***Learning Journeys (within Singapore only)***
+
+Learning journeys refers to a series of planned learning experiences that takes place over time and includes various learning aspects and experiences using multiple techniques and platform. Learning journeys are scheduled on Day 4 of ISATE, and participation is entirely OPTIONAL. Proposal for a learning journey should use the prescribed template, with details requested duly completed.
+
+
+***Workshops (within Singapore only)***
+
+Hands-on session where participants undertake some activities to gain deeper understanding how the relevant theories are connected with practice. Workshops are scheduled on Day 4 of ISATE, and participation is entirely OPTIONAL. A participation can choose to attend either a Learning Journey or a Workshop. Proposal for a workshop should use the prescribed template, with details requested duly completed.
+
 
 
 
