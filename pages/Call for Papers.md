@@ -55,6 +55,20 @@ Links will be made available soon.
 * ISATE 2024 - Roundtable Submission Template
 * ISATE 2024 - Learning Journey Submission Template
 
+**Review of Abstracts and Full Papers**
+
+Authors interested in presenting at ISATE 2024 will be invited to submit his/her abstract proposal at the online symposium platform, using the prescribed abstract template. The link for submission will be provided separately in the website.
+
+For ISATE 2024, only INTERNAL REVIEW will be used, i.e. there will be no peer review. For institutions from Singapore and Finland, the review will be carried within one’s own institution using the institution’s own internal process with the help of the institution’s TPC representative. For institutions from Japan, NIT TPC will coordinate the internal review process. Likewise VTC will coordinate the internal review of all submissions from Hong Kong with the help of the TPC representative for Hong Kong.
+
+Likewise for the full paper submission, INTERNAL REVIEW will be used, and will be handled in the same manner as that for the abstract submission.
+
+(In addition, for the case of polytechnics in Singapore, interested author is encouraged to first seek the approval from one’s own institution before submitting the abstract).
+
+
+
+
+
 **Presenting Your Full Paper**
 
 We regret to inform that, to promote interactions among participants, online presentation is not available for ISATE 2024. At least one author must register for the symposium before the deadline, and attend the symposium in person to present the paper; or the paper will be withdrawn from the program.
