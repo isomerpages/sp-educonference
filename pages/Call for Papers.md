@@ -49,11 +49,13 @@ Hands-on session where participants undertake some activities to gain deeper und
 
 Links will be made available soon.
 
-* ISATE 2024 - Abstract Submission Template
-* ISATE 2024 - Full Paper Submission Template
-* ISATE 2024 - Approval Certificate
-* ISATE 2024 - Roundtable Submission Template
-* ISATE 2024 - Learning Journey Submission Template
+* [ISATE2024 Abstract Submission Template](https://docs.google.com/document/d/1Ew8tzPYxZvbAc6V2nn5M0V3C8qnV2DOC/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+* [ISATE2024 Full Paper Submission Template](https://docs.google.com/document/d/132E7HsI1hnJuwCv85_NBuqgwQetwWS1H/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+* [ISATE2024 Approval Certificate](https://drive.google.com/file/d/1Rkyn9zbRcx2qCFe3FvP366jUu0jy-E9s/view?usp=sharing)
+* [ISATE2024 Rountable Submission Template](https://docs.google.com/document/d/1tKzKvGP1EEyqaabS9GVrGhLSkwW-yVi9/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+* [ISATE2024 Learning Journey Submission Template](https://docs.google.com/document/d/1Ymr-kw4Uq1RTq34AH5OLyjLry1bS_7Lm/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+* [ISATE2024 Workshop Template](https://docs.google.com/document/d/1rWNmkOCykHlaAJiUx9GEB4Ai8_hgzIb7/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
+
 
 **Review of Abstracts and Full Papers**
 
