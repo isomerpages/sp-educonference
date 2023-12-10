@@ -65,6 +65,34 @@ Likewise for the full paper submission, INTERNAL REVIEW will be used, and will b
 
 (In addition, for the case of polytechnics in Singapore, interested author is encouraged to first seek the approval from one’s own institution before submitting the abstract).
 
+**Important Dates and Deadlines**
+
+Authors are kindly requested to adhere strictly to the abstract and final full paper deadlines below, as any request for extension will not be accepted. As ISATE 2024 adopts the internal review process, items marked with asterisk (*) are meant as guidelines only.
+
+For papers, roundtables, workshops and learning journeys:
+
+| Item | Date |
+| -------- | -------- |
+| Call for Paper     | January 17, 2024     |
+| Abstract Submission Due | March 15, 2024 |
+| Abstract Review Outcome | April 15, 2024 |
+| Draft Full Paper Submission Due* | May 15, 2024 |
+| Draft Full Paper Review Outcome* | July 15, 2024 |
+| Final Full Paper Submission Due | August 15, 2024 |
+| Roundtable, Workshop & Learning Journey Submission | May 15, 2024 |
+| Roundtable, Workshop & Learning Journey Review Outcome | June 1, 2024 |
+
+For registration
+
+| Item | Date |
+| -------- | -------- |
+| Early Bird Registration     | From June 15, 2024 to August 16, 2024     |
+| Normal Registration     | From August 17, 2024 to September 15, 2024     |
+
+
+
+
+Each institution is encouraged to set its own internal deadlines for reviewing their own papers.
 
 
 
@@ -75,29 +103,6 @@ We regret to inform that, to promote interactions among participants, online pre
 
 We also request that, any author, who is not able to present of the scheduled presentation slot, to inform us in writing (email) via his/her institution’s TPC representative.  This list will be made available at the symposium website at a later date.
 
-
-**Important Dates and Deadlines
-**
-
-Authors are kindly requested to adhere strictly to the deadlines below, as any request for extension will not be entertained. 
-
-**The dates below are tentative and subject to confirmation.**
-
-
-
-| Item | Date |
-| -------- | -------- |
-| Call for Paper     | January 17, 2024     |
-| Abstract Submission Due | March 15, 2024 |
-| Abstract Review Outcome | April 15, 2024 |
-| Draft Full Paper Submission Due | May 15, 2024 |
-| Rountable and Learning Journey Submission | May 15, 2024 |
-| Rountable and Learning Journey Review Outcome | June 1, 2024 |
-| Draft Full Paper Review Outcome | July 15, 2024 |
-| Final Full Paper Submission Due | August 15, 2024 |
-
-
-Each institution is encouraged to set its own internal deadlines for reviewing their own papers.
 
 
 
