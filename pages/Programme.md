@@ -27,7 +27,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 **Day 2: 25 Sep 2024 (Wednesday, Morning)**
 - Keynote Address by (to be confirmed)
 - Institutional Speakers: Singapore, Japan, Hong Kong, Finland
-- ISATE 2024 Paper Presentation
+- ISATE 2024 Paper Presentation Session 3
 
 **Day 2: 25 Sep 2024 (Wednesday, Afternoon)**
 - ISATE 2024 Paper Presentation
