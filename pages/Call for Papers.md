@@ -47,27 +47,7 @@ The respective template can be found in the AUTHORS & FACILITATORS tab.
 
 
 
-**Downloadable Templates**
 
-Links will be made available soon.
-
-* [ISATE2024 Abstract Submission Template](https://docs.google.com/document/d/1Ew8tzPYxZvbAc6V2nn5M0V3C8qnV2DOC/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-* [ISATE2024 Full Paper Submission Template](https://docs.google.com/document/d/132E7HsI1hnJuwCv85_NBuqgwQetwWS1H/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-* [ISATE2024 Approval Certificate](https://drive.google.com/file/d/1Rkyn9zbRcx2qCFe3FvP366jUu0jy-E9s/view?usp=sharing)
-* [ISATE2024 Rountable Submission Template](https://docs.google.com/document/d/1tKzKvGP1EEyqaabS9GVrGhLSkwW-yVi9/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-* [ISATE2024 Learning Journey Submission Template](https://docs.google.com/document/d/1Ymr-kw4Uq1RTq34AH5OLyjLry1bS_7Lm/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-* [ISATE2024 Workshop Template](https://docs.google.com/document/d/1rWNmkOCykHlaAJiUx9GEB4Ai8_hgzIb7/edit?usp=sharing&ouid=115597147790999350487&rtpof=true&sd=true)
-
-
-**Review of Abstracts and Full Papers**
-
-Authors interested in presenting at ISATE 2024 will be invited to submit his/her abstract proposal at the online symposium platform, using the prescribed abstract template. The link for submission will be provided separately in the website.
-
-For ISATE 2024, only INTERNAL REVIEW will be used, i.e. there will be no peer review. For institutions from Singapore and Finland, the review will be carried within one’s own institution using the institution’s own internal process with the help of the institution’s TPC representative. For institutions from Japan, NIT TPC will coordinate the internal review process. Likewise VTC will coordinate the internal review of all submissions from Hong Kong with the help of the TPC representative for Hong Kong.
-
-Likewise for the full paper submission, INTERNAL REVIEW will be used, and will be handled in the same manner as that for the abstract submission.
-
-(In addition, for the case of polytechnics in Singapore, interested author is encouraged to first seek the approval from one’s own institution before submitting the abstract).
 
 **Important Dates and Deadlines**
 
@@ -79,7 +59,7 @@ For papers, roundtables, workshops and learning journeys:
 | -------- | -------- |
 | Call for Paper     | January 17, 2024     |
 | Abstract Submission Due | March 15, 2024 |
-| Abstract Review Outcome | April 15, 2024 |
+| Abstract Review Outcome* | April 15, 2024 |
 | Draft Full Paper Submission Due* | May 15, 2024 |
 | Draft Full Paper Review Outcome* | July 15, 2024 |
 | Final Full Paper Submission Due | August 15, 2024 |
@@ -94,19 +74,6 @@ For registration
 | Normal Registration     | From August 17, 2024 to September 15, 2024     |
 
 Each institution is encouraged to set its own internal deadlines for reviewing their own papers.
-
-
-**Presenting Your Full Paper**
-
-Paper presentations will follow a traditional conference format of multiple, parallel tracks with short presentations (15 minutes, using PowerPoint) followed by Q&A (5 minutes). There is no template for PowerPoint presentations.
-
-We regret to inform that, to promote interactions among participants, online presentation is not available for ISATE 2024. At least one author must register for the symposium before the deadline and attend the symposium in person to present the paper; or the paper will be withdrawn from the program.
-
-Presenting author is requested to check through the program schedule when informed of its availability. Any author, who is not able to present of the scheduled presentation slot, is to inform the ISATE 2024 Secretariat in writing (email) via his/her institution’s TPC representative. 
-
-**IMPORTANT NOTICE**
-
-Due to IT security policy in SP, there is no PC station or laptop in our media rooms for presenters to plug in any USB devices containing their presentation slides. As such we require all presenters to send, via the respective TPC representative, the final version of the PowerPoints slides for his/her presentation, before **September 20, 2024** (Friday).
 
 
 
