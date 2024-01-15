@@ -32,7 +32,7 @@ Only paper presentations will be used for ISATE 2024. There will be NO poster pr
 
 These are informal discussions of a topic proposed by a roundtable facilitator. The goal of a roundtable discussion can be, for example, to generate ideas for a particular problem facing engineering educators or to collaborate on a new advancement within ISATE. Roundtables in ISATE are allocated 90 minutes.
 
-Proposal for roundtable should use the prescribed template, with an Activity Description that describes a topic and outline of the session, with discussion questions. Resources needed for the roundtable must be specified. More details can be found in the template.
+Proposal for roundtable should follow the prescribed template and submit using the e-form, with an Activity Description that describes a topic and outline of the session, with discussion questions. Resources needed for the roundtable must be specified. More details can be found in the template.
 
 ***Learning Journeys (within Singapore only)***
 
