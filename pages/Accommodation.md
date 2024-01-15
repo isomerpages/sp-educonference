@@ -24,7 +24,7 @@ Transportation to SP
 
 [More information on lyf One-North Singapore](https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore)
 
-**Genting Hotel Jurong**
+**Genting Hotel Jurong (4 stars)**
 
 ![](/images/genting-hotel-jurong.jpg)
 
@@ -34,7 +34,7 @@ Transportation to SP
 [More information on Genting Hotel Jurong](https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7612688-Reviews-Genting_Hotel_Jurong-Singapore.html)
 
 
-**Momentus Hotel Alexandra**
+**Momentus Hotel Alexandra (4 stars)**
 
 ![](/images/momentus-hotel.jpg)
 
