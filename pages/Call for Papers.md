@@ -36,7 +36,7 @@ Proposal for roundtable should follow the prescribed template and submit using t
 
 ***Learning Journeys (within Singapore only)***
 
-Learning journeys refers to a series of planned learning experiences that takes place over time and includes various learning aspects and experiences using multiple techniques and platform. Learning journeys are scheduled on Day 4 of ISATE, and participation is entirely OPTIONAL. Proposal for a learning journey should use the prescribed template, with details requested duly completed.
+Learning journeys refers to a series of planned learning experiences that takes place over time and includes various learning aspects and experiences using multiple techniques and platform. Learning journeys are scheduled on Day 4 of ISATE, and participation is entirely OPTIONAL. Proposal for a learning journey should follow the prescribed template and submit using the e-form, with details requested duly completed.
 
 
 ***Workshops (within Singapore only)***
