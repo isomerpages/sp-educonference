@@ -4,12 +4,13 @@ permalink: /callforpapers/
 description: ""
 variant: markdown
 ---
-# Call for Papers (will be released on 17 Jan 2024)
-latest update: 8 Dec 2023
+# Call for Papers
+
+latest update: 15 Jan 2024
 
 The Call for Papers for ISATE 2024 can be downloaded in the link below.
 
-[Call for Papers - (v3 December 8, 2023)](/files/Call_for_Papers__v3_December_8__2023_.pdf)
+[Call for Papers - (v4, 15 Jan 2024).pdf](/files/Call_for_Papers_v4___15_Jan_2024.pdf)
 
 **The Main Theme for ISATE 2024 is:** 
 
