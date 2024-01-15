@@ -22,7 +22,8 @@ Transportation to SP
 Transportation to SP
 * Take the MRT from Buona Vista Station to Dover Station (Green Line)
 
-[More information on lyf One-North Singapore](https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore)
+<a target="_blank" href="https://www.discoverasr.com/en/lyf/singapore/lyf-one-north-singapore">More Information on One-North Singapore</a>
+
 
 **Genting Hotel Jurong (4 stars)**
 
@@ -31,7 +32,7 @@ Transportation to SP
 Transportation to SP
 * Take the MRT from Jurong East Station to Dover Station (Green Line)
 
-[More information on Genting Hotel Jurong](https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7612688-Reviews-Genting_Hotel_Jurong-Singapore.html)
+<a target="_blank" href="https://www.tripadvisor.com.sg/Hotel_Review-g294265-d7612688-Reviews-Genting_Hotel_Jurong-Singapore.html">More Information on Genting Hotel Jurong</a>
 
 
 **Momentus Hotel Alexandra (4 stars)**
@@ -41,6 +42,4 @@ Transportation to SP
 Transportation to SP
 * Take the MRT from Queenstown Station to Dover Station (Green Line)
 
-[More information on Momentus Hotel Alexandra](https://www.momentushotels.com/?utm_source=local-directories&amp;utm_medium=organic&amp;utm_campaign=travelclick-localconnect)
-
-
+<a target="_blank" href="https://www.momentushotels.com/hotel-alexandra-singapore">More Information on Momentus Hotel Alexandra</a>
