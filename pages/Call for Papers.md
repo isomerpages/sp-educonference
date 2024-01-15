@@ -41,7 +41,7 @@ Learning journeys refers to a series of planned learning experiences that takes 
 
 ***Workshops (within Singapore only)***
 
-Hands-on session where participants undertake some activities to gain deeper understanding how the relevant theories are connected with practice. Workshops are scheduled on Day 4 of ISATE, and participation is entirely OPTIONAL. A participation can choose to attend either a Learning Journey or a Workshop. Proposal for a workshop should use the prescribed template, with details requested duly completed.
+Hands-on session where participants undertake some activities to gain deeper understanding how the relevant theories are connected with practice. Workshops are scheduled on Day 4 of ISATE, and participation is entirely OPTIONAL. A participation can choose to attend either a Learning Journey or a Workshop. Proposal for a workshop should follow the prescribed template and submit using the e-form, with details requested duly completed.
 
 
 
