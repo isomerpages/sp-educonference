@@ -45,7 +45,7 @@ Hands-on session where participants undertake some activities to gain deeper und
 
 The respective template can be found in the AUTHORS & FACILITATORS tab.
 
-Link to AUTHORS & FACILITATORS[Link to AUTHORS & FACILITATORS](/authorsandfacilitators)
+[Link to AUTHORS & FACILITATORS](/authorsandfacilitators)
 
 
 **Important Dates and Deadlines**
