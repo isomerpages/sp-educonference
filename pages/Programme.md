@@ -8,7 +8,8 @@ variant: markdown
 
 The full programme can be downloaded below:
 
-[Draft ISATE 2024 Programme (Sep 6 2023)](/files/draft%20isate%202024%20(sep%206%202023).pdf)
+![](/images/ISATE_2024___Program_Overview__based_on_Jan_16_deck_.jpg)
+
 
 Biographies of Keynote Speakers will be made available at a later date.
 
