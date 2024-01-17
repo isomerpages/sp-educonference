@@ -6,7 +6,7 @@ variant: markdown
 ---
 # ISATE 2024 Programme (Draft)
 
-The full programme can be downloaded below:
+The full programme can be found below:
 
 ![](/images/ISATE_2024___Program_Overview__based_on_Jan_16_deck_.jpg)
 
