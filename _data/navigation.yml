@@ -1,0 +1,20 @@
+logo: /images/isate2024-logo.png
+links:
+  - title: Home
+    url: /
+  - title: Announcements
+    url: /announcements
+  - title: Call for Papers
+    url: /callforpapers
+  - title: AUTHORS & FACILITATORS
+    url: /authorsandfacilitators
+  - title: Programme
+    url: /programme
+  - title: Venue
+    url: /venue
+  - title: Registration
+    url: /registration
+  - title: Accommodation
+    url: /accommodation
+  - title: Contact Us
+    url: /contactus
