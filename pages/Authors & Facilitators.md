@@ -11,6 +11,10 @@ description: ""
 Email: <a href="mailto:ISATE_2024_Secretariat@sp.edu.sg">ISATE_2024_Secretariat@sp.edu.sg</a>
 
 
+<p><strong>Abstract Submissions for authors from Institutions INSIDE Japan but NOT members of ISATE</strong></p>
+
+Email: <a href="mailto:renkei@kosen-k.go.jp">renkei@kosen-k.go.jp</a>
+
 
 
 
