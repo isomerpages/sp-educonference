@@ -13,7 +13,13 @@ Email: <a href="mailto:ISATE_2024_Secretariat@sp.edu.sg">ISATE_2024_Secretariat@
 
 <p><strong>Abstract Submissions for authors from Institutions INSIDE Japan but NOT members of ISATE</strong></p>
 
-Email: <a href="mailto:renkei@kosen-k.go.jp">renkei@kosen-k.go.jp</a>
+   
+
+Please submit your abstract via the webpage below:
+
+[https://mc.manuscriptcentral.com/isate](https://mc.manuscriptcentral.com/isate)
+
+For any enquiries, please contact [isate-mb@toyota.kosen-ac.jp](mailto:isate-mb@toyota.kosen-ac.jp), with a copy (cc) to [renkei@kosen-k.go.jp](mailto:renkei@kosen-k.go.jp)
 
 
 
