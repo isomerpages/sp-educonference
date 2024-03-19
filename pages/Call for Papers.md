@@ -14,9 +14,8 @@ The Call for Papers for ISATE 2024 can be downloaded in the link below.
 
 **Abstract Submission Due date has been extended to March 31, 2024.**
 
-**We have also updated the submission links for your abstract submission.**
-
-[AUTHORS AND FACILITATORS](/authorsandfacilitators/)
+**We have also updated the submission links for your abstract submission:**
+ [AUTHORS AND FACILITATORS](/authorsandfacilitators/)
 
 **The Main Theme for ISATE 2024 is:** 
 
