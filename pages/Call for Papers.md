@@ -6,11 +6,16 @@ variant: markdown
 ---
 # Call for Papers
 
-latest update: 15 Jan 2024
+Call for Papers has been released.
 
 The Call for Papers for ISATE 2024 can be downloaded in the link below.
 
-[Call for Papers - (v4, 15 Jan 2024).pdf](/files/Call_for_Papers_v4___15_Jan_2024.pdf)
+[Call for Papers v5 - updated 19 March 2024](/files/Call_for_Papers_v5___updated_19_March_2024_FINAL.pdf)
+
+**Abstract Submission Due date has been extended to March 31, 2024.**
+
+**We have also updated the submission links for your abstract submission:**
+ [AUTHORS AND FACILITATORS](/authorsandfacilitators/)
 
 **The Main Theme for ISATE 2024 is:** 
 
@@ -57,7 +62,7 @@ For papers, roundtables, workshops and learning journeys:
 | Item | Date |
 | -------- | -------- |
 | Call for Paper     | January 17, 2024     |
-| Abstract Submission Due* | March 15, 2024 |
+| Abstract Submission Due* | March 31, 2024 |
 | Abstract Review Outcome | April 15, 2024 |
 | Draft Full Paper Submission Due* | May 15, 2024 |
 | Draft Full Paper Review Outcome* | July 15, 2024 |
