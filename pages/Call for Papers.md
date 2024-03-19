@@ -63,7 +63,7 @@ For papers, roundtables, workshops and learning journeys:
 | Item | Date |
 | -------- | -------- |
 | Call for Paper     | January 17, 2024     |
-| Abstract Submission Due* | March 15, 2024 |
+| Abstract Submission Due* | March 31, 2024 |
 | Abstract Review Outcome | April 15, 2024 |
 | Draft Full Paper Submission Due* | May 15, 2024 |
 | Draft Full Paper Review Outcome* | July 15, 2024 |
