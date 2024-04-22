@@ -12,6 +12,7 @@ Submission of abstracts is now closed. Authors will have been informed of the ou
 
 <a href="mailto:ISATE_2024_Secretariat@sp.edu.sg">ISATE_2024_Secretariat@sp.edu.sg</a>
 
+<br>
 
 <hr>
 
