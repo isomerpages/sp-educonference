@@ -11,9 +11,13 @@ description: ""
 <details class="isomer-details">
 <summary>Session 1, Track 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Paper 1 (Title)</p>
+<p>Paper 1 (<u>Title</u>)</p>
+<p>Abstract</p>
+<p></p>
 <p>Paper 2 (Title)</p>
+<p></p>
 <p>Paper 3 (Title)</p>
+<p></p>
 <p>Paper 4 (Title</p>
 </div>
 </details>
