@@ -18,8 +18,8 @@ Biographies of Keynote Speakers will be made available at a later date.
 - Speech by Guest of Honour
 - Speech by President, National Institute of Technology Japan
 - Keynote Address by Dr. Ruth Graham
-- Keynote Address by Dr. Ong Yew Soon
 - Keynote Address by Dr. Kristina Edstrom
+- Keynote Address by Dr. Ong Yew Soon
 
 **ISATE Day 1: 24 Sep 2024 (Tuesday, Afternoon)**
 - ISATE 2024 Paper Presentation Session 1 and Session 2
