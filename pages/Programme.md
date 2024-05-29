@@ -28,7 +28,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Morning)**
 - Keynote Address by A/Prof Eric Chua
 - Institutional Speakers: Singapore, Japan, Hong Kong, Finland
-- ISATE 2024 Paper Presentation Session 3
+- Generative AI Exhibition
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Afternoon)**
 - ISATE 2024 Paper Presentation Session 4 and Session 5
