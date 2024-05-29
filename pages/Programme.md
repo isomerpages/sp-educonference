@@ -76,7 +76,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ISATE 2024 Paper Presentation Session 5</p>
+	<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-5/">Session 5</a></p>
 </li>
 <li>
 <p>ISATE 2024 Roundtables (Click here for more details on the Roundtables)</p>
@@ -86,7 +86,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ISATE 2024 Paper Presentation Session 6 (last)</p>
+<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-6/">Session 6 (last)</a></p>
 </li>
 <li>
 <p>Presentation of ISATE 2025</p>
