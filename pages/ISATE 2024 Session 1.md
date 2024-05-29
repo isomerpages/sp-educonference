@@ -12,7 +12,6 @@ description: ""
 <summary>Session 1, Track 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><u>Paper 1 (Title)</u></h4>
-<blockquote>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
 ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
 dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
@@ -41,7 +40,6 @@ nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante
 arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing.
 Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum
 volutpat pretium libero. Cras id dui. Aenean ut</p>
-</blockquote>
 <p></p>
 <h4><u>Paper 2 (Title)</u></h4>
 <blockquote>
