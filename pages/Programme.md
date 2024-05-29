@@ -26,7 +26,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 - ISATE OC and TPC Meeting (for Committee Members only)
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Morning)**
-- Keynote Address by (to be confirmed)
+- Keynote Address by A/Prof Eric Chua
 - Institutional Speakers: Singapore, Japan, Hong Kong, Finland
 - ISATE 2024 Paper Presentation Session 3
 
