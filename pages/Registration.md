@@ -19,7 +19,7 @@ Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all*
 
 At the Registration page, you are required to pre-select a Roundtable (on Sep 26, 2024) and a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration.
 
-For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank" href="/isate-2024-roundtables-learning-journeys-and-workshops/">Click here</a> (Alternatively, you can download the PDF file below).
+For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> (Alternatively, you can download the PDF file below).
 
 Please be reminded that at least one author must be registered for the event.
 
