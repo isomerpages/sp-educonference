@@ -31,7 +31,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 - Generative AI Exhibition
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Afternoon)**
-- ISATE 2024 Paper Presentation Session 4 and Session 5
+- ISATE 2024 Paper Presentation Session 3 and Session 4
 - ISATE 2024 Council Meeting
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Evening)**
