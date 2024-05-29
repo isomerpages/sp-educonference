@@ -6,9 +6,9 @@ variant: markdown
 ---
 <h1>ISATE 2024 Programme (Draft)</h1>
 <p>The full programme can be found below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISATE_2024___Program_Overview__based_on_Jan_16_deck_.jpg">
-</div>
+
+![](/images/Updated_ISATE_Overall_Program_for_Web_Site_Use.jpg)
+
 <p>Biographies of Keynote Speakers will be made available at a later date.</p>
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Morning)</strong>
 </p>
