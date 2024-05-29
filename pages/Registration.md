@@ -15,7 +15,6 @@ Normal:
 Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** ISATE events (including Banquet, 2 tea breaks &amp; lunches for Days 1 to 3, event materials, selected bus transport). 
 
 ## Registration Link and payment methods will be made available soon.
-## 
 
 At the Registration page, you are required to pre-select a Roundtable (on Sep 26, 2024) and a Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration.
 
