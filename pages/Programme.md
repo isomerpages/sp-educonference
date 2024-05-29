@@ -32,7 +32,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Afternoon)**
 - ISATE 2024 Paper Presentation Session 3 and Session 4
-- ISATE 2024 Council Meeting
+- ISATE 2024 Council Meeting (for Council Members only)
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Evening)**
 - ISATE 2024 Banquet
