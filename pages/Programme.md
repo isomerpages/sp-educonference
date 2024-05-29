@@ -59,7 +59,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ISATE 2024 Paper Presentation Session 3 and Session 4</p>
+	<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-3/">Session 3</a> and <a target="_blank" href="/isate-2024-session-4/">Session 4</a></p>
 </li>
 <li>
 <p>ISATE 2024 Council Meeting (for Council Members only)</p>
