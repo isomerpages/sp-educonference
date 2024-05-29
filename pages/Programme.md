@@ -23,7 +23,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 
 **ISATE Day 1: 24 Sep 2024 (Tuesday, Afternoon)**
 - ISATE 2024 Paper Presentation Session 1 and Session 2
-- ISATE OC and TPC Meeting
+- ISATE OC and TPC Meeting (for Committee Members only)
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Morning)**
 - Keynote Address by (to be confirmed)
