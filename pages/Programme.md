@@ -22,7 +22,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 - Keynote Address by Dr. Kristina Edstrom
 
 **ISATE Day 1: 24 Sep 2024 (Tuesday, Afternoon)**
-- ISATE 2024 Paper Presentation Sessions 1 and 2
+- ISATE 2024 Paper Presentation Session 1 and Session 2
 - ISATE OC and TPC Meeting
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Morning)**
@@ -31,7 +31,7 @@ Biographies of Keynote Speakers will be made available at a later date.
 - ISATE 2024 Paper Presentation Session 3
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Afternoon)**
-- ISATE 2024 Paper Presentation Sessions 4 and 5
+- ISATE 2024 Paper Presentation Session 4 and Session 5
 - ISATE 2024 Council Meeting
 
 **ISATE Day 2: 25 Sep 2024 (Wednesday, Evening)**
