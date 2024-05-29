@@ -40,7 +40,8 @@ Biographies of Keynote Speakers will be made available at a later date.
 <a name="26Sep2024"></a>
 **ISATE Day 3: 26 Sep 2024 (Thursday, Morning)**
 - ISATE 2024 Paper Presentation Session 6
-- ISATE 2024 Roundtables
+- ISATE 2024 Roundtables (Click here for more details on the Roundtables)
+
 
 **ISATE Day 3: 26 Sep 2024 (Thursday, Afternoon)**
 - ISATE 2024 Paper Presentation Session 7 (last)
@@ -48,4 +49,4 @@ Biographies of Keynote Speakers will be made available at a later date.
 - Closing Ceremony
 
 **ISATE Day 4: 27 Sep 2024 (Friday, Morning)**
-- Optional Learning Journeys and/or Workshops
+- Optional Learning Journeys and/or Workshops (Click here for more details on the Learning Journeys and Workshops)
