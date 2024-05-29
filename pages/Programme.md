@@ -79,7 +79,7 @@ variant: markdown
 	<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-5/">Session 5</a></p>
 </li>
 <li>
-<p>ISATE 2024 Roundtables (<a target="_blank" href="/isate-2024-roundtables-learning-journeys-and-workshops/">Click here</a> for more details on the Roundtables)</p>
+<p>ISATE 2024 Roundtables (<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> for more details on the Roundtables)</p>
 </li>
 </ul>
 <p><strong>ISATE Day 3: 26 Sep 2024 (Thursday, Afternoon)</strong>
@@ -99,7 +99,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Optional Learning Journeys and/or Workshops (<a target="_blank" href="/isate-2024-roundtables-learning-journeys-and-workshops/">Click here</a> for more details on the Learning Journeys and Workshops)</p>
+<p>Optional Learning Journeys and/or Workshops (<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> for more details on the Learning Journeys and Workshops)</p>
 </li>
 </ul>
 <p></p>
