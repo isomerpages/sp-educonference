@@ -200,27 +200,54 @@ of all students within the learning community.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Learning Journey 1 (Title)</summary>
+<summary>LJ01 (Visit to Robotics Research &amp; Innovation Centre (RRIC) &amp;
+Synergy.Lab, Ngee Ann Polytechnic (NP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>At RRIC, the participants will be introduced to robotic projects that
+collaborate with industries (NParks, SingHealth, Moovita). These robotic
+projects are to support industry needs and to optimize commercial operations.</p>
+<p>At Synergy.Lab, the participants will learn the integration of solar energy
+and Electric Vehicle charging infrastructure. The Synergy.lab serves as
+an integrated ‘control centre’ for the various smart mobility technologies
+on campus, incorporating advanced data analysis and simulation capabilities.
+The lab facilitates research to enhance the ecosystem’s efficiency by monitoring
+and analysing data such as solar power generation, as well as EV charging
+load and energy consumption.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 2 (Title)</summary>
+<summary>LJ02 (Visit to Gaia Sustainability Building @ NTUle, Nanyang Technological
+University (NTU))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>1. Tour of Nanyang Business School (NBS) and Net Zero emission building</p>
+<p>2. Sharing of NBS philosophy for the design of the Net Zero Emission Building</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 3 (Title)</summary>
+<summary>LJ03 (Sharing by Centre for Teaching, Learning and Technology (CTLT) and
+AI Singapore (AISG), National University of Singapore (NUS))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Part 1 – CTLT:</p>
+<p>• Major functions supported by CTLT (Professional Development, Instructional
+Technology)</p>
+<p>• NUS AI + TEL initiative</p>
+<p>Part 2 – AISG:</p>
+<p>Participants will get to deepen their knowledge and understanding of the
+latest AI methodologies, facilities, tools, and applications, from both
+the industry and government’s perspectives.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 4 (Title)</summary>
+<summary>LJ04 (Pedagogical Innovation at SP Energy &amp; Chemicals Training Centre
+(ECTC), Singapore Polytechnic (SP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The SP Energy &amp; Chemicals Training Centre is an integrated training
+hub comprising of a suite of chemical engineering laboratories, which houses
+key unit operations typically found in the Energy &amp; Chemicals sector.
+Participants will be able to learn how authentic hands-on training are
+crafted for students to apply knowledge into real practice in a simulated
+safe environment. Participants will also learn the various digital tools
+that are used to support the training.</p>
 </div>
 </details>
 <details class="isomer-details">
