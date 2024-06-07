@@ -8,8 +8,19 @@ description: ""
 <p>Choose ONE from the list below for the Registration</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Roundtable 1 (Title)</summary>
+<summary>RT01 (Visit to Robotics Research &amp; Innovation Centre (RRIC) &amp;
+Synergy.Lab)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>At RRIC, the participants will be introduced to robotic projects that
+collaborate with industries (NParks, SingHealth, Moovita). These robotic
+projects are to support industry needs and to optimize commercial operations.</p>
+<p>At Synergy.Lab, the participants will learn the integration of solar energy
+and Electric Vehicle charging infrastructure. The Synergy.lab serves as
+an integrated ‘control centre’ for the various smart mobility technologies
+on campus, incorporating advanced data analysis and simulation capabilities.
+The lab facilitates research to enhance the ecosystem’s efficiency by monitoring
+and analysing data such as solar power generation, as well as EV charging
+load and energy consumption.</p>
 <p></p>
 </div>
 </details>
