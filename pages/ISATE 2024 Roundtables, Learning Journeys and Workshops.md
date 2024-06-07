@@ -251,25 +251,60 @@ that are used to support the training.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 5 (Title)</summary>
+<summary>LJ05 (Visit to SP 5G &amp; AIoT Centre and Smart Classroom from School
+of Electrical &amp; Electronic Engineering (SEEE), Singapore Polytechnic
+(SP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><u>Part 1 – 5G &amp; AIoT:</u>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Learn interesting concepts through topics like
+5G Overview, Introduction to AIoT</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Get to know the top 5G &amp; AIoT uses cases
+and explore how features such as ultra-low latency, high speed connectivity,
+massive sensor data of 5G &amp; AIoT can enable key drivers such as real
+time cloud computing, intelligent control and AI that are transforming
+your industry</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Engaging discussions on how 5G &amp; AIoT together
+can benefit the company and workforce</p>
+<p><u>Part 2 –&nbsp;Smart Classroom:</u>
+<br>Explore the smart learning space at EEE - an educational ecosystem that
+integrates advanced technology to facilitate a dynamic, interactive, and
+personalized learning experience. It is characterized by its adaptability,
+responsiveness, and ability to cater to the individual needs of students.
+This learning environment fosters a culture of connectivity, creativity,
+and innovation, which not only enhances the learning process but also prepares
+students for the digital world, making education a truly transformative
+experience.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 6 (Title)</summary>
+<summary>LJ06 (Advanced Manufacturing Learning Journey (AMLJ) including Aerohub
+Visit, Singapore Polytechnic (SP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>1. Gain an insight into Singapore’s manufacturing industry landscape in
+terms of harnessing smart manufacturing technology</p>
+<p>2. Learn about how SP-AMLJ is bridging the skill gaps between Industry
+and IHL by fostering partnership with Industry</p>
+<p>3. Learn about how Aerohub facilities are used to support the Diploma
+in Aeronautical Engineering.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 7 (Title)</summary>
+<summary>LJ07 (Grundfos Sustainability Journey &amp; Tour of Grundfos Innovation
+Hub, Grundfos Singapore)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Demystifying Grundfos’ sustainability spirit, inherited from a Danish
+company and thrive in Singapore.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get to know Grundfos, be inspired
+by its sustainability journey, plus Q&amp;A with Grundfos’ colleagues</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understanding of tool (Sizing +
+Energy Check) to optimize pumping systems</p>
+<p>Tour of Grundfos Innovation Hub to Experience new technology from Grundfos
+(2 applications / demo units)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Learning Journey 8 (Title)</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
