@@ -304,27 +304,62 @@ Energy Check) to optimize pumping systems</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>WS01 (Employing Game-Based Learning to Engage Students for Effective Learning
+in National Education and Current Affairs, Republic Polytechnic (RP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Imagine a world where students are engaged in learning difficult subjects
+and appreciate the value of what they are learning. In reality, students
+are inundated with National Education (NE) messaging and current affairs
+topics since young, and have the impression that such lessons are dull
+and irrelevant to their lives.</p>
+<p>Our team found a solution that is working for us. “Diplomats… in Space!”
+is an innovative multiplayer card game that is designed to change this
+impression by immersing students in strategic and thought-provoking Game-Based
+Learning. Students will interact with game elements and gain insights into
+how their decisions can affect the outcomes, which mirror scenarios and
+events in the real world, as well as illustrate national and international
+initiatives and frameworks.</p>
+<p>In this workshop, participants will get to experience the game, appreciate
+how Game-Based Learning helps students understand complex issues and they
+will hear from the designers of the game, their experience and tacit knowledge
+in designing the game from concept to delivery.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Workshop 1 (Title)</summary>
+<summary>WS02 (Create an AI-enabled Chatbot for Personalized Learning, Temasek
+Polytechnic (TP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This hands-on workshop aims to explore how AI-enabled chatbots can engage
+learners in a personalised and human way, serving various educational purposes
+like knowledge acquisition, formative assessment, administrative tasks,
+and project guidance. The activities will focus on creating and deploying
+chatbots using Dialogflow without the need for any form of coding or programming
+skills. This training demonstrates the use of some basic features in Dialogflow
+and how to integrate the chatbot through Telegram, enhancing student engagement
+and achieving personalised learning. Join us to discover how to utilise
+rich media responses, like emojis, images, and hyperlinks, for a more meaningful
+chatbot experience.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Workshop 2 (Title)</summary>
+<summary>WS03 (App in a Jiffy - for Educators, Temasek Polytechnic (TP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Workshop 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>In this workshop, participants will gain knowledge on how to develop a
+secure and customizable mobile app using Microsoft Power Automate and Power
+Apps.</p>
+<p>Currently, for some of the academic, project, and student-related routine
+tasks, human intervention is still necessary. Furthermore, the tasks are
+time-consuming, require a lot of manpower, and must be repeated every semester.
+The messages conveyed to the users––in the form of mass emails, reminders,
+and warnings––are also not personalized.</p>
+<p>By adopting end-to-end cloud automation platform technology in education,
+repetitive tasks and personalized messages can be automated and sent to
+users respectively. Additionally, less human intervention is required,
+thereby saving man-hours, minimizing errors, and increasing scalability.
+Furthermore, as this platform can be accessed anytime, anywhere, efficiency
+and productivity are improved to new heights.</p>
+<p>Pairing seamlessly with Power Automate, these tools become a powerhouse
+for automation. Say goodbye to repetitive tasks and hello to newfound efficiency.</p>
 </div>
 </details>
 </div>
