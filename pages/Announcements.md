@@ -6,7 +6,7 @@ variant: markdown
 ---
 UPDATED (June 15, 2024):
 
-Registration for ISATE 2023 is now open!  Click here to go to the Registration Page now.
+Registration for ISATE 2023 is now open!  <a href="/registration/">Click here to go to the Registration Page now.</a>
 
 
 UPDATED (April 17, 2024):
