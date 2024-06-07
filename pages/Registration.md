@@ -21,4 +21,6 @@ For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank"
 
 Please be reminded that at least one author must be registered for the event.
 
+Click here for the Registration Link
+
 For the latest entry options to Singapore and corresponding health protocols, please visit <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
