@@ -18,13 +18,11 @@ Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all*
 
 Please be informed that at the Registration page, you are required to pre-select a Roundtable (on Sep 26, 2024) and an optional Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places for Learning Journey and Workshops are limited, so allocation will be on a first-come-first-served basis.
 
-Click here for the Registration Link:
-(Will be made available from June 15, 2024)
-
 For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> (Alternatively, you can download the PDF file below).
 
 Please be reminded that at least one author must be registered for the event.
 
-Click here for the Registration Link
+Click here for the Registration Link:
+(Will be made available from June 15, 2024)
 
 For the latest entry options to Singapore and corresponding health protocols, please visit <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
