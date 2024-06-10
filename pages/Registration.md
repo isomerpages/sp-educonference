@@ -22,7 +22,7 @@ For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank"
 
 Please be reminded that at least one author must be registered for the event.
 
-Click here for the Registration Link:
+Click below for the Registration/Payment Link:
 
 | Mode of Payment | Link |
 | -------- | -------- |
