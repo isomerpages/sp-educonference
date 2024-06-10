@@ -24,6 +24,8 @@ Transportation to SP
 
 Please use the Corporate Code '**ILF24**' when making the booking.
 
+![](/images/ilf24.png)
+
 
 Transportation to SP
 * Take the MRT from One-North Station (Orange Line) to Buona Vista Station (switch from Orange to Green Line) and then to Dover Station (Green Line)
