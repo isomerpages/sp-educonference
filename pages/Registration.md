@@ -26,7 +26,7 @@ Click below for the Registration/Payment Link:
 
 | Mode of Payment | Link |
 | -------- | -------- |
-| For attendees paying using Credit Cards     | <a target="_blank" href="https://pay.flywire.com/">Payment link for attendees paying using Credit Cards</a>     |
+| For attendees paying using Credit Cards     | <a target="_blank" href="#">Payment link for attendees paying using Credit Cards (available soon)</a>     |
 | For local attendees paying using SUB-BU Code     |  <a target="_blank" href="https://form.gov.sg/66504f74048abac4398e2d35">Payment link for local attendees paying using SUB-BU Code</a>     |
 
 
