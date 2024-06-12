@@ -29,5 +29,7 @@ Click below for the Registration/Payment Link:
 | For attendees paying using Credit Cards     | <a target="_blank" href="https://gateway.flywire.com/v1/transfers?provider=LFQ&amp;payment_destination=sp-isate">Payment link for attendees paying using Credit Cards</a>     |
 | For local attendees paying using SUB-BU Code     |  <a target="_blank" href="https://form.gov.sg/66504f74048abac4398e2d35">Payment link for local attendees paying using SUB-BU Code</a>     |
 
+<a target="_blank" href="/accommodation/">For recommended accommodation click here</a>
+
 
 For the latest entry options to Singapore and corresponding health protocols, please visit <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
