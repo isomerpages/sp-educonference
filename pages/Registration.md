@@ -18,7 +18,7 @@ Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all*
 
 Please be informed that at the Registration page, you are required to pre-select a Roundtable (on Sep 26, 2024) and an optional Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places for Learning Journey and Workshops are limited, so allocation will be on a first-come-first-served basis.
 
-For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> (Alternatively, you can download the PDF file below).
+<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">For the list of Roundtables, Learning Journeys and Workshops, click here</a> (Alternatively, you can download the PDF file below).
 
 Please be reminded that at least one author must be registered for the event.
 
