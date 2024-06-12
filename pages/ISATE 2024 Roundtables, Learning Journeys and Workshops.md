@@ -193,6 +193,18 @@ inclusive, supportive environments that nurture the holistic development
 of all students within the learning community.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>RT11 (Journey to Net Zero: Strategies, Challenges and Innovation in the
+Education Sector)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This roundtable discussion aims to bring together leaders, educators,
+researchers, and stakeholders from the education sector to share insights,
+strategies and experiences in the journey towards net zero emissions. The
+focus will be on understanding the importance of sustainability, exploring
+successful initiatives, addressing practical challenges and promoting climate
+action within educational institutions for a sustainable future.</p>
+</div>
+</details>
 </div>
 <p></p>
 <h3>Learning Journeys or Workshops</h3>

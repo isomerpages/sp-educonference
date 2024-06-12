@@ -22,7 +22,12 @@ For the list of Roundtables, Learning Journeys and Workshops, <a target="_blank"
 
 Please be reminded that at least one author must be registered for the event.
 
-Click here for the Registration Link:
-(Will be made available from June 15, 2024)
+Click below for the Registration/Payment Link:
+
+| Mode of Payment | Link |
+| -------- | -------- |
+| For attendees paying using Credit Cards     | <a target="_blank" href="#">Payment link for attendees paying using Credit Cards (available soon)</a>     |
+| For local attendees paying using SUB-BU Code     |  <a target="_blank" href="https://form.gov.sg/66504f74048abac4398e2d35">Payment link for local attendees paying using SUB-BU Code</a>     |
+
 
 For the latest entry options to Singapore and corresponding health protocols, please visit <a target="_blank" href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore">https://www.ica.gov.sg/enter-transit-depart/entering-singapore</a>
