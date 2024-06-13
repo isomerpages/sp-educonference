@@ -208,7 +208,8 @@ action within educational institutions for a sustainable future.</p>
 </div>
 <p></p>
 <h3>Learning Journeys or Workshops</h3>
-<p>Choose ONE from the list below for the Registration</p>
+<p>Learning Journeys/Workshops are optional. If attending, please choose
+ONE from the list below for the registration.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
