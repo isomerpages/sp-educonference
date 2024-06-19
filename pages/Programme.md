@@ -99,7 +99,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Optional Learning Journeys and/or Workshops (<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> for more details on the Learning Journeys and Workshops)</p>
+<p>Optional Learning Journeys and/or Workshops (<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here for more details on the Learning Journeys and Workshops)</a></p>
 </li>
 </ul>
 <p></p>
