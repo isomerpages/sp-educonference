@@ -76,17 +76,17 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-	<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-5/">Session 5</a></p>
+	<p><a target="_blank" href="/isate-2024-session-5/">ISATE 2024 Paper Presentation Session 5</a></p>
 </li>
 <li>
-<p>ISATE 2024 Roundtables (<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here</a> for more details on the Roundtables)</p>
+<p>ISATE 2024 Roundtables (<a target="_blank" href="/roundtables-learning-journeys-and-workshops/">Click here for more details on the ISATE 2024 Roundtables</a>)</p>
 </li>
 </ul>
 <p><strong>ISATE Day 3: 26 Sep 2024 (Thursday, Afternoon)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-6/">Session 6 (last)</a></p>
+<p><a target="_blank" href="/isate-2024-session-6/">ISATE 2024 Paper Presentation Session 6 (last)</a></p>
 </li>
 <li>
 <p>Presentation of ISATE 2025</p>
