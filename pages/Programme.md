@@ -36,7 +36,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-	<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-1/">Session 1</a> and <a target="_blank" href="/isate-2024-session-2/">Session 2</a></p>
+	<p><a target="_blank" href="/isate-2024-session-1/">ISATE 2024 Paper Presentation Session 1</a> and <a target="_blank" href="/isate-2024-session-2/">ISATE 2024 Paper Presentation Session 2</a></p>
 </li>
 <li>
 <p>ISATE OC and TPC Meeting (for Committee Members only)</p>
@@ -59,7 +59,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-	<p>ISATE 2024 Paper Presentation <a target="_blank" href="/isate-2024-session-3/">Session 3</a> and <a target="_blank" href="/isate-2024-session-4/">Session 4</a></p>
+	<p><a target="_blank" href="/isate-2024-session-3/">ISATE 2024 Paper Presentation Session 3</a> and <a target="_blank" href="/isate-2024-session-4/">ISATE 2024 Paper Presentation Session 4</a></p>
 </li>
 <li>
 <p>ISATE 2024 Council Meeting (for Council Members only)</p>
