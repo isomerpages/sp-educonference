@@ -25,7 +25,7 @@ load and energy consumption.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>RT 2 (Transforming Learning, Pedagogy, and Curriculum - A Competency-Based
+<summary>RT02 (Transforming Learning, Pedagogy, and Curriculum - A Competency-Based
 Approach)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The focus of this roundtable will be on shifting from traditional, content-driven
@@ -379,3 +379,5 @@ for automation. Say goodbye to repetitive tasks and hello to newfound efficiency
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p>&lt;</p>
