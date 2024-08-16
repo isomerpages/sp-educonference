@@ -52,9 +52,47 @@ motivation and increase their enjoyment.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>GENAI CHATBOT-ASSISTED LEARNING: IMPACT ON STUDENTS’ MOTIVATION, CRITICAL
+THINKING AND PROBLEM-SOLVING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Y. Zheng a ,*, B. W. Tan a, and D. Kwok a</p>
+<p>Republic Polytechnic, Singapore</p>
+<p>*<a href="mailto:zheng_yuanli@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_yuanli@rp.edu.sg</a>
+</p>
 <p></p>
+<p>Abstract</p>
+<p>The foundational module on critical thinking and problem-solving skills
+face challenges due to its large class size, with educators struggling
+to provide timely responses to students' questions and manage repeated
+queries. To address this, a GenAI (generative artificial intelligence)
+chatbot-assisted learning is proposed as a solution to offer immediate,
+personalised assistance, enabling students to independently find, organise,
+and evaluate information. Therefore, this study aims to investigate the
+chatbot's effectiveness in enhancing students' motivation, improving their
+critical thinking and problem-solving abilities. The study employed a single
+group pre-test post-test design. Participants were 134 first-year polytechnic
+students undertaking the Critical Thinking and Problem-Solving skill module.
+Data were collected using online pre- and post-survey with open-ended questions
+to elicit feedback on participants' GenAI chatbot-assisted learning, and
+pre- and post-test. The surveys included learning motivation subscales
+measuring intrinsic goal orientation, extrinsic goal orientation, task
+value and self-efficacy adapted from the Motivated Strategies for Learning
+Questionnaire (MSLQ) and learning strategies subscales measuring critical
+thinking and problem-solving adapted from the 21st Century Learning Survey.
+Paired sample t-test indicated a significant increase in learning performance,
+self-efficacy, and extrinsic goal orientation in students following the
+chatbot-assisted learning. Regression results indicated that the motivational
+variables accounted for 51% of the variance in problem-solving, with task
+value being the most significant predictor (β = .32, p &lt; .001) followed
+by extrinsic motivation and self-efficacy. Hierarchical regression analysis
+indicated that critical thinking accounted for an additional 4% of the
+variance in problem-solving, with task value (β = .27, p &lt; .001), critical
+thinking (β = .30, p &lt; .01) and self-efficacy (β = .19, p &lt; .05)
+as significant predictors of problem-solving. The results of the study
+provided insights into the considerations that educators can take when
+designing chatbot-assisted learning to develop problem-solving skills.
+Study limitations and directions for future research are discussed in the
+paper.</p>
 </div>
 </details>
 <details class="isomer-details">
