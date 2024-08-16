@@ -11,9 +11,10 @@ description: ""
 <summary>PRACTICE REPORT ON CONTINUOUS ASSIGNMENTS USING READING PROGRESS ON MICROSOFT
 TEAMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Kanako Endo*,a</p>
-<p>a National Institute of Technology, Yonago College, Japan</p>
-<p>*<a href="mailto:k-endo@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">k-endo@yonago-k.ac.jp</a>
+<p>Kanako Endo<sup>*,a</sup>
+</p>
+<p><sup>a</sup>National Institute of Technology, Yonago College, Japan</p>
+<p><sup>*</sup><a href="mailto:k-endo@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">k-endo@yonago-k.ac.jp</a>
 </p>
 <p></p>
 <p>Abstract</p>
@@ -55,9 +56,10 @@ motivation and increase their enjoyment.</p>
 <summary>GENAI CHATBOT-ASSISTED LEARNING: IMPACT ON STUDENTS’ MOTIVATION, CRITICAL
 THINKING AND PROBLEM-SOLVING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Y. Zheng a ,*, B. W. Tan a, and D. Kwok a</p>
+<p>Y. Zheng<sup>a,*</sup>, B. W. Tan<sup>a</sup>, and D. Kwok<sup>a</sup>
+</p>
 <p>Republic Polytechnic, Singapore</p>
-<p>*<a href="mailto:zheng_yuanli@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_yuanli@rp.edu.sg</a>
+<p><sup>*</sup><a href="mailto:zheng_yuanli@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_yuanli@rp.edu.sg</a>
 </p>
 <p></p>
 <p>Abstract</p>
@@ -96,9 +98,48 @@ paper.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>MEASURING LEARNING EFFECT ON ENGLISH COMPOSITION BY AN ENGLISH APPLICATION
+WITH AI AUTOMATIC CORRECTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>1. Y. Shimura<sup>*,a</sup> 2. D. Marsh,<sup>a</sup> 3. C. Grady,<sup>a</sup> and
+4. N. Iwasaki<sup>b</sup>
+</p>
+<p><sup>a</sup> National Institute of Technology, Wakayama College / Faculty
+of Liberal Arts, Gobo, Japan</p>
+<p><sup>b</sup> National Institute of Technology, Wakayama College / Department
+of Electrical and Computer Engineering, Gobo, Japan</p>
+<p><sup>*</sup><a href="mailto:shimura@wakayama-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shimura@wakayama-nct.ac.jp</a>
+</p>
 <p></p>
+<p>Abstract</p>
+<p>Teaching writing skills to students is an essential issue in English education
+in Japan because Japanese are generally said not to be better at writing
+and speaking English than reading and listening. Despite teacher’s efforts,
+English-writing education doesn’t work well because teachers, on the one
+hand, cannot afford to correct the scripts of all students in a class,
+and students, on the other hand, usually have trouble judging whether their
+sentences are correct or not in their self-study. To solve this problem,
+some companies have developed English applications with AI automatic correction.
+This kind of app may allow teachers to overcome the issue above, but few
+data on its effectiveness are available. We aim to measure, in this research,
+how effectively the app develops students’ writing skills. More than 12
+open-recruited students do English writing exercises in the AI app “English
+4skills” developed by NTT Docomo from February to September 2024. At first,
+we check their skill with level check tests in the app every month, then
+TOEIC IP S&amp;W Test and Eiken-referred writing examinations conducted
+by the authors every three months. As the dataset the app can provide for
+this research, we have the number of drills students have tried and the
+figure of levels indicating students’ writing ability. The result of the
+TOEIC IP S&amp;W Test is objective data on the student’s writing level.
+We correlated these datasets with each other and gained 0.01 of the correlation
+coefficient between the training and improvement for two months. The app
+seems worth joining KOSEN English education if the training-improvement
+correlation gets strongly positive. Besides, we deal with questionnaires
+answered by students about the app to analyze the pedagogical merits of
+the app and the technical or psychological problems using it. In this way,
+we clarify the possibility that the AI app contributes to English education
+in Japan. We conduct this research with the approval of the research ethics
+committee of NIT Wakayama College.</p>
 </div>
 </details>
 <details class="isomer-details">
