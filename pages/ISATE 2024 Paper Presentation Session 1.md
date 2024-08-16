@@ -143,9 +143,42 @@ committee of NIT Wakayama College.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>EVALUATING ETHICAL DIMENSIONS IN AI-DRIVEN EDUCATIONAL ASSESSMENTS: A
+FRAMEWORK ANALYSIS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Tristan Lim<sup>*,a</sup>
+</p>
+<p><sup>a</sup> Nanyang Polytechnic, School of Business Management, Singapore</p>
+<p><sup>*</sup><a href="mailto:tristan_lim@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tristan_lim@nyp.edu.sg</a>
+</p>
 <p></p>
+<p>Abstract</p>
+<p>The rapid integration of Artificial Intelligence (AI) in educational assessments
+has ushered in a new era of efficiency and accuracy, yet it has concurrently
+raised significant ethical concerns. This paper addresses the critical
+need for a robust ethical framework in AI-assisted educational assessments.
+It presents an in-depth analysis of the triadic ontological framework,
+previously proposed by Lim, Gottipati, and Cheong (2023), utilizing Structural
+Equation Modeling (SEM) to validate its applicability and effectiveness.
+The framework comprises three primary domains—physical, cognitive, and
+information—and incorporates five stages of the assessment pipeline: system
+design and check, data stewardship and surveillance, assessment construction
+and rollout, assessment administration, and grading and evaluation. Key
+ethical elements such as inclusivity, fairness, accountability, accuracy,
+auditability, explainability, privacy, trust, human centricity, and cheating
+mitigation strategies are integrated within this framework. The research
+objectives focus on two main areas: (1) validating the triadic theoretical
+framework through SEM analysis, including an examination of how it reflects
+learners' perceptions, and (2) investigating the relationships between
+the stages of the assessment pipeline, key ethical elements, output variables,
+and learner perceptions. Findings from this study reveal significant insights
+into the interplay between AI-assisted educational assessment stages, ethical
+considerations, and learner perspectives. These insights underscore the
+necessity for frameworks that are not only theoretically sound but also
+practically relevant and responsive to learner needs. The findings underscore
+the need for a holistic approach in embedding AI into educational assessments,
+balancing technological advancement with ethical responsibility and pedagogical
+effectiveness.</p>
 </div>
 </details>
 </div>
