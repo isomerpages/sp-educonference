@@ -230,9 +230,45 @@ and future research will be discussed in the paper.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_05 USING KAHOOT AND CLIL TO INCREASE STUDENT ENGAGEMENT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Curtis Revis<sup>*</sup>
+</p>
+<p>The National Institute of Technology, Tokuyama College, Department of
+General Education, Shunan, Japan</p>
+<p><sup>*</sup>  <a href="mailto:revis@tokuyama.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">revis@tokuyama.kosen-ac.jp</a>
+</p>
+<p>Abstract</p>
+<p>A 2023 survey of 131 students at two separate educational institutions
+in Japan—Tokuyama College of Kosen and Yamaguchi University—suggests that
+the use of the online quiz generator Kahoot in conjunction with the textbook
+“CLIL Primary SDGs” improved classroom atmosphere, and encouraged active
+participation, discussion, and collaboration with peers. Kahoot assisted
+this in several ways: by enabling a more engaging introduction to key concepts;
+by providing opportunities for non-verbal, active engagement in lesson
+activities; and by awarding points and thus enabling competition among
+students. The ability to engage online provided further benefits: it allowed
+shy or reticent students chances to engage in English production with less
+fear of mistakes being made public; it provided students a gauge of knowledge
+performance relative to classmates; and it gave students a chance to express
+opinions anonymously for the whole class to see, and to witness classroom
+responses to those opinions. Further, Kahoot worked well in conjunction
+with Content and Language Integrated Learning (CLIL) methods, in setting
+context, role-play, reading and fact-checking, and problem-solving stages
+of lessons. Kahoot’s automatically generated reports enabled tracking of
+student participation as a function of text input and quizzes taken. A
+further range of activities, plus more opportunities for assessment of
+student understanding and performance, were enabled using ChatGPT (Chat
+Generative Pre-Trained Transformer) to generate reading quizzes based on
+the textbook, and Microsoft Teams to enable the generation and evaluation
+of online unit reviews and reading progress activities. Kahoot’s potential
+positive effect on willingness to speak more in front of classmates and
+on motivation to review subject matter outside of class remains unclear,
+and technological issues (weak Wi-Fi signal or battery depletion) occasionally
+restricted student access to the online quiz platform. Nonetheless, the
+combination of CLIL methods with online teaching technologies created a
+more engaging educational environment that encouraged active participation,
+collaboration, and discussion with classmates.</p>
 </div>
 </details>
 <details class="isomer-details">
