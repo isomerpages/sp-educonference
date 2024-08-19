@@ -9,7 +9,7 @@ description: ""
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>PRACTICE REPORT ON CONTINUOUS ASSIGNMENTS USING READING PROGRESS ON MICROSOFT
-TEAMS</summary>
+TEAMS JP_17</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Kanako Endo<sup>*,a</sup>
 </p>
@@ -54,7 +54,7 @@ motivation and increase their enjoyment.</p>
 </details>
 <details class="isomer-details">
 <summary>GENAI CHATBOT-ASSISTED LEARNING: IMPACT ON STUDENTS’ MOTIVATION, CRITICAL
-THINKING AND PROBLEM-SOLVING</summary>
+THINKING AND PROBLEM-SOLVING RP_09</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Y. Zheng<sup>a,*</sup>, B. W. Tan<sup>a</sup>, and D. Kwok<sup>a</sup>
 </p>
@@ -99,7 +99,7 @@ paper.</p>
 </details>
 <details class="isomer-details">
 <summary>MEASURING LEARNING EFFECT ON ENGLISH COMPOSITION BY AN ENGLISH APPLICATION
-WITH AI AUTOMATIC CORRECTION</summary>
+WITH AI AUTOMATIC CORRECTION JP_18</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>1. Y. Shimura<sup>*,a</sup> 2. D. Marsh,<sup>a</sup> 3. C. Grady,<sup>a</sup> and
 4. N. Iwasaki<sup>b</sup>
@@ -144,7 +144,7 @@ committee of NIT Wakayama College.</p>
 </details>
 <details class="isomer-details">
 <summary>EVALUATING ETHICAL DIMENSIONS IN AI-DRIVEN EDUCATIONAL ASSESSMENTS: A
-FRAMEWORK ANALYSIS</summary>
+FRAMEWORK ANALYSIS NYP_01</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tristan Lim<sup>*,a</sup>
 </p>
