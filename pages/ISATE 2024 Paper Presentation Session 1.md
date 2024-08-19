@@ -185,9 +185,48 @@ effectiveness.</p>
 <h3>Session 1, Track 2</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>RP_08 EFFECTS OF IMMERSION, INTERACTION, AND IMAGINATION ON STUDENTS’
+ACCEPTANCE OF HOLOLENS MIXED REALITY FOR LEARNING ANATOMY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>W. XU<sup>*,a</sup>, S. HAMIMAH<sup>b</sup> and D. KWOK<sup>a</sup>
+</p>
+<p><sup>a </sup>Republic Polytechnic/Centre for Educational Development,
+Singapore</p>
+<p><sup>b </sup>Republic Polytechnic/School of Applied Science, Singapore</p>
+<p><sup>*</sup><a href="mailto:xu_weiling@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_weiling@rp.edu.sg</a>
+</p>
+<p></p>
+<p>Abstract</p>
+<p>At present, students in polytechnic institutions study anatomy and physiology
+using interactive quizzes, videos, and stationary 3D models. However, many
+students struggle to visualise human organ anatomy and physiology within
+human body systems. To address this challenge, there is a growing utilization
+of three-dimensional (3D) visualization technologies in enhancing anatomy
+curricula, aiming to enhance comprehension of the intricate spatial relationships
+inherent in the human body. In this study, we adopted one of these technologies
+on mixed reality (MR) to teach anatomy with 3D images of human organs overlaid
+with the physical environment. This present study aims to investigate the
+impacts of virtual reality qualities, namely interaction (IT), imagination
+(IG) and immersion (IM) on perceived ease of use (PEU), perceived usefulness
+(PU) and behavioural intention to use (BI) HoloLens in a mixed reality
+environment. Participants were 223 polytechnic students taking a module
+on anatomy and physiology, and they participated in a HoloLens activity,
+which was developed for the lesson on cardiovascular and lymphatic systems.
+A cross-sectional quantitative research design was employed using an online
+questionnaire with closed-ended questions. Six subscales on IT, IG, IM,
+PEU, PU and BI were investigated. The results showed that IT, IG and IM
+had significant correlations with PEU (.60 ≤ r ≤.66, p &lt; .01) and PU
+(.69 ≤ r ≤.73, p &lt; .01). PEU and PU had significant correlations with
+BI, i.e. r=.53 and r=.74 respectively, p &lt; .01. Regression analysis
+showed that IG (β = .37, p&lt;.001) is the strongest significant predictor
+of PEU, followed by IT (β = .26, p&lt;.01). For PU, IG (β = .34, p&lt;.001)
+was also a significant predictor, followed by IT (β = .24, p&lt;.01) and
+IM (β = .25, p &lt;.01). Hierarchical regression analysis indicated that
+both PU (β = .45, p &lt; .001) and IM (β = .26, p &lt;.001) were significant
+predictors of BI. The results of the study provided insights for educators
+to better understand the qualities of virtual reality (VR) when using HoloLens
+as an instructional activity. The implications of findings, study limitations,
+and future research will be discussed in the paper.</p>
 </div>
 </details>
 <details class="isomer-details">
