@@ -433,21 +433,145 @@ motivation in asynchronous e-learning environments.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_10 EDUCATION AND RESEARCH IN DATA SCIENCE FOR THE REALIZATION OF HYDROGEN
+SOCIETY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Kenta Endo<sup>*,a</sup>, Toshiya Itaya<sup>a</sup>, Yuya Sato<sup>b</sup>,
+Hiroshi Nishiguchi<sup>c</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology, Suzuka College/</p>
+<p>Department of Electronic and Information Engineering, Suzuka, Japan</p>
+<p><sup>b</sup>National Institute of Technology, Toyota College /</p>
+<p>Department of Civil Engineering, Toyota, Japan</p>
+<p><sup>c</sup>National Institute of Technology, Sasebo College /</p>
+<p>Department of Mechanical Engineering, Sasebo, Japan</p>
+<p><sup>*</sup><a href="mailto:endo-k@info.suzuka-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">endo-k@info.suzuka-ct.ac.jp</a>
+</p>
+<p>Abstract</p>
 <p></p>
+<p>Efforts using data science are being made towards the realization of Hydrogen
+Society, fostering momentum in communities and understanding current challenges.
+Construction costs for hydrogen infrastructure, such as hydrogen stations,
+present a significant barrier to widespread adoption. Additionally, the
+lack of sufficient data regarding location conditions, operation conditions,
+and high-pressure gas safety regulations calls for the application of data
+science from various perspectives.</p>
+<p>The purpose of this study is to provide data science education to students
+at National Institutes of Technology (KOSEN) and to evaluate the educational
+effectiveness in cultivating engineers for the realization of a hydrogen
+society. In a class titled 'Fundamentals of Design,' we educated three
+second-year students on analyzing scatter plots and correlation coefficients
+between the number of hydrogen stations and various datasets using the
+Python programming language. While numerical processing in this class could
+be accomplished with spreadsheet software like Excel, we also incorporated
+programming for data processing tasks to practice handling large volumes
+of data. Initially, students tackled practice problems analyzing the correlation
+between population data of cities and towns in Aichi Prefecture and the
+presence of hydrogen stations. They then set their own research themes,
+exploring data potentially related to hydrogen stations. Students independently
+developed research themes and presented their findings on various aspects
+of hydrogen stations. Additionally, a five-year student employed Geographic
+Information Systems (GIS) to foster the diffusion of Hydrogen Stations
+through data science education as his graduate research. Given that hydrogen
+is a by-product in petrochemical plants, the student hypothesized a relationship
+between Hydrogen Stations and petrochemical plants, conducting a mapping
+analysis in the Tokai region. This novel data analysis in the Tokai region
+utilized GIS to visually clarify geographical data, mapping the relationship
+between Hydrogen Stations and petrochemical plants. Future plans include
+improving our GIS mappings to better analyze and promote the spread of
+Hydrogen Stations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NP_03 Students’ Perception of Flipped Learning at Ngee Ann Polytechnic</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Paul Ng, Tan Hui Leng</p>
+<p>Centre for Learning &amp; Teaching Excellence, Ngee Ann Polytechnic, Singapore</p>
+<p><a href="mailto:paul_ng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paul_ng@np.edu.sg</a>,
+<a href="mailto:tan_hui_leng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_leng@np.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>Ngee Ann Polytechnic (NP) has implemented Flipped Learning (FL) campus-wide
+since Academic Year (AY) 2022/2023. NP adopts a 40:60 curricular guidepost
+where approximately 40% of the core curriculum is experienced as Online
+Asynchronous Learning (OAL) and 60% as In-Person Learning (IPL). Fundamentally,
+NP implements FL to contribute towards developing and honing students’
+self-directedness. As recently established by Khodaei et al (2022), FL
+can develop self-directedness if implemented appropriately. However, as
+concluded by Park and Suh (2021) and Kapur et al (2022), how FL is implemented
+can critically impact any improvements in student learning.</p>
+<p>At NP, students learn foundational content interactively during OAL, for
+example through activities such as quizzes with feedback, online discussion,
+short video clips etc. Lecturers design OAL in a manner that generates
+data in NP’s learning management system from students’ engagement with
+these OAL activities. This data provides lecturers insights on their students’
+learning progress and enables lecturers to adjust IPLs as needed to better
+scaffold students’ learning. The IPL scaffolds include opportunities for
+in-person collaborative learning.</p>
+<p>This paper will discuss the details of NP’s survey of students’ perception
+on their FL experience. The survey requested NP students to rate 10 items,
+each on a 5-point Likert scale, on 10 key aspects of their FL experience
+over 2 semesters in AY 2023/2024. Key aspects surveyed included the use
+of interactive self-checks with feedback, how OAL prepared students for
+IPL and how IPL helped students to apply their OAL learning. Responses
+to the survey, and each survey item, were optional. Overall, just under
+2000 students responded to our survey in April 2023 semester and about
+1480 students in October 2023 semester.</p>
+<p>In both semesters, between 71% and 87% of all survey respondents Strongly
+Agreed or Agreed (“SA+A”) with all survey items. SA+A approval percentages
+were generally higher in October 2023 semester than in April. The lowest
+ratings of 71% in April and 79% in October 2023 semester were for the item
+on whether learning analytics were useful to inform students of their learning
+progress.</p>
+<p>Focus groups were conducted at the end of each semester where students
+provided more details of their FL experiences, challenges, and suggestions
+for improvement. These discussions corroborated survey findings and provided
+us with actionable suggestions for improvement.</p>
+<p>Our study of students’ perceptions of NP’s implementation of Flipped Learning
+provides encouraging insights for others considering how to improve learning
+using data-driven FL.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_14 IMPROVING GLOBAL CITIZENSHIP SKILLS THROUGH KOSEN GLOBAL CAMP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Toshihiro Shimizu<sup>*,a</sup>, Yoshitaka Matsumoto<sup>a</sup>, Shinya
+Morikami<sup>a</sup> and Takayoshi Yoshioka<sup>a</sup>
+</p>
+<p><sup>a</sup>National Institute of Technology, Toyota College, Toyota,
+Japan</p>
+<p><sup>*</sup><a href="mailto:shimizu@toyota-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shimizu@toyota-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>Toyota KOSEN organized the KOSEN Global Camp (KGC) from February 19th
+to 25th, 2024. Fourteen international participants from U.K. College, Vietnam
+University, Thai high schools, and 25 Japanese KOSEN students, including
+international exchange students from Malaysia, Mongolia, and Cambodia,
+participated in this camp. The workshop theme was "Recognizing the Public
+Urban Space and Working towards a Proposal for a Future Smart City". The
+workshop aimed to identify public spaces for civilians, build a miniature
+urban design using LEGO and propose an ideal future city. The students
+learned how to plan a future smart city through practical experience and
+collaborative work, using their and other people's areas of experience.
+The workshop also aimed to develop global citizenship (GC) skills, such
+as "Knowledge and Understanding", "Abilities and Skills", and "Attitude,
+Stances, and Values". The groups to build the smart city comprised one
+international exchange student, 2 or 3 students from overseas, and 2 or
+3 Japanese KOSEN students. They had to use English to discuss their smart
+city during the workshop. On DAY 2, the participants designed a city as
+a group work using architecture design-build LEGO. The lecturer, who specialized
+in urban planning at the university, provided the urban designing aspect
+in the morning, and the participants walked around Toyota City to observe
+city planning and smart city content on DAY 3. As for obtaining the domestic
+aspects from the local citizens, the dialogue with citizens was held on
+DAY 4. The final presentation to show their ideal smart city was held on
+DAY 5 after they redesigned and built the urban planning with LEGO. All
+student participants had increased their global citizenship skills through
+this workshop in a questionnaire survey. It was observed that the GC skills
+of Japanese participants significantly improved after attending the camp,
+in contrast to the international students who studied in KOSEN. The strength
+of our global camp lies in the ability to enhance the "Abilities and Skills"
+required for global citizenship.</p>
 </div>
 </details>
 </div>
