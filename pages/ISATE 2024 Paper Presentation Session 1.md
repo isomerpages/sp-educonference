@@ -437,7 +437,7 @@ motivation in asynchronous e-learning environments.</p>
 SOCIETY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Kenta Endo<sup>*,a</sup>, Toshiya Itaya<sup>a</sup>, Yuya Sato<sup>b</sup>,
-Hiroshi Nishiguchi<sup>c</sup> 
+Hiroshi Nishiguchi<sup>c</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Suzuka College/</p>
 <p>Department of Electronic and Information Engineering, Suzuka, Japan</p>
@@ -540,7 +540,7 @@ Morikami<sup>a</sup> and Takayoshi Yoshioka<sup>a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Toyota College, Toyota,
 Japan</p>
-<p><sup>*</sup><a href="mailto:shimizu@toyota-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shimizu@toyota-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:shimizu@toyota-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shimizu@toyota-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Toyota KOSEN organized the KOSEN Global Camp (KGC) from February 19th
