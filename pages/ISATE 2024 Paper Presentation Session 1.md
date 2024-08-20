@@ -344,7 +344,7 @@ STEAM EDUCATION OF JUNIOR HIGH SCHOOL STUDENTS USING TILING</summary>
 Kurume City, Japan</p>
 <p><sup>b</sup>Department of Mathematics, Faculty of Education, Gifu University,
 Gifu City, Japan</p>
-<p><sup>*</sup>  <a href="mailto:sakai@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">sakai@kurume-nct.ac.jp</a>
+<p><sup>*</sup><a href="mailto:sakai@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">sakai@kurume-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -385,9 +385,51 @@ before and after the practice.</p>
 <h3>Session 1, Track 3</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>NYP_02 AN EXAMINATION OF THE IMPACT OF PEER-COLLABORATION ON STUDENT MOTIVATION
+DURING ASYNCHRONOUS LESSON</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>Wendy Tan<sup>a</sup> and Janaki Shah<sup>b</sup>
+</p>
+<p><sup>a</sup>Nanyang Polytechnic/School of Design &amp; Media, Singapore</p>
+<p><sup>b</sup>Republic Polytechnic/School of Applied Science, Singapore</p>
+<p><a href="mailto:wendy_tan@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wendy_tan@nyp.edu.sg</a>,
+<a href="mailto:janaki_shah@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janaki_shah@rp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>In asynchronous e-learning, students engage with online materials at their
+own pace during the process of learning. However, not all students are
+able to wield the same degree of self-discipline and motivation necessary
+for successful self-directed learning in such lessons. Motivation and engagement
+with peers play a crucial role in fostering effective learning and influencing
+academic motivation. This is especially important in asynchronous e-learning,
+where the lack of social interaction may induce feelings of isolation that
+have a direct impact on students’ motivation and learning. This study delves
+into the potential benefits of peer collaboration to address this challenge.</p>
+<p>A mixed-method approach was used to assess the impact of peer collaboration
+on students' motivation in asynchronous e-learning. The research involved
+146 students from both Art and Science disciplines at NYP and RP. Quantitative
+data was gathered using pre- and post-lesson survey questionnaires. Qualitative
+data was obtained through informal focus group discussions. The instructional
+approach investigated involved breaking down the asynchronous lesson into
+manageable activities, incorporating digital video creation as well as
+peer questioning and answering as collaborative tasks to promote engagement
+and critical thinking among students.</p>
+<p>Our findings suggest the integration of peer collaboration through digital
+video creation and peer questioning proved highly effective in enhancing
+motivation, engagement, and understanding within the lesson. Thus, overall
+had a positive impact on students’ self-directed learning. Students found
+the bite-sized activities manageable and reported a diminished feeling
+of isolation, underscoring the inherent value of peer collaboration. Furthermore,
+collaborative tasks grounded in accountability and shared responsibility
+emerged as catalysts that enhanced motivation, critical thinking, and engagement.</p>
+<p>This study imparts invaluable insights to educators, stressing the importance
+of a social presence in asynchronous e-learning, and of setting clear guidelines
+and expectations in collaborative tasks. Our qualitative findings did reveal
+potential challenges, including issues related to group dynamics and delayed
+peer responses, prompting the need for future considerations and improvements.
+Overall, our study paved the way to fine-tune implementation strategies,
+ensuring ongoing success in cultivating collaborative tasks and improving
+motivation in asynchronous e-learning environments.</p>
 </div>
 </details>
 <details class="isomer-details">
