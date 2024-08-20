@@ -585,10 +585,10 @@ EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup>
 </p>
-<p><sup>a</sup> Institute for Research on Next-generation Semiconductor and
+<p><sup>a</sup>Institute for Research on Next-generation Semiconductor and
 Sensing Science (IRES²), Toyohashi University of Technology, Toyohashi,
 Japan</p>
-<p><sup>b</sup> Department of Mechanical Engineering, Toyohashi University
+<p><sup>b</sup>Department of Mechanical Engineering, Toyohashi University
 of Technology, Toyohashi, Japan</p>
 <p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a>
 </p>
@@ -680,11 +680,11 @@ to practise at their own time.</p>
 <summary>NYP_07 THE IMPACT OF PEER-LED SIMULATION ON LEARNING EXPERIENCES IN POST-REGISTRATION
 NURSING STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>F. Huang<sup>*,a</sup>, K. Tham<sup>b</sup> and E. Kwan <sup>c</sup> 
+<p>F. Huang<sup>*,a</sup>, K. Tham<sup>b</sup> and E. Kwan <sup>c</sup>
 </p>
 <p><sup>a-c</sup>Nanyang Polytechnic/School of Health and Social Sciences,
 Singapore</p>
-<p><sup>*</sup><a href="mailto:huang_fang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_fang@nyp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:huang_fang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_fang@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>In nursing education, often dominated by instructor-led simulations (ILS),
