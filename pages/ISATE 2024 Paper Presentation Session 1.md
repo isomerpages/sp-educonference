@@ -236,7 +236,7 @@ and future research will be discussed in the paper.</p>
 </p>
 <p>The National Institute of Technology, Tokuyama College, Department of
 General Education, Shunan, Japan</p>
-<p><sup>*</sup>  <a href="mailto:revis@tokuyama.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">revis@tokuyama.kosen-ac.jp</a>
+<p><sup>*</sup><a href="mailto:revis@tokuyama.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">revis@tokuyama.kosen-ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>A 2023 survey of 131 students at two separate educational institutions
