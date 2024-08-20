@@ -104,9 +104,9 @@ WITH AI AUTOMATIC CORRECTION</summary>
 <p>1. Y. Shimura<sup>*,a</sup> 2. D. Marsh,<sup>a</sup> 3. C. Grady,<sup>a</sup> and
 4. N. Iwasaki<sup>b</sup>
 </p>
-<p><sup>a</sup> National Institute of Technology, Wakayama College / Faculty
+<p><sup>a</sup>National Institute of Technology, Wakayama College / Faculty
 of Liberal Arts, Gobo, Japan</p>
-<p><sup>b</sup> National Institute of Technology, Wakayama College / Department
+<p><sup>b</sup>National Institute of Technology, Wakayama College / Department
 of Electrical and Computer Engineering, Gobo, Japan</p>
 <p><sup>*</sup><a href="mailto:shimura@wakayama-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shimura@wakayama-nct.ac.jp</a>
 </p>
@@ -148,7 +148,7 @@ A FRAMEWORK ANALYSIS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tristan Lim<sup>*,a</sup>
 </p>
-<p><sup>a</sup> Nanyang Polytechnic, School of Business Management, Singapore</p>
+<p><sup>a</sup>Nanyang Polytechnic, School of Business Management, Singapore</p>
 <p><sup>*</sup><a href="mailto:tristan_lim@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tristan_lim@nyp.edu.sg</a>
 </p>
 <p></p>
@@ -339,13 +339,13 @@ one medium could be further</p>
 <summary>JP_08 DEVELOPMENT AND PRACTICE OF MATHEMATICS TEACHING MATERIALS FOR EARLY
 STEAM EDUCATION OF JUNIOR HIGH SCHOOL STUDENTS USING TILING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Sakai<sup>*, a</sup> and T. Tanaka<sup>b </sup>
+<p>M. Sakai<sup>*, a</sup> and T. Tanaka<sup>b</sup>
 </p>
 <p><sup>a</sup>Sciences and Mathematics, Liberal Arts, NIT, Kurume College,
 Kurume City, Japan</p>
 <p><sup>b</sup>Department of Mathematics, Faculty of Education, Gifu University,
 Gifu City, Japan</p>
-<p><sup>*</sup>  <a href="mailto:sakai@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">sakai@kurume-nct.ac.jp</a> 
+<p><sup>*</sup>  <a href="mailto:sakai@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">sakai@kurume-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
