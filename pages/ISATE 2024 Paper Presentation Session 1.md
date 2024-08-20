@@ -336,9 +336,49 @@ one medium could be further</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_08 DEVELOPMENT AND PRACTICE OF MATHEMATICS TEACHING MATERIALS FOR EARLY
+STEAM EDUCATION OF JUNIOR HIGH SCHOOL STUDENTS USING TILING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>M. Sakai<sup>*, a</sup> and T. Tanaka<sup>b </sup>
+</p>
+<p><sup>a</sup>Sciences and Mathematics, Liberal Arts, NIT, Kurume College,
+Kurume City, Japan</p>
+<p><sup>b</sup>Department of Mathematics, Faculty of Education, Gifu University,
+Gifu City, Japan</p>
+<p><sup>*</sup>  <a href="mailto:sakai@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">sakai@kurume-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
 <p></p>
+<p>In the age of Society 5.0 which is the concept of a future society developed
+by the Japanese government, STEAM (science, technology, engineering, art,
+and mathematics) human resources with skills to grasp things from multiple
+perspectives and solve problems is required. Furthermore, Society 5.0 indicates
+that the National Institute of Technology (KOSEN) becomes the STEAM center
+for elementary and junior high school students, as part of the efforts
+to establish a system that supports STEAM education.</p>
+<p>Since 2019, we have practiced STEAM education as part of “Liberal Arts
+Seminar” for 4th-year students of the main course. In these lectures, the
+teachers of liberal arts subjects present themes using their specialties,
+such as mathematics, debate, and economics. Collaborative learning between
+students from various departments led them　to deep learning, which was
+a fusion of knowledge and creation. However, there are few opportunities
+to give back to society, particularly as a platform to disseminate the
+acquired mathematics ability. Thus, we aim to realize early STEAM education
+and give back to society by creating STEAM teaching materials on art and
+mathematics in open courses for junior high school students with help from
+teaching assistants who studied the relation between art and mathematics
+in the liberal arts seminar.</p>
+<p>We consider a teaching material on tiling (like Escher’s print) from the
+perspective of STEAM education as a fusion of art and mathematics. The
+tiling problem asks if what kind of figures can be used for tiling since
+the age of ancient Greeks. The purpose of the course is not only arousing
+students' interest in mathematics, but also providing them with clues to
+develop their multifaceted ideas.</p>
+<p>In this report, we introduce a STEAM teaching material on tiling, and
+we consider the result of the practice of an open course. Finally, we verify
+the effectiveness of our teaching material by considering the results of
+the exercises for participants and comparing the results of questionnaires
+before and after the practice.</p>
 </div>
 </details>
 </div>
