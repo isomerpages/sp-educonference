@@ -272,9 +272,67 @@ collaboration, and discussion with classmates.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>TP_12 COMPARISON OF VR AND TABLET BASED INTUITIVE 3D DESIGN TOOLS FOR
+CONCEPTUAL FORM DEVELOPMENT OF STUDENT PROJECTS: INITIAL FINDINGS FROM
+A BUILT ENVIRONMENT COURSE PILOT STUDY IN SINGAPORE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Juniarto Hadiatmadja <sup>*, a</sup>
+</p>
+<p><sup>a </sup>School of Design, Temasek Polytechnic, Singapore</p>
+<p><sup>* </sup><a href="mailto:Hadiatmadja_juniarto@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hadiatmadja_juniarto@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>The development of students’ abilities to hand</p>
+<p>sketch and manually model design ideas have been a</p>
+<p>long standing, important part of built environment</p>
+<p>courses. In recent years this has been significantly</p>
+<p>reduced in the curriculum with preference for the use</p>
+<p>of digital drafting and 3D modelling software. These</p>
+<p>digital activities require less development of student</p>
+<p>hands-on ability, the interface requiring only the click</p>
+<p>of a mouse and keyboard. However, the potential</p>
+<p>benefits of higher efficiency and precision of this</p>
+<p>digital trend seems to come with a significant loss in</p>
+<p>the intuitive sketching and modelling abilities of</p>
+<p>recent student cohorts.</p>
+<p>This paper wishes to discuss the findings of a pilot</p>
+<p>study on digital mediums that promises a reversal of</p>
+<p>this worrying decline. The study is on digital tools that</p>
+<p>support development of intuitive sketching and</p>
+<p>manual modelling skills. Focus is on the use of virtual</p>
+<p>reality (VR) equipment as well as the use of digital pen</p>
+<p>&amp; tablet as the main medium of formulating 3D</p>
+<p>design ideas with interest for conceptual design of</p>
+<p>built environment projects.</p>
+<p>The research is supported by analysing the</p>
+<p>empirical artefacts and firsthand experience of the</p>
+<p>users. For an objective comparison, artefacts</p>
+<p>produced use software that supports both mediums.</p>
+<p>In terms of the user experience, observations and</p>
+<p>interviews with second year built environment</p>
+<p>students who participated in the study will be used.</p>
+<p>Student’s feedback were also useful insights on how</p>
+<p>novice users faired in steadily developing their</p>
+<p>abilities to use the mediums.</p>
+<p>The research will initially conduct a comparison</p>
+<p>between mediums when used separately. This is done</p>
+<p>on different stages. This starts from a comparison of</p>
+<p>the process of setting up each medium. Subsequently</p>
+<p>comparison is done on the day-to-day use of the</p>
+<p>mediums. Finally, a qualitative comparison is done of</p>
+<p>the expanse and limits of conceptual forms that could</p>
+<p>be finally achieved by each medium.</p>
+<p>A further study was then conducted on the</p>
+<p>possible combined use of the two mediums. This analysis is done on how
+one medium could be further</p>
+<p>developed in another medium.</p>
+<p>The findings of this study were then used to</p>
+<p>envision arrangements for deployment of the</p>
+<p>mediums in larger class settings. This encompasses</p>
+<p>feasible ratios between VR and digital tablet-based</p>
+<p>equipment in the classroom setting. The different</p>
+<p>medium could also be tailored to different class</p>
+<p>scenarios.</p>
 </div>
 </details>
 <details class="isomer-details">
