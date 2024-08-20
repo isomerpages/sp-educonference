@@ -483,7 +483,7 @@ Hydrogen Stations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>NP_03 Students’ Perception of Flipped Learning at Ngee Ann Polytechnic</summary>
+<summary>NP_03 STUDENTS' PERCEPTION OF FLIPPED LEARNING AT NGEE ANN POLYTECHNIC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Paul Ng, Tan Hui Leng</p>
 <p>Centre for Learning &amp; Teaching Excellence, Ngee Ann Polytechnic, Singapore</p>
@@ -583,14 +583,14 @@ required for global citizenship.</p>
 <summary>JP_06 DEVELOPMENT AND EVALUATION OF PRACTICE FOR INTEGRATED CAD-CAE-CAM
 EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup> 
+<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup>
 </p>
 <p><sup>a</sup> Institute for Research on Next-generation Semiconductor and
 Sensing Science (IRES²), Toyohashi University of Technology, Toyohashi,
 Japan</p>
 <p><sup>b</sup> Department of Mechanical Engineering, Toyohashi University
 of Technology, Toyohashi, Japan</p>
-<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The ability to achieve an optimum design based on specifications is a
@@ -626,9 +626,48 @@ professional engineers in an efficient yet effective manner.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>SP_10 STUDYING THE IMPACT OF PRACTICEME IN IMPROVING STUDENTS’ PROGRAMMING
+SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>T. Kenneth, C. Elynn</p>
+<p>Singapore Polytechnic/School of Computing, Singapore</p>
+<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg</a> 
+</p>
+<p><a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
 <p></p>
+<p>The use of PracticeMe, a study tool to revise on the fundamentals of JavaScript
+programming, was conceived when students feedback that there were insufficient
+programming practices to enhance their learning. It was specially developed
+in-house to provide a platform for students to raise their proficiency
+in programming with deliberate practices within a captivating environment
+using basic gamification. PracticeMe served as an extra learning tool,
+besides the conventional learning resources provided e.g. lecture notes,
+internet/hard copy references and weekly practical assignments. It was
+targeted at Year 1 students enrolled in the core module ST0502 Fundamentals
+of Programming (FOP) which introduces and builds the foundation of programming
+language.</p>
+<p> The purpose of this pilot study is to investigate the effectiveness of
+PracticeMe on improving students’ performance in programming. To assess
+its efficacy, data points collected include students' results, practice
+attempts, number of questions attempted, Mid-Semester Test (MST) scores
+that can highlight the gaps in learning on different topics taught in the
+module. Observation of the MST scores indicated that classes with lower
+percentage usage of the application had lower average scores as compared
+to classes with higher percentage usage of the application. The results
+also indicated that PracticeMe may not be able to capture the subtle weaknesses
+among the higher performing students.</p>
+<p>Both qualitative and quantitative analysis were conducted to gather the
+effectiveness of PracticeMe. An online survey in BrightSpace was conducted
+at the end of the semester to gauge students’ perception of its usefulness
+towards their learning. Results suggested that students were highly positive,
+with 79% giving feedback that “it was easy and intuitive to use” and 69%
+responded that “the application was helpful in directing them to focus
+on their weaker topic(s)”. Students from the focus group interviews also
+shared that “they were highly motivated to use PracticeMe on a daily basis
+as it offered them the flexibility” to select the topics and level of difficulty
+to practise at their own time.</p>
 </div>
 </details>
 <details class="isomer-details">
