@@ -631,9 +631,9 @@ SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>T. Kenneth, C. Elynn</p>
 <p>Singapore Polytechnic/School of Computing, Singapore</p>
-<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg</a> 
+<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg</a>
 </p>
-<p><a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a> 
+<p><a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -671,15 +671,55 @@ to practise at their own time.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>SP_01</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>NYP_07 THE IMPACT OF PEER-LED SIMULATION ON LEARNING EXPERIENCES IN POST-REGISTRATION
+NURSING STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>F. Huang<sup>*,a</sup>, K. Tham<sup>b</sup> and E. Kwan <sup>c</sup> 
+</p>
+<p><sup>a-c</sup>Nanyang Polytechnic/School of Health and Social Sciences,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:huang_fang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_fang@nyp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>In nursing education, often dominated by instructor-led simulations (ILS),
+there is a growing demand to explore alternative approaches, such as peer-led
+simulation (PLS), in the training of post-registration nursing students.
+PLS shifts learners into leadership roles, fostering scenario design and
+facilitation among peers. Despite existing literature on ILS versus PLS,
+there remains a gap in understanding the factors influencing the learning
+experience and perceptions of PLS for post-registration nursing students.
+This study aims to investigate the factors influencing the learning experience
+of post-registration nursing students and their perceptions of PLS as an
+instructional strategy. This qualitative study was implemented from October
+2022 to April 2023. The entire student cohorts (n = 20) were recruited
+from the Advanced Diploma in Nursing (Peri-anesthesia) programme. The students
+underwent both ILS (14 hours) and PLS (11 hours) as part of the mandatory
+activities within a 60-hour module on "Crisis Management in Anaesthesia”.
+Three semi-structured FGDs with 16 participants were conducted. The FGDs
+were guided by six questions on students learning experiences that were
+validated using the Delphi method. The thematic analysis revealed four
+major themes concerning their learning experiences: the learning journey,
+enablers, barriers and perceived benefits of including PLS. Among the enablers,
+one notable finding was learners' appreciation for their ability to apply
+evidence-based practice principles, which played a significant role in
+achieving conceptual fidelity in their developed scenarios. In conclusion,
+the qualitative findings of this study emphasize the pivotal role of PLS
+in creating dynamic learning environments, which are of interest to all
+educators. Through active engagement in PLS through scenario design, facilitation
+and debriefing, students develop a deeper understanding of theoretical
+concepts and enhanced their clinical competency. As nursing education continues
+to evolve, it is essential for educators to embrace innovative pedagogical
+approaches like PLS to improve learning outcomes and prepare nurses for
+the increased complexities of clinical practice. Beyond nursing, educators
+may gain valuable insights into students' learning needs and challenges
+through PLS implementation, refining teaching strategies and improving
+educational effectiveness.</p>
 </div>
 </details>
 </div>
