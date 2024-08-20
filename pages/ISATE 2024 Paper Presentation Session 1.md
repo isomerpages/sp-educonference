@@ -190,9 +190,8 @@ ACCEPTANCE OF HOLOLENS MIXED REALITY FOR LEARNING ANATOMY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>W. XU<sup>*,a</sup>, S. HAMIMAH<sup>b</sup> and D. KWOK<sup>a</sup>
 </p>
-<p><sup>a </sup>Republic Polytechnic/Centre for Educational Development,
-Singapore</p>
-<p><sup>b </sup>Republic Polytechnic/School of Applied Science, Singapore</p>
+<p><sup>a</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
+<p><sup>b</sup>Republic Polytechnic/School of Applied Science, Singapore</p>
 <p><sup>*</sup><a href="mailto:xu_weiling@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_weiling@rp.edu.sg</a>
 </p>
 <p></p>
@@ -276,10 +275,10 @@ collaboration, and discussion with classmates.</p>
 CONCEPTUAL FORM DEVELOPMENT OF STUDENT PROJECTS: INITIAL FINDINGS FROM
 A BUILT ENVIRONMENT COURSE PILOT STUDY IN SINGAPORE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Juniarto Hadiatmadja <sup>*, a</sup>
+<p>Juniarto Hadiatmadja<sup>*, a</sup>
 </p>
-<p><sup>a </sup>School of Design, Temasek Polytechnic, Singapore</p>
-<p><sup>* </sup><a href="mailto:Hadiatmadja_juniarto@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hadiatmadja_juniarto@tp.edu.sg</a>
+<p><sup>a</sup>School of Design, Temasek Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:Hadiatmadja_juniarto@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hadiatmadja_juniarto@tp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The development of students’ abilities to hand</p>
