@@ -17,7 +17,7 @@ variant: markdown
 <p>Opening and Welcome Address by PCEO, Singapore Polytechnic</p>
 </li>
 <li>
-<p>Speech by Guest of Honour</p>
+<p>Speech by GOH Ms Gan Siow Huang Minister of State for Education</p>
 </li>
 <li>
 <p>Speech by President, National Institute of Technology Japan</p>
