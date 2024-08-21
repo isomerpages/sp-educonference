@@ -23,13 +23,13 @@ variant: markdown
 <p>Speech by President, National Institute of Technology Japan</p>
 </li>
 <li>
-<p>Keynote Address by Dr. Ruth Graham</p>
+<p>Keynote Address by <a target="_blank" href="https://www.rhgraham.org/"> Dr. Ruth Graham</a></p>
 </li>
 <li>
-<p>Keynote Address by Dr. Kristina Edstrom</p>
+<p>Keynote Address by <a target="_blank" href="https://www.kth.se/profile/kristina/"> Dr. Kristina Edstrom</a></p>
 </li>
 <li>
-<p>Keynote Address by Dr. Ong Yew Soon</p>
+<p>Keynote Address by <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp00092/"> Dr. Ong Yew Soon</a></p>
 </li>
 </ul>
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Afternoon)</strong>
@@ -46,7 +46,7 @@ variant: markdown
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keynote Address by A/Prof Eric Chua</p>
+<p>Keynote Address by <a target="_blank" href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua/"> A/Prof Eric Chua</a></p>
 </li>
 <li>
 <p>Institutional Speakers: Singapore, Japan, Hong Kong, Finland</p>
