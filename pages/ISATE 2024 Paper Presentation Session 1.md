@@ -676,7 +676,7 @@ to practise at their own time.</p>
 <p>Ho Teck June, Tan Check Meng and Qiu Zixuan</p>
 <p>Singapore Polytechnic/School of Computing, Singapore</p>
 <p><a href="mailto:Tan_Teck_June@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Teck_June@sp.edu.sg</a>,
-<a href="mailto:Tan_Check_Meng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Check_Meng@sp.edu.sg</a>, <a href="mailto:Qiu_Zixuan@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qiu_Zixuan@sp.edu.sg</a> 
+<a href="mailto:Tan_Check_Meng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Check_Meng@sp.edu.sg</a>, <a href="mailto:Qiu_Zixuan@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qiu_Zixuan@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The Final Year Project (FYP) holds a pivotal position within computing-related
@@ -810,11 +810,11 @@ to extend their learning to address multi-faceted sustainability issues.</p>
 <summary>JP_13 IMPLEMENTATION OF ENGINEERING CLASSES INCORPORATING CAREER AND FINANCIAL
 ELEMENTS TO PROMOTE SELF-INVESTMENTS AND THEIR EDUCATIONAL EFFECTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Naoki KAKUDA<sup>*,a </sup>
+<p>Naoki KAKUDA<sup>*,a</sup>
 </p>
 <p>Department of Electronic Control Engineering, National Institute of Technology
 (KOSEN), Yonago College, Yonago, Tottori, Japan</p>
-<p><sup>*</sup><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -859,13 +859,13 @@ their level of understanding of specialized subjects.</p>
 <summary>NYP_08 LEARNING EXPERIENCE DESIGN (LXD) FOR LEARNER ENGAGEMENT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>F. Teoh<sup>*,a</sup>, A. Ng<sup>a</sup>, C.H. Miin<sup>a</sup>, C. Pang<sup>b</sup>,
-T. Lim<sup>b</sup>, K. Tan<sup>c</sup>, S. Goh<sup>c</sup> and E. Foo<sup>d</sup> 
+T. Lim<sup>b</sup>, K. Tan<sup>c</sup>, S. Goh<sup>c</sup> and E. Foo<sup>d</sup>
 </p>
 <p><sup>a</sup>Nanyang Polytechnic, School of Applied Science, Singapore</p>
 <p><sup>b</sup>Nanyang Polytechnic, School of Business Management, Singapore</p>
 <p><sup>c</sup>Nanyang Polytechnic, School of Design &amp; Media, Singapore</p>
 <p><sup>d</sup>Nanyang Polytechnic, School of Engineering, Singapore</p>
-<p><sup>*</sup><a href="mailto:Florence_Teoh@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Florence_Teoh@nyp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Florence_Teoh@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Florence_Teoh@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Learning Experience Design (LXD) represents a paradigm shift in lesson
@@ -905,7 +905,7 @@ environment, the LXD Methodology fosters greater learner engagement.</p>
 STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>W.H. Chiu<sup>*†a</sup>, Nanoka K.M. Tse<sup>†a</sup>, K.H. Cheung<sup>†ab</sup>,
-Y.K. Yan<sup>a</sup> and Jesse L.C. Shum<sup>a</sup> 
+Y.K. Yan<sup>a</sup> and Jesse L.C. Shum<sup>a</sup>
 </p>
 <p><sup>a</sup>Hong Kong Institute of Information Technology, Hong Kong SAR,
 China</p>
@@ -960,27 +960,189 @@ full potential in their educational journey.</p>
 <h3>Session 1, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>RP-06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
+DESIGN FOR LEARNING (UDL), AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
+AND SELF-EFFICACY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>A. Lee<sup>a*</sup>, J. Ho<sup>b</sup>, C.K. Kiu<sup>a</sup> and D. Kwok<sup>a</sup>
+</p>
+<p><sup>a</sup>Centre for Educational Development, Republic Polytechnic,
+Singapore</p>
+<p><sup>b</sup>School of Sports, Health &amp; Leisure, Republic Polytechnic,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:allan_lee@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allan_lee@rp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>With an increasing emphasis on inclusive education, especially for students
+with diverse learning needs, some research has proposed Universal Design
+for Learning (UDL) as a possible framework to cater for such needs. However,
+to what extent can UDL interventions provide for such needs? This study
+examines the differences in students’ perceptions of the three UDL principles:
+engagement (ENG), representation (REP), and action &amp; expression (ACT),
+and their possible effects on the situational interests (SI) and self-efficacy
+(SE) of the students. This will address the gap in the paucity of studies
+on UDL in post-secondary settings in Asian educational institutions. The
+data collection involved 120 polytechnic students enrolled in the Biopsychosocial
+of Ageing module in a Polytechnic in Singapore, who completed pre- and
+post-UDL intervention questionnaires. The questionnaire, validated before
+the study, assessed UDL principles, SI, and SE. The results showed significant
+improvements in students' perceptions of ENG, REP, ACT, SI, and SE post-UDL
+intervention, highlighting the positive impact of UDL on students’ motivation.
+The study also revealed strong correlations between UDL principles, SI,
+and SE in the post-intervention, suggesting an interconnected nature of
+these variables. Multiple linear regression analysis showed that the UDL
+principles on REP and ENG were significant predictors of both SI and SE
+as dependent variables. Implications for practice include considerations
+for implementing UDL in curriculum design and teaching strategies, such
+as promoting active engagement, providing diverse representation of content,
+and facilitating varied modes of expression. In conclusion, this study
+provides valuable insights into the effectiveness of UDL interventions
+within a module in polytechnic education, emphasising its potential to
+improve students' motivations and learning experiences.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>TP_06 CONVERSE CANVAS: A CATALYST FOR STUDENT MOTIVATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Ameer-Alrasyeed bin Ramdan</p>
+<p>Temasek Polytechnic/School of Design, Singapore</p>
+<p><a href="mailto:Ameer-Alrasyeed_Ramdan@tp.edu" rel="noopener noreferrer nofollow" target="_blank">Ameer-Alrasyeed_Ramdan@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>The pervasive influence of technology challenges students’ cognitive and
+socio-emotional development through digital connectivity issues of maintaining
+attention, fostering isolation. This hinders the development of both interpersonal
+skills and critical thinking essential for effective communication, social
+engagement, and problem-solving – skills increasingly crucial in the evolving
+landscape of work. Consequently, students face difficulties addressing
+their academic and personal concerns, hindering their development.</p>
+<p>Dalvi, Sawant, and Sambhaji (2023) highlighted the critical role of educators
+in addressing these challenges by focusing on psychological outcomes of
+digital education. In response, the proposed Converse Canvas uses guided
+dialogue as a catalyst for cognitive and socio-emotional development during
+Careperson hour. The implementation of Converse Canvas serves as a case
+study of how it can contribute to fostering self-directed learners and
+resilient youths.</p>
+<p>The Careperson session involved students utilising a deck of cards featuring
+structured and diverse topics, curated to address issues relevant to students’
+academic journey. Students select a resonant card, reflecting upon their
+challenges, and are guided through subsequent steps for tailored solutions.
+Converse Canvas generates meaningful conversation based on shared challenges
+within a peer-driven learning environment.</p>
+<p>The case study revealed that it also serves as a forecasting tool. Students
+gained awareness of potential challenges they may encounter, enabling them
+to anticipate obstacles in the future. With improved foresight, students
+experienced reduced stress levels as they prepared for upcoming challenges.
+Findings gathered from this pilot study unveiled a spectrum of challenges,
+spanning from adjusting to new pedagogical approaches in the first year
+to societal integration in subsequent years. These insights have informed
+iterations in the card development process, granting effective resource
+allocation to be tailored to the diverse needs of students requiring support.</p>
+<p>Conducting Converse Canvas for students is imperative given the increasing
+complexities of the digital world. Adopting this tool helps students gain
+autonomy over their learning experiences and cultivate a growth mindset.
+Converse Canvas has shown to be an efficacious approach to nurture resilience
+in students navigating academic transitions and subsequently, the evolving
+professional landscape.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>VTC_01 ENHANCING ACADEMIC PERFORMANCE AND PSYCHOLOGICAL WELL-BEING THROUGH
+SOUND VIBRATION READING: AN EXPERIMENTAL STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>X. Xu<sup>a</sup>, L. Yan<sup>b</sup>, M.H. Chow<sup>c,1</sup> and S.S.
+Lai<sup>c,2</sup>&nbsp;</p>
+<p><sup>a</sup>Center for Building Environment Test, Tsinghua University,
+Beijing, China&nbsp;</p>
+<p><sup>b</sup>Tsinghua University High School, Beijing, China&nbsp;</p>
+<p><sup>c</sup>Department of Engineering, Hong Kong Institute of Vocational
+Education, Tsing Yi, HKSAR&nbsp;&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">mhchow@vtc.edu.hk</a><sup>1</sup>,
+<a rel="noopener noreferrer nofollow" target="_blank">sai9022@vtc.edu.hk</a><sup>2</sup>
+</p>
+<p>Abstract</p>
+<p>This study investigates the development and application of monitoring
+equipment for sound vibration in neuroscience, focusing on its effects
+on high school students' academic performance and psychological well-being.
+The premise of the research is based on the phenomenon where sound vibrations
+from speech induce vibrations in the cranial bones, which is hypothesized
+to improve cerebrospinal fluid circulation, thus enhancing nutrient exchange
+within brain tissues. This enhancement could potentially elevate cognitive
+capabilities, academic achievements, and reduce psychological stress among
+students.</p>
+<p>To verify the effects of sound vibration on learning outcomes, controlled
+experiments were performed in schools located in Beijing and Henan, China.
+The study divided participants into groups based on their habit of reading
+aloud. In Beijing, an experimental group engaged in scheduled reading sessions
+was compared to a control group that did not practice reading aloud. The
+participants were students without a pre-existing habit of reading aloud,
+and the reading material covered subjects like language arts and English.
+The sessions were integrated into the school's daily schedule. A novel,
+wearable head-mounted device developed in collaboration with Tsinghua University's
+Architectural Acoustics Laboratory measured the sound vibration levels
+during these sessions.</p>
+<p>The research findings reveal a significant correlation between the quantity
+of cranial vibration from reading aloud and improvements in students' academic
+performances. The experimental group exhibited notable grade improvements,
+especially in the subjects included in the reading sessions. Furthermore,
+the study examined the relationship between sound vibration from reading
+aloud and psychological stress by assessing changes in saliva cortisol
+levels before and after the reading activities. Results demonstrated a
+negative correlation between sound vibration levels and cortisol levels,
+indicating that increased cranial vibration from reading aloud could potentially
+lower psychological stress.</p>
+<p>In conclusion, the study provides evidence that sound vibration reading
+positively influences high school students' academic achievements and reduces
+psychological stress. The development of a portable, head-mounted sound
+vibration monitoring device presents a new avenue for leveraging the benefits
+of sound vibration in educational and psychological interventions. This
+research contributes to the understanding of how physiological processes
+influenced by external physical stimuli, like sound vibration, can impact
+cognitive and psychological outcomes, offering a novel approach to improving
+student performance and well-being.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_15 EFFECTIVE METHOD OF TEACHING BASIC MANAGEMENT SKILLS USING ANALOG
+BUSINESS GAMES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>T. Kaneko<sup>*,a</sup> and R. Hamada<sup>b</sup> 
+</p>
+<p><sup>a</sup>NIT, Tomakomai College, Tomakomai, Japan</p>
+<p><sup>b</sup>NIT, Asahikawa College, Asahikawa, Japan</p>
+<p><sup>*</sup><a href="mailto:t_kaneko@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">t_kaneko@tomakomai-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>The Ministry of Education, Culture, Sports, Science and Technology (MEXT),
+defined entrepreneurship as "the spirit of creating new value by going
+beyond the boundaries of the given environment”. In recent years, entrepreneurship
+education has come into the limelight again. Various educational activities
+are being conducted. The National Institute of Technology, Tomakomai College
+established its "Frontier Course" several years ago, offering "specialized
+education plus entrepreneurship education". Ideas conceived through entrepreneurship
+must then be transformed them into successful businesses. Many systems
+support procedures for starting businesses, but entrepreneurs must also
+learn business management, which requires enormous amounts of time. Students
+not specializing in business need help understanding what to do and how
+to start. Although the authors can present and explain case studies of
+successful companies to students learning about corporate management, it
+is meaningful for students to learn more about difficulties with starting
+a business and to hear the experiences of people who have failed in entrepreneurial
+endeavours. The authors use analog business games in lectures to create
+opportunities for students to experience management in a simulated manner
+and thereby understand it in vague terms. The analog business games the
+authors have produced meet their educational objectives. The supply chain
+collaboration game (SCC game) used at Thammasat University in Thailand
+in 2014 and 2015 was translated into Japanese and was applied for class
+instruction. Merely enjoying the game might be fruitless, but they analyzed
+and presented their management results. Although the students managed a
+simulated company, corporate accounting tools such as balance sheets and
+profit and loss statements were also prepared, facilitating students’ understanding
+of information. These actions allow classes to share discussions of how
+management makes erroneous decisions. The authors verified these lecture
+methods as practical and as allowing students to learn business management
+while having fun.</p>
 </div>
 </details>
 </div>
