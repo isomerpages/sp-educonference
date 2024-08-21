@@ -23,13 +23,13 @@ variant: markdown
 <p>Speech by President, National Institute of Technology Japan</p>
 </li>
 <li>
-<p>Keynote Address by <a target="_blank" href="https://www.rhgraham.org/"> Dr. Ruth Graham</a></p>
+<p>Keynote Address by <a target="_blank" href="https://www.rhgraham.org/"> Dr Ruth Graham</a></p>
 </li>
 <li>
-<p>Keynote Address by <a target="_blank" href="https://www.kth.se/profile/kristina/"> Dr. Kristina Edstrom</a></p>
+<p>Keynote Address by <a target="_blank" href="https://www.kth.se/profile/kristina/"> Dr Kristina Edstrom</a></p>
 </li>
 <li>
-<p>Keynote Address by <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp00092/"> Dr. Ong Yew Soon</a></p>
+<p>Keynote Address by <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp00092/"> Dr Ong Yew Soon</a></p>
 </li>
 </ul>
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Afternoon)</strong>
