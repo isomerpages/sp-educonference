@@ -1107,11 +1107,11 @@ student performance and well-being.</p>
 <summary>JP_15 EFFECTIVE METHOD OF TEACHING BASIC MANAGEMENT SKILLS USING ANALOG
 BUSINESS GAMES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>T. Kaneko<sup>*,a</sup> and R. Hamada<sup>b</sup> 
+<p>T. Kaneko<sup>*,a</sup> and R. Hamada<sup>b</sup>
 </p>
 <p><sup>a</sup>NIT, Tomakomai College, Tomakomai, Japan</p>
 <p><sup>b</sup>NIT, Asahikawa College, Asahikawa, Japan</p>
-<p><sup>*</sup><a href="mailto:t_kaneko@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">t_kaneko@tomakomai-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:t_kaneko@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">t_kaneko@tomakomai-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The Ministry of Education, Culture, Sports, Science and Technology (MEXT),
