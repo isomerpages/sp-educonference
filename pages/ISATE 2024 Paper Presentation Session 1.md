@@ -671,9 +671,47 @@ to practise at their own time.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SP_01</summary>
+<summary>SP_01 IMPROVE TEAMWORK IN FINAL YEAR PROJECTS THROUGH SCRUM FRAMEWORK</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Ho Teck June, Tan Check Meng and Qiu Zixuan</p>
+<p>Singapore Polytechnic/School of Computing, Singapore</p>
+<p><a href="mailto:Tan_Teck_June@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Teck_June@sp.edu.sg</a>,
+<a href="mailto:Tan_Check_Meng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Check_Meng@sp.edu.sg</a>, <a href="mailto:Qiu_Zixuan@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qiu_Zixuan@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>The Final Year Project (FYP) holds a pivotal position within computing-related
+diploma programs, offering students a unique opportunity to apply their
+acquired knowledge and skills to real-world challenges. FYP teams often
+face a range of challenges such as changing project requirements and deliverables,
+communication and collaboration, time management, and unclear individual
+roles and responsibilities. This research paper delves into the impact
+of implementing the Scrum framework to improve teamwork as students carry
+out their final year projects, aiming to identify key factors contributing
+to successful implementation and subsequent improvements in team performance.</p>
+<p>The Scrum framework is an agile framework that promotes collaboration
+among team members. The framework focuses on improving the product through
+constant inspection and adaptation to improve the final output. Researchers
+have analysed the effectiveness of the Scrum framework for project and
+team management in FYP teams in higher education. The findings showed that
+task assignment, performance monitoring, team management and regular feedback
+practices are the main advantages of using Scrum in FYP projects, which
+had a positive impact on student performance.</p>
+<p>The action research employed a mixed-method approach, combining quantitative
+data from the Comprehensive Assessment of Team Member Effectiveness (CATME)
+survey with qualitative insights from focus-group discussions involving
+third-year Diploma in Applied AI and Analytics students. While the CATME
+survey did not reveal significant statistical differences between phases
+of the project, focus group discussions provided a deeper understanding
+of Scrum’s positive impact on teamwork. Participants reported enhanced
+collaboration, improved trust, effective decision-making, and a more inclusive
+team environment due to Scrum practices.</p>
+<p>These findings have led to the broader adoption of Scrum across all FYP
+modules and related projects within the School of Computing. The research
+underscores the value of Scrum in educational settings, offering a framework
+for fostering effective teamwork and improving the overall FYP experience.
+This study contributes valuable insights into the practical application
+of Scrum in academia and suggests that further research could explore Scrum’s
+adaptability to various project types and industry contexts.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -726,27 +764,195 @@ educational effectiveness.</p>
 <h3>Session 1, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_26 EVALUATION OF SUSTAINABLE DEVELOPMENT IN DIPLOMA IN CHEMICAL ENGINEERING
+USING CDIO</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>Katerina Yang<sup>*,a</sup>, Yunyi Wong<sup>a</sup> and Ai Ye Oh<sup>a</sup>
+</p>
+<p><sup>a</sup>Singapore Polytechnic, School of Chemical &amp; Life Sciences,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:katerina_yang@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">katerina_yang@sp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>This paper shares the process and outcomes of the efforts from the Diploma
+in Chemical Engineering (DCHE) Course Management Team in evaluating the
+coverage of sustainable development in the context of chemical engineering
+using the CDIO Framework. The paper first presents the need and practical
+context for integrating sustainable development into the DCHE program based
+on the chemical engineering profession where the skills and attributes
+required to achieve the intended outcome are established. Then, the 17
+United Nation Sustainable Development Goals (UN SDGs) are mapped to the
+learning outcomes in each module while detailing the magnitude of coverage
+of whether a specific UN SDG is ‘teach’ and/or ‘utilise’ in the modules.
+The analysis involves all modules in the DCHE curriculum while noting that
+the Common Core Curriculum (CCC) was implemented in DCHE since AY2022/2023
+that introduced UN SDGs into the curriculum which can be further extended
+to the chemical engineering domain. The paper also describes the application
+of UN SDGs in the context of chemical engineering and how existing learning
+activities support the development of knowledge, skills and attributes
+required to address wicked problems framed by UN SDGs. It was found that
+8 out of the 17 UN SDGs are used in the DCHE curriculum with UN SDG No.
+12 Responsible Consumption &amp; Production being taught and utilised most
+frequently. This could be due to its relevance and application in the study
+of chemical engineering at the diploma level. Then, the CDIO Standards
+are used to conduct a gap analysis of its existing curriculum in sustainable
+development. Base on the learning gaps identified in this paper, there
+are more opportunities to integrate UN SDGs into the curriculum more cohesively
+in accordance to the complexity of the spiral curriculum and within the
+chemical engineering context by teaching and utilising UN SDGs more explicitly
+in Year 1 modules followed by applying UN SDGs in Year 2 and Year 3 modules.
+This will enable students to understand the relevance of UN SDGs to their
+chemical engineering studies. The terminal objective is to enable them
+to extend their learning to address multi-faceted sustainability issues.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_13 IMPLEMENTATION OF ENGINEERING CLASSES INCORPORATING CAREER AND FINANCIAL
+ELEMENTS TO PROMOTE SELF-INVESTMENTS AND THEIR EDUCATIONAL EFFECTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Naoki KAKUDA<sup>*,a </sup>
+</p>
+<p>Department of Electronic Control Engineering, National Institute of Technology
+(KOSEN), Yonago College, Yonago, Tottori, Japan</p>
+<p><sup>*</sup><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a> 
+</p>
+<p>Abstract</p>
 <p></p>
+<p>For students to be socially and economically independent and begin fulfilling
+lives after graduation, it is critical that they be motivated and allocate
+their time and money to various self-investments from the moment they enroll
+in school. KOSEN provides numerous opportunities for students to showcase
+the results of their investments, such as programming contests. Participating
+in such events allows students to clarify their career goals. By improving
+their knowledge and skills, students can raise their expectations, allowing
+them to contribute more as engineers. Furthermore, improving their financial
+literacy boosts students’ sense of independence and motivation to pursue
+specialized subjects. Therefore, in this study, we conducted an engineering
+class incorporating career and financial elements to help students improve
+their expectations and awareness of self-investments and examined the educational
+effects of conducting this class.</p>
+<p>The class was held during the second-year engineering subject “Electromagnetism”
+and the fifth-year subject “Electronic Devices.” First, a teacher explained
+the importance of life and career planning as career elements and self-analysis
+methods. Second, to specifically raise the students’ expectations, on the
+teachers discussed financial literacy, including how to protect and increase
+money, which is a substitute for value, as well as compound interest and
+discounted present value. Furthermore, to connect the students’ specialized
+subjects with financial literacy, the students were given an assignment
+to calculate the investment yield of solar power generation, which can
+be considered a financial innovation created by solar cells, one of the
+most important electronic devices. For this assignment, students created
+their own teaching materials that allowed them to measure the power generated
+by solar cells as well as the panel temperature indoors.</p>
+<p>A questionnaire distributed to students who took the class revealed that
+KOSEN students are open about their careers and have a strong aptitude
+for finance. Furthermore, students demonstrated an understanding of the
+relationship between solar power generation principles and investment concepts.
+Furthermore, as a result of implementing this class, students’ preference
+for self-investment increased, with a high proportion of students studying
+specialized subjects, pursuing qualifications, and investing. As a result,
+it was clear that this class increased students’ motivation to study and
+their level of understanding of specialized subjects.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NYP_08 LEARNING EXPERIENCE DESIGN (LXD) FOR LEARNER ENGAGEMENT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>F. Teoh<sup>*,a</sup>, A. Ng<sup>a</sup>, C.H. Miin<sup>a</sup>, C. Pang<sup>b</sup>,
+T. Lim<sup>b</sup>, K. Tan<sup>c</sup>, S. Goh<sup>c</sup> and E. Foo<sup>d</sup> 
+</p>
+<p><sup>a</sup>Nanyang Polytechnic, School of Applied Science, Singapore</p>
+<p><sup>b</sup>Nanyang Polytechnic, School of Business Management, Singapore</p>
+<p><sup>c</sup>Nanyang Polytechnic, School of Design &amp; Media, Singapore</p>
+<p><sup>d</sup>Nanyang Polytechnic, School of Engineering, Singapore</p>
+<p><sup>*</sup><a href="mailto:Florence_Teoh@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Florence_Teoh@nyp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>Learning Experience Design (LXD) represents a paradigm shift in lesson
+design by advocating learner- and learning-centric rather than traditional
+content- and instruction-centric lesson design. LXD addresses emerging
+T&amp;L challenges such as complex learning environments, accounting for
+learner diversity and the development of transferable and domain skills.
+In this research, case studies conducted by 8 educators across 5 diplomas
+in Nanyang Polytechnic (NYP) establish the effectiveness of employing an
+LXD methodology. The goal is to enhance learner engagement, through catering
+to diverse learners’ needs while addressing environmental challenges, so
+as to facilitate the achievement of learning outcomes in an efficient,
+effective and enjoyable manner. This research seeks to validate that the
+application of LXD principles improves learner engagement, as evidenced
+through 7 enhanced learning attributes, namely; Application, Problem-Solving,
+Collaboration, Autonomy, Confidence, Appreciation and Connection. These
+attributes contribute to Meaningful, Motivational and Memorable learning
+(3M). Over two semesters across 2021 &amp; 2022, 8 educators from NYP applied
+LXD principles in the design of learning activities to address specific
+challenges of the learner and in the learning environment. Before and after
+the implementation of the designed activities, students participated in
+a survey. Educators kept a journal of the experience to reflect and record
+the experience. The LXD Methodology described in this paper was developed
+by NYP with reference to the school’s Effective and Engaging Teaching &amp;
+Learning (EETL) model. This was complemented with a collation of best practices
+on learning design for learner engagement. A group of NYP educators applied
+this methodology strategically to address specific classroom or learner
+challenges and found that learner engagement was enhanced. Case studies
+compiling the educators' experiences and quantitative results validating
+the findings are presented in this research. When applied in a considered
+and consistent manner to address challenges of the learner and in the learning
+environment, the LXD Methodology fosters greater learner engagement.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>VTC_07 AI TUTORHUB: A SYSTEM FOR SPECIAL EDUCATION NEEDS IN POST SECONDARY
+STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>W.H. Chiu<sup>*†a</sup>, Nanoka K.M. Tse<sup>†a</sup>, K.H. Cheung<sup>†ab</sup>,
+Y.K. Yan<sup>a</sup> and Jesse L.C. Shum<sup>a</sup> 
+</p>
+<p><sup>a</sup>Hong Kong Institute of Information Technology, Hong Kong SAR,
+China</p>
+<p><sup>b</sup>University of Sunderland in Hong Kong, Hong Kong SAR, China</p>
+<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a>  <sup>†</sup>authors
+with equal contributions</p>
+<p>Abstract</p>
+<p>AI TutorHub is a platform that combines Artificial Intelligence (AI) with
+Mixed Reality (MR) technology to offer students' timely access to academic
+assistance through an AI Tutor. AI TutorHub is designed and developed to
+address educators' specific challenges in providing support to students,
+particularly those with Special Educational Needs (SEN).</p>
+<p>Smart technology has become an invaluable tool for individuals with Autism
+Spectrum Disorder (ASD), which is one of the types of SEN, as demonstrated
+in previous researches, (Sharmin, et al., 2018) (Valencia, Rusu, Quiñones,
+&amp; Jamet, 2019) (Racha, Chandrasekaran, &amp; Stojcevski, 2023) (Cañete
+&amp; Peralta, 2022). These studies emphasize the efficacy of smart agents,
+immersive environments, and machine learning algorithms in delivering personalized
+interventions and support.</p>
+<p>AI TutorHub introduces several innovative features that revolutionize
+the learning experience. Firstly, it prioritizes accessibility and convenience
+by allowing students to connect with an AI Tutor at their convenience,
+eliminating the limitations of traditional learning channels and setup.</p>
+<p>Secondly, AI TutorHub integrates MR technology to create an immersive
+learning environment. Through interactive simulations and visualizations,
+students actively engage with the AI Tutor, enhancing their understanding
+of complex concepts, improving comprehension, and increasing engagement.</p>
+<p>The AI Tutor within AI TutorHub is equipped with advanced AI‑powered assistance
+capabilities. It can comprehend and respond to students' inquiries, providing
+detailed explanations and step‑by‑step guidance. The AI Tutor consistently
+refines its responses through continual machine learning, ensuring a high‑quality
+learning experience.</p>
+<p>AI TutorHub actively collects students' feedbacks, enabling the AI Tutor
+to enhance its capabilities and tailor responses to meet individual needs
+as well as providing information back to teachers on the learning issues
+with the students. This iterative process ensures a continuously improving
+learning experience that could align with students' specific requirements.</p>
+<p>By efficiently handling queries and offering timely assistance, AI TutorHub
+significantly enhances teaching and learning efficiency. It enables students
+to better catch up with the subject learning and thus, to equip the students
+to participate in the subjects' designed learning activities.</p>
+<p>In conclusion, AI TutorHub strives to empower students with SEN, regardless
+of their learning styles and limitations, in promoting academic success
+and self‑confidence. By combining AI with MR technology, the platform provides
+an interactive and accessible learning environment. Students are encouraged
+to embrace this innovative approach and join AI TutorHub to unlock their
+full potential in their educational journey.</p>
 </div>
 </details>
 </div>
