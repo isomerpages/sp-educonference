@@ -17,7 +17,7 @@ variant: markdown
 <p>Opening and Welcome Address by PCEO, Singapore Polytechnic</p>
 </li>
 <li>
-<p>Speech by GOH Ms Gan Siow Huang Minister of State for Education</p>
+<p>Speech by GOH Ms Gan Siow Huang, Minister of State for Education</p>
 </li>
 <li>
 <p>Speech by President, National Institute of Technology Japan</p>
@@ -49,7 +49,7 @@ variant: markdown
 <p>Keynote Address by <a target="_blank" href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua/"> A/Prof Eric Chua</a></p>
 </li>
 <li>
-<p>Institutional Speakers: Singapore, Japan, Hong Kong, Finland</p>
+<p>Institutional Speakers: Singapore, Japan, Hong Kong and Finland</p>
 </li>
 <li>
 <p>Generative AI Exhibition</p>
