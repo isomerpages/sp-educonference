@@ -424,12 +424,12 @@ SOCIETY</summary>
 <p>Kenta Endo<sup>*,a</sup>, Toshiya Itaya<sup>a</sup>, Yuya Sato<sup>b</sup>,
 Hiroshi Nishiguchi<sup>c</sup>
 </p>
-<p><sup>a</sup>National Institute of Technology, Suzuka College/</p>
-<p>Department of Electronic and Information Engineering, Suzuka, Japan</p>
-<p><sup>b</sup>National Institute of Technology, Toyota College /</p>
-<p>Department of Civil Engineering, Toyota, Japan</p>
-<p><sup>c</sup>National Institute of Technology, Sasebo College /</p>
-<p>Department of Mechanical Engineering, Sasebo, Japan</p>
+<p><sup>a</sup>National Institute of Technology, Suzuka College/ Department
+of Electronic and Information Engineering, Suzuka, Japan</p>
+<p><sup>b</sup>National Institute of Technology, Toyota College / Department
+of Civil Engineering, Toyota, Japan</p>
+<p><sup>c</sup>National Institute of Technology, Sasebo College / Department
+of Mechanical Engineering, Sasebo, Japan</p>
 <p><sup>*</sup><a href="mailto:endo-k@info.suzuka-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">endo-k@info.suzuka-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
