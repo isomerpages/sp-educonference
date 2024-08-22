@@ -9,7 +9,7 @@ variant: markdown
 
 ![](/images/Updated_ISATE_Overall_Program_for_Web_Site_Use.jpg)
 
-<p>Biographies of Keynote Speakers will be made available at a later date.</p>
+
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Morning)</strong>
 </p>
 <ul data-tight="true" class="tight">
