@@ -299,17 +299,17 @@ as well as the use of digital pen &amp; tablet as the main medium of formulating
 projects.</p>
 <p>The research is supported by analysing the empirical artefacts and firsthand
 experience of the users. For an objective comparison, artefacts produced
-use software that supports both mediums.</p>
-<p>In terms of the user experience, observations and interviews with second
-year built environment students who participated in the study will be used.</p>
-<p>Student’s feedback were also useful insights on how novice users faired
-in steadily developing their abilities to use the mediums. The research
-will initially conduct a comparison between mediums when used separately.
-This is done on different stages. This starts from a comparison of the
-process of setting up each medium. Subsequently comparison is done on the
-day-to-day use of the mediums. Finally, a qualitative comparison is done
-of the expanse and limits of conceptual forms that could be finally achieved
-by each medium.</p>
+use software that supports both mediums. In terms of the user experience,
+observations and interviews with second year built environment students
+who participated in the study will be used. Student’s feedback were also
+useful insights on how novice users faired in steadily developing their
+abilities to use the mediums.</p>
+<p>The research will initially conduct a comparison between mediums when
+used separately. This is done on different stages. This starts from a comparison
+of the process of setting up each medium. Subsequently comparison is done
+on the day-to-day use of the mediums. Finally, a qualitative comparison
+is done of the expanse and limits of conceptual forms that could be finally
+achieved by each medium.</p>
 <p>A further study was then conducted on the possible combined use of the
 two mediums. This analysis is done on how one medium could be further developed
 in another medium. The findings of this study were then used to envision
