@@ -101,8 +101,8 @@ paper.</p>
 <summary>JP_18 MEASURING LEARNING EFFECT ON ENGLISH COMPOSITION BY AN ENGLISH APPLICATION
 WITH AI AUTOMATIC CORRECTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>1. Y. Shimura<sup>*,a</sup> 2. D. Marsh,<sup>a</sup> 3. C. Grady,<sup>a</sup> and
-4. N. Iwasaki<sup>b</sup>
+<p>Y. Shimura<sup>*,a</sup>, D. Marsh,<sup>a</sup>, C. Grady,<sup>a</sup> and
+N. Iwasaki<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Wakayama College / Faculty
 of Liberal Arts, Gobo, Japan</p>
