@@ -11,10 +11,8 @@ description: ""
 <summary>SP_13 CRAFT: A FRAMEWORK FOR DESIGNING HIGH-QUALITY PROMPTS FOR GENERATIVE
 AI</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yanto Jakop<sup>a</sup> and Lim Pei Chin<sup>a</sup>
-</p>
-<p><sup>a</sup>School of Mathematics &amp; Science, Singapore Polytechnic,
-Singapore</p>
+<p>Yanto Jakop and Lim Pei Chin</p>
+<p>School of Mathematics &amp; Science, Singapore Polytechnic, Singapore</p>
 <p><a href="mailto:yanto_jakop@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yanto_jakop@sp.edu.sg</a>,
 <a href="mailto:lim_pei_chin@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_chin@sp.edu.sg</a>
 </p>
@@ -88,7 +86,7 @@ AN EVALUATION OF RELIABILITY AND VALIDITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>KOH Noi Sian</p>
 <p>School of Information Technology, Nanyang Polytechnic, Singapore</p>
-<p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a> 
+<p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>In recent years, the landscape of education has undergone a transformative
@@ -132,7 +130,7 @@ effective learning experiences.</p>
 <summary>RP_01 PREDICTIVE ANALYSIS OF STUDENT ACADEMIC PERFORMANCE AT MODULE LEVEL
 WITH MACHINE LEARNING ALGORITHMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>S. Chua<sup>*a</sup> and M. Gujral<sup>b</sup> 
+<p>S. Chua<sup>*a</sup> and M. Gujral<sup>b</sup>
 </p>
 <p><sup>a</sup>Republic Polytechnic/School of Engineering, Singapore</p>
 <p><sup>b</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
