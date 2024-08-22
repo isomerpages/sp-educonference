@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+UPDATED (AUGUST 22, 2024):
+
+Profile of Keynote Speakers added.
+
 UPDATED (June 15, 2024):
 
 Registration for ISATE 2023 is now open!  <a href="/registration/">Click here to go to the Registration Page now.</a>
