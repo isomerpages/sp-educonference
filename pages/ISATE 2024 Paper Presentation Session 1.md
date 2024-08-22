@@ -470,7 +470,7 @@ Hydrogen Stations.</p>
 <details class="isomer-details">
 <summary>NP_03 STUDENTS' PERCEPTION OF FLIPPED LEARNING AT NGEE ANN POLYTECHNIC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Paul Ng, Tan Hui Leng</p>
+<p>Paul Ng and Tan Hui Leng</p>
 <p>Centre for Learning &amp; Teaching Excellence, Ngee Ann Polytechnic, Singapore</p>
 <p><a href="mailto:paul_ng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paul_ng@np.edu.sg</a>,
 <a href="mailto:tan_hui_leng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_leng@np.edu.sg</a>
@@ -614,11 +614,10 @@ professional engineers in an efficient yet effective manner.</p>
 <summary>SP_10 STUDYING THE IMPACT OF PRACTICEME IN IMPROVING STUDENTS’ PROGRAMMING
 SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>T. Kenneth, C. Elynn</p>
+<p>T. Kenneth and C. Elynn</p>
 <p>Singapore Polytechnic/School of Computing, Singapore</p>
-<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg</a>
-</p>
-<p><a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a>
+<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg,</a> 
+<a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
