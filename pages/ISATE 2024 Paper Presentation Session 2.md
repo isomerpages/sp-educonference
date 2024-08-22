@@ -130,7 +130,7 @@ effective learning experiences.</p>
 <summary>RP_01 PREDICTIVE ANALYSIS OF STUDENT ACADEMIC PERFORMANCE AT MODULE LEVEL
 WITH MACHINE LEARNING ALGORITHMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>S. Chua<sup>*a</sup> and M. Gujral<sup>b</sup>
+<p>S. Chua<sup>*,a</sup> and M. Gujral<sup>b</sup>
 </p>
 <p><sup>a</sup>Republic Polytechnic/School of Engineering, Singapore</p>
 <p><sup>b</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
