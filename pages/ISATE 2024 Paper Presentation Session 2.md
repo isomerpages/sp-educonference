@@ -44,13 +44,13 @@ in their studies.</p>
 <summary>TP_03 AI FOR PERSONALIZED LEARNING SUPPORT FOR STUDENTS IN ENGINEERING:
 A JOINT-POLYTECHNIC COLLABORATION PROJECT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Kannurao Sudha<sup>a</sup>, Kwan Eng Eng<sup>a</sup>, Calaiselvy<sup>a</sup>,
+<p>Kannurao Sudha<sup>*,a</sup>, Kwan Eng Eng<sup>a</sup>, Calaiselvy<sup>a</sup>,
 Soon Hock Wei<sup>b</sup>, Udayakumar. T<sup>c</sup>, Shanbhag Narayan<sup>c</sup>
 </p>
 <p><sup>a</sup>School of Engineering, Temasek Polytechnic, Singapore</p>
 <p><sup>b</sup>School of Engineering, Ngee Ann Polytechnic, Singapore</p>
 <p><sup>c</sup>School of Engineering, Republic Polytechnic, Singapore</p>
-<p><a href="mailto:sudhak@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sudhak@tp.edu.sg</a>
+<p><sup>*</sup><a href="mailto:sudhak@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sudhak@tp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>When students encounter difficulty in comprehending certain concept, they
