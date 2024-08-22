@@ -20,7 +20,7 @@ variant: markdown
 <p>Speech by GOH Ms Gan Siow Huang, Minister of State for Education</p>
 </li>
 <li>
-<p>Speech by [President, National Institute of Technology Japan](https://drive.google.com/file/d/1V3rpwSC0o78u5JS6gv_AiDUyv061UB8k/view?usp=sharing)</p>
+<p>Speech by President, National Institute of Technology Japan</p>
 </li>
 <li>
 <p>Keynote Address by <a target="_blank" href="https://www.rhgraham.org/"> Dr Ruth Graham</a></p>
