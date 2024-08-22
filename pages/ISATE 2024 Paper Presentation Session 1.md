@@ -794,11 +794,10 @@ to extend their learning to address multi-faceted sustainability issues.</p>
 <summary>JP_13 IMPLEMENTATION OF ENGINEERING CLASSES INCORPORATING CAREER AND FINANCIAL
 ELEMENTS TO PROMOTE SELF-INVESTMENTS AND THEIR EDUCATIONAL EFFECTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Naoki KAKUDA<sup>*,a</sup>
-</p>
+<p>Naoki KAKUDA</p>
 <p>Department of Electronic Control Engineering, National Institute of Technology
 (KOSEN), Yonago College, Yonago, Tottori, Japan</p>
-<p><sup>*</sup><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a>
+<p><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
