@@ -893,8 +893,9 @@ Y.K. Yan<sup>a</sup> and Jesse L.C. Shum<sup>a</sup>
 <p><sup>a</sup>Hong Kong Institute of Information Technology, Hong Kong SAR,
 China</p>
 <p><sup>b</sup>University of Sunderland in Hong Kong, Hong Kong SAR, China</p>
-<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a>  <sup>†</sup>authors
-with equal contributions</p>
+<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a> 
+</p>
+<p><sup>†</sup>authors with equal contributions</p>
 <p>Abstract</p>
 <p>AI TutorHub is a platform that combines Artificial Intelligence (AI) with
 Mixed Reality (MR) technology to offer students' timely access to academic
