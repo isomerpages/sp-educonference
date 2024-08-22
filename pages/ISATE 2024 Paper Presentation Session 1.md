@@ -893,7 +893,7 @@ Y.K. Yan<sup>a</sup> and Jesse L.C. Shum<sup>a</sup>
 <p><sup>a</sup>Hong Kong Institute of Information Technology, Hong Kong SAR,
 China</p>
 <p><sup>b</sup>University of Sunderland in Hong Kong, Hong Kong SAR, China</p>
-<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a> 
+<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a>
 </p>
 <p><sup>†</sup>authors with equal contributions</p>
 <p>Abstract</p>
@@ -944,7 +944,7 @@ full potential in their educational journey.</p>
 <h3>Session 1, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RP-06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
+<summary>RP_06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
 DESIGN FOR LEARNING (UDL), AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
 AND SELF-EFFICACY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
