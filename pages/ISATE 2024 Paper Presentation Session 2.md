@@ -1017,30 +1017,29 @@ Polytechnic, Singapore</p>
 <p>Abstract</p>
 <p>This study offers a qualitative investigation and implementation of Faculty
 Learning Communities (FLC) as facilitators of Conceive, Design, Implement
-and Operate (CDIO) Standard 10 which emphasises</p>
-<p>the improvement of faculty teaching competence. This implementation of
-the LC approach, facilitated by a group of Teaching and Learning Mentors
-and Specialists (TLMS), aimed at fostering collaboration</p>
-<p>and professional development among teaching staff with activities like
-symposiums, monthly sharing sessions, book studies and curated hands-on
-workshops. The monthly Active Learning Community (ALC) sessions cumulate
-as a large-scale ‘Active Learning Symposium’ involving the School of Architecture
-and the Built Environment (ABE) and Singapore Maritime Academy (SMA). The
-2024 Active Learning Community (ALC) symposium highlighted novel pedagogical
-strategies and assist academics in contextualising them into their teaching
-practices, highlighting the interdependent relationships of various Teaching
-and Learning (T&amp;L) initiatives introduced over the years.</p>
+and Operate (CDIO) Standard 10 which emphasises the improvement of faculty
+teaching competence. This implementation of the LC approach, facilitated
+by a group of Teaching and Learning Mentors and Specialists (TLMS), aimed
+at fostering collaboration and professional development among teaching
+staff with activities like symposiums, monthly sharing sessions, book studies
+and curated hands-on workshops. The monthly Active Learning Community (ALC)
+sessions cumulate as a large-scale ‘Active Learning Symposium’ involving
+the School of Architecture and the Built Environment (ABE) and Singapore
+Maritime Academy (SMA). The 2024 Active Learning Community (ALC) symposium
+highlighted novel pedagogical strategies and assist academics in contextualising
+them into their teaching practices, highlighting the interdependent relationships
+of various Teaching and Learning (T&amp;L) initiatives introduced over
+the years.</p>
 <p>Participants’ reflections emerged as crucial themes related to pedagogy,
 teaching practices, and feasibility of pedagogical adaptation facilitated
-by CDIO standards 8 and 10 during the 2024 ALC</p>
-<p>symposium. Participants also expressed cautious optimism, appreciation,
-commitment to development, and encouragement for data-driven initiatives,
-further reinforcing the potential of organising future large-scale symposiums
-with a strong focus on contextualising CDIO frameworks in teaching strategies
-and curriculum development. The findings of this pilot study highlighted
-the importance of</p>
-<p>bridging educational gaps and enhancing teaching effectiveness while ensuring
-congruence with the outcomes-based education through the operationalisation
+by CDIO standards 8 and 10 during the 2024 ALC symposium. Participants
+also expressed cautious optimism, appreciation, commitment to development,
+and encouragement for data-driven initiatives, further reinforcing the
+potential of organising future large-scale symposiums with a strong focus
+on contextualising CDIO frameworks in teaching strategies and curriculum
+development. The findings of this pilot study highlighted the importance
+of bridging educational gaps and enhancing teaching effectiveness while
+ensuring congruence with the outcomes-based education through the operationalisation
 of CDIO frameworks. This paper introduces a holistic approach and offers
 insights for implementing CDIO Standard 10 (through CDIO Standard 8) as
 a collaborative learning method, emphasising its potential to catalyse
