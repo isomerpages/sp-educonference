@@ -268,13 +268,13 @@ of new human resources, as well as future issues to be addressed.</p>
 <summary>RP_10 EXAMINING LEARNERS’ EXPERIENCES OF MICROLEARNING-SUPPORTED FLIPPED
 LEARNING IN HIGHER EDUCATION THROUGH GAGNE’S NINE EVENTS OF INSTRUCTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>U. Maniar<sup>*,a</sup> and J. Periasamy <sup>b</sup> 
+<p>U. Maniar<sup>*,a</sup> and J. Periasamy <sup>b</sup>
 </p>
 <p><sup>a</sup>Republic Polytechnic/Centre of Educational Development, Senior
 Lecturer, Singapore</p>
 <p><sup>b</sup>Republic Polytechnic/School of Engineering, Senior Lecturer,
 Singapore</p>
-<p><sup>*</sup><a href="mailto:urvi_maniar@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">urvi_maniar@rp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:urvi_maniar@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">urvi_maniar@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -314,14 +314,14 @@ forthcoming lessons.</p>
 <details class="isomer-details">
 <summary>JP_25 PBL-BASED AI EDUCATION PROGRAM WITH BOARD GAMES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Shota Hayashi<sup>a</sup>, Junki Tomatsu<sup>a</sup> and Koji Tajima<sup>*,b</sup> 
+<p>Shota Hayashi<sup>a</sup>, Junki Tomatsu<sup>a</sup> and Koji Tajima<sup>*,b</sup>
 </p>
 <p></p>
 <p><sup>a</sup>NIT(KOSEN), Gifu College, Gifu, Japan</p>
 <p><sup>b</sup>Dept of Electrical Engineering and Information Engineering,
 NIT, Gifu College, Gifu, Japan</p>
 <p></p>
-<p><sup>*</sup><a href="mailto:ktajima@gifu-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ktajima@gifu-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:ktajima@gifu-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ktajima@gifu-nct.ac.jp</a>
 </p>
 <p></p>
 <p>Abstract</p>
@@ -350,26 +350,166 @@ playing against each AIs, and the analysis of the AI.</p>
 <h3>Session 2, Track 3</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>VTC_05 MOTIVATION AND SUPPORT OF STUDENTS IN PROJECTS ON CONSTRUCTION
+INDUSTRY DIGITALISATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Dr Augustus Yuen Fai LEE, FICE</p>
+<p>Engineering Discipline, Hong Kong Institute of Vocational Education, Hong
+Kong</p>
+<p><a href="mailto:ylee@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">ylee@vtc.edu.hk</a> 
+</p>
+<p>Abstract</p>
+<p>In response to “Industry 4.0”, the Government of Hong Kong has launched
+“Construction 2.0” since 2018 to reform its construction industry. Innovation
+and digitalization are indispensable to driving forward productivity, efficiency,
+and enhanced project delivery outcomes. Subsequently, Building Information
+Modelling (BIM) is being mandated in all major capital works projects in
+the same year. The Construction Industry Council (CIC) BIM Standards also
+outline the potential BIM-related systems and integrations in the Construction
+Industry such as Geographic Information System (GIS), Digital Work Supervision
+System, and Digital Twin.</p>
+<p>The Institute of Vocational Education (IVE), in response, has implemented
+BIM curriculums in all Higher Diploma (HD) programmes in the construction
+programme area and obtained accreditation from CIC. Close monitoring of
+final-year students’ academic performance has been carried out from 2018
+to 2024. This paper compares batches of Industrial-Based Student Projects
+(IBSP) (previously known as final year projects) on the Construction Digitalization
+of aforementioned BIM-related systems (a spectrum of digital workflow in
+the construction life cycle) against non-digital / traditional topics.</p>
+<p>After evaluation, support for software and hardware through the Virtual
+Desktop Interface for the massive graphic rendering and data size requirements
+in the BIM environment has been provided, with the aim to motivate the
+digital learning experience. At the end of this paper, a review is given
+on the use of AI avatars for the presentation assessment of IBSP. This
+digital reform of presentation enables students with lesser verbal skills
+or command of English to deliver projects in a controlled timeframe and
+friendly learning environment. A full digitalization of student IBSP is
+set up.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_19 HOW CAN WE SERVE OUR INTERNATIONAL STUDENTS BETTER? -RESULTS FROM
+PRELIMINARY DATA COLLECTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>A. Otsu, Ph.D. and S. Hamamoto, Ph.D.</p>
+<p>National Institute of Technology (KOSEN), Ibaraki College, Hitachinaka,
+Japan</p>
+<p><a href="mailto:a-otsu@ibaraki-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">a-otsu@ibaraki-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>Since the mid-1980s, more than 100 international students from 14 countries,
+mostly from Asian countries, have studied at National Institute of Technology
+(KOSEN), Ibaraki College in Japan (hereinafter referred to as “Ibaraki
+KOSEN”). There have been occasional reports on international students on
+campus, yet no continuous data collection was found, unlike regular annual
+survey for incoming and graduating students including both Japanese and
+international students. This paper introduces a feasibility study conducted
+by two researchers at Ibaraki KOSEN. Dr. Otsu (hereinafter referred to
+as “Otsu”) collected the quantitative data to investigate how international
+students’ experience on campus could predict their overall satisfaction.
+For the school year 2023-2024, 15 international students out of 23 completed
+the survey. Then six of the respondents volunteered for 2-hour individual
+interviews with Dr. Hamamoto (hereinafter referred to as “Hamamoto”) .</p>
+<p>Descriptive statistics showed that the international students at Ibaraki
+KOSEN often engaged in academic activities and participated in cultural
+events on campus. They sometimes interacted with people on campus and used
+campus facilities. They were satisfied with their academic experience at
+school, interpersonal relationships on campus, and their campus services.
+They showed overall satisfaction with their campus, and if they could start
+over again, they probably would go to Ibaraki KOSEN. To measure international
+students’ satisfaction on campus, three major composite variables were
+employed; however, since the number of responses was small for this study,
+the results of regression analyses were not statistically significant.</p>
+<p>Through the interviews, Hamamoto reconstructed the life histories of the
+international students, focusing on why they decided to study in Japan
+and how they had practiced Japanese language since entering Ibaraki KOSEN.
+They appeared to focus on indirect strategies to solve academic problems
+caused by their lack of Japanese language proficiency, although there seemed
+to be a critical correlation between Japanese language learning and specialized
+subject study.</p>
+<p>In conclusion, to serve international students better, a continuous data
+collection, preferably both quantitative and qualitative, is necessary
+to capture their voice. Moreover, KOSEN teachers should collaborate horizontally
+for the sake of sharing problems and obstacles our international students
+might have encountered on campus.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_22 THE TEAROOM PROJECT: A PORTABLE TEAROOM TO PROMOTE INTEREST IN TRADITIONAL
+ARCHITECTURE AND CRAFTSMANSHIP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>A.P. HIGASHINO<sup>*,a</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology /Architecture Department,
+Akashi College, Akashi, Japan</p>
+<p><sup>*</sup><a href="mailto:adriana@akashi.ac.jp" rel="noopener noreferrer nofollow" target="_blank">adriana@akashi.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>The tearoom is a building type that expresses the essence of Japanese
+Culture's aesthetic ideals: wabi-sabi. However, most tearooms have restricted
+access and are closed to the public. This project started from the idea
+that to preserve and keep traditional culture alive, and it is necessary
+that young people, especially kids, should have access to those spaces.
+This paper describes the process of building a portable assemblable tearoom
+and its educational effect on the students who participated in the project
+and on the people who experienced space. The educational impact of the
+project on the students and the people who participated in the events was
+measured through surveys, interviews, and observation. The project had
+three phases: 1-learning about the tea ceremony, Japanese traditional Architecture,
+and planning the tearoom, 2-manufacturing the tearoom, 3-organizing and
+holding events using the tearoom. The students were involved in all different
+phases of the project. Various groups of students participated in the project.
+5th-year architecture students, and the tearoom project was part of their
+graduation research. And a group of students of mixed age from all four
+departments. Most of the students from the second group did not know much
+about traditional Japanese architecture or tea ceremony, so they started
+by learning about it. They visited tearooms and participated in a "chashaku"
+(bamboo teaspoon) workshop. First, we explain how students learned about
+Japanese tea culture and tea architecture and its impact on the students.
+Then, we describe the designing and building process of the tearoom. Later,
+we will discuss the events organized by the students and analyze the event
+participants' survey results. The survey asked if the participants knew
+about tearoom architecture, how they were impressed by the interior space
+of the tearoom, what they would like to do inside the tearoom, and if the
+experience made them more interested in traditional architecture. The results
+were very positive, and most people answered they had never entered a tearoom
+before and that this experience instigated their interest in traditional
+Japanese architecture.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>NYP_11 EXPLORING EDUCATORS' PERSPECTIVES ON USING STORIFICATION AS A PEDAGOGICAL
+TOOL</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Kenneth Tan</p>
+<p>Nanyang Polytechnic, School of Design &amp; Media, Singapore</p>
+<p><a href="mailto:kenneth_tan@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_tan@nyp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>This exploratory case study examines the experiences of three educators
+at Nanyang</p>
+<p>Polytechnic (NYP) from different disciplines who implemented Storification
+as a pedagogical tool in</p>
+<p>their course design and delivery. Using semi-structured interviews and
+Interpretative</p>
+<p>Phenomenological Analysis, the study investigates educators' perceptions,
+implementation methods, and the</p>
+<p>impact on learner engagement. The findings reveal increased learner engagement,
+improved</p>
+<p>understanding of complex topics, and enhanced creativity. However, challenges
+such as time</p>
+<p>constraints, adapting to different learning styles, and aligning with
+assessment criteria were encountered. The</p>
+<p>study proposes several recommendations, including developing clear frameworks,
+balancing creativity</p>
+<p>and academic rigor, collaborating with IT staff, engaging in professional
+development, and conducting</p>
+<p>further research. The results suggest that Storification has the potential
+to transform traditional</p>
+<p>teaching methods and create a more inclusive and effective learning environment.</p>
 <p></p>
 </div>
 </details>
