@@ -97,11 +97,11 @@ learning and applies it in decision-making. Initially, the module was too
 challenging due to its heavy cognitive load, as indicated by feedback from
 the 2021/2022 and 2022/2023 academic years. By using Codeium, programming
 became easier and more intuitive, helping students understand complex ideas
-better. ChatGPT offered personalized and interactive</p>
-<p>support. Feedback from the 2023/2024 academic year showed higher student
-satisfaction. This study shows that GAI tools can make learning easier
-and could be used to teach other complex skills, reducing difficulty and
-improving student skills for the future.</p>
+better. ChatGPT offered personalized and interactive support. Feedback
+from the 2023/2024 academic year showed higher student satisfaction. This
+study shows that GAI tools can make learning easier and could be used to
+teach other complex skills, reducing difficulty and improving student skills
+for the future.</p>
 <p></p>
 </div>
 </details>
@@ -482,7 +482,7 @@ handicap.</p>
 <details class="isomer-details">
 <summary>JP_07 GLOBAL WORKSHOP FOR YOUTH EDUCATION FOR CLIMATE CHANGE RELATED INNOVATIONS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Y. Ghezelloo<sup>*,a</sup>, S. Fujiwara<sup>b</sup> and Y. Mizuno<sup>c</sup> 
+<p>Y. Ghezelloo<sup>*,a</sup>, S. Fujiwara<sup>b</sup> and Y. Mizuno<sup>c</sup>
 </p>
 <p><sup>a</sup>National Institution of Technology /Architecture, Assistant
 Professor, Akashi, Japan</p>
@@ -490,7 +490,7 @@ Professor, Akashi, Japan</p>
 Tokyo, Japan</p>
 <p><sup>c</sup>National Institution of Technology /Global Education Centre,
 Director, Akashi, Japan</p>
-<p><sup>*</sup><a href="mailto:y.ghezelloo@akashi.ac.jp" rel="noopener noreferrer nofollow" target="_blank">y.ghezelloo@akashi.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:y.ghezelloo@akashi.ac.jp" rel="noopener noreferrer nofollow" target="_blank">y.ghezelloo@akashi.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>This paper reviews the process, products and outcomes of the Kosen Global
@@ -528,13 +528,13 @@ the risks and damages more globally in the future.</p>
 <details class="isomer-details">
 <summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>J. Kontio<sup>*,a </sup>and M. Ketola<sup>b</sup> 
+<p>J. Kontio<sup>*,a </sup>and M. Ketola<sup>b</sup>
 </p>
 <p><sup>a</sup>Turku University of Applied Sciences, Faculty of Engineering
 and Business Turku, Finland</p>
 <p><sup>b</sup>Turku University of Applied Sciences, Faculty of Engineering
 and Business/ School of Common Studies, Turku, Finland</p>
-<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a> 
+<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a>
 </p>
 <p>Abstract</p>
 <p>Faculty of Engineering and Business in Turku University of Applied Sciences
@@ -594,11 +594,11 @@ its phases, and its key results and experiences.</p>
 <summary>JP_26 PROJECT-BASED LEARNING TO RAISE FEMALE STUDENTS’ COMPETENCY LEVEL:
 EDUCATIONAL MODEL FOR CAPACITY BUILDING OF FEMALE STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yuko Kamochi<sup>*,a</sup>, Kazunari Matsuno<sup>a</sup> 
+<p>Yuko Kamochi<sup>*,a</sup>, Kazunari Matsuno<sup>a</sup>
 </p>
-<p> <sup>a</sup>National Institute of Technology(KOSEN), Kure College, Kure,
+<p><sup>a</sup>National Institute of Technology(KOSEN), Kure College, Kure,
 Hiroshima, Japan</p>
-<p><sup>*</sup><a href="mailto:kamochi@kure-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kamochi@kure-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:kamochi@kure-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kamochi@kure-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -641,7 +641,7 @@ of science career choice support programs are suggested.</p>
 LEARNING EXPERIENCE: AN ACTION RESEARCH PROJECT IN EEE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Phyoe Kyaw Kyaw<sup>*a</sup>, Lim Joo Ghee<sup>a</sup>, Mark Wan Chi Ming<sup>a</sup> and
-Chong Siew Kee<sup>b</sup> 
+Chong Siew Kee<sup>b</sup>
 </p>
 <p><sup>a</sup>School of Electrical &amp; Electronic Engineering, Singapore
 Polytechnic, Singapore</p>
