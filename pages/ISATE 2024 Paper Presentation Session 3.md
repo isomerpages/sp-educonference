@@ -156,7 +156,7 @@ in a rapidly evolving world powered by large language models (LLM).</p>
 <summary>JP_29 AN INTERACTIVE LEARNING MATERIAL BASED ON THE DATA HIDING TECHNIQUES
 ON PRINTED MATTERS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tetsuya Kojima<sup>*,a</sup>, Run Kawada<sup>b</sup> and Shinya Suzuki<sup>c</sup> 
+<p>Tetsuya Kojima<sup>*,a</sup>, Run Kawada<sup>b</sup> and Shinya Suzuki<sup>c</sup>
 </p>
 <p><sup>a</sup>Department of Computer Science, National Institute of Technology,
 Tokyo College,</p>
@@ -164,7 +164,7 @@ Tokyo College,</p>
 <p><sup>b</sup>teamLab Inc., Tokyo, Japan</p>
 <p><sup>c</sup>Department of Liberal Arts, National Institute of Technology,
 Tokyo College, Hachioji, Japan</p>
-<p><sup>*</sup><a href="mailto:kojt@tokyo-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kojt@tokyo-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:kojt@tokyo-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kojt@tokyo-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -237,7 +237,7 @@ system behaviour, fostering</p>
 <summary>JP_31 THE ROLE OF UNITWIN NETWORK FOR ENGINEERING EDUCATION TOWARDS SUSTAINABLE
 PATHWAYS: GIGAKU SDG NETWORK</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Katsumi<sup>*,a</sup>, O. Takahashi<sup>b</sup> 
+<p>M. Katsumi<sup>*,a</sup>, O. Takahashi<sup>b</sup>
 </p>
 <p><sup>a</sup>Institute for International Industry-Academia Collaboration,</p>
 <p>Nagaoka University of Technology, Nagaoka, Japan</p>
@@ -313,26 +313,164 @@ scheduling system.</p>
 <h3>Session 3, Track 3</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_06 VIDEO CLICKSTREAM INSIGHTS: UNDERSTANDING STUDENTS' VIDEO WATCHING
+HABITS FOR BETTER ENGAGEMENT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Say Beng, Lai<sup>*,a</sup>, Li Cheong, Chin<sup>a</sup>, Nam Chew, Chua<sup>a</sup>,
+Alvin, Ng<sup>a</sup> and Charlotte, Poh<sup>a</sup> 
+</p>
+<p> <sup>a</sup>Singapore Polytechnic, School of Mathematics and Science,
+Singapore, Singapore</p>
+<p><sup>*</sup><a href="mailto:Lai_Say_Beng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lai_Say_Beng@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>In Singapore Polytechnic (SP), our modules have become fully flipped.
+Students in the flipped classroom view online lecture videos asynchronously
+in our learning management system Brightspace (BS) as part of their pre-class
+homework. Currently in BS, lecturers can only see if students have clicked
+on the link to watch these assigned videos, but not the behaviour of the
+students’ video viewing patterns. As lecturers, it is crucial to know our
+students’ video watching habits so that we can identify their learning
+needs before going to class. Therefore, in the School of Mathematics and
+Science (MS), we embarked on a project to study this.</p>
+<p>In this paper, we will share with you our insights in using video clickstream
+data from an online system called LearningANTS for better classroom engagement.
+This study was conducted in AY2023/24 S2 for the Engineering Mathematics
+II module taken by approximately 840 students. During this semester, students
+watched 3 weeks of lecture videos from LearningANTS where their various
+click actions were being captured by the system. From the various reporting
+charts in LearningANTS, lecturers were able to ascertain the percentage
+of videos viewed by students and monitor when and how students played,
+rewound, fast-forwarded and paused the videos as they watched the online
+lessons.</p>
+<p>Our findings from this study were gathered from data captured in the system
+and feedback solicited through surveys from students and lecturers. Clustering
+of the data with students’ assessment results enabled lecturers to better
+understand video viewing behaviour based on the capabilities of students.
+Feedback from student surveys helped lecturers better understand why students
+rewound, fast-forwarded and paused the videos. The collective views from
+lecturer surveys were generally positive. Although most lecturers agreed
+that the insights gathered from the dashboard in the system can help improve
+students’ learning, there is a need for better support in translating these
+insights to classroom intervention strategies. As SP plans to roll out
+video content management system in our modules, we can leverage our findings
+to guide future deployment.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_43 DEVELOPMENT OF PROGRAMMING EDUCATION SUPPORT MATERIALS USING IOT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Y. Bando<sup>*,a</sup> and A. Mizumoto<sup>b</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology, Kure college, Kure, Japan</p>
+<p><sup>b</sup>JFE Plant Engineering Co., Ltd, Kurashiki, Japan</p>
+<p><sup>*</sup><a href="mailto:bando@kure-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">bando@kure-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>In Japan, from the 2020 school year, programming education in elementary
+schools has become compulsory. The Ministry of Education, Culture, Sports,
+Science and Technology (MEXT) has proposed the "GIGA School Concept," which
+has led to the rapid construction of ICT environments at each educational
+institution, resulting in the steady introduction of programming education
+and a wealth of examples. On the other hand, the current situation is that
+programming　education has not yet taken root due to the fact that there
+are educational institutions with inadequate ICT environment facilities
+and teachers who are concerned about how to conduct classes. Therefore,
+we attempted to develop IoT-based programming education support materials
+that are easy to use for both children and teachers, and that are also
+easy to introduce in terms of environmental facilities. We developed a
+teaching material to support programming education by applying IoT technology.
+By creating 3D programming blocks with ‘Basic programing source code’ and
+combining them to construct a program, and by transmitting the information
+of the assembled programming blocks to the robot side, the robot equipped
+with a microcontroller can operate according to the assembled blocks, and
+the results of the program execution can be fed back to the robot side.
+Specifically, the basic operation of the robot is assigned to each block,
+and an operation program is constructed as a combination of basic operations
+from the array information of each block read by the master block. The
+created program is transferred to the robot by Bluetooth wireless communication,
+and the robot actually performs the operation defined by the array of blocks.
+This system is designed to allow you to enjoy trial and error by actually
+moving your hands to assemble the blocks. The purpose of this system is
+to improve the learning efficiency by providing feedback to the robot.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>SP_14 LEVERAGING LEARNING ANALYTICS IN CHEMISTRY I MODULE: INSIGHTS FROM
+PRE-CLASS ASSIGNMENT SCORE ANALYSIS IN BRIGHTSPACE LMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>T.W. Tan<sup>*</sup>, C.H. Chan and X.K. Wee</p>
+<p>School of Chemical &amp; Life Sciences, Singapore Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:tan_tiong_wei@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tiong_wei@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>The integration of learning analytics in flipped classroom involves gathering
+and analysing data on student engagement, performance and learning behaviours
+from both pre-class and in-class activities. The use of data, whether it
+is explanatory or through predictive models, is to gain insights to improve
+student learning outcomes (Pam, A et al, 2016). This study explores the
+utilisation of learning analytics within the Brightspace Learning Management
+System (LMS) for Chemistry I module, where students engage with diverse
+resources and activities, including asynchronous lectures, assignments,
+quizzes and surveys. Analysis of data is facilitated by the Quiz Dashboard
+with a specific focus on investigating the impact of students’ pre-class
+assignment score on mid-semester test (MST), examination and their overall
+module marks. The purpose is to gain insights into how students’ interaction
+with their pre-class assignments will allow faculty to determine learners’
+motivation and predict their examination and overall module performance.
+Our results showed that there is a significant positive correlation between
+the total pre-class assignment score and the examination marks, r (515)
+= .68, p &lt; .05. There is also a strong positive correlation between
+the total pre-class assignment score and the final module marks and the
+relationship is also statistically significant, r (515) = .73, p &lt; .05.
+Our analysis also showed that students in the higher pre-class assignment
+percentage ranges have a higher percentage of learners passing the MST
+and the examination. The results are encouraging as it validated the use
+of data from pre-class assignment score in Brightspace as ALeRT to help
+students improve on their chemistry. The data can also be used to predict
+at-risk students early so that faculty can provide targeted interventions
+through differentiated activities or supplementary classes to support their
+learning journey. This approach aligns with the broader goal of leveraging
+technology and data to optimise students’ learning and allow faculty members
+to create a more inclusive and effective learning environment in chemistry
+education.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JP_47 SWITCH MATERIALS FOR OPERATING VR SYSTEM TO ACHIEVE THE SAME OPERATION
+FOR PHYSICAL DISABILITY AND ABLE-BODIED PEOPLE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>K. Kageyama<sup>*,a</sup>, K. Suehisa<sup>b</sup>, K. Mori<sup>a</sup>,
+Y. Tange<sup>a</sup> and T. Dode<sup>c</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology, Maizuru College</p>
+<p><sup>b</sup>Faculty of Advanced Engineering, National Institute of Technology,
+Maizuru College</p>
+<p><sup>c</sup>Kyoto Prefectural Special Support School in Yosanoumi</p>
+<p><sup>*</sup><a href="mailto:k.kageyama@maizuru-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">k.kageyama@maizuru-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>Delivery classes have been conducting delivery classes for teachers at
+Kyoto Prefectural Special Support School. The content of the classes consists
+of switch teaching devices, which are often requested by teachers at special-needs
+schools. With the recent introduction of mandatory programming education,
+there has been a demand for assistive products related to programming knowledge.
+One such request originated from a teacher at a special-needs school for
+children with physical disabilities, who said, “I want to use virtual reality
+to realize things that cannot be done in the real world.” This can be challenging
+for people with disabilities. Therefore, in this study, we propose switch
+assistive technology that enables people with severe disabilities to operate
+virtual reality (VR) in the same way as those without disabilities. We
+developed a controller that enables physically impaired people to operate
+VR. This controller consists of switches that are typically used by people
+with a physical handicap. This switch can be used to switch the user's
+viewpoint in the VR environment. We confirmed that a person with a physical
+handicap can operate the VR in the same way as a person without a physical
+handicap.</p>
 <p></p>
 </div>
 </details>
