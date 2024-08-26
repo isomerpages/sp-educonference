@@ -197,7 +197,7 @@ FROM A MULTIMODAL STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Tan Boon Yuen</p>
 <p>Singapore Polytechnic/ School of Computing, Singapore</p>
-<p><a href="mailto:tan_boon_yuen@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_yuen@sp.edu.sg</a> 
+<p><a href="mailto:tan_boon_yuen@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_yuen@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -223,7 +223,7 @@ activities that correlate with learning outcomes in the School of Computing
 VIRTUALIZATION TECHNOLOGY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Kyosuke Kawai<sup>*,a</sup>, Satoru Yamada<sup>b</sup>, Tomoharu Kaeriyama<sup>c</sup> and
-Yuki Yamaguchi<sup>a</sup> 
+Yuki Yamaguchi<sup>a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology Ishikawa College/Electronic
 and Mechanical Engineering, Kanazawa, Ishikawa, Japan</p>
@@ -231,7 +231,7 @@ and Mechanical Engineering, Kanazawa, Ishikawa, Japan</p>
 Engineering, Kanazawa, Ishikawa, Japan</p>
 <p><sup>c</sup>National Institute of Technology Kisarazu College/Mechanical
 Engineering, Kisarazu, Chiba, Japan</p>
-<p><sup>*</sup><a href="mailto:satoru@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">satoru@ishikawa-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:satoru@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">satoru@ishikawa-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -265,14 +265,83 @@ of new human resources, as well as future issues to be addressed.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>RP_10 EXAMINING LEARNERS’ EXPERIENCES OF MICROLEARNING-SUPPORTED FLIPPED
+LEARNING IN HIGHER EDUCATION THROUGH GAGNE’S NINE EVENTS OF INSTRUCTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>U. Maniar<sup>*,a</sup> and J. Periasamy <sup>b</sup> 
+</p>
+<p><sup>a</sup>Republic Polytechnic/Centre of Educational Development, Senior
+Lecturer, Singapore</p>
+<p><sup>b</sup>Republic Polytechnic/School of Engineering, Senior Lecturer,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:urvi_maniar@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">urvi_maniar@rp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Microlearning is perceived as a method of instruction which provides bite-sized
+chunks of content that can be learned in short time spans and at any place.
+Flipped learning affords active engagement with learning materials before
+class to allow subsequent deeper discussions, and application of knowledge.
+Microlearning integrated with flipped learning thus provides a rich basis
+for personalised learning against the background of typical problem-based
+learning or learner-centric classrooms. This study examines how learners
+experience microlearning-supported flipped learning in the context of learner-centric
+settings and provides valuable insights into how well-designed microlearning
+packages aligned to Gagne’s (1985) nine events of instruction can achieve
+the goals of flipped learning. Pre-readings were created using online SCORM
+and Kahoot microlearning packages for non-technical and technical modules
+respectively, which engaged learners prior to face-to-face lessons. In
+the design of the microlearning packages learners’ attention was captured
+using quotes and recap quizzes to activate prior knowledge, learners were
+guided in their exploration of concepts using short three-minute videos,
+real-life examples, PowerPoint slides, Padlet and Discussion Forum. Learning
+was consolidated using self-check questions and quizzes with real-time
+feedback. A total of 32 learners from a polytechnic in Singapore participated
+in the study where qualitative data was gathered through six focus group
+discussions and analysed using deductive thematic methods. Findings indicate
+that the learners experienced all of Gagne’s (1985) nine events of instruction
+whilst engaging with the microlearning packages. The main elements of flipped
+learning are depicted in the themes comprising preparatory engagement and
+guided exploration, which were covered by microlearning packages and followed
+by in-class collaboration and applications. The guided exploration features
+were most prominently experienced by learners, and this was followed by
+their preparatory engagement, thereby evidencing the assertion that creatively
+designed pre-reading microlearning packages prepares the learners for the
+forthcoming lessons.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_25 PBL-BASED AI EDUCATION PROGRAM WITH BOARD GAMES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Shota Hayashi<sup>a</sup>, Junki Tomatsu<sup>a</sup> and Koji Tajima<sup>*,b</sup> 
+</p>
+<p></p>
+<p><sup>a</sup>NIT(KOSEN), Gifu College, Gifu, Japan</p>
+<p><sup>b</sup>Dept of Electrical Engineering and Information Engineering,
+NIT, Gifu College, Gifu, Japan</p>
+<p></p>
+<p><sup>*</sup><a href="mailto:ktajima@gifu-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ktajima@gifu-nct.ac.jp</a> 
+</p>
+<p></p>
+<p>Abstract</p>
+<p></p>
+<p>The Department of Electrical and Computer Engineering of NIT Gifu College
+has been conducting Problem-based learning (PBL) classes for students to
+develop game AI since 2012. This paper describes the summary of this PBL
+class and the contents of the development in the academic year 2023 from
+the viewpoints of faculty members and students. This class is for fifth-grade
+KOSEN students, and the task is to develop AI for computer games. The games
+are mostly different each year, but we select either original games or
+existing analog games. Students develop a client program that communicates
+with a server program developed by the faculty members. This class begins
+in April and the competition are held twice, once in June and once in September. </p>
+<p>The subject of the 2023 experiment was the card game En Garde by Reiner
+Knizia. Students played the game first and created several static algorithms
+based on their experience. After that, they tested these algorithms against
+each other and created an AI based on its probability. In this paper, we
+summarize the features of the AI created by the students, the results of
+playing against each AIs, and the analysis of the AI.</p>
 <p></p>
 </div>
 </details>
