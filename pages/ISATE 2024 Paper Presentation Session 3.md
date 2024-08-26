@@ -317,11 +317,11 @@ scheduling system.</p>
 HABITS FOR BETTER ENGAGEMENT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Say Beng, Lai<sup>*,a</sup>, Li Cheong, Chin<sup>a</sup>, Nam Chew, Chua<sup>a</sup>,
-Alvin, Ng<sup>a</sup> and Charlotte, Poh<sup>a</sup> 
+Alvin, Ng<sup>a</sup> and Charlotte, Poh<sup>a</sup>
 </p>
-<p> <sup>a</sup>Singapore Polytechnic, School of Mathematics and Science,
+<p><sup>a</sup>Singapore Polytechnic, School of Mathematics and Science,
 Singapore, Singapore</p>
-<p><sup>*</sup><a href="mailto:Lai_Say_Beng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lai_Say_Beng@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Lai_Say_Beng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lai_Say_Beng@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -362,11 +362,11 @@ to guide future deployment.</p>
 <details class="isomer-details">
 <summary>JP_43 DEVELOPMENT OF PROGRAMMING EDUCATION SUPPORT MATERIALS USING IOT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Y. Bando<sup>*,a</sup> and A. Mizumoto<sup>b</sup> 
+<p>Y. Bando<sup>*,a</sup> and A. Mizumoto<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Kure college, Kure, Japan</p>
 <p><sup>b</sup>JFE Plant Engineering Co., Ltd, Kurashiki, Japan</p>
-<p><sup>*</sup><a href="mailto:bando@kure-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">bando@kure-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:bando@kure-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">bando@kure-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>In Japan, from the 2020 school year, programming education in elementary
@@ -404,7 +404,7 @@ PRE-CLASS ASSIGNMENT SCORE ANALYSIS IN BRIGHTSPACE LMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>T.W. Tan<sup>*</sup>, C.H. Chan and X.K. Wee</p>
 <p>School of Chemical &amp; Life Sciences, Singapore Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:tan_tiong_wei@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tiong_wei@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:tan_tiong_wei@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tiong_wei@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The integration of learning analytics in flipped classroom involves gathering
@@ -445,13 +445,13 @@ education.</p>
 FOR PHYSICAL DISABILITY AND ABLE-BODIED PEOPLE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>K. Kageyama<sup>*,a</sup>, K. Suehisa<sup>b</sup>, K. Mori<sup>a</sup>,
-Y. Tange<sup>a</sup> and T. Dode<sup>c</sup> 
+Y. Tange<sup>a</sup> and T. Dode<sup>c</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Maizuru College</p>
 <p><sup>b</sup>Faculty of Advanced Engineering, National Institute of Technology,
 Maizuru College</p>
 <p><sup>c</sup>Kyoto Prefectural Special Support School in Yosanoumi</p>
-<p><sup>*</sup><a href="mailto:k.kageyama@maizuru-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">k.kageyama@maizuru-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:k.kageyama@maizuru-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">k.kageyama@maizuru-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Delivery classes have been conducting delivery classes for teachers at
@@ -480,26 +480,206 @@ handicap.</p>
 <h3>Session 3, Track 4</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_07 GLOBAL WORKSHOP FOR YOUTH EDUCATION FOR CLIMATE CHANGE RELATED INNOVATIONS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Y. Ghezelloo<sup>*,a</sup>, S. Fujiwara<sup>b</sup> and Y. Mizuno<sup>c</sup> 
+</p>
+<p><sup>a</sup>National Institution of Technology /Architecture, Assistant
+Professor, Akashi, Japan</p>
+<p><sup>b</sup>National Institution of Technology/ Senior Director, Headquarters,
+Tokyo, Japan</p>
+<p><sup>c</sup>National Institution of Technology /Global Education Centre,
+Director, Akashi, Japan</p>
+<p><sup>*</sup><a href="mailto:y.ghezelloo@akashi.ac.jp" rel="noopener noreferrer nofollow" target="_blank">y.ghezelloo@akashi.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>This paper reviews the process, products and outcomes of the Kosen Global
+Camp implemented by National Institute of Technology, Akashi college in
+September 2023 under Sakura Science Grant. This 10- day program invited
+international college students as well as globally experienced lecturers
+and provided a series of active learning and problem-based workshops on
+disaster science, climate change preparedness, climate-related disaster
+innovation, and engineering design. The aim was to devise the youth in
+inclusive understanding of climate change related disaster risks and encourage
+their innovative and critical thinking through multicultural and multi-discipline
+to prepare and respond to future risks. Throughout Kosen Global Camp, students
+at college of technologies from Japan, Taiwan, Indonesia, Malaysia, and
+Mongolia, gathered in Akashi College of Technology and developed their
+ideas as to face climate-related disasters as innovative product prototypes.
+Participants were given lectures on basics of natural hazards and climate-related
+disasters, practiced different risk scenarios as the survivors as well
+as preparedness innovators. In addition, students were assigned to 6 multicultural
+groups of international students to introduce and establish a deep understanding
+of the natural hazards in their home countries for other members and discuss
+the challenges of climate change in each background. The members then worked
+along the engineering design lectures, captured a global discussion and
+way of thinking regarding the issues of climate change and developed their
+very own creative prototype of products. At the end, each group presented
+their prototype for the participants and the lecturers and were awarded
+a certificate of completion. We believe that these types of youth innovative
+and active education followed by problem-based learning techniques will
+enhance next generations understanding and familiarity with the basics
+of climate change related disaster. In addition, the participants can develop
+a better understanding of their role and ability as contributors to mitigate
+the risks and damages more globally in the future.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>J. Kontio<sup>*,a </sup>and M. Ketola<sup>b</sup> 
+</p>
+<p><sup>a</sup>Turku University of Applied Sciences, Faculty of Engineering
+and Business Turku, Finland</p>
+<p><sup>b</sup>Turku University of Applied Sciences, Faculty of Engineering
+and Business/ School of Common Studies, Turku, Finland</p>
+<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a> 
+</p>
+<p>Abstract</p>
+<p>Faculty of Engineering and Business in Turku University of Applied Sciences
+started a major curricula reform in Autumn 2022 with the aim of new curricula
+for autumn 2024. The reform was for all our engineering and business administrations
+programs in bachelor level. The project used CDIO as the general framework
+for the reform. There are altogether 20 different curricula that this reform
+affected. The reform had a project group consisting of representatives
+from all our eight schools. The reform aimed to improve three main goals:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strengthen professional core competencies in programs,</p>
+</li>
+<li>
+<p>Strengthen the quality of education and improve completion and</p>
+</li>
+<li>
+<p>Support personnel well-being.</p>
+</li>
+</ul>
+<p>The first goal challenged the programs to identify their key existing
+principle: What is the professional role and practical context of the profession?
+The second goal challenged the programs to improve their learning outcomes
+and to ensure their students reach the desired learning outcomes by focusing
+on teaching and learning activities, assessment, and overall implementation
+of the curricula. The third goal focused on improving the design of daily
+work by getting rid of fragmented work duties and enabling focusing on
+one’s competences.</p>
+<p>The project had three main phases:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>General planning, goal definition of each program and intended learning
+outcomes</p>
+</li>
+<li>
+<p>Defining courses’ descriptions and constructive alignment</p>
+</li>
+<li>
+<p>Finalizing the change.</p>
+</li>
+</ul>
+<p>Based on the reform project we currently have new curricula in all the
+programs starting autumn 2024. Their goals are clarified, learning outcomes
+are specified, and the functionality of the whole has been ensured. The
+modular structure has been improved and each program has a clear growth
+story built in the program. Furthermore, several common project modules
+have been embedded in curricula. Currently we are working on constructive
+alignment by planning learning outcomes, teaching/learning activities and
+assessment to form a mutually supportive whole. Furthermore, teaching and
+learning is designed to be based on active methods and our learning environments
+will be in active use. In this paper, we describe the aims of the reform,
+its phases, and its key results and experiences.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_26 PROJECT-BASED LEARNING TO RAISE FEMALE STUDENTS’ COMPETENCY LEVEL:
+EDUCATIONAL MODEL FOR CAPACITY BUILDING OF FEMALE STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Yuko Kamochi<sup>*,a</sup>, Kazunari Matsuno<sup>a</sup> 
+</p>
+<p> <sup>a</sup>National Institute of Technology(KOSEN), Kure College, Kure,
+Hiroshima, Japan</p>
+<p><sup>*</sup><a href="mailto:kamochi@kure-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kamochi@kure-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>The National Institute of Technology (KOSEN), Kure College (KC) which
+was opened in 1964, will celebrate its 60th anniversary in 2024. The growing
+social demand for female participation in the engineering field led KC
+to establish Gender Equality Promotion Office in 2013. Since then, a female
+student public relations group has operated as a subordinate organization
+of the Gender Equality Promotion Office, aiming to promote diversity within
+KC. In 2015, the group changed its name to MECA Girls Training Project,
+with “MECA” representing Mechanical, Electrical, Information Science, Civil
+and Architectural Engineering. This project has been ongoing, designing
+various science and engineering-related workshops and promotional events.
+Its goal is to help junior high school students choose scientific fields
+as their career paths and to raise awareness of KOSEN as one of the viable
+options. As a result of these efforts, the average percentage of female
+students in admission, which was about 15 % before the inception of MECA
+Girls Training Project, has significantly increased to an average of 24
+% between 2015 and 2024. As of the year 2024, it has reached its highest
+point at 32 %, surpassing the mid-term target for KOSEN female enrollment
+by two points. The present study focuses on the process of building campus
+organizations and educational program to enhance the competency level of
+female students. Furthermore, we will look at how the project-based course,
+“Incubation Work,” which started in 2015 for all grades and in all departments
+in KC, has influenced the deepening of the project themes female students
+devised. Then, the questionnaire survey conducted on the project members
+is analysed to see what capacities were built through the project implementation.
+In conclusion, it can be said that several essential skills and abilities
+to seek careers, that is, communication skills, self-analytical skills,
+and promotional ability were fostered through the creation of science and
+engineering educational content for junior high school students and promotional
+activities to increase the number of female students entering KOSEN. Finally,
+some methodological insights that will contribute to expanding the base
+of science career choice support programs are suggested.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>SP_23 HOW A GENERATIVE AI POWERED CUSTOMISED CHATBOT CAN ENHANCE THE STUDENT
+LEARNING EXPERIENCE: AN ACTION RESEARCH PROJECT IN EEE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Phyoe Kyaw Kyaw<sup>*a</sup>, Lim Joo Ghee<sup>a</sup>, Mark Wan Chi Ming<sup>a</sup> and
+Chong Siew Kee<sup>b</sup> 
+</p>
+<p><sup>a</sup>School of Electrical &amp; Electronic Engineering, Singapore
+Polytechnic, Singapore</p>
+<p><sup>b</sup>Department of Academic Quality &amp; Resources, Singapore
+Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:phyoe_kyaw_kyaw@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phyoe_kyaw_kyaw@sp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p></p>
+<p>This paper documents an innovation in which a customized learning assistant
+chatbot, built upon the Generative Pre-trained Transformers (GPT), a Generative
+Artificial Intelligence (AI) Large Language Model (LLM), was employed as
+a virtual tutor to supplement the student learning experience in a data-enabled
+flipped learning (DEFL) classroom module. The research sought to explore,
+analyse, and evaluate how students experienced this technology, what could
+be learned to enhance different aspects of the learning process, and the
+challenges this may pose for future practice and research. The pedagogic
+approach was guided by an evidence-based teaching framework in which the
+design and facilitation of learning draws on validated knowledge on how
+students learn best and what teaching methods are most effective and efficient.
+In the chatbot, students were provided with clear learning outcomes, instructional
+content that focused on the key subject concepts essential to building
+understanding, and focused question prompts to initiate their critical
+thinking. They were then encouraged to use their own initiative in experimenting
+with this AI technology. The methodology involved data collection from
+146 first-year students across eight classes in two Digital Electronics
+modules, focus group interviews with a sample of 10 students, and reflective
+practices from three teaching faculty. The research yielded positive results,
+especially on the usefulness of the virtual learning assistant chatbot
+pre-trained on the module content. It significantly enhanced students'
+understanding by providing rapid and accurate feedback. It was also deemed
+effective for supporting various learning tasks, such as answering questions,
+offering explanations, and generating insights. By understanding students’
+perceptions, based on their learning experiences with the chatbot, faculty
+can create instructional strategies to enhance the quality of their teaching
+practices. This also offers the potential for greater differentiation and
+personalization of instruction, which is a highly desirable educational
+aim.</p>
 <p></p>
 </div>
 </details>
