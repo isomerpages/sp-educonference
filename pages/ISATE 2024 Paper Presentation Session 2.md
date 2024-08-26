@@ -812,14 +812,103 @@ can benefit the healthcare industry.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_35</summary>
+<summary>JP_35 DEVELOPING ENGLISH SKILLS FOR COMMUNICATION THROUGH INTERACTIONS
+WITH COMMUNITY-BASED ORGANIZATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Shuhey Suzuki</p>
+<p>Department of Engineering for Innovation, National Institute of Technology,
+Tomakomai College, Tomakomai City, Japan</p>
+<p><a href="mailto:shu.suzuki@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shu.suzuki@tomakomai-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>The COVID-19 pandemic has had a significant effect on the practice of
+English language teaching. Due to the limitations on studying abroad, overseas
+training, and international exchange events, students have been unable
+to engage in face-to-face communication with others to improve their English
+speaking and listening skills. In response to these challenges, the National
+Institute of Technology Tomakomai College has been conducting extracurricular
+English activities in order to meet the interests of enthusiastic English
+learners.</p>
+<p>For three consecutive years, the English camp has provided students with
+numerous opportunities to interact with Assistant Language Teachers (ALTs).
+Additionally, an after-school English conversation meeting is held once
+a week to help students maintain and enhance their fluency in English.
+These projects and activities have gained attention from various community-based
+organizations, enriching our school events.</p>
+<p>Through collaboration with the local government, community-based English
+learning programs have been established, serving a more meaningful purpose
+in developing English skills. Participants in English Camps engaged in
+various group and teamwork activities to design ideal itineraries for one-
+or two-day trips around Tomakomai for potential foreign visitors. Their
+well-planned itineraries received high praise from the city tourism department.</p>
+<p>Furthermore, in sister city exchange programs, students were asked to
+serve as interpreter-guides for guests from New Zealand. Last year, the
+America-Japan Society of Hokkaido invited students to a youth forum, where
+they engaged in English discussions with international-school students
+to foster cross-cultural understanding.</p>
+<p>Thanks to these community-based organizations, students have been blessed
+with opportunities to learn and use English in authentic contexts. Each
+experience serves to boost their motivation to improve their English skills
+and participate in studying abroad programs. The establishment of a progressive
+English learning attitude has been achieved through the implementation
+of our initiative activities and events.</p>
+<p>In this research, the processes and effects of our activities and projects
+are analysed in detail so that the proposed method can adapt to other classrooms
+around the world.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>VTC_12</summary>
+<summary>VTC_12 THE PURSUIT OF USER-FRIENDLINESS: THE DEVELOPMENT OF A GENERATIVE
+ARTIFICIAL INTELLIGENCE CHATBOT FOR LEARNING OUTCOME-BASED TEACHING AND
+LEARNING APPROACH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Y. LUN<sup>*,a</sup>, R.Y.S. LAM<sup>**,b</sup> 
+</p>
+<p><sup>a</sup>Centre for Learning and Teaching, Vocational Training Council,
+Hong Kong</p>
+<p><sup>b</sup>Centre for Learning and Teaching, Vocational Training Council,
+Hong Kong</p>
+<p><sup>*</sup><a href="mailto:tylorlun@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">tylorlun@vtc.edu.hk</a>, <sup>*</sup>
+<a href="mailto:rechelllam@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">rechelllam@vtc.edu.hk</a>
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Inspired by the rapid development of artificial intelligence (AI) in recent
+years that leads to various applications in different sectors, including
+education, this study documents the development of an in-house, domain-specific
+generative artificial intelligence (GenAI) chatbot, called the OBTL Chatbot,
+for consolidation of experience of facilitating the professional development
+of educators through pedagogical innovation. The chatbot is intended to
+serve as a valuable resource for learning about outcome-based teaching
+and learning (OBTL), supplementary to the text-based OBTL Guidebook. The
+study also aims to assess the technical efficiency of the development process,
+as well as the reliability and usability of the chatbot as an information
+retrieval tool.</p>
+<p>For development simplicity, the chatbot utilises cloud-based Large Language
+Models (LLMs) and integrates a single document (the OBTL Guidebook). The
+chatbot responds to user enquiries by providing summaries, suggested answers,
+and practical examples with reference to the guidebook.</p>
+<p>Apart from providing an account of the development process of the chatbot,
+a two-phased pilot test was conducted to collect data on the chatbot’s
+reliability and usability. Test results show satisfaction in terms of usability;
+however, flaws were found in response accuracy and precision by the expert
+group.</p>
+<p>The System Usability Scale (SUS) was used to evaluate chatbot usability.
+The SUS is a well-accepted instrument in usability testing for hardware,
+software system, device or service. The overall usability score given by
+the pilot test users is 77.4. This score places it between “Good” and “Excellent”
+on the SUS adjective scale and corresponds to a grade of “B+”, indicating
+a high level of user satisfaction relative to systems in its category.</p>
+<p>The study sheds light on the experience of facilitating the professional
+development of educators by confronting their knowledge with pedagogical
+innovation. The pilot test experience not only benefits the development
+of the chatbot but also enriches the understanding of test users regarding
+the role of AI in education and its effects on learning and teaching practices.
+Future research can extend this study by assessing the reliability of chatbots
+that incorporate multiple documents and addressing the challenges associated
+with LLMs, such as hallucination and sycophantic behaviour, in order to
+establish acceptable accuracy rates for internal information retrieval
+systems.</p>
 <p></p>
 </div>
 </details>
