@@ -4,7 +4,6 @@ permalink: /isate-2024-session-1/
 variant: tiptap
 description: ""
 ---
-<p>Abstracts for Session 1 can be found below.</p>
 <h3>Session 1, Track 1</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -993,7 +992,7 @@ SELF-DIRECTED LEARNING WITH SOCIAL SUPPORT AND SELF-REGULATED LEARNING</summary>
 </p>
 <p><sup>a</sup>School of Architecture and the Built Environment, Singapore
 Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:liow_zhengping@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_zhengping@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:liow_zhengping@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_zhengping@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Self-directed Learning (SDL) attributes are crucial in higher education,
