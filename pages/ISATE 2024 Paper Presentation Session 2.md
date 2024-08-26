@@ -524,7 +524,7 @@ PERFORMANCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lilian Q. H. Huang</p>
 <p><sup>a</sup>Nanyang Polytechnic, School of Applied Science, Singapore</p>
-<p><sup>*</sup><a href="mailto:lilian_huang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilian_huang@nyp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:lilian_huang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilian_huang@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -575,7 +575,7 @@ LEARNING IN KOSEN-KMITL</summary>
 <p>Saung Hnin Pwint Oo <sup>1,a</sup>, Thanyawarat Pawasopon<sup>*,a</sup>,
 Pirapat Tangsuknirundorn<sup>a</sup>, Tanapon Keatsamarn<sup>a</sup>, Krittanik
 Srithanasarn<sup>a</sup>, Su Wai Myo<sup>a</sup>, Shashi Shah<sup>a</sup>,
-Hideyuki Kobayashi<sup>a</sup>, Mio Kobayashi<sup>a</sup> and Yuki Yoshikawa<sup>a</sup> 
+Hideyuki Kobayashi<sup>a</sup>, Mio Kobayashi<sup>a</sup> and Yuki Yoshikawa<sup>a</sup>
 </p>
 <p><sup>a</sup>Computer Engineering Department, KOSEN-KMITL, Bangkok, Thailand</p>
 <p><a href="mailto:1saunghninpwint.oo@kmtil.ac.th" rel="noopener noreferrer nofollow" target="_blank">1saunghninpwint.oo@kmtil.ac.th</a>, <sup>*</sup>
@@ -633,7 +633,7 @@ EDUCATION</summary>
 <p>W.T. Lau</p>
 <p>Hong Kong Institute of Information Technology (HKIIT), Department of Information
 Technology, Hong Kong SAR, China</p>
-<p><a href="mailto:lauwt@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">lauwt@vtc.edu.hk</a> 
+<p><a href="mailto:lauwt@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">lauwt@vtc.edu.hk</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -724,25 +724,25 @@ positively rated the benefits of working on the MDPs.</p>
 <h3>Session 2, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>RP_07</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lorem ipsum</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>VTC_09</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_35</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>VTC_12</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
