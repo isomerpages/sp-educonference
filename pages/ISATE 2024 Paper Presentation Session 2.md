@@ -106,7 +106,7 @@ AN EVALUATION OF RELIABILITY AND VALIDITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>KOH Noi Sian</p>
 <p>School of Information Technology, Nanyang Polytechnic, Singapore</p>
-<p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a> 
+<p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -151,11 +151,11 @@ effective learning experiences.</p>
 <summary>RP_01 PREDICTIVE ANALYSIS OF STUDENT ACADEMIC PERFORMANCE AT MODULE LEVEL
 WITH MACHINE LEARNING ALGORITHMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>S. Chua<sup>*,a</sup> and M. Gujral<sup>b</sup> 
+<p>S. Chua<sup>*,a</sup> and M. Gujral<sup>b</sup>
 </p>
 <p><sup>a</sup>Republic Polytechnic/School of Engineering, Singapore</p>
 <p><sup>b</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
-<p>*<a href="mailto:samuel_chua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_chua@rp.edu.sg</a> 
+<p>*<a href="mailto:samuel_chua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_chua@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>This study aims to explore the use of machine learning (ML) algorithms
