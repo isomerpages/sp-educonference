@@ -724,14 +724,98 @@ positively rated the benefits of working on the MDPs.</p>
 <h3>Session 2, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RP_07</summary>
+<summary>RP_07 EXAMINATION OF IMPACT OF INTERACTIONS IN ASYNCHRONOUS LEARNING ON
+LEARNERS’ PERCEIVED LEARNING AND LEARNING SATISFACTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>H. Y. LOKE<sup>*,a</sup>, W. XU<sup>a</sup> and W. C. LEE<sup>a</sup> 
+</p>
+<p><sup>a</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
+<p><sup>*</sup><a href="mailto:loke_han_ying@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_han_ying@rp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>With the onset of the COVID-19 pandemic, many education institutions had
+to transition to online teaching in a very short space of time. Such transition
+happened at the time when many educators did not have the experience nor
+the full knowledge on how to design effective online lessons. Many challenges
+and issues were encountered by educators and learners in both the synchronous
+and asynchronous online lessons. With the experience and insights gained
+in designing and conducting online lessons during the COVID restriction,
+educators have continued to adopt online asynchronous learning in tandem
+with face-to-face lessons in their curriculum despite the easing of COVID
+restriction. While many lecturers are aware of the need to design meaningful
+asynchronous interactions, many question the impacts of these interactions
+on the outcomes of learning. This study aims to examine the impact of three
+types of online interactions (learner-content, learner-learner and learner-lecturer)
+in an asynchronous online lesson on learners’ perceived learning (PL) and
+learning satisfaction (SA). This study adopted a mixed-method approach
+by analysing both quantitative and qualitative data. A total of 96 polytechnic
+students were recruited for this study. The results showed that learner-content
+interaction, learner-learner interaction, learner-lecturer interaction
+had positive and significant correlations with perceived learning and learning
+satisfaction (r = 0.206 – 0.772, p &lt; 0.01). Linear regression analysis
+shows that in combination, the three types of interaction accounted for
+51.6 % of the variance of PL and 60.2 % of the variance of SA. Our analysis
+also revealed that among the three online interactions, learner-content
+interaction was the most significant and strongest predictor of PL and
+SA. The qualitative analysis of this study through open-ended responses
+in the survey and focus group discussion revealed similar trend where learners
+indicated that the well-designed asynchronous lesson materials facilitated
+their self-learning process without having to resort to seeking assisstance
+from their peers or lecturers. Despite the lack of interaction between
+learners and their peers and lecturers for many of the learners in this
+study, such lack of interactions did not seem to adversely affect their
+perceived learning and satisfaction significantly.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>VTC_09</summary>
+<summary>VTC_09 THE EXPERIENCE IN TEACHING AND LEARNING THROUGH INVESTIGATING THE
+PERCEPTIONS AND ATTITUDES TOWARDS GENERATIVE AI AMONG DISPENSERS AND STUDENTS
+FROM HIGHER DIPLOMA IN DISPENSING STUDIES IN HONG KONG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>W.S. Cheung<sup>*,a</sup>, W.Y. Lee<sup>a</sup> 
+</p>
+<p><sup>a</sup>Department of Health and Life Sciences, Hong Kong Institute
+of Vocational Education (Chai Wan), Hong Kong</p>
+<p><sup>*</sup><a href="mailto:jenny.cheung@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">jenny.cheung@vtc.edu.hk</a>
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Artificial intelligence (AI) technology is on the horizon and has garnered
+tremendous attention recently. The emergence of generative AI, augmented
+reality (AR) and virtual reality (VR) has lent credence to the current
+notion. Indeed, their applications appear to be multi-dimensional and deeply
+integrated among different industries.</p>
+<p></p>
+<p>Despite the technology advancement and its purportedly widespread applications,
+a basic and fundamental understanding of the acceptance of AI, the cornerstone
+of successful implementation of the technology in different disciplines,
+remains scarce.</p>
+<p></p>
+<p>In light of this, via the gruelling efforts of our 2nd year students in
+HD in Dispensing Studies in pursuing their final year project, we have
+gained invaluable insights as to the perception and attitude towards generative
+artificial intelligence (AI) from dispensers in Hong Kong and our students.
+This study aimed to: (1) To conduct a literature review on generative AI
+and (2) To perform a perception and attitude study via questionnaire. Notably,
+we intended to gain a thorough understanding of the capabilities and potential
+contributions of generative AI to our society via the comprehensive literature
+review (Objective 1). Our survey specifically probed the perception and
+the attitudes of the dispensers and dispensing students in Hong Kong towards
+generative AI (Objective 2) and thereby empowering us to reveal the potential
+applications of generative AI in the dispensing professions.</p>
+<p></p>
+<p>The result of the current study lays the foundation for the future successful
+implementation of generative AI in pharmacy operations for assessing competencies
+and to identifying misconceptions towards generative AI. In addition, it
+also points to the design rules regarding data privacy, ethics, work flows,
+training, and system maintenance etc. related to the implementation of
+AI in their workplace. Taken together, this study serves as a pre-integration
+research and analysis to be referenced by in the foreseeable AI era. Academically,
+the project provided a unique and sheer learning experience for students
+while also contributing to the development of innovative solutions that
+can benefit the healthcare industry.</p>
 <p></p>
 </div>
 </details>
