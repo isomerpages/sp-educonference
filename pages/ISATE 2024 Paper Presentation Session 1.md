@@ -986,48 +986,40 @@ improve students' motivations and learning experiences.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>TP_06 CONVERSE CANVAS: A CATALYST FOR STUDENT MOTIVATION</summary>
+<summary>SP_02 A STITCH IN TIME SAVES NINE: HARNESSING EARLY INSIGHTS TO SCAFFOLD
+SELF-DIRECTED LEARNING WITH SOCIAL SUPPORT AND SELF-REGULATED LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ameer-Alrasyeed bin Ramdan</p>
-<p>Temasek Polytechnic/School of Design, Singapore</p>
-<p><a href="mailto:Ameer-Alrasyeed_Ramdan@tp.edu" rel="noopener noreferrer nofollow" target="_blank">Ameer-Alrasyeed_Ramdan@tp.edu.sg</a>
+<p>Zhengping Liow<sup>*,a</sup>
+</p>
+<p><sup>a</sup>School of Architecture and the Built Environment, Singapore
+Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:liow_zhengping@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_zhengping@sp.edu.sg</a> 
 </p>
 <p>Abstract</p>
-<p>The pervasive influence of technology challenges students’ cognitive and
-socio-emotional development through digital connectivity issues of maintaining
-attention, fostering isolation. This hinders the development of both interpersonal
-skills and critical thinking essential for effective communication, social
-engagement, and problem-solving – skills increasingly crucial in the evolving
-landscape of work. Consequently, students face difficulties addressing
-their academic and personal concerns, hindering their development.</p>
-<p>Dalvi, Sawant, and Sambhaji (2023) highlighted the critical role of educators
-in addressing these challenges by focusing on psychological outcomes of
-digital education. In response, the proposed Converse Canvas uses guided
-dialogue as a catalyst for cognitive and socio-emotional development during
-Careperson hour. The implementation of Converse Canvas serves as a case
-study of how it can contribute to fostering self-directed learners and
-resilient youths.</p>
-<p>The Careperson session involved students utilising a deck of cards featuring
-structured and diverse topics, curated to address issues relevant to students’
-academic journey. Students select a resonant card, reflecting upon their
-challenges, and are guided through subsequent steps for tailored solutions.
-Converse Canvas generates meaningful conversation based on shared challenges
-within a peer-driven learning environment.</p>
-<p>The case study revealed that it also serves as a forecasting tool. Students
-gained awareness of potential challenges they may encounter, enabling them
-to anticipate obstacles in the future. With improved foresight, students
-experienced reduced stress levels as they prepared for upcoming challenges.
-Findings gathered from this pilot study unveiled a spectrum of challenges,
-spanning from adjusting to new pedagogical approaches in the first year
-to societal integration in subsequent years. These insights have informed
-iterations in the card development process, granting effective resource
-allocation to be tailored to the diverse needs of students requiring support.</p>
-<p>Conducting Converse Canvas for students is imperative given the increasing
-complexities of the digital world. Adopting this tool helps students gain
-autonomy over their learning experiences and cultivate a growth mindset.
-Converse Canvas has shown to be an efficacious approach to nurture resilience
-in students navigating academic transitions and subsequently, the evolving
-professional landscape.</p>
+<p>Self-directed Learning (SDL) attributes are crucial in higher education,
+allowing individuals to manage their learning by planning and evaluating
+outcomes. SDL traits enable learners to adapt to new situations, especially
+in a volatile and rapidly changing world. Studies have posited that SDL
+skills can be developed with the support of tutors, who adjust their roles
+based on the learners’ readiness. This study explored the utilisation of
+first-year students’ levels of SDL characteristics through the School of
+Architecture and the Built Environment’s tutor-facing dashboard as a diagnostic
+tool that measures seven SDL attributes to surface students’ deficient
+SDL attributes for targeted pedagogical interventions. Students’ Motivation
+and Growth Mindset were flagged as the lowest-scoring SDL attributes during
+Datapoint 1. Henceforth, pedagogical scaffolding targeted self-regulation
+facilitations to improve these SDL traits, such as helping students in
+goal setting, self-monitoring, peer-to-peer, and self-evaluation, were
+operationalised through Social Support (teacher-student and student-student
+relationships). Students’ motivation improved significantly from Datapoint
+1 (M = 10.067) to Datapoint 2 (M = 12.067), with a p-value of 0.0265. Although
+learners’ Growth Mindset improved from 8.467 to 8.934, the p-value of 0.307
+reflects a statistical insignificance. The students’ academic scores increased
+significantly from 74.52% to 79.34%, with a p-value of 0.00079. Curiously,
+the other measured SDL variables yielded inconclusive results. This study
+demonstrates the potential benefits of identifying students’ weakest learning
+attributes early, encouraging tutors to tailor their pedagogical practices
+strategically.</p>
 <p></p>
 </div>
 </details>
