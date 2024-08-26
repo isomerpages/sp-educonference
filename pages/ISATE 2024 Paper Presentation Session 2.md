@@ -356,7 +356,7 @@ INDUSTRY DIGITALISATION</summary>
 <p>Dr Augustus Yuen Fai LEE, FICE</p>
 <p>Engineering Discipline, Hong Kong Institute of Vocational Education, Hong
 Kong</p>
-<p><a href="mailto:ylee@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">ylee@vtc.edu.hk</a> 
+<p><a href="mailto:ylee@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">ylee@vtc.edu.hk</a>
 </p>
 <p>Abstract</p>
 <p>In response to “Industry 4.0”, the Government of Hong Kong has launched
@@ -395,7 +395,7 @@ PRELIMINARY DATA COLLECTION</summary>
 <p>A. Otsu, Ph.D. and S. Hamamoto, Ph.D.</p>
 <p>National Institute of Technology (KOSEN), Ibaraki College, Hitachinaka,
 Japan</p>
-<p><a href="mailto:a-otsu@ibaraki-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">a-otsu@ibaraki-ct.ac.jp</a> 
+<p><a href="mailto:a-otsu@ibaraki-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">a-otsu@ibaraki-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Since the mid-1980s, more than 100 international students from 14 countries,
@@ -440,11 +440,11 @@ might have encountered on campus.</p>
 <summary>JP_22 THE TEAROOM PROJECT: A PORTABLE TEAROOM TO PROMOTE INTEREST IN TRADITIONAL
 ARCHITECTURE AND CRAFTSMANSHIP</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A.P. HIGASHINO<sup>*,a</sup> 
+<p>A.P. HIGASHINO<sup>*,a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology /Architecture Department,
 Akashi College, Akashi, Japan</p>
-<p><sup>*</sup><a href="mailto:adriana@akashi.ac.jp" rel="noopener noreferrer nofollow" target="_blank">adriana@akashi.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:adriana@akashi.ac.jp" rel="noopener noreferrer nofollow" target="_blank">adriana@akashi.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The tearoom is a building type that expresses the essence of Japanese
@@ -519,26 +519,204 @@ to transform traditional</p>
 <h3>Session 2, Track 4</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>NYP_10 LEARNING FROM ERROR ANALYSIS: IMPACT ON SELF-REGULATION AND ACADEMIC
+PERFORMANCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Lilian Q. H. Huang</p>
+<p><sup>a</sup>Nanyang Polytechnic, School of Applied Science, Singapore</p>
+<p><sup>*</sup><a href="mailto:lilian_huang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilian_huang@nyp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Within the engineering classroom, the conventional pedagogical approach
+often involves modelling - where tutors present correctly worked examples,
+followed by learners applying the concepts through rigorous problem-solving
+exercises. Based on the author’s teaching experience, a prevalent trend
+among learners is their strong familiarity with a specific problem-solving
+method, but often face challenges when confronted with questions that deviate
+from the typical format. The error analysis approach requires learners
+to identify, explain and correct conceptual errors using erroneous examples
+presented by the tutor. Similar error analysis approaches were used in
+the teaching of mathematics and programming; and there were improvements
+in learners’ learning effectiveness (McLaren et al., 2015; Beege et al.,
+2021). However, limited research involving error analysis approaches has
+been conducted for engineering modules. This study aims to add to the pool
+of knowledge by investigating learners’ self-regulation and academic performance
+through an error analysis approach in a chemical engineering module (“Reactor
+Systems”). A total of 42 learners from the Diploma in Chemical &amp; Pharmaceutical
+Technology participated in this study, where a mixed-method design was
+used. This diploma program prepares students for careers within the chemical
+engineering industry. An equivalent time series research design was used
+since it determines if a pattern is developed over time. The aim of this
+research required an observation of the demonstration of self-regulation
+from the learners over a period of time. The treatment (error analysis)
+was administered three times, with a washout period in between each treatment.
+A post-test was conducted after each treatment. In the washout periods,
+the treatment was removed, and the conventional approach was employed.
+At the end of the study, a survey was conducted using items adopted from
+the Motivation Strategies for Learning Questionnaire to measure learners’
+self-regulation. Learners' post-test and survey results were used to determine
+the impact of the error analysis approach on their self-regulation and
+academic performance. It was found that the post-test scores improved significantly
+from 28% (post-test 1) to 70% (post-test 3). This is attributed to their
+acquaintance with the error analysis approach. The survey results indicated
+that learners identified strongly with three of the domains (task value,
+control of learning belief and metacognitive self-regulation) found in
+the survey instrument. This is supported by learners’ feedback that although
+grasping the skill to perform error analysis proves challenging initially,
+they persevere in mastering it due to their appreciation for the skill.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_34 ESTABLISHING AUTOMATED ATTENDANCE CHECKING SYSTEMS THROUGH PROJECT-BASED
+LEARNING IN KOSEN-KMITL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Saung Hnin Pwint Oo <sup>1,a</sup>, Thanyawarat Pawasopon<sup>*,a</sup>,
+Pirapat Tangsuknirundorn<sup>a</sup>, Tanapon Keatsamarn<sup>a</sup>, Krittanik
+Srithanasarn<sup>a</sup>, Su Wai Myo<sup>a</sup>, Shashi Shah<sup>a</sup>,
+Hideyuki Kobayashi<sup>a</sup>, Mio Kobayashi<sup>a</sup> and Yuki Yoshikawa<sup>a</sup> 
+</p>
+<p><sup>a</sup>Computer Engineering Department, KOSEN-KMITL, Bangkok, Thailand</p>
+<p><a href="mailto:1saunghninpwint.oo@kmtil.ac.th" rel="noopener noreferrer nofollow" target="_blank">1saunghninpwint.oo@kmtil.ac.th</a>, <sup>*</sup>
+<a href="mailto:thanyawarat.pa@kmitl.ac.th" rel="noopener noreferrer nofollow" target="_blank">thanyawarat.pa@kmitl.ac.th</a>
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Project-based learning (PBL) is effective in developing important skills
+in students, such as thinking, Problem-solving, collaboration, and communication
+skills, which will be valuable in their future work. PBL also motivates
+students to learn. As they tackle real problems, they develop a deeper
+understanding of what it means to learn and a self-directed learning attitude.</p>
+<p>At KOSEN-KMITL, PBL is a feature of education and is adopted in the third
+and fourth years. In the third year, for a given problem, students experience
+solving the problem with the thinking skills they have learned before (Problem-base)
+and managing a project as a group work (Project-base). In addition, students
+create prototypes and evaluate them based on specifications. In the following
+fourth year, for real problems from companies or local communities, students
+try to solve them while communicating with stakeholders. At KOSEN-KMITL,
+the PBLs are linked to internship, followed by graduation research, and
+the curriculum allows students to put the skills they have learned into
+practice.</p>
+<p>In this study, we introduce PBL for third-year students and report their
+learning outcomes. Beginning with PBL1 in the first semester of the third
+year, subsequent PBLs (PBL2 through PBL4) run in consecutive semesters.
+The aim is to undertake Artificial intelligence (AI)-based projects that
+meet identified problem requirements. In PBL1, student groups employ the
+Agile project management approach to plan and manage several projects,
+defining project scopes, exploring frameworks and methodologies, collecting
+and preprocessing data, and implementing pilot systems. They propose and
+develop automated attendance checking systems with diverse AI technologies.
+PBL2 extends PBL1, emphasizing website and software design with hardware
+components for deploying the proposed systems. Each group trains Machine
+learning and Deep learning models, predicts test data, evaluates accuracy,
+and conducts trials until the system is fully operational as a reliable
+AI-driven system, reducing manual tracking efforts in workplaces and schools.</p>
+<p>By leveraging features such as face recognition, voice authentication,
+fingerprint detection, object detection, and IP address pinging, these
+systems optimize cost-effectiveness, time efficiency, and accuracy. Their
+results vary based on the distinct features of addressing the common goal
+in PBL2. In face recognition, for instance, one group achieved approximately
+99% accuracy using transfer learning on a pre-trained Deep learning model
+(ResNet-18), which was trained on a dataset of 1634 images and tested with
+479 images of 11 individuals.</p>
+<p>The remaining tasks can be addressed through subsequent PBLs and senior
+projects in the final year.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>VTC_06 INCORPORATING GENERATIVE ARTIFICIAL INTELLIGENCE (GENAI) INTO EDUCATION
+PEDAGOGY FOR ENHANCING STUDENT ENGAGEMENT AND CREATIVITY IN HONG KONG VOCATIONAL
+EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>W.T. Lau</p>
+<p>Hong Kong Institute of Information Technology (HKIIT), Department of Information
+Technology, Hong Kong SAR, China</p>
+<p><a href="mailto:lauwt@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">lauwt@vtc.edu.hk</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Generative Artificial Intelligence (GenAI) is one of new innovation teaching
+and learning approach in Hong Kong vocational education, examined as a
+possible catalyst to increase students’ engagement and stimulate creativity
+in educational settings. Students' attention is often hard to capture and
+imagination is often hindered by traditional teaching methods. The potential
+of GenAI is a form of Artificial Intelligence (AI) that can generate a
+new content, including images, text, coding and multimedia, to achieve
+the tasks. In this paper, GenAI is examined in several aspects of education,
+including content creation and personalized learning, to create an interactive
+education experiences.</p>
+<p></p>
+<p>Content creation by GenAI can be created by educators and students. The
+use of GenAI in education can revolutionize the creation of content. Through
+AI algorithms, educators can produce diverse and interactive learning materials
+for the module of teaching and learning materials. These learning materials,
+such as interactive quizzes, case studies of scenario and image creation
+etc., can be stimulated students’ curiosity and creativity. While students
+learn the specialized modules, educators can teach them to use GenAI tools,
+enabling collaborative co-creation for assignments and projects. This fosters
+collective problem-solving and knowledge creation.</p>
+<p></p>
+<p>Personalized learning experiences can be achieved through the use of GenAI.
+Through AI data analysis and adaptive instruction, educators can tailor
+learning paths to each student's unique strengths, weaknesses, and learning
+styles or even tailor-made learning materials. As a result of this personalized
+approach, students are empowered to direct their own learning, and their
+learning outcomes are optimized. Simultaneously, educators can inspire
+teaching diversity among themselves and redefine and innovate teaching
+pedagogy.</p>
+<p></p>
+<p>By integrating GenAI tools and platforms, educators can create dynamic
+and immersive learning environments. Students are encouraged to participate
+actively, collaborate thus promoting an engaging and interactive classroom
+environment. Although GenAI has many benefits, it also poses ethical considerations
+and challenges when integrated into educational settings. The consideration
+of issues such as data privacy, algorithmic bias, and responsible AI use
+is crucial to ensure an equitable and inclusive learning environment.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>TP_11 TRANSCENDING BARRIERS: STUDENT LEARNING THROUGH MULTIDISCIPLINARY
+PROJECTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Kumbar Shankarappa and Raja Rangaswamy</p>
+<p>School of Engineering, Temasek Polytechnic, Singapore</p>
+<p><a href="mailto:Shankarappa_KUMBAR@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shankarappa_KUMBAR@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>This paper presents aspects of the planning and practice of multidisciplinary
+collaboration project at Institutes of Higher Learning (IHLs). In multidisciplinary
+projects (MDPs), student learns within a specific field and gains knowledge
+across various disciplines. This enables students to utilize their diverse
+knowledge when solving problems. It allows students to understand subjects
+thoroughly by incorporating knowledge and perspectives from other disciplines.
+The challenges we face in today’s complex world cannot be solved by a single
+engineering discipline. We need to leverage on different engineering field
+of studies. Hence, the collaboration between IHLs and the industry is increasingly
+becoming a norm to enhance students learning experience. The multidisciplinary
+collaborative projects are increasingly becoming a part of curricula in
+IHLs. These projects are based around real-world open problems. This paper
+examines facilitating MDPs with industry partners and students’ learning
+experience. The project provides a pedagogical way to apply higher order
+skills to solve complex problems in the industry. The authors will share
+strategies to facilitate MDPs in an effective way. The paper also describes
+the promotion of the teamwork competency acquisition through MDPs. The
+students involved in this project are from Computer Engineering and Biomedical
+Engineering. The student’s diverse expertise and perspectives can enrich
+the project outcome. However, managing a multidisciplinary team project
+can also pose challenges, such as communication, coordination, and integration.
+In this paper, we will explore methods that can help to manage a multidisciplinary
+team project effectively and efficiently. The team’s diversity and creativity
+help in generating innovative and quality solutions. The authors will also
+share pitfalls in the process of achieving innovative solutions. The successful
+outcome of such collaboration projects involves creating a communication
+and collaboration plan for the multidisciplinary team. This will help in
+ensuring the team members work together effectively and efficiently throughout
+the project. The authors also highlight the importance of promoting collaboration
+between IHLs and the industry. The student survey showed that most students
+positively rated the benefits of working on the MDPs.</p>
 <p></p>
 </div>
 </details>
