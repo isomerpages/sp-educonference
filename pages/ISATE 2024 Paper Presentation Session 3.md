@@ -373,7 +373,7 @@ Science and Technology (MEXT) has proposed the "GIGA School Concept," which
 has led to the rapid construction of ICT environments at each educational
 institution, resulting in the steady introduction of programming education
 and a wealth of examples. On the other hand, the current situation is that
-programming　education has not yet taken root due to the fact that there
+programming education has not yet taken root due to the fact that there
 are educational institutions with inadequate ICT environment facilities
 and teachers who are concerned about how to conduct classes. Therefore,
 we attempted to develop IoT-based programming education support materials
