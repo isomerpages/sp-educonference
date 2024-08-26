@@ -225,10 +225,9 @@ positive reception. Both teaching staff and students reported there were
 improved visualization and enhance learning experiences with the DT model.</p>
 <p>The paper then suggests addressing the challenges and future research
 to enhance learning for sustainability, including an extended activity
-with a future carpark scenario. Engaging in such activities</p>
-<p>can help students anticipate how changes in problem and parameters affect
-system behaviour, fostering anticipatory competency, a key sustainability
-identified by UNESCO.</p>
+with a future carpark scenario. Engaging in such activities can help students
+anticipate how changes in problem and parameters affect system behaviour,
+fostering anticipatory competency, a key sustainability identified by UNESCO.</p>
 <p></p>
 </div>
 </details>
