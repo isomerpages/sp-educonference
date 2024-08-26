@@ -8,36 +8,42 @@ description: ""
 <h3>Session 2, Track 1</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>SP_13 CRAFT: A FRAMEWORK FOR DESIGNING HIGH-QUALITY PROMPTS FOR GENERATIVE
-AI</summary>
+<summary>SP_11 ASKWHATCHER – A GENERATIVE AI ADAPTIVE LEARNING ASSISTANT TO ENHANCE
+SELF-DIRECTED LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yanto Jakop and Lim Pei Chin</p>
-<p>School of Mathematics &amp; Science, Singapore Polytechnic, Singapore</p>
-<p><a href="mailto:yanto_jakop@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yanto_jakop@sp.edu.sg</a>,
-<a href="mailto:lim_pei_chin@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_chin@sp.edu.sg</a>
+<p>Jasmine Tan (LSC)<sup>*,a</sup>, Adeline Koh (CLS)<sup>b</sup>, Janny
+Chan (SOC)<sup>c</sup>, Joe Yang (EEE)<sup>d</sup>, Mark Wan (EEE)<sup>d</sup>
+</p>
+<p><sup>a</sup>School of Life Skills &amp; Communication (LSC), Singapore
+Polytechnic, Singapore</p>
+<p><sup>b</sup>School of Chemical &amp; Life Sciences (CLS), Singapore Polytechnic,
+Singapore</p>
+<p><sup>c</sup>School of Computing (SOC), Singapore Polytechnic, Singapore</p>
+<p><sup>d</sup>School of Electrical &amp; Electronic Engineering (EEE), Singapore
+Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:Jasmine_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jasmine_TAN@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p>With the rise of generative AI tools, it is increasingly important to
-equip students with prompt engineering skills. However, existing frameworks
-are often complex, making them hard to apply effectively. To address this,
-we introduce the CRAFT framework (Context, Role, Audience, Format, Tone),
-which is designed to simplify prompt engineering with a straightforward
-acronym.</p>
-<p>The CRAFT framework is taught in the “Artificial Intelligence and its
-Impact” (AII) module, part of the mandatory Common Core Curriculum (CCC)
-for all Singapore Polytechnic (SP) students. In addition, CRAFT is also
-used in other CCC modules, demonstrating its adaptability and potential
-to standardize prompt engineering practices across various subjects.</p>
-<p>In this paper, we describe how the CRAFT framework was conceived, how
-it was integrated in CCC, how students applied CRAFT, and how they utilized
-AI responses in their projects. We evaluate the effectiveness of CRAFT
-through a mixed-methods approach, including a quantitative survey and a
-qualitative analysis of students’ project responses.</p>
-<p>CRAFT sets itself apart with its memorable acronym and ability to enhance
-AI responses. With this easy-to-remember mnemonic, we aim to establish
-the CRAFT framework as a common language for all SP students, equipping
-them with essential prompt engineering skills to use AI more effectively
-in their studies.</p>
+<p>Generative artificial intelligence (Gen AI) has emerged as a transformative
+tool in education, offering novel opportunities to enhance students' self-directed
+learning (SDL). This paper examines the integration of Gen AI with exit
+polls to bolster SDL through the AskWhatCher application, which encompasses
+the AskCher 3-2-1 exit poll and the AskWhat chatbot. The efficacy of the
+application was assessed through pre- and post-usage surveys based on the
+Motivated Strategies for Learning Questionnaire (MSLQ) scales, complemented
+by insights from focus group discussions (FGDs).</p>
+<p>A functional prototype, leveraging GPT-3.5-Turbo and trained on module-specific
+content within a secure ecosystem, effectively mitigates challenges such
+as hallucination and privacy concerns. This application enables students
+to generate their own questions and utilize exit polls for reflective learning
+at the conclusion of lessons.</p>
+<p>By integrating quantitative data from the MSLQ surveys with qualitative
+insights from FGDs, this study provides a comprehensive analysis of how
+AskWhatCher supports SDL, in alignment with Singapore Polytechnic’s (SP)
+SDL model. The observed positive trends in key SDL areas suggest that,
+with continued use and further refinements, the app has the potential to
+significantly enhance students' SDL capabilities.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
