@@ -292,18 +292,17 @@ education/knowledge worldwide.</p>
 <p>Abstract</p>
 <p>Temasek Polytechnic's Major Project is a Year 3 subject requiring students
 to apply diploma-related skills in a real-world context. The course, worth
-10 Credit Units, culminates in presentations to lecturers</p>
-<p>after 10 weeks. Manual scheduling of these presentations is time-consuming
-and leaves students limited preparation time. To address this, an automated
-scheduling system using Artificial</p>
-<p>Intelligence (AI) algorithms is proposed. The problem is approached as
-a timetabling issue, considering hard (critical) and soft (non-critical)
-constraints. Two AI algorithms, greedy algorithm and simulated annealing
-(SA) were explored to solve this scheduling problem. Preliminary experiments</p>
-<p>using a mock dataset showed that the SA algorithm successfully accommodates
-all hard constraints and produces a higher-quality schedule. Based on these
-results, the SA algorithm has been selected for implementation in the automated
-scheduling system.</p>
+10 Credit Units, culminates in presentations to lecturers after 10 weeks.
+Manual scheduling of these presentations is time-consuming and leaves students
+limited preparation time. To address this, an automated scheduling system
+using Artificial Intelligence (AI) algorithms is proposed. The problem
+is approached as a timetabling issue, considering hard (critical) and soft
+(non-critical) constraints. Two AI algorithms, greedy algorithm and simulated
+annealing (SA) were explored to solve this scheduling problem. Preliminary
+experiments using a mock dataset showed that the SA algorithm successfully
+accommodates all hard constraints and produces a higher-quality schedule.
+Based on these results, the SA algorithm has been selected for implementation
+in the automated scheduling system.</p>
 <p></p>
 </div>
 </details>
