@@ -192,14 +192,75 @@ more support.</p>
 <h3>Session 2, Track 2</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_16 UNLOCKING THE DIGITAL FOOTPRINTS OF SELF-DIRECTED LEARNERS: INSIGHTS
+FROM A MULTIMODAL STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>Tan Boon Yuen</p>
+<p>Singapore Polytechnic/ School of Computing, Singapore</p>
+<p><a href="mailto:tan_boon_yuen@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_yuen@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>In Singapore Polytechnic (SP), students are expected to grow as Self-Directed
+Learners as they learn using asynchronous content on Learning Management
+System (LMS). There were previous observations and feedback from lecturers
+and students that reading or video materials for asynchronous content were
+not sufficient for student engagement and learning. Students showed the
+lack of understanding from the asynchronous content when coming for the
+physical class. Online learning activities such as discussion forums, assignments
+or quizzes, are needed to engage students to a deeper thinking level for
+better understanding and learning. This study investigates the benefits
+of online activities such as discussion forums on self-directed learning
+(SDL), the influence of self-directedness components on student behaviour
+in online activities, and the indicators of student behaviour in online
+activities that correlate with learning outcomes in the School of Computing
+(SOC).</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_20 DEVELOPMENT OF ROBOT CONTROL SECURITY EDUCATIONAL MATERIALS USING
+VIRTUALIZATION TECHNOLOGY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Kyosuke Kawai<sup>*,a</sup>, Satoru Yamada<sup>b</sup>, Tomoharu Kaeriyama<sup>c</sup> and
+Yuki Yamaguchi<sup>a</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology Ishikawa College/Electronic
+and Mechanical Engineering, Kanazawa, Ishikawa, Japan</p>
+<p><sup>b</sup>National Institute of Technology Ishikawa College/Electrical
+Engineering, Kanazawa, Ishikawa, Japan</p>
+<p><sup>c</sup>National Institute of Technology Kisarazu College/Mechanical
+Engineering, Kisarazu, Chiba, Japan</p>
+<p><sup>*</sup><a href="mailto:satoru@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">satoru@ishikawa-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>In recent years, everything used in our general lives has been connected
+to the Internet, increasing convenience, and making us more and more efficient.
+This growth will become increasingly rapid and integrated into the life
+of the city we pass. However, very few of us are operating with awareness
+of the security issues that are hidden behind the convenient aspects. As
+more things are connected to the Internet and more things are linked to
+the Internet in the future, attacks targeting their vulnerabilities will
+increase and bring negative aspects to our lives.</p>
+<p>Even though a large number of people who engage in security are needed,
+there is a large shortage of them worldwide. To overcome such a situation,
+this study aims to create educational materials on security using robot
+control as an example. Since the robotics market has been expanding significantly
+in recent years and is expected to grow even more in the future, we thought
+that students and engineers outside the information security field, as
+well as junior high and high school students without specialized knowledge,
+would be easily interested in this field. We then aim to make them aware
+of this current situation and acquire new security personnel.</p>
+<p>In this study, the robot control environment was built with “TurtleBot3
+Burger”, a robot controllable by ROS (Robot Operating System). We have
+successfully launched a man-in-the-middle attack on this environment from
+a virtual machine that is assumed to be a third party and captured the
+contents of the communication. Although the captured contents should be
+encrypted, as shown in this study, a third party can easily steal them.</p>
+<p>Taking this sequence of events as an example, this paper describes the
+process of creating educational materials that will lead to the acquisition
+of new human resources, as well as future issues to be addressed.</p>
 <p></p>
 </div>
 </details>
