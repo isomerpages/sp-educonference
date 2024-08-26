@@ -106,9 +106,10 @@ AN EVALUATION OF RELIABILITY AND VALIDITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>KOH Noi Sian</p>
 <p>School of Information Technology, Nanyang Polytechnic, Singapore</p>
-<p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a>
+<p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a> 
 </p>
 <p>Abstract</p>
+<p></p>
 <p>In recent years, the landscape of education has undergone a transformative
 shift, predominantly driven by technological advancements. Traditional
 lectures have given way to online learning content, delivered through recorded
@@ -134,7 +135,6 @@ is faithful to the original. We assess the effectiveness of these tools
 in accurately transcribing lectures delivered by speakers with diverse
 linguistic backgrounds, thereby addressing potential biases in transcription
 accuracy.</p>
-<p></p>
 <p>Furthermore, we evaluate the validity and reliability of text summarization
 services or tools available in the market. This assessment aims to provide
 insights into the quality of summarization algorithms and their ability
@@ -144,17 +144,18 @@ in the context of online learning, with a particular emphasis on accommodating
 diverse linguistic backgrounds. Our findings will contribute to the improvement
 of online education resources and the development of more inclusive and
 effective learning experiences.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>RP_01 PREDICTIVE ANALYSIS OF STUDENT ACADEMIC PERFORMANCE AT MODULE LEVEL
 WITH MACHINE LEARNING ALGORITHMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>S. Chua<sup>*,a</sup> and M. Gujral<sup>b</sup>
+<p>S. Chua<sup>*,a</sup> and M. Gujral<sup>b</sup> 
 </p>
 <p><sup>a</sup>Republic Polytechnic/School of Engineering, Singapore</p>
 <p><sup>b</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
-<p>*<a href="mailto:samuel_chua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_chua@rp.edu.sg</a>
+<p>*<a href="mailto:samuel_chua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_chua@rp.edu.sg</a> 
 </p>
 <p>Abstract</p>
 <p>This study aims to explore the use of machine learning (ML) algorithms
