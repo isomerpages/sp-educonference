@@ -4,7 +4,6 @@ permalink: /isate-2024-session-2/
 variant: tiptap
 description: ""
 ---
-<p>Abstracts for Session 1 can be found below.</p>
 <h3>Session 2, Track 1</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
