@@ -560,8 +560,7 @@ and to ensure their students reach the desired learning outcomes by focusing
 on teaching and learning activities, assessment, and overall implementation
 of the curricula. The third goal focused on improving the design of daily
 work by getting rid of fragmented work duties and enabling focusing on
-one’s competences.</p>
-<p>The project had three main phases:</p>
+one’s competences. The project had three main phases:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>General planning, goal definition of each program and intended learning
