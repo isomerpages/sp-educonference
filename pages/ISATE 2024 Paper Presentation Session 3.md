@@ -210,13 +210,13 @@ Singapore</p>
 <p>Abstract</p>
 <p>This paper discusses implementing a Digital Twin (DT) virtual model to
 simulate scenarios impractical to recreate physically for the module ET0917:
-PLC Applications in the School of Electrical &amp; Electronics</p>
-<p>Engineering (SEEE). However, integrating DT into the lab involves numerous
-steps potentially leading to cognitive overload for the students. To foster
-sustainable learning, the lab activity design combines Self-Determination
-Theory (SDT) and Cognitive Load Theory (CLT) to address both the motivational
-and cognitive aspects so that students are not only motivated to learn
-but also have the cognitive resources to do so effectively.</p>
+PLC Applications in the School of Electrical &amp; Electronics Engineering
+(SEEE). However, integrating DT into the lab involves numerous steps potentially
+leading to cognitive overload for the students. To foster sustainable learning,
+the lab activity design combines Self-Determination Theory (SDT) and Cognitive
+Load Theory (CLT) to address both the motivational and cognitive aspects
+so that students are not only motivated to learn but also have the cognitive
+resources to do so effectively.</p>
 <p>A mixed-methods approach including diverging stacked bar charts, sentiment
 analysis of student comments, focus group discussions, and teaching staff
 feedback was used to evaluate DT lab’s effectiveness. Data from 96 out
@@ -224,12 +224,11 @@ of 103 students and all four teaching staff over one semester indicate
 positive reception. Both teaching staff and students reported there were
 improved visualization and enhance learning experiences with the DT model.</p>
 <p>The paper then suggests addressing the challenges and future research
-to enhance learning for</p>
-<p>sustainability, including an extended activity with a future carpark scenario.
-Engaging in such activities</p>
+to enhance learning for sustainability, including an extended activity
+with a future carpark scenario. Engaging in such activities</p>
 <p>can help students anticipate how changes in problem and parameters affect
-system behaviour, fostering</p>
-<p>anticipatory competency, a key sustainability identified by UNESCO.</p>
+system behaviour, fostering anticipatory competency, a key sustainability
+identified by UNESCO.</p>
 <p></p>
 </div>
 </details>
