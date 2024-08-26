@@ -50,13 +50,23 @@ significantly enhance students' SDL capabilities.</p>
 <summary>TP_03 AI FOR PERSONALIZED LEARNING SUPPORT FOR STUDENTS IN ENGINEERING:
 A JOINT-POLYTECHNIC COLLABORATION PROJECT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Kannurao Sudha<sup>*,a</sup>, Kwan Eng Eng<sup>a</sup>, Calaiselvy<sup>a</sup>,
-Soon Hock Wei<sup>b</sup>, Udayakumar. T<sup>c</sup>, Shanbhag Narayan<sup>c</sup>
+<p>Kannurao Sudha<sup>a</sup>
+</p>
+<p>, Kwan Eng Eng<sup>a</sup>
+</p>
+<p>, Calaiselvy<sup>a</sup>
+</p>
+<p>, Soon Hock Wei<sup>b</sup>
+</p>
+<p>, Udayakumar. T<sup>c</sup>
+</p>
+<p>, Shanbhag</p>
+<p>Narayan<sup>c</sup>
 </p>
 <p><sup>a</sup>School of Engineering, Temasek Polytechnic, Singapore</p>
 <p><sup>b</sup>School of Engineering, Ngee Ann Polytechnic, Singapore</p>
 <p><sup>c</sup>School of Engineering, Republic Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:sudhak@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sudhak@tp.edu.sg</a>
+<p><a href="mailto:sudhak@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sudhak@tp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>When students encounter difficulty in comprehending certain concept, they
@@ -65,25 +75,29 @@ available round the clock to clarify their doubts. In this project, we
 explore the use of Artificial Intelligence (AI) based chatbot named as
 AskCher, for providing personalized learning support to the students when
 they need the most. AskCher was developed using Google Dialogflow, a Natural
-Language Processing (NLP) module that translates students’ queries during
-conversations to structured data and returns appropriate responses. AskCher,
-the chatbot aims at supporting students’ learning processes while providing
-real-time 24/7 assistance to the students. Students could access the chatbot
-from their laptop or handphone by clicking an URL, whereby the dialog window
-would pop up. In collaboration with School of Informatics and Information
-Technology (IIT) in Temasek Polytechnic, Singapore, AskCher chatbot was
-developed by School of Engineering (ENG) and deployed to 1000+ students
-from three participating polytechnics in Singapore. Leveraging on a single
-chatbot across institutions for the common modules contributes to collaboration
-and benchmarking. Effectiveness of the chatbot in supporting students learning
-needs is studied by analyzing the dashboard visualizations and from the
-student feedback and surveys. This paper shares the findings of this project
-on students’ attitude towards the chatbot, and how it helps them in the
-mastery of skills towards strengthening their competencies in the engineering
-domain, and in acquiring lifelong learning skills. By analyzing the contents
-of the student-chatbot interactions, staff can gain further insights to
-improve the subsequent versions of the chatbot to be used as another channel
-for supporting students through technology.</p>
+Language Processing (NLP) module that translates</p>
+<p>students’ queries during conversations to structured data and returns
+appropriate responses. AskCher, the</p>
+<p>chatbot aims at supporting students’ learning processes while providing
+real-time 24/7 assistance to the</p>
+<p>students. Students could access the chatbot from their laptop or handphone
+by clicking an URL, whereby</p>
+<p>the dialog window would pop up. In collaboration with School of Informatics
+and Information Technology (IIT) in Temasek Polytechnic, Singapore, AskCher
+chatbot was developed by School of Engineering (ENG) and deployed to 1000+
+students from three participating polytechnics in Singapore. Leveraging
+on a single chatbot across institutions for the common modules contributes
+to collaboration and benchmarking. Effectiveness of the chatbot in supporting
+students learning needs is studied by analyzing the dashboard visualizations
+and from the student feedback and surveys. This paper shares the findings
+of this project on students’ attitude towards the chatbot, and how it helps
+them in the mastery of skills towards strengthening their competencies
+in the engineering domain, and in acquiring lifelong learning skills. By
+analyzing the contents of the student-chatbot interactions, staff can gain
+further insights to improve the subsequent versions of the chatbot to be
+used as another channel for</p>
+<p>supporting students through technology.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
