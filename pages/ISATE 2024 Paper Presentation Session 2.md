@@ -50,18 +50,10 @@ significantly enhance students' SDL capabilities.</p>
 <summary>TP_03 AI FOR PERSONALIZED LEARNING SUPPORT FOR STUDENTS IN ENGINEERING:
 A JOINT-POLYTECHNIC COLLABORATION PROJECT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Kannurao Sudha<sup>a</sup>
+<p>Kannurao Sudha<sup>a</sup>, Kwan Eng Eng<sup>a</sup>, Calaiselvy<sup>a</sup>,
+Soon Hock Wei<sup>b</sup>
 </p>
-<p>, Kwan Eng Eng<sup>a</sup>
-</p>
-<p>, Calaiselvy<sup>a</sup>
-</p>
-<p>, Soon Hock Wei<sup>b</sup>
-</p>
-<p>, Udayakumar. T<sup>c</sup>
-</p>
-<p>, Shanbhag</p>
-<p>Narayan<sup>c</sup>
+<p>, Udayakumar. T<sup>c</sup>, Shanbhag Narayan<sup>c</sup>
 </p>
 <p><sup>a</sup>School of Engineering, Temasek Polytechnic, Singapore</p>
 <p><sup>b</sup>School of Engineering, Ngee Ann Polytechnic, Singapore</p>
@@ -75,27 +67,25 @@ available round the clock to clarify their doubts. In this project, we
 explore the use of Artificial Intelligence (AI) based chatbot named as
 AskCher, for providing personalized learning support to the students when
 they need the most. AskCher was developed using Google Dialogflow, a Natural
-Language Processing (NLP) module that translates</p>
-<p>students’ queries during conversations to structured data and returns
-appropriate responses. AskCher, the</p>
-<p>chatbot aims at supporting students’ learning processes while providing
-real-time 24/7 assistance to the</p>
-<p>students. Students could access the chatbot from their laptop or handphone
-by clicking an URL, whereby</p>
-<p>the dialog window would pop up. In collaboration with School of Informatics
-and Information Technology (IIT) in Temasek Polytechnic, Singapore, AskCher
-chatbot was developed by School of Engineering (ENG) and deployed to 1000+
-students from three participating polytechnics in Singapore. Leveraging
-on a single chatbot across institutions for the common modules contributes
-to collaboration and benchmarking. Effectiveness of the chatbot in supporting
-students learning needs is studied by analyzing the dashboard visualizations
-and from the student feedback and surveys. This paper shares the findings
-of this project on students’ attitude towards the chatbot, and how it helps
-them in the mastery of skills towards strengthening their competencies
-in the engineering domain, and in acquiring lifelong learning skills. By
-analyzing the contents of the student-chatbot interactions, staff can gain
-further insights to improve the subsequent versions of the chatbot to be
-used as another channel for</p>
+Language Processing (NLP) module that translates students’ queries during
+conversations to structured data and returns appropriate responses. AskCher,
+the chatbot aims at supporting students’ learning processes while providing
+real-time 24/7 assistance to the students. Students could access the chatbot
+from their laptop or handphone by clicking an URL, whereby the dialog window
+would pop up. In collaboration with School of Informatics and Information
+Technology (IIT) in Temasek Polytechnic, Singapore, AskCher chatbot was
+developed by School of Engineering (ENG) and deployed to 1000+ students
+from three participating polytechnics in Singapore. Leveraging on a single
+chatbot across institutions for the common modules contributes to collaboration
+and benchmarking. Effectiveness of the chatbot in supporting students learning
+needs is studied by analyzing the dashboard visualizations and from the
+student feedback and surveys. This paper shares the findings of this project
+on students’ attitude towards the chatbot, and how it helps them in the
+mastery of skills towards strengthening their competencies in the engineering
+domain, and in acquiring lifelong learning skills. By analyzing the contents
+of the student-chatbot interactions, staff can gain further insights to
+improve the subsequent versions of the chatbot to be used as another channel
+for</p>
 <p>supporting students through technology.</p>
 <p></p>
 </div>
@@ -109,7 +99,6 @@ AN EVALUATION OF RELIABILITY AND VALIDITY</summary>
 <p><a href="mailto:Koh_Noi_Sian@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Noi_Sian@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>In recent years, the landscape of education has undergone a transformative
 shift, predominantly driven by technological advancements. Traditional
 lectures have given way to online learning content, delivered through recorded
@@ -200,7 +189,6 @@ FROM A MULTIMODAL STUDY</summary>
 <p><a href="mailto:tan_boon_yuen@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_yuen@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>In Singapore Polytechnic (SP), students are expected to grow as Self-Directed
 Learners as they learn using asynchronous content on Learning Management
 System (LMS). There were previous observations and feedback from lecturers
@@ -234,7 +222,6 @@ Engineering, Kisarazu, Chiba, Japan</p>
 <p><sup>*</sup><a href="mailto:satoru@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">satoru@ishikawa-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>In recent years, everything used in our general lives has been connected
 to the Internet, increasing convenience, and making us more and more efficient.
 This growth will become increasingly rapid and integrated into the life
@@ -277,7 +264,6 @@ Singapore</p>
 <p><sup>*</sup><a href="mailto:urvi_maniar@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">urvi_maniar@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>Microlearning is perceived as a method of instruction which provides bite-sized
 chunks of content that can be learned in short time spans and at any place.
 Flipped learning affords active engagement with learning materials before
@@ -316,16 +302,12 @@ forthcoming lessons.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Shota Hayashi<sup>a</sup>, Junki Tomatsu<sup>a</sup> and Koji Tajima<sup>*,b</sup>
 </p>
-<p></p>
 <p><sup>a</sup>NIT(KOSEN), Gifu College, Gifu, Japan</p>
 <p><sup>b</sup>Dept of Electrical Engineering and Information Engineering,
 NIT, Gifu College, Gifu, Japan</p>
-<p></p>
 <p><sup>*</sup><a href="mailto:ktajima@gifu-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ktajima@gifu-nct.ac.jp</a>
 </p>
-<p></p>
 <p>Abstract</p>
-<p></p>
 <p>The Department of Electrical and Computer Engineering of NIT Gifu College
 has been conducting Problem-based learning (PBL) classes for students to
 develop game AI since 2012. This paper describes the summary of this PBL
@@ -519,7 +501,6 @@ PERFORMANCE</summary>
 <p><sup>*</sup><a href="mailto:lilian_huang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilian_huang@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>Within the engineering classroom, the conventional pedagogical approach
 often involves modelling - where tutors present correctly worked examples,
 followed by learners applying the concepts through rigorous problem-solving
@@ -574,7 +555,6 @@ Hideyuki Kobayashi<sup>a</sup>, Mio Kobayashi<sup>a</sup> and Yuki Yoshikawa<sup
 <a href="mailto:thanyawarat.pa@kmitl.ac.th" rel="noopener noreferrer nofollow" target="_blank">thanyawarat.pa@kmitl.ac.th</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>Project-based learning (PBL) is effective in developing important skills
 in students, such as thinking, Problem-solving, collaboration, and communication
 skills, which will be valuable in their future work. PBL also motivates
@@ -628,7 +608,6 @@ Technology, Hong Kong SAR, China</p>
 <p><a href="mailto:lauwt@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">lauwt@vtc.edu.hk</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>Generative Artificial Intelligence (GenAI) is one of new innovation teaching
 and learning approach in Hong Kong vocational education, examined as a
 possible catalyst to increase students’ engagement and stimulate creativity
@@ -725,7 +704,6 @@ LEARNERS’ PERCEIVED LEARNING AND LEARNING SATISFACTION</summary>
 <p><sup>*</sup><a href="mailto:loke_han_ying@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_han_ying@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>With the onset of the COVID-19 pandemic, many education institutions had
 to transition to online teaching in a very short space of time. Such transition
 happened at the time when many educators did not have the experience nor
@@ -773,7 +751,6 @@ of Vocational Education (Chai Wan), Hong Kong</p>
 <p><sup>*</sup><a href="mailto:jenny.cheung@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">jenny.cheung@vtc.edu.hk</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>Artificial intelligence (AI) technology is on the horizon and has garnered
 tremendous attention recently. The emergence of generative AI, augmented
 reality (AR) and virtual reality (VR) has lent credence to the current
@@ -922,15 +899,14 @@ KOSEN COLLEGE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Naoto Yorino<sup>*,a</sup>, Jitsuro Mase<sup>a</sup>, Mitsuo Yokonuma<sup>a</sup>,
 Yoshiko Kuniyasu<sup>a</sup>, Yuko Kamochi<sup>a</sup>, Yoshifumi Zoka<sup>b</sup>,
-Yutaka Sasaki<sup>b</sup> 
+Yutaka Sasaki<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology (KOSEN), Kure College, Kure,
 Hiroshima, Japan</p>
 <p><sup>b</sup>Hiroshima University, Higashihiroshima, Japan</p>
-<p><sup>*</sup><a href="mailto:yorino@hiroshima-u.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yorino@hiroshima-u.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:yorino@hiroshima-u.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yorino@hiroshima-u.ac.jp</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>We have established a state-of-the-art collaboration system for promoting
 joint R&amp;D and unified education between National Institute of Technology
 (KOSEN), Kure College (hereafter KC) and Hiroshima University (HU). On
@@ -974,7 +950,7 @@ Data were collected from business diploma learners and focus group discussions
 were conducted. Based on the quantitative data collected, there has been
 a general increase in the level of lifeskills comparing the pre-and post-internship
 quantitative data. The data indicated that internships were more useful
-in improving skills such as communication/engagement skills and self-awareness
+in improving skills such as communication/ engagement skills and self-awareness
 and mental resilience while there was less improvement in skills such as
 global perspectives and innovation. The quantitative and qualitative data
 collected from employers on the lifeskills that showed improvement by learners
@@ -1000,18 +976,17 @@ them.</p>
 <summary>JP_56 COLLABORATIVE LEARNING WITH COMPANIES IN KOSEN – KMITL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A Sakonkanapong<sup>a</sup>, T. Luckanawat<sup>a</sup>, S. Teewchim<sup>a</sup>,
-T. Yamamot<sup>a,b</sup>, and S. Kano<sup>*,a,b</sup> 
+T. Yamamot<sup>a,b</sup>, and S. Kano<sup>*,a,b</sup>
 </p>
 <p><sup>a</sup>Department Mechatronics Engineering, KOSEN – KMITL, Bangkok,
 Thailand</p>
 <p><sup>b</sup>National Institute of Technology, Japan, Hachioji, Japan</p>
-<p><sup>*</sup><a href="mailto:kanou@kosen-k.go.jp" rel="noopener noreferrer nofollow" target="_blank">kanou@kosen-k.go.jp</a> 
+<p><sup>*</sup><a href="mailto:kanou@kosen-k.go.jp" rel="noopener noreferrer nofollow" target="_blank">kanou@kosen-k.go.jp</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>The Thailand KOSEN Project, an essential part of Thailand's 20-year economic
 development plan that began in 2017, aims to develop practical and creative
-engineers (e.g., Ministry of Foreign Affairs, Kingdom of Thailand, 2019)</p>
+engineers (e.g., Ministry of Foreign Affairs, Kingdom of Thailand, 2019).</p>
 <p>KOSEN aims to foster practical and creative engineers called “Social Doctors”
 in KOSEN education. To realize the development of social doctors, Thai
 KOSEN focuses on education that makes students aware of solving social
@@ -1042,48 +1017,35 @@ Polytechnic, Singapore</p>
 </p>
 <p>Abstract</p>
 <p>This study offers a qualitative investigation and implementation of Faculty
-Learning Communities</p>
-<p>(FLC) as facilitators of Conceive, Design, Implement and Operate (CDIO)
-Standard 10 which emphasises</p>
+Learning Communities (FLC) as facilitators of Conceive, Design, Implement
+and Operate (CDIO) Standard 10 which emphasises</p>
 <p>the improvement of faculty teaching competence. This implementation of
-the LC approach, facilitated</p>
-<p>by a group of Teaching and Learning Mentors and Specialists (TLMS), aimed
-at fostering collaboration</p>
+the LC approach, facilitated by a group of Teaching and Learning Mentors
+and Specialists (TLMS), aimed at fostering collaboration</p>
 <p>and professional development among teaching staff with activities like
-symposiums, monthly sharing</p>
-<p>sessions, book studies and curated hands-on workshops. The monthly Active
-Learning</p>
-<p>Community (ALC) sessions cumulate as a large-scale ‘Active Learning Symposium’
-involving the School of</p>
-<p>Architecture and the Built Environment (ABE) and Singapore Maritime Academy
-(SMA). The 2024</p>
-<p>Active Learning Community (ALC) symposium highlighted novel pedagogical
-strategies and assist</p>
-<p>academics in contextualising them into their teaching practices, highlighting
-the interdependent</p>
-<p>relationships of various Teaching and Learning (T&amp;L) initiatives introduced
-over the years.</p>
+symposiums, monthly sharing sessions, book studies and curated hands-on
+workshops. The monthly Active Learning Community (ALC) sessions cumulate
+as a large-scale ‘Active Learning Symposium’ involving the School of Architecture
+and the Built Environment (ABE) and Singapore Maritime Academy (SMA). The
+2024 Active Learning Community (ALC) symposium highlighted novel pedagogical
+strategies and assist academics in contextualising them into their teaching
+practices, highlighting the interdependent relationships of various Teaching
+and Learning (T&amp;L) initiatives introduced over the years.</p>
 <p>Participants’ reflections emerged as crucial themes related to pedagogy,
-teaching practices, and</p>
-<p>feasibility of pedagogical adaptation facilitated by CDIO standards 8
-and 10 during the 2024 ALC</p>
+teaching practices, and feasibility of pedagogical adaptation facilitated
+by CDIO standards 8 and 10 during the 2024 ALC</p>
 <p>symposium. Participants also expressed cautious optimism, appreciation,
-commitment to development,</p>
-<p>and encouragement for data-driven initiatives, further reinforcing the
-potential of organising future</p>
-<p>large-scale symposiums with a strong focus on contextualising CDIO frameworks
-in teaching</p>
-<p>strategies and curriculum development. The findings of this pilot study
-highlighted the importance of</p>
+commitment to development, and encouragement for data-driven initiatives,
+further reinforcing the potential of organising future large-scale symposiums
+with a strong focus on contextualising CDIO frameworks in teaching strategies
+and curriculum development. The findings of this pilot study highlighted
+the importance of</p>
 <p>bridging educational gaps and enhancing teaching effectiveness while ensuring
-congruence with the</p>
-<p>outcomes-based education through the operationalisation of CDIO frameworks.
-This</p>
-<p>paper introduces a holistic approach and offers insights for implementing
-CDIO Standard 10 (through</p>
-<p>CDIO Standard 8) as a collaborative learning method, emphasising its potential
-to catalyse</p>
-<p>future transformative CDIO FLC in higher education teaching and learning.</p>
+congruence with the outcomes-based education through the operationalisation
+of CDIO frameworks. This paper introduces a holistic approach and offers
+insights for implementing CDIO Standard 10 (through CDIO Standard 8) as
+a collaborative learning method, emphasising its potential to catalyse
+future transformative CDIO FLC in higher education teaching and learning.</p>
 <p></p>
 </div>
 </details>
