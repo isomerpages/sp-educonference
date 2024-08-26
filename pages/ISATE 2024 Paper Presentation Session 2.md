@@ -818,7 +818,7 @@ WITH COMMUNITY-BASED ORGANIZATION</summary>
 <p>Shuhey Suzuki</p>
 <p>Department of Engineering for Innovation, National Institute of Technology,
 Tomakomai College, Tomakomai City, Japan</p>
-<p><a href="mailto:shu.suzuki@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shu.suzuki@tomakomai-ct.ac.jp</a> 
+<p><a href="mailto:shu.suzuki@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">shu.suzuki@tomakomai-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The COVID-19 pandemic has had a significant effect on the practice of
@@ -862,7 +862,7 @@ around the world.</p>
 ARTIFICIAL INTELLIGENCE CHATBOT FOR LEARNING OUTCOME-BASED TEACHING AND
 LEARNING APPROACH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Y. LUN<sup>*,a</sup>, R.Y.S. LAM<sup>**,b</sup> 
+<p>Y. LUN<sup>*,a</sup>, R.Y.S. LAM<sup>**,b</sup>
 </p>
 <p><sup>a</sup>Centre for Learning and Teaching, Vocational Training Council,
 Hong Kong</p>
@@ -872,7 +872,6 @@ Hong Kong</p>
 <a href="mailto:rechelllam@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">rechelllam@vtc.edu.hk</a>
 </p>
 <p>Abstract</p>
-<p></p>
 <p>Inspired by the rapid development of artificial intelligence (AI) in recent
 years that leads to various applications in different sectors, including
 education, this study documents the development of an in-house, domain-specific
@@ -917,58 +916,180 @@ systems.</p>
 <h3>Session 2, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_24 A NEW COLLABORATION SYSTEM FOR RESEARCH, EDUCATION AND ENROLLMENT
+IN GRADUATE SCHOOL OF HIROSHIMA UNIVERSITY FROM ADVANCED COURSE OF KURE
+KOSEN COLLEGE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Naoto Yorino<sup>*,a</sup>, Jitsuro Mase<sup>a</sup>, Mitsuo Yokonuma<sup>a</sup>,
+Yoshiko Kuniyasu<sup>a</sup>, Yuko Kamochi<sup>a</sup>, Yoshifumi Zoka<sup>b</sup>,
+Yutaka Sasaki<sup>b</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology (KOSEN), Kure College, Kure,
+Hiroshima, Japan</p>
+<p><sup>b</sup>Hiroshima University, Higashihiroshima, Japan</p>
+<p><sup>*</sup><a href="mailto:yorino@hiroshima-u.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yorino@hiroshima-u.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>We have established a state-of-the-art collaboration system for promoting
+joint R&amp;D and unified education between National Institute of Technology
+(KOSEN), Kure College (hereafter KC) and Hiroshima University (HU). On
+January 26, 2023, the agreement for the new system was established between
+the two institutes, making it possible for all research groups in KC and
+HU to join the research collaboration with/without prospective students
+in KC. The advanced course students of KC will have internship in the corresponding
+laboratories at HU during the first semester of their first year. This
+is essentially a part of the joint research activity, where each student
+shows his/her performance, which is to be evaluated by HU, concerning his/her
+abilities and skills for entering the graduate school of HU. The next step
+is in the second semester of the first year, when the evaluation result
+for the acceptance is informed to KC. Finally, the student will take the
+entrance exam in a special treatment, where they will receive an official
+acceptance in July of the first semester. This paper will describe important
+aspects of this system, including the preparation of students within KC,
+the details of how students will be evaluated at HU, and the time and requirements
+assigned to KC candidates before the admission to HU.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NYP_05 EFFECTIVENESS OF INTERNSHIPS IN IMPROVING LIFESKILLS FROM THE PERSPECTIVE
+OF THE BUSINESS MANAGEMENT LEARNER AND THE EMPLOYER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Khoo Lih-Han</p>
+<p>School of Business Management, Nanyang Polytechnic, Singapore</p>
+<p><a href="mailto:khoo_lih-han@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_lih-han@nyp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>Internship offers a depth of teaching and learning new experiences and
+plays a pivotal role for learners to complete their business diploma courses.
+It provides an opportunity for learners to improve their level of lifeskills
+applicable in real-life situations. This paper seeks to analyse the eﬀectiveness
+of internship programme for a sample group of learners from Nanyang Polytechnic
+School of Business Management on improving their lifeskills based on the
+learners’ assessment of their lifeskills competencies before and after
+the completion of the internship as well as the employers’ feedback on
+learners on lifeskills competencies after the completion of the internship.
+Data were collected from business diploma learners and focus group discussions
+were conducted. Based on the quantitative data collected, there has been
+a general increase in the level of lifeskills comparing the pre-and post-internship
+quantitative data. The data indicated that internships were more useful
+in improving skills such as communication/engagement skills and self-awareness
+and mental resilience while there was less improvement in skills such as
+global perspectives and innovation. The quantitative and qualitative data
+collected from employers on the lifeskills that showed improvement by learners
+were representative of our analysis in relation to data collected from
+learners. From the quantitative data collected and focus group discussions
+conducted, there were three main themes that surfaced in relation to the
+challenges posed for internships to improve the level of lifeskills namely
+lifeskills gap, the need for mindset change and the self-worth of interns.
+The following are recommendations to address the challenges posed for internships
+to improve the level of lifeskills. First, institutions should update curriculum
+to competency based infusing lifeskills to address lifeskills gap. Secondly,
+there is a need to help learners transit to work life and to provide a
+catalyst for mindset change through more industry presence on campus. Lastly,
+there would be more opportunities for lifeskills improvement if employers
+elevate the status of interns by assigning more meaningful tasks. However,
+interns should be more self-aware in the workplace and prove their self-worth
+by accomplishing simple tasks before more of such tasks are entrusted upon
+them.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_56 COLLABORATIVE LEARNING WITH COMPANIES IN KOSEN – KMITL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>A Sakonkanapong<sup>a</sup>, T. Luckanawat<sup>a</sup>, S. Teewchim<sup>a</sup>,
+T. Yamamot<sup>a,b</sup>, and S. Kano<sup>*,a,b</sup> 
+</p>
+<p><sup>a</sup>Department Mechatronics Engineering, KOSEN – KMITL, Bangkok,
+Thailand</p>
+<p><sup>b</sup>National Institute of Technology, Japan, Hachioji, Japan</p>
+<p><sup>*</sup><a href="mailto:kanou@kosen-k.go.jp" rel="noopener noreferrer nofollow" target="_blank">kanou@kosen-k.go.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>The Thailand KOSEN Project, an essential part of Thailand's 20-year economic
+development plan that began in 2017, aims to develop practical and creative
+engineers (e.g., Ministry of Foreign Affairs, Kingdom of Thailand, 2019)</p>
+<p>KOSEN aims to foster practical and creative engineers called “Social Doctors”
+in KOSEN education. To realize the development of social doctors, Thai
+KOSEN focuses on education that makes students aware of solving social
+problems during their school years. In particular, the institute collaborates
+with companies in Problem/Project-Based Learning (PBL), internship, and
+Final Year Projects (hereinafter referred to as FYP) in the upper grades
+to strengthen the cultivation of practical skills through solving real
+problems companies face.</p>
+<p>In this report, we will discuss the results of questionnaires from students
+and companies regarding internships conducted in 2023 and 2024 at KOSEN
+– KMITL and report on the challenges in implementing such collaborative
+education with companies.</p>
 <p></p>
 </div>
 </details>
-</div>
-<p></p>
-<p></p>
-<h3>Session 2, Track 7</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP-27 HARNESSING FACULTY LEARNING COMMUNITIES FOR PROFESSIONAL DEVELOPMENT:
+AN IMPLEMENTATION MODEL FOR CDIO STANDARD 10</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Geok Ling Soo-Ng<sup>a</sup>, Zhengping Liow<sup>*,a</sup>, Mun Kin Leong<sup>b</sup> and
+Yiat Yam Leong<sup>a</sup>
+</p>
+<p><sup>a</sup>School of Architecture and the Built Environment, Singapore
+Polytechnic, Singapore</p>
+<p><sup>b</sup>Singapore Maritime Academy, Singapore Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:ngl@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngl@sp.edu.sg</a> ,
+<a href="mailto:liow_zhengping@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_zhengping@sp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>This study offers a qualitative investigation and implementation of Faculty
+Learning Communities</p>
+<p>(FLC) as facilitators of Conceive, Design, Implement and Operate (CDIO)
+Standard 10 which emphasises</p>
+<p>the improvement of faculty teaching competence. This implementation of
+the LC approach, facilitated</p>
+<p>by a group of Teaching and Learning Mentors and Specialists (TLMS), aimed
+at fostering collaboration</p>
+<p>and professional development among teaching staff with activities like
+symposiums, monthly sharing</p>
+<p>sessions, book studies and curated hands-on workshops. The monthly Active
+Learning</p>
+<p>Community (ALC) sessions cumulate as a large-scale ‘Active Learning Symposium’
+involving the School of</p>
+<p>Architecture and the Built Environment (ABE) and Singapore Maritime Academy
+(SMA). The 2024</p>
+<p>Active Learning Community (ALC) symposium highlighted novel pedagogical
+strategies and assist</p>
+<p>academics in contextualising them into their teaching practices, highlighting
+the interdependent</p>
+<p>relationships of various Teaching and Learning (T&amp;L) initiatives introduced
+over the years.</p>
+<p>Participants’ reflections emerged as crucial themes related to pedagogy,
+teaching practices, and</p>
+<p>feasibility of pedagogical adaptation facilitated by CDIO standards 8
+and 10 during the 2024 ALC</p>
+<p>symposium. Participants also expressed cautious optimism, appreciation,
+commitment to development,</p>
+<p>and encouragement for data-driven initiatives, further reinforcing the
+potential of organising future</p>
+<p>large-scale symposiums with a strong focus on contextualising CDIO frameworks
+in teaching</p>
+<p>strategies and curriculum development. The findings of this pilot study
+highlighted the importance of</p>
+<p>bridging educational gaps and enhancing teaching effectiveness while ensuring
+congruence with the</p>
+<p>outcomes-based education through the operationalisation of CDIO frameworks.
+This</p>
+<p>paper introduces a holistic approach and offers insights for implementing
+CDIO Standard 10 (through</p>
+<p>CDIO Standard 8) as a collaborative learning method, emphasising its potential
+to catalyse</p>
+<p>future transformative CDIO FLC in higher education teaching and learning.</p>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
+<h3></h3>
 <p></p>
 <p></p>
