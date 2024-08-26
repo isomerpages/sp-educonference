@@ -488,28 +488,20 @@ TOOL</summary>
 <p>Nanyang Polytechnic, School of Design &amp; Media, Singapore</p>
 <p><a href="mailto:kenneth_tan@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_tan@nyp.edu.sg</a>
 </p>
-<p>Abstract</p>
 <p>This exploratory case study examines the experiences of three educators
-at Nanyang</p>
-<p>Polytechnic (NYP) from different disciplines who implemented Storification
-as a pedagogical tool in</p>
-<p>their course design and delivery. Using semi-structured interviews and
-Interpretative</p>
-<p>Phenomenological Analysis, the study investigates educators' perceptions,
-implementation methods, and the</p>
-<p>impact on learner engagement. The findings reveal increased learner engagement,
-improved</p>
-<p>understanding of complex topics, and enhanced creativity. However, challenges
-such as time</p>
-<p>constraints, adapting to different learning styles, and aligning with
-assessment criteria were encountered. The</p>
-<p>study proposes several recommendations, including developing clear frameworks,
-balancing creativity</p>
-<p>and academic rigor, collaborating with IT staff, engaging in professional
-development, and conducting</p>
-<p>further research. The results suggest that Storification has the potential
-to transform traditional</p>
-<p>teaching methods and create a more inclusive and effective learning environment.</p>
+at Nanyang Polytechnic (NYP) from different disciplines who implemented
+Storification as a pedagogical tool in their course design and delivery.
+Using semi-structured interviews and Interpretative Phenomenological Analysis,
+the study investigates educators' perceptions, implementation methods,
+and the impact on learner engagement. The findings reveal increased learner
+engagement, improved understanding of complex topics, and enhanced creativity.
+However, challenges such as time constraints, adapting to different learning
+styles, and aligning with assessment criteria were encountered. The study
+proposes several recommendations, including developing clear frameworks,
+balancing creativity and academic rigor, collaborating with IT staff, engaging
+in professional development, and conducting further research. The results
+suggest that Storification has the potential to transform traditional teaching
+methods and create a more inclusive and effective learning environment.</p>
 <p></p>
 </div>
 </details>
@@ -727,10 +719,10 @@ positively rated the benefits of working on the MDPs.</p>
 <summary>RP_07 EXAMINATION OF IMPACT OF INTERACTIONS IN ASYNCHRONOUS LEARNING ON
 LEARNERS’ PERCEIVED LEARNING AND LEARNING SATISFACTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>H. Y. LOKE<sup>*,a</sup>, W. XU<sup>a</sup> and W. C. LEE<sup>a</sup> 
+<p>H. Y. LOKE<sup>*,a</sup>, W. XU<sup>a</sup> and W. C. LEE<sup>a</sup>
 </p>
 <p><sup>a</sup>Republic Polytechnic/Centre for Educational Development, Singapore</p>
-<p><sup>*</sup><a href="mailto:loke_han_ying@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_han_ying@rp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:loke_han_ying@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_han_ying@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -774,7 +766,7 @@ perceived learning and satisfaction significantly.</p>
 PERCEPTIONS AND ATTITUDES TOWARDS GENERATIVE AI AMONG DISPENSERS AND STUDENTS
 FROM HIGHER DIPLOMA IN DISPENSING STUDIES IN HONG KONG</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>W.S. Cheung<sup>*,a</sup>, W.Y. Lee<sup>a</sup> 
+<p>W.S. Cheung<sup>*,a</sup>, W.Y. Lee<sup>a</sup>
 </p>
 <p><sup>a</sup>Department of Health and Life Sciences, Hong Kong Institute
 of Vocational Education (Chai Wan), Hong Kong</p>
