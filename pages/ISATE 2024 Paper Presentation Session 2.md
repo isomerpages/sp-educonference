@@ -85,8 +85,7 @@ mastery of skills towards strengthening their competencies in the engineering
 domain, and in acquiring lifelong learning skills. By analyzing the contents
 of the student-chatbot interactions, staff can gain further insights to
 improve the subsequent versions of the chatbot to be used as another channel
-for</p>
-<p>supporting students through technology.</p>
+for supporting students through technology.</p>
 <p></p>
 </div>
 </details>
