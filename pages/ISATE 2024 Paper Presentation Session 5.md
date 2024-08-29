@@ -290,25 +290,25 @@ a concrete study of the construction of social infrastructure.</p>
 <h3>Session 5, Track 3</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_18</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lorem ipsum</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_75</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>SP_28</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_80</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
