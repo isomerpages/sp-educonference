@@ -943,13 +943,13 @@ graduate with the relevant skills sets for life-long learning.</p>
 <summary>JP_52 A PRACTICAL TRAINING FOR ENGINEERS SUPPORTING METAVERSE TECHNOLOGIES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>M. Akikawa<sup>*,a</sup>, H. Hayashi<sup>a</sup>, A. Takahashi<sup>a</sup>,
-O. Doeda<sup>a</sup>, Y. Takasaka<sup>b</sup> and S. Futaya<sup>b</sup> 
+O. Doeda<sup>a</sup>, Y. Takasaka<sup>b</sup> and S. Futaya<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology (KOSEN), Kushiro College
 Department of Creative Engineering, Kushiro, Japan</p>
 <p><sup>b</sup>National Institute of Technology (KOSEN), Kushiro College
 Education and Research Support Center, Kushiro Japan</p>
-<p><sup>*</sup><a href="mailto:akikawa@kushiro-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">akikawa@kushiro-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:akikawa@kushiro-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">akikawa@kushiro-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>In response to the shift to virtual spaces for both private and work use
@@ -986,33 +986,6 @@ and to discuss the effectiveness of the class.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h3>Session 5, Track 7</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<h3></h3>
 <p></p>
 <p></p>
