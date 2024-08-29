@@ -197,7 +197,7 @@ through the integration of formative assessments and digital technologies.</p>
 <p>Tanigaki Miho<sup>*</sup>, Kazuhiro Wako</p>
 <p>Department of Integrated Engineering, Sendai National College of Technology,
 Natori, Japan</p>
-<p><sup>*</sup><a href="mailto:tanigaki@sendai-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">tanigaki@sendai-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:tanigaki@sendai-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">tanigaki@sendai-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The Sendai National College of Technology Natori Campus has a Robotics
@@ -237,11 +237,11 @@ in the main classroom or the sub-classroom.</p>
 <summary>SP_17 THE EFFECTS OF DATA-ENABLED FLIPPED LEARNING IN YEAR 1 DIPLOMA IN
 OPTOMETRY CURRICULUM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>S. Kallakuri<sup>*, a</sup>, T. Tee<sup>a</sup> and L.L. Tan<sup>a</sup> 
+<p>S. Kallakuri<sup>*, a</sup>, T. Tee<sup>a</sup> and L.L. Tan<sup>a</sup>
 </p>
 <p><sup>a</sup>Singapore Polytechnic, School of Chemical &amp; Life Sciences,
 Singapore</p>
-<p><sup>*</sup><a href="mailto:Sumasri_KALLAKURI@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sumasri_KALLAKURI@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Sumasri_KALLAKURI@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sumasri_KALLAKURI@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Data-Enabled Flipped Learning (DEFL) is a strategy where asynchronous
@@ -334,26 +334,175 @@ future TEL development.</p>
 <h3>Session 4, Track 3</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_71 A CASE STUDY OF THE GUIDANCE FOR EXPERIMENT WITH "INTERACTIVE EXPERIMENT
+NOTEBOOK” (V): TRIAL OF CONFIRMATION TESTS &amp; ELECTRONIC BULLETIN BOARD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Naohiro KOSHIJI<sup>*,a</sup> 
+</p>
+<p><sup>a</sup>Department of Electrical and Electronics Engineering, National
+Institute of Technology, Kurume College (Kurume-Kosen), Kurume, Japan</p>
+<p><sup>*</sup><a href="mailto:koshi@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">koshi@kurume-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>Many student experiments are conducted in engineering education, and the
+main purpose of these experiments is to gain a concrete understanding of
+laws and acquire experimental techniques. Therefore, student experiments
+essentially have a “passive'' and “training'' character for students. Now,
+in the student experiment, the instructor evaluates the reports submitted
+by the students. On the other hand, the student's thought process that
+led to the report is not evaluated, and even worse, instructors have no
+means of checking the student's thought process. However, for industrial
+students who are aspiring engineers, the process is important, and the
+true purpose of student experiments can be said to be to develop and evaluate
+students' thinking processes. Therefore, we focused on the role of the
+experiment notebook not only as a recording tool, but also as a thinking
+tool, and engaged in “experiment notebook guidance'' that is not normally
+practiced. Furthermore, by fusing the ”analog aspects of experiment notebooks''
+with the ”digital aspects of ICT technology, including remote tools,''
+we aimed to foster literacy with logical thinking and problem awareness.
+Various efforts have been made to give student experiments an ”active character.''
+This time, in the electrical and electronic experiments conducted by the
+Department of Electrical and Electronic Engineering, we added to our previous
+efforts and conducted two new attempts as described below. 1) Preparation
+and review of experimental themes and implementation of web-based confirmation
+tests related to them; 2) Utilization of web-based electronic bulletin
+boards for students and instructors to exchange opinions and information.
+1) The aim was for students to have prior knowledge and problem awareness
+regarding experiments. Students read related literature in advance and
+then take a test using Microsoft Forms. Tests related to the experiment
+will also be conducted after the experiment. Students will help solidify
+their concrete understanding and knowledge by outputting the knowledge
+gained through experiments. 2) Students will post questions and ideas that
+arise during the experiment, as well as the progress of the experiment,
+on a web bulletin board on Microsoft Teams in real-time. Instructors and
+students can share their posts in real-time, allowing them to follow up
+quickly. Additionally, everyone can see the chronological progress of the
+experiment and receive feedback on the experiment. By adding approaches
+from these new perspectives to student experiments, we could update student
+experiments into “a place to practice active learning that cultivates PBL
+perspectives.”</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>SP_05 ENHANCING STUDENT LEARNING WITH PRE-ASSESSMENTS AND DIFFERENTIATED
+INSTRUCTIONAL STRATEGIES IN CREATIVE MODULES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Sim, C.<sup>a</sup> and Chiam L.<sup>a</sup> 
+</p>
+<p><sup>a</sup>Singapore Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:clarice_sim@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarice_sim@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>Differentiated instruction (Tomlinson, 2017) has been widely acknowledged
+as an effective pedagogical approach at the primary and secondary school
+level. However, its application in the context of higher education, particularly
+in the creative fields, remains limited. This paper outlines the efforts
+of the Media, Arts, and Design (MAD) school in 2023 across ten creative
+modules to adapt and implement differentiated instructional strategies
+to support our creative students’ learning needs. Drawing from Tomlinson’s
+(2017), we experimented with different learning methods including case
+studies of varying complexities, interest-based groups, tiered activities,
+and peer teaching. Pre-assessment tools such as quizzes, tasks, and polls
+were used to understand individual students’ needs. The results from our
+year-long experimentation show a positive response from students, with
+80% of students (n = 538 across 10 creative modules) expressing agreement
+or strong agreement in enjoying the differentiated activities. In addition,
+71% of students reported feeling confident in their ability to learn in
+these differentiated lessons. Teachers’ reflections at the end of the lesson
+showed their observations of increased student engagement, collaboration,
+autonomy, and motivation. Finally, module feedback scores showed an improvement
+in eight of the 10 modules after implementation. The use cases are compiled
+in the annex which other educators in the creative disciplines and higher
+education may find useful.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_72 INVESTING THE EFFECTIVENESS OF STEAM EDUCATION BASED ON LEARNING
+THROUGH THE INTEGRATION OF DIFFERENT FIELDS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Chiyako ARAYA<sup>*,a</sup> and Naoyuki FUJITA<sup>a</sup> 
+</p>
+<p><sup>a</sup>Department of Electrical Engineering, National Institute of
+Technology (KOSEN), Nara College, Japan</p>
+<p><sup>*</sup><a href="mailto:araya@elec.nara-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">araya@elec.nara-k.ac.jp</a>
+</p>
+<p>Abstract</p>
+<p>The industrial and social environment is transitioning worldwide into
+a period of structural transformation with the rapid progress and popularization
+of artificial intelligence (AI) and Internet of Things (IOT) technologies.
+Under such circumstances, we are expected to use our abilities to explore
+and solve various problems and create new values on our own for diversifying
+social issues and needs. To solve such diversifying problems, the impact
+of STEAM (Science, Technology, Engineering, Arts, and Math) on pupils’
+learning has been increasingly highlighted recently.</p>
+<p></p>
+<p>This study aims to shed light on the effectiveness of STEAM education
+by taking the case of the SHINAYAKA Engineer Education Program that encompass
+STEAM education which the National Institute of Technology (Kosen), Nara
+College developed. The purpose of the SHINAYAKA Engineer Education Program
+aims to help students nurture sensitivity to create new values and expressiveness
+to embody these values, while developing the ability to adapt to diversity
+from multiple perspectives through learning in areas that differ from engineering.
+Another purpose of this program is to develop new engineering leaders who
+can bridge society, life, and technology so that people's lives can evolve
+with the experience of new values (creation of concepts, stories, or user
+experience related to technologies), which is enabled by combining adaptability
+to diversity fostered in this program with practical skills based on theoretical
+knowledge learnt in engineering education. Through this program, two types
+of data (quantitative and qualitative) have been collected, and these data
+were used to analyze the effect of STEAM education in the research.</p>
+<p></p>
+<p>This paper introduces the statistical methods for measuring educational
+effectiveness of STEAM based on the quantitative data and the qualitative
+data. And we summarize and analyze the educational effects from various
+perspectives based on the impact of the sensitivity and expressiveness
+cultivated through learning different fields in the SHINAYAKA engineer
+education program.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>NYP_12 EXPLORING THE CORRELATION BETWEEN TEAM TEACHING AND STUDENT OUTCOMES:
+A QUANTITATIVE ANALYSIS OF STUDENTS’ PERFORMANCE IN INDUSTRY CERTIFICATION
+EXAMINATIONS AND STUDENTS’ PERCEPTIONS OF TEAM TEACHING APPROACH</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>FOO, Faris<sup>*</sup> 
+</p>
+<p>Nanyang Polytechnic, School of Information Technology, Singapore</p>
+<p><sup>*</sup><a href="mailto:faris_foo@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faris_foo@nyp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>Team teaching is an instructional approach wherein two or more educators
+collaborate to plan, deliver, and evaluate teaching and learning activities.
+Research has demonstrated that team teaching can enhance support, provide
+rich and varied lessons, and improve learning outcomes. However, it may
+initially cause confusion for students accustomed to traditional methods.
+While the benefits of team teaching in higher education are well-documented,
+its effectiveness in polytechnic education and its impact on external industry
+certification examination outcomes remain underexplored. The advantages
+and disadvantages of team teaching have been established from educators'
+perspectives, but less is known from the students’ viewpoint. This exploratory
+study examines the impact of team teaching on polytechnic students’ learning
+experiences and external industry certification examination outcomes. It
+involves students enrolled in a one-week, face-to-face Python training
+preparatory course delivered in a team teaching format by five lecturers
+and software engineers. Subsequently, students took the Python Institute’s
+Certified Python Entry-Level Programmer (PCEP) certification examination.
+The purpose of this research is to analyse the correlation between students’
+certification examination results and their Likert scale responses regarding
+the effectiveness of the team teaching model, using the validated Learners'
+Team Teaching Perceptions Questionnaire (LTTPQ). The LTTPQ measures four
+dimensions: (a) rich and varied lessons, (b) increased support, (c) learning
+gains, and (d) confusion. Results indicate that students (n = 33) generally
+reported high satisfaction with rich and varied lessons, increased support,
+and learning gains. Weak correlations limit definitive conclusions about
+the impact of team teaching on students' certification examination performance.
+Richer, more varied lessons may slightly enhance examination results, but
+the impact of increased support remains unclear. Learning gains showed
+benefits, while confusion negatively affected examination outcomes. Further
+research is needed to establish causal relationships.</p>
 <p></p>
 </div>
 </details>
