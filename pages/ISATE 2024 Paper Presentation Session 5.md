@@ -126,12 +126,6 @@ efficiency and nurturing creativity.</p>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
 <h3>Session 5, Track 2</h3>
