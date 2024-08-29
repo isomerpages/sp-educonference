@@ -838,7 +838,7 @@ PROGRAM IN HACHINOHE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ENKE HAORIBAO<sup>*,a</sup>, Yoshida Masaaki<sup>b</sup>, Maruoka Akira<sup>a</sup>,
 Kusakari Akemi<sup>b</sup>, NEJO Kyoko<sup>c</sup>, Kikuchi Akio<sup>b</sup> and
-Mawatari Toru<sup>a</sup> 
+Mawatari Toru<sup>a</sup>
 </p>
 <p><sup>a</sup>Civil Engineering &amp; Architectural Design Course, National
 Institute of Technology (KOSEN), Hachinohe College, Hachinohe, Japan</p>
@@ -846,7 +846,7 @@ Institute of Technology (KOSEN), Hachinohe College, Hachinohe, Japan</p>
 Hachinohe College, Hachinohe, Japan</p>
 <p><sup>c</sup>Material &amp; Biological Engineering Course, National Institute
 of Technology (KOSEN), Hachinohe College, Hachinohe, Japan</p>
-<p><sup>*</sup><a href="mailto:enke-z@hachinohe.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">enke-z@hachinohe.kosen-ac.jp</a> 
+<p><sup>*</sup><a href="mailto:enke-z@hachinohe.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">enke-z@hachinohe.kosen-ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>This comprehensive study documents the results and findings of an international
@@ -959,7 +959,7 @@ MATSUDA, Sai SASAKI, Yoshihiko NAKAMURA</p>
 <p></p>
 <p>Frontier Course, Department of Innovative Engineering, National Institute
 of Technology, Tomakomai College, Tomakomai, Hokkaido, Japan</p>
-<p><sup>*</sup><a href="mailto:doi@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">doi@tomakomai-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:doi@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">doi@tomakomai-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>National Institute of Technology, Tomakomai College (NIT Tomakomai College)
@@ -1003,14 +1003,14 @@ media.</p>
 COLLABORATION: A CASE STUDY FROM POST-GEJET JAPAN</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>K. Pak<sup>*,a</sup>, Y. Matsui<sup>a</sup>, S. Seki<sup>b</sup> and P.J.
-Wanner<sup>c</sup> 
+Wanner<sup>c</sup>
 </p>
 <p><sup>a</sup>Department of Liberal Studies, NIT, Nara College, Nara, Japan</p>
 <p><sup>b</sup>Electrical and Electronic Systems Course, Kinki University
 Technical College, Mie, Japan</p>
 <p><sup>c</sup>Graduate School of International Cultural Studies, Tohoku
 University, Sendai, Japan</p>
-<p><sup>*</sup><a href="mailto:pak@nara.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">pak@nara.kosen-ac.jp</a> 
+<p><sup>*</sup><a href="mailto:pak@nara.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">pak@nara.kosen-ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The 2011 Great East Japan Earthquake and Tsunami (GEJET) left an indelible
@@ -1055,34 +1055,6 @@ to build techno-social systems that can withstand adversity.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<h3>Session 4, Track 7</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<h3></h3>
 <p></p>
 <p></p>
