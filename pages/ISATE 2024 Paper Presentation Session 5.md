@@ -850,13 +850,13 @@ students, require further scrutiny in future studies.</p>
 TO JOIN INTERNATIONAL EXCHANGE PROGRAMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Y. Ichikawa<sup>*,a</sup>, K. Eguchi<sup>a</sup>, K. Tsuzuki<sup>b</sup> and
-T. Miura<sup>b</sup> 
+T. Miura<sup>b</sup>
 </p>
 <p><sup>a</sup>Dept. of General Education, National Institute of Technology,
 Toyota College, Toyota, Japan</p>
 <p><sup>b</sup>Dept. of Information Technology, National Institute of Technology,
 Toyota College, Toyota, Japan</p>
-<p><sup>*</sup><a href="mailto:ichikawa.yuri@toyota.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">ichikawa.yuri@toyota.kosen-ac.jp</a> 
+<p><sup>*</sup><a href="mailto:ichikawa.yuri@toyota.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">ichikawa.yuri@toyota.kosen-ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -893,10 +893,10 @@ global mindset holistically.</p>
 <summary>NP_04 SERVER &amp; CLOUD SECURITY – A LEARNER-CENTRED APPROACH WITH INDUSTRY
 IN CURRICULUM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lei SUN<sup>*,a</sup>, and Yoon Hin LIEW<sup>a</sup> 
+<p>Lei SUN<sup>*,a</sup>, and Yoon Hin LIEW<sup>a</sup>
 </p>
 <p><sup>a</sup>Ngee Ann Polytechnic, School of InfoComm Technology, Singapore</p>
-<p><sup>*</sup><a href="mailto:SUN_Lei@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SUN_Lei@np.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:SUN_Lei@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SUN_Lei@np.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The cybersecurity industry is inherently dynamic, constantly evolving
@@ -940,8 +940,48 @@ graduate with the relevant skills sets for life-long learning.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_52</summary>
+<summary>JP_52 A PRACTICAL TRAINING FOR ENGINEERS SUPPORTING METAVERSE TECHNOLOGIES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>M. Akikawa<sup>*,a</sup>, H. Hayashi<sup>a</sup>, A. Takahashi<sup>a</sup>,
+O. Doeda<sup>a</sup>, Y. Takasaka<sup>b</sup> and S. Futaya<sup>b</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology (KOSEN), Kushiro College
+Department of Creative Engineering, Kushiro, Japan</p>
+<p><sup>b</sup>National Institute of Technology (KOSEN), Kushiro College
+Education and Research Support Center, Kushiro Japan</p>
+<p><sup>*</sup><a href="mailto:akikawa@kushiro-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">akikawa@kushiro-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>In response to the shift to virtual spaces for both private and work use
+due to the outbreak of COVID-19, expectations for the metaverse have increased,
+and product development has been dramatically active in recent years. The
+realization of a metaverse involves a lot of technologies, including creating
+human user interfaces, connecting hardware and networks, constructing,
+and managing servers, and representing users in virtual spaces. Schools
+typically offer classes on these technologies separately, and often fail
+to emphasize the connections between them. However, the absence of these
+connections may result in biases in engineers' knowledge, hindering better
+user experiences and potentially contributing to the decline of the metaverse
+field. We have designed a class to educate the engineer supporting metaverse
+technology through both hardware and software. In the class, topics are
+(A) Hardware creation on the embedded systems, (B) Hardware control via
+networks, (C) Understanding and operating networks by building cloud servers,
+and (D) User expression in online spaces using motion capture. In topic
+(A), a line-trace car is created using a microcontroller and various sensors.
+Students acquire the knowledge necessary for creating a user interface,
+such as creating a car body using a laser cutter and 3D printer, creating
+electronic circuits with various sensors, and controlling hardware using
+a microcontroller. In topic (B), students develop a system to control the
+wheeled robot via a web page. This process helps students to understand
+a way to connect hardware and software. In topic (C), students learn a
+way to construct and manage servers by virtual machines. A key aspect of
+this topic is using virtual machines. Students can learn a way to construct
+flexible servers by using virtual machines. In topic (D), students learn
+how to detect user motion and deploy avatars in virtual space with their
+own motion data. Furthermore, students learn how to express avatars in
+virtual space by creating models and textures based on the acquired motion
+data and creating animated movies. The purpose of this paper is to report
+and to discuss the effectiveness of the class.</p>
 <p></p>
 </div>
 </details>
