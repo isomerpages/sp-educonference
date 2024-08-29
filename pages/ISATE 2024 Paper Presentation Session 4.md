@@ -337,11 +337,11 @@ future TEL development.</p>
 <summary>JP_71 A CASE STUDY OF THE GUIDANCE FOR EXPERIMENT WITH "INTERACTIVE EXPERIMENT
 NOTEBOOK” (V): TRIAL OF CONFIRMATION TESTS &amp; ELECTRONIC BULLETIN BOARD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Naohiro KOSHIJI<sup>*,a</sup> 
+<p>Naohiro KOSHIJI<sup>*,a</sup>
 </p>
 <p><sup>a</sup>Department of Electrical and Electronics Engineering, National
 Institute of Technology, Kurume College (Kurume-Kosen), Kurume, Japan</p>
-<p><sup>*</sup><a href="mailto:koshi@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">koshi@kurume-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:koshi@kurume-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">koshi@kurume-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Many student experiments are conducted in engineering education, and the
@@ -388,10 +388,10 @@ perspectives.”</p>
 <summary>SP_05 ENHANCING STUDENT LEARNING WITH PRE-ASSESSMENTS AND DIFFERENTIATED
 INSTRUCTIONAL STRATEGIES IN CREATIVE MODULES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Sim, C.<sup>a</sup> and Chiam L.<sup>a</sup> 
+<p>Sim, C.<sup>a</sup> and Chiam L.<sup>a</sup>
 </p>
 <p><sup>a</sup>Singapore Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:clarice_sim@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarice_sim@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:clarice_sim@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarice_sim@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Differentiated instruction (Tomlinson, 2017) has been widely acknowledged
@@ -422,7 +422,7 @@ education may find useful.</p>
 <summary>JP_72 INVESTING THE EFFECTIVENESS OF STEAM EDUCATION BASED ON LEARNING
 THROUGH THE INTEGRATION OF DIFFERENT FIELDS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Chiyako ARAYA<sup>*,a</sup> and Naoyuki FUJITA<sup>a</sup> 
+<p>Chiyako ARAYA<sup>*,a</sup> and Naoyuki FUJITA<sup>a</sup>
 </p>
 <p><sup>a</sup>Department of Electrical Engineering, National Institute of
 Technology (KOSEN), Nara College, Japan</p>
@@ -468,10 +468,10 @@ education program.</p>
 A QUANTITATIVE ANALYSIS OF STUDENTS’ PERFORMANCE IN INDUSTRY CERTIFICATION
 EXAMINATIONS AND STUDENTS’ PERCEPTIONS OF TEAM TEACHING APPROACH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>FOO, Faris<sup>*</sup> 
+<p>FOO, Faris<sup>*</sup>
 </p>
 <p>Nanyang Polytechnic, School of Information Technology, Singapore</p>
-<p><sup>*</sup><a href="mailto:faris_foo@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faris_foo@nyp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:faris_foo@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faris_foo@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Team teaching is an instructional approach wherein two or more educators
@@ -508,34 +508,165 @@ research is needed to establish causal relationships.</p>
 </details>
 </div>
 <p></p>
-<p></p>
 <h3>Session 4, Track 4</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_07 EFFECTIVENESS OF LOW-WEIGHTAGE CHECKPOINTS ON ENCOURAGING EARLY
+ENGAGEMENT IN IT PROJECT-BASED LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Jeremiah Ang</p>
+<p>School of Computing, Singapore Polytechnic</p>
+<p><a href="mailto:Jeremiah_ANG@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremiah_ANG@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>As Singapore Polytechnic (SP) continues its pursuit of fostering self-directedness
+in students as a vital graduate attribute, this action research seeks to
+address one of the implicit competencies of self-directedness: time management.
+Specifically, within the Diploma of Information Technology (DIT) program
+at SP, which utilizes open-ended project-based assessment to cultivate
+self-directedness, the study examines the effectiveness of integrating
+multiple low-stake formative assessments as checkpoints to facilitate student’s
+management of their time. Guided by the Temporal Motivation Theory (TMT),
+these checkpoints are designed to assist students in managing time effectively
+by fostering continuous engagement with their assignments, thereby mitigating
+procrastination tendencies. This is particularly crucial in environments
+where competing deadlines can distract students. Focused on second-year
+DIT students enrolled in the mid-point capstone module, Application Development
+(ADES), the research employs a posttest-only design with non-equivalent
+groups, comparing cohorts from different academic years. While one cohort
+serves as a control group, the other experiences the introduction of multiple
+checkpoints in the form of low-stake formative assessments. Quantitative
+analysis of coding activities, particularly Git commit data tracked weekly,
+is complemented by qualitative insights gathered through focus group discussions
+and informal interviews with students. The study aims to assess the efficacy
+of the implemented mechanism in encouraging proactive and sustained engagement.
+The findings indicate that low-weightage checkpoints were successful in
+encouraging early engagement and reducing procrastination. Students showed
+increased engagement around checkpoint deadlines, aligning with Temporal
+Motivation Theory (TMT) principles. In sum, for educators to address procrastination
+in students, such checkpoints can be implemented as a structural support
+mechanism to guide students towards better time management habits.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>RP_03 DEVELOP AND VALIDATE A STANDARDIZED TEST OF COMPUTATIONAL THINKING
+SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>C.S. Yap<sup>*,a</sup> and A. Lim<sup>a</sup> 
+</p>
+<p><sup>a</sup>Republic Polytechnic/School of Engineering, Singapore</p>
+<p><sup>*</sup><a href="mailto:yap_choon_seng@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_choon_seng@rp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>A test of computational thinking (Ct) skills was developed to measure
+the level of skills in abstraction, algorithm thinking and decomposition.
+The Ct test is targeted at 17- to 19-year-old post-secondary school students.
+After content validation was done, the test was administered to 233 participants,
+and we performed a Rasch analysis to eliminate non-discriminatory items.
+16 items remained after this. Construct validity was checked using confirmatory
+factor analysis (CFA) with mean- and variance-adjusted weighted least square
+(WLSMV) estimator. RMSEA of 0.016 and CFI of 0.986 was achieved with a
+3-factor model. The model had an overall Cronbach’s alpha of 0.722.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>NP_06 PROJECT ID: CONNECTING THE DOTS – DEVELOPING COGNITIVE FLEXIBILITY
+AND INTEGRATIVE THINKING FOR A VUCA WORKPLACE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Dr Noorashikin Abdul Rahman<sup>*</sup>, Evelyn Ng Mui Khim and Kow Kok
+Sing</p>
+<p>Ngee Ann Polytechnic, School of Interdisciplinary Studies, Singapore</p>
+<p><sup>*</sup><a href="mailto:Noorashikin_Rahman@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noorashikin_Rahman@np.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>The Fourth Industrial Revolution has brought about wide-ranging disruption
+to the workplace with technological advancements outpacing knowledge acquisition
+in schools and displacing old jobs while creating new ones. There is a
+pressing need to develop graduates who are comfortable with ambiguity,
+able to nimbly adapt to change and who possess cognitive flexibility, agility
+and resilience to unlearn obsolete knowledge and relearn new skills. Graduates
+are also expected to be able to navigate and integrate diverse bodies of
+knowledge and collaborate with people with varying modes of thinking as
+the world becomes more interconnected and problems increasingly complex.  </p>
+<p></p>
+<p>Project ID: Connecting the Dots (ProID) is Ngee Ann Polytechnic (NP)’s
+response to the disrupted workplaces that our students will enter. Using
+a Project-Based Learning approach, this Year 3 module aims to hone students’
+interdisciplinary skills as well as a suite of transferable skills to support
+their development as independent, agile lifelong learners ready for a volatile
+world.</p>
+<p></p>
+<p>This paper examines the pedagogical innovativeness of ProID along two
+distinct strands: (1) its deliberate design and purposeful teaching and
+learning strategies to create the necessary conditions for interdisciplinary
+learning to take place and (2) the significant challenge of implementing
+an interdisciplinary project module for the entire Year 3 NP student cohort,
+while ensuring its meaningfulness and alignment with its intent. Data collected
+from module surveys carried out over the past three years since the introduction
+of the module has been encouraging, with 72.7% of respondents agreeing
+or strongly agreeing with the statement that the module “has been useful
+in helping me see the importance of collaboration across disciplinary boundaries
+to solve complex problems in society. </p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JP_76 WHAT IS KOSEN STUDENTS LEARNING IN PHYSICAL EDUCATION CLASSES? [BASED
+ON A SURVEY]</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>K. Shibayama<sup>*,a</sup>, H. Tomioka<sup>b</sup> , R. Hamanaka<sup>c</sup> and
+H. Ogawa<sup> d</sup>&nbsp;</p>
+<p><sup>a</sup>International Pacific University / Department of Physical
+Education, Okayama City, Japan&nbsp;</p>
+<p><sup>b</sup>Hiroshima University / Graduate School of Humanities and Social
+Sciences, Higashihiroshima City, Japan&nbsp;</p>
+<p><sup>c</sup>Kyoto University of Advanced Science / Department of Health
+and Sports Sciences, Kameoka City, Japan&nbsp;</p>
+<p><sup>d</sup>National Institute of Technology, Hiroshima College /Department
+of Distribution and Information Engineering, Toyota District, Japan&nbsp;</p>
+<p><sup>*</sup><a href="mailto:k.shibayama@ipu-japan.ac.jp" rel="noopener noreferrer nofollow" target="_blank">k.shibayama@ipu-japan.ac.jp</a>
+</p>
+<p>Abstract</p>
+<p>In 2017, the National Institute of Technology (KOSEN) developed a model
+core curriculum (MCC) outlining specific attainment goals for education
+at KOSEN, focusing on both human competencies and knowledge. Among these
+goals, Physical Education (PE) is designated to cultivate independence,
+self-management, responsibility, teamwork, leadership, and ethics. However,
+no research has yet examined whether these competencies have been effectively
+developed in PE classes at KOSEN since the establishment of the MCC in
+2017.</p>
+<p></p>
+<p>Therefore, this study aims to assess the outcomes of PE classes at KOSEN,
+with a particular focus on the competencies outlined in the MCC.</p>
+<p></p>
+<p>A survey based on the MCC achievement objectives was conducted to grades
+first students (n=369) and grades 4 or 5 students (n=380) enrolled in PE
+at four KOSENs institutions. Respondents' level of achievement in all competencies,
+as outlined in the MCC, was rated on a scale of 3 for application, 2 for
+understanding, 1 for knowledge and memory, and 0 if no improvement was
+observed in PE-related classes. Respondents were also asked to provide
+open ended question about what they had specifically learned in PE at KOSEN.</p>
+<p></p>
+<p>The mean attainment of objectives was compared and discussed between grades
+first and grades 4 or 5 students using an independent t-test, with a significance
+level set at less than 5%. The significance level was set at less than
+5%. Open ended questions were analyzed using Text Mining (User Local, Inc.)
+to identify co-occurrence networks of frequently mentioned words.</p>
+<p></p>
+<p>The results are as follows: 1) The mean self-evaluation response values
+for fourth or grades first students were significantly higher than those
+for grades first students across all competencies, indicating that PE classes
+at KOSEN positively impact the development of students' competencies. 2)
+Grades 4 or 5 students demonstrated a greater understanding than grades
+first students of the importance of cooperation and in PE classes from
+multiple perspectives.</p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <h3>Session 4, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
