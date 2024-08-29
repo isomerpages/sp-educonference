@@ -244,8 +244,7 @@ Institute of technology, Matsue college, Shimane, Japan</p>
 <p><sup>b</sup>Department of Civil and environmental engineering, National
 Institute of technology, Matsue college, Shimane, Japan</p>
 <p><sup>c</sup>Department of Civil Engineering and Urban Design, Osaka institute
-of technology, Osaka,</p>
-<p>Japan</p>
+of technology, Osaka, Japan</p>
 <p><sup>d</sup>Department of Civil and environmental engineering, Hiroshima
 Institute of Technology, Hiroshima, Japan</p>
 <p><sup>e</sup>Okumura Engineering Corporation, Osaka, Japan</p>
