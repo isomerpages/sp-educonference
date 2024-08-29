@@ -516,7 +516,7 @@ ENGAGEMENT IN IT PROJECT-BASED LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Jeremiah Ang</p>
 <p>School of Computing, Singapore Polytechnic</p>
-<p><a href="mailto:Jeremiah_ANG@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremiah_ANG@sp.edu.sg</a> 
+<p><a href="mailto:Jeremiah_ANG@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremiah_ANG@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>As Singapore Polytechnic (SP) continues its pursuit of fostering self-directedness
@@ -553,10 +553,10 @@ mechanism to guide students towards better time management habits.</p>
 <summary>RP_03 DEVELOP AND VALIDATE A STANDARDIZED TEST OF COMPUTATIONAL THINKING
 SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>C.S. Yap<sup>*,a</sup> and A. Lim<sup>a</sup> 
+<p>C.S. Yap<sup>*,a</sup> and A. Lim<sup>a</sup>
 </p>
 <p><sup>a</sup>Republic Polytechnic/School of Engineering, Singapore</p>
-<p><sup>*</sup><a href="mailto:yap_choon_seng@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_choon_seng@rp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:yap_choon_seng@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_choon_seng@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>A test of computational thinking (Ct) skills was developed to measure
@@ -578,7 +578,7 @@ AND INTEGRATIVE THINKING FOR A VUCA WORKPLACE</summary>
 <p>Dr Noorashikin Abdul Rahman<sup>*</sup>, Evelyn Ng Mui Khim and Kow Kok
 Sing</p>
 <p>Ngee Ann Polytechnic, School of Interdisciplinary Studies, Singapore</p>
-<p><sup>*</sup><a href="mailto:Noorashikin_Rahman@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noorashikin_Rahman@np.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Noorashikin_Rahman@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noorashikin_Rahman@np.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The Fourth Industrial Revolution has brought about wide-ranging disruption
@@ -670,26 +670,161 @@ multiple perspectives.</p>
 <h3>Session 4, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>TP_07 BRIDGING THEORY AND PRACTICE THROUGH TRANSFORMATIVE GAMIFICATION:
+HARNESSING CARD GAMES FOR EDUCATION IN SUSTAINABILITY AND SYSTEMS THINKING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Lorem ipsumMarta Alexandra Godinho Miguel</p>
+<p>Temasek Polytechnic/School of Design, Diploma in Interior Architecture
+&amp; Design, Singapore</p>
+<p><a href="mailto:martamig@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martamig@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>The “Guardians of Gaia” game is a pedagogical tool designed to actively
+involve students in comprehending sustainability concepts and systems thinking.
+Rooted in research findings that emphasise the engagement benefits of games,
+the Guardians of Gaia is crafted to offer an immersive and interactive
+experience. This approach aims to elevate students' critical thinking skills
+and deepen their understanding of the intricate connections between nature
+and communities. The incorporation of “wicked problems” and systems thinking
+within the game aligns with scholarly recognition of games' potential to
+bridge theoretical knowledge with practical application. Through its design,
+the game serves as a platform for fostering critical research skills, providing
+students with the necessary tools to address complex sustainability and
+urban challenges.</p>
+<p></p>
+<p>The game's methodology is characterised by its strategic integration into
+an elective subject at the School of Design, addressing critical gaps in
+sustainable practices within the urban and built environment. Aligned with
+broader learning objectives, the game is part of a subject that equips
+students with essential skills to evaluate urban sites, define sustainability
+in human and natural habitats, and propose sustainable urban design strategies.
+The assessment of the game's efficacy through student surveys throughout
+the term underscores its value in promoting reflection, depth of thought,
+and research skills. By introducing 'wicked problems' and systems thinking,
+the game facilitates the translation of insights gained into the urban
+realm, setting the stage for subsequent assignments and practical application
+of knowledge.</p>
+<p></p>
+<p>In the realm of Pedagogical Innovation in Teaching &amp; Learning, the
+“Guardians of Gaia” game stands out as a robust tool that leverages gamification
+principles to bridge the gap between theoretical knowledge and real world
+application. Its innovative approach enriches students' understanding of
+sustainable urban systems which is crucial for future professionals in
+the built environment. The collaborative elements inherent in the game.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>SP_08 DIALOGUES FOR A SUSTAINABLE TOMORROW : CULTIVATING CRITICAL THINKING
+USING SOCRATIC PEDAGOGY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>L.M. Chan and J. Wee</p>
+<p>School of Life Skills &amp; Communication, Singapore Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:june_wee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_wee@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>With our global population reaching 8 billion in 2022, the strain on our
+planet's finite resources is tighter than ever before, leading to environmental
+degradation, pollution, and climate change. Despite international agreements
+like the Paris Agreement and the UN 2030 Agenda for Sustainable Development,
+the 1.5°C threshold was breached every month in 2023. The urgency for nations,
+organisations, and individuals to adopt sustainable practices is increasingly
+evident. Singapore recognises the pivotal role of education and advocates
+for training in sustainability in higher learning. This action research
+paper explores using Socratic Pedagogy in the tertiary classroom when teaching
+about sustainability. Complex ethical dilemmas related to sustainability
+require deeper examination, and Socratic pedagogy, with its emphasis on
+critical thinking through questioning and dialogue, emerges as a promising
+approach. The research employed a mixed-methods approach, analysing quantitative
+and qualitative data from student feedback on their experience participating
+in Socratic discussions. Using Paul's and Elder's (2020) criteria for identifying
+behaviours of critical thinkers, the research found that Socratic discussions
+foster critical thinking about sustainability issues and concludes that
+Socratic pedagogy is a useful tool for educators in higher education to
+facilitate meaningful discussions on sustainability in the classroom.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_63 SENTENCE DIAGRAMMING: A TECHNIQUE FOR MASTERING PASSIVE VOICE IN
+ACADEMIC AND SCIENTIFIC WRITING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>R. Grumbine<sup>*,a</sup>, S. Furuike<sup>b</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology/ English Department, Omuta,
+Japan</p>
+<p><sup>b</sup>Unaffiliated Omuta, Japan</p>
+<p><sup>*</sup><a href="mailto:richard@ga.ariake-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">richard@ga.ariake-nct.ac.jp</a>
+</p>
+<p>Abstract</p>
+<p>Academic and scientific writing often presents challenges for readers
+and writers, particularly those using English as a foreign or second language
+(Wittaningsih 2018). This is partly because passive voice is disproportionately
+represented in academic and scientific writing. Its prevalence constitutes
+a unique grammatical obstacle, as passive constructions can be challenging
+to correctly identify, understand, and employ. Misunderstanding passive
+voice can lead to significant misinterpretations and result in ambiguous
+or needlessly verbose sentences. The nuanced construction and specific
+verb patterns required by passive voice also often prove difficult. However,
+a straightforward method exists for mastering passive voice: sentence diagramming.
+While sentence diagramming has waned in popularity in English education,
+it remains a valuable tool for students grappling with the intricacies
+of English (Burnette 2020), particularly passive voice structures. A simplified
+version of sentence diagramming, based loosely on Chomsky’s X-Bar Theory
+and aimed at enhancing the grammatical proficiency of second language users,
+was developed. This technique offers a practical solution, facilitating
+authors in identifying, comprehending, and producing passive voice through
+four key mechanisms: visualizing grammatical relationships within the sentence,
+distinguishing between subject and object (a common challenge in passive
+constructions), emphasizing correct verb form, and recognizing when to
+restate sentences in the active voice (a common issue with Japanese-to-English
+machine translation). This simple sentence diagramming technique brings
+clarity to passive voice structures, thereby facilitating their recognition,
+understanding, and production.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>NP_08 BRIDGING THEORY AND PRACTICE: EXPERIENTIAL LEARNING IN SOLAR PHOTOVOLTAIC
+PANEL OPTIMIZATION</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tam-Choi Mong Ping<sup>*,a</sup>, Tan Boon Liong<sup>a</sup>, Alex See<sup>a</sup> and
+Tan GuangFan<sup>a</sup>
+</p>
+<p><sup>a</sup>Ngee Ann Polytechnic/School of Engineering, Singapore</p>
+<p><sup>*</sup><a href="mailto:Tam-Choi_Mong_Ping@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tam-Choi_Mong_Ping@np.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>A sequence of structured activities aimed at facilitating experiential
+learning were conducted. Initial exposure to concrete experiences was facilitated
+through two practical sessions focused on exploring PV panel tilt angles
+and series-connected panel outputs. A quiz was administered to gauge students’
+understanding of the two practical sessions. In the ‘Reflective Observation’
+stage, students were guided to discuss about their experiences, relate
+theory to practice and reflect on the mistakes made in the quiz. Through
+the discussion, students made sense of the conceptual principles related
+to the practical experiments and in the ‘Abstract Conceptualisation’ stage,
+they began developing new ideas to link the theories and the practical
+experiments. Subsequently, students proceeded to validate their new ideas
+in an enhanced experiment. In this ‘Active Experimentation’ stage, the
+enhanced experiment was designed with flexibility, to allow the students
+to test different new ideas. After the enhanced experiment, students demonstrated
+enhanced critical thinking skills, enabling them to evaluate the effectiveness
+and efficiency of different PV setup methodologies. This deeper understanding
+empowered students to propose innovative solutions and strategies for optimizing
+PV systems' performance, thereby contributing to the advancement of sustainable
+energy technologies.</p>
+<p></p>
+<p>Students performed well in mid-semester test questions related to connecting
+PV panels in series, with 80% getting it correct. Additionally, post-survey
+results strongly supported experiential learning's effectiveness in bridging
+theoretical concepts and real-world applications. Students acknowledged
+the value of experiential learning in understanding the importance of series-connected
+PV panels with the same tilt angle to achieve optimal output power.</p>
+<p></p>
+<p>This study underscores the importance of integrating experiential learning
+methodologies to enhance students' comprehension and application of complex
+engineering principles such Solar Photovoltaic Panel Optimization.</p>
 <p></p>
 </div>
 </details>
