@@ -652,8 +652,8 @@ to overcome their own weaknesses.</p>
 A CASE STUDY IN ENGINEERING MATHEMATICS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>B. Li, J. Lee</p>
-<p>Engineering Mathematics and Science, School of Engineering,</p>
-<p>Temasek Polytechnic, Singapore</p>
+<p>Engineering Mathematics and Science, School of Engineering, Temasek Polytechnic,
+Singapore</p>
 <p><a href="mailto:Bryan_LI@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Bryan_LI@tp.edu.sg</a>
 </p>
 <p>Abstract</p>
