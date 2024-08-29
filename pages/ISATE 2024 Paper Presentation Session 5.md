@@ -806,25 +806,59 @@ professional landscape.</p>
 <h3>Session 5, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_20 FROM THOUGHT TO ACTION: THE REFLECTIVE PATH TO SELF-DIRECTED LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>S. Kunasegaran</p>
+<p>Singapore Polytechnic, Media, Arts &amp; Design School, Singapore</p>
+<p><a href="mailto:sukitha_kunasegaran@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sukitha_kunasegaran@sp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>Studies have shown that reflective practice can lead to insights that
+can guide learners’ decisions and actions in self-directed learning (SDL)
+(Dutta et al., 2023). Among the attributes that are relevant to SDL are,
+understanding of self and others (Lee &amp; Mori, 2021), evaluating one’s
+beliefs and assumptions and making connections between aspects of their
+self and their experiences (Travers et al., 2014). The objective of this
+mixed-method research study was to find out whether regular self-reflections
+within a first-year studio-based project module enabled students to draw
+insights, to become more self and socially aware and to engage in self-evaluation.
+Students from 21 classes were introduced to the ‘Rolfe Reflective Model’
+(Rolfe et al., 2011) which included guiding questions that were customised
+to the weekly topics and activities. The initial interviews with 8 students
+revealed that they appreciated how the structured reflective process led
+to better self-understanding and that the questions were helpful in targeting
+areas for growth. Further content analysis was conducted on 63 reflections
+from 21 students (one randomly selected student from each class), at 3
+intervals across the semester, in Weeks 4, 12 and 16. Repeated measures
+ANOVA indicated that the mean ratings (based on a scale 1-5) for insight,
+social awareness and making connections did not change significantly over
+the course of the semester. Insight ratings were particularly high throughout
+the semester with 81% of initial reflections and 71.4% of final reflections
+having ratings of 4 and 5. In contrast, social awareness ratings were consistently
+low. In fact, there was a complete absence of any indication of social
+awareness, in 33.3% of the initial reflections and 42.9% of the final reflections.
+Additionally, the ratings for self-understanding decreased significantly
+over the semester, F(2, 60) = 4.30, p = .021, despite students’ own perceptions
+of their increasing self-understanding. Reflecting about self and others,
+which may have important implications for self-directed learning in our
+students, require further scrutiny in future studies.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_39</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NP_04</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_52</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
