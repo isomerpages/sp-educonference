@@ -564,49 +564,60 @@ required for global citizenship.</p>
 <h3>Session 1, Track 4</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>JP_06 DEVELOPMENT AND EVALUATION OF PRACTICE FOR INTEGRATED CAD-CAE-CAM
-EDUCATION</summary>
+<summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup>
+<p>J. Kontio<sup>*,a</sup> and M. Ketola<sup>b</sup>
 </p>
-<p><sup>a</sup>Institute for Research on Next-generation Semiconductor and
-Sensing Science (IRES²), Toyohashi University of Technology, Toyohashi,
-Japan</p>
-<p><sup>b</sup>Department of Mechanical Engineering, Toyohashi University
-of Technology, Toyohashi, Japan</p>
-<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a>
+<p><sup>a</sup>Turku University of Applied Sciences, Faculty of Engineering
+and Business Turku, Finland</p>
+<p><sup>b</sup>Turku University of Applied Sciences, Faculty of Engineering
+and Business/School of Common Studies, Turku, Finland</p>
+<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a> 
 </p>
 <p>Abstract</p>
-<p>The ability to achieve an optimum design based on specifications is a
-skill that should be developed in the mechanical engineering program. We
-have developed a “self-enlightenment” engineering educational scheme for
-designing, creating, and evaluating through the spontaneous participation
-of students themselves. The most significant feature is providing experiences
-such as machining to create “real (not virtual)” parts to assemble and
-form real products with one’s own hands. Achieving this goal requires students
-to repeat the design cycle (CAD-CAE) to avoid any mistakes in the final
-products produced by CAM. Evaluating the final product can reveal how well
-the design cycle worked yet you may find some unexpected things and why
-that happens. In recent years, we used a “smartphone stand” as the targeted
-product and the instructors providing the specifications to third-year
-undergraduate students in Department of Mechanical Engineering, Toyohashi
-University of Technology. Students designed and analyzed using 3D-CAD and
-created component drawings. Through analyses (e.g. CAE; evaluating stress
-distribution and overall shape deformation), an optimal design was determined,
-and students evaluated its feasibility of their design. If not satisfied,
-they were encouraged to modify the design in 3D-CAD and then analyze again.
-By repeating this cycle (CAD-CAE), students learn the optimization process
-in design, which is often experienced in the real manufacturing processes.
-Once the shapes of all parts were finalized, the CAD data was transferred
-to a laser cutter device (CAM), which cuts thick paper to manufacture the
-designed parts. Students assembled the parts to create their own smartphone
-stands, then evaluated them in various ways to check whether they satisfied
-the prescribed specifications. Generally, products do not match all specifications,
-thus students consider the reasons for inconsistencies and areas for improvement,
-which enhances awareness of the important aspects of engineering design.
-By adopting the problem-solving and repetitive learning method using the
-CAD-CAM-CAE cycle, students can improve their ability to become future
-professional engineers in an efficient yet effective manner.</p>
+<p>Faculty of Engineering and Business in Turku University of Applied Sciences
+started a major curricula reform in Autumn 2022 with the aim of new curricula
+for autumn 2024. The reform was for all our engineering and business administrations
+programs in bachelor level. The project used CDIO as the general framework
+for the reform. There are altogether 20 different curricula that this reform
+affected. The reform had a project group consisting of representatives
+from all our eight schools. The reform aimed to improve three main goals:</p>
+<p>• Strengthen professional core competencies in programs,</p>
+<p>• Strengthen the quality of education and improve completion and</p>
+<p>• Support personnel well-being.</p>
+<p>The first goal challenged the programs to identify their key existing
+principle: What is the professional role and practical context of the profession?
+The second goal challenged the programs to improve their learning outcomes
+and to ensure their students reach the desired learning outcomes by focusing
+on teaching and learning activities, assessment, and overall implementation
+of the curricula. The third goal focused on improving the design of daily
+work by getting rid of fragmented work duties and enabling focusing on
+one’s competences.</p>
+<p>The project had three main phases:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>General planning, goal definition of each program and intended learning
+outcomes</p>
+</li>
+<li>
+<p>Defining courses’ descriptions and constructive alignment</p>
+</li>
+<li>
+<p>Finalizing the change.</p>
+</li>
+</ul>
+<p>Based on the reform project we currently have new curricula in all the
+programs starting autumn 2024. Their goals are clarified, learning outcomes
+are specified, and the functionality of the whole has been ensured. The
+modular structure has been improved and each program has a clear growth
+story built in the program. Furthermore, several common project modules
+have been embedded in curricula. Currently we are working on constructive
+alignment by planning learning outcomes, teaching/learning activities and
+assessment to form a mutually supportive whole. Furthermore, teaching and
+learning is designed to be based on active methods and our learning environments
+will be in active use. In this paper, we describe the aims of the reform,
+its phases, and its key results and experiences.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
