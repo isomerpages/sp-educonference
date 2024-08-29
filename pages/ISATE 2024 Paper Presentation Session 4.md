@@ -12,7 +12,7 @@ LEARNING OUTCOMES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>G.L. TAN<sup>*</sup>, Calaiselvy, H.S. TAN</p>
 <p>School of Engineering, Temasek Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:TAN_Geok_Ling@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">TAN_Geok_Ling@TP.EDU.SG</a> 
+<p><sup>*</sup><a href="mailto:TAN_Geok_Ling@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">TAN_Geok_Ling@TP.EDU.SG</a>
 </p>
 <p>Abstract</p>
 <p>In the era of digitalization, different industry sectors such as business,
@@ -42,7 +42,7 @@ instant messaging application (MIM), Telegram.</p>
 <summary>SP_13 CRAFT: A FRAMEWORK FOR DESIGNING HIGH-QUALITY PROMPTS FOR GENERATIVE
 AI</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yanto Jakop<sup>a</sup> and Lim Pei Chin<sup>a</sup> 
+<p>Yanto Jakop<sup>a</sup> and Lim Pei Chin<sup>a</sup>
 </p>
 <p><sup>a</sup>School of Mathematics &amp; Science, Singapore Polytechnic,
 Singapore</p>
@@ -81,7 +81,7 @@ in their studies.</p>
 <summary>NP_10 “GEN AI-BLING" TEACHING &amp; LEARNING @NGEE ANN POLYTECHNIC (NP):
 REFLECTIONS AND LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Hui Leng TAN<sup>*,a</sup>, Ee-Lon LIM<sup>b</sup> and Shirley WILLIAMS<sup>a</sup> 
+<p>Hui Leng TAN<sup>*,a</sup>, Ee-Lon LIM<sup>b</sup> and Shirley WILLIAMS<sup>a</sup>
 </p>
 <p><sup>a</sup>Ngee Ann Polytechnic/Centre for Learning &amp; Teaching Excellence,
 Singapore</p>
@@ -143,26 +143,189 @@ on the innovations for NP’s T&amp;L.</p>
 <h3>Session 4, Track 2</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>VTC_04 EMPOWER SUSTAINABLE LEARNING: INTEGRATING MOODLE AND DIGITAL ASSESSMENTS
+FOR ENHANCED LEARNING EXPERIENCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>H. K. Tse, Kimberley</p>
+<p>Engineering Discipline, Vocational Training Council, Hong Kong</p>
+<p><a href="mailto:kimberleytse@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">kimberleytse@vtc.edu.hk</a>
+</p>
+<p>Abstract</p>
+<p>Assessment, one of the key components of education, allows institutions
+to measure and evaluate students’ performance. Conventional assessments
+focus on examinations at the end of teaching courses. These types of assessments
+also known as summative assessments tend to direct students’ attention
+towards achieving specific learning outcomes and high scores. However,
+effective assessment practices should provide ongoing information and valuable
+feedback to learners to enhance their learning experience. During the challenging
+times of COVID-19, different online education platforms have been widely
+adopted by institutions.</p>
+<p></p>
+<p>Various digital technologies available on the online platforms empower
+teachers to conduct real time feedback, reformulate teaching content and
+pedagogy based on students’ engagement levels, progress and results. The
+dynamic evaluation allows for the effective implementation of formative
+assessment.</p>
+<p></p>
+<p>Moodle, one of the examples of the remarkable proliferation of various
+online assessment tools, is an open-source Learning Management System (LMS).
+It provides a platform for educators to manage their course, facilitate
+assessment and evaluate student performance. Teachers can set up the assignment
+for students by uploading documents, configuring specifications such as
+deadline, with plagiarism checking like Turnitin. Additionally, Moodle
+Quiz empowers teachers to create quizzes with different types of questions,
+flexible layout and order, and it also supports automated grading. Other
+tools, PDF annotator and H5P, have been integrated into Moodle. It allows
+teachers to insert questions, comments, scoring and feedback immediately
+while H5P enriches the learning experience with gamification interactive
+elements including quiz function.</p>
+<p></p>
+<p>This paper will explore the utilisation of formative assessments, facilitated
+by Moodle, in enhancing the learning experience of students enrolled in
+the Higher Diploma in Computer and Electronic Engineering. The study was
+conducted with three classes of students, employing a variety of assessment
+tools and surveys to examine how these practices influence students’ learning
+and teachers’ teaching behaviours. The findings of this research provide
+valuable insights for educators seeking to enhance student learning experience
+through the integration of formative assessments and digital technologies.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_73 REPORT ON CLASSROOM COLLABORATION SYSTEM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Tanigaki Miho<sup>*</sup>, Kazuhiro Wako</p>
+<p>Department of Integrated Engineering, Sendai National College of Technology,
+Natori, Japan</p>
+<p><sup>*</sup><a href="mailto:tanigaki@sendai-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">tanigaki@sendai-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>The Sendai National College of Technology Natori Campus has a Robotics
+course, a Materials Environment course, a Mechanical and Energy course,
+and an Architectural Design course, with students enrolled from the first
+to fifth year. Each class has about 40 students, and most of the classes
+are held in the classrooms of each class. One-quarter of the students continue
+to study in the specialized department on the same campus for another two
+years after graduation. However, the number of teachers has been reduced
+due to cuts in operating subsidies, and the number of classes per teacher
+is excessive. To improve this problem, classes for subjects common to each
+class are now held jointly as much as possible. Although seven grades are
+studying at any given time, there are only two classrooms where joint classes
+can be held: a large classroom and an audiovisual room. Therefore, only
+two grades can hold joint classes at the same time , and it was urgent
+to add a large classroom, but due to budgetary constraints, it is difficult
+to renovate or expand the school building. Therefore, we tried removing
+the wall between the two classrooms and making them into one classroom,
+but we found that the classroom was long and narrow from front to back
+and difficult to use. In addition, after the coronavirus pandemic, some
+students began to feel anxious or unwell when many people were crammed
+into the same room. In light of this, our school introduced a remote teaching
+system that virtually connected five classrooms at the Natori campus and
+ten classrooms at the Hirose campus to create one large classroom. I used
+that system to teach calculus to third-year students for a year. Since
+we continued to use a specific classroom as the main classroom throughout
+the year, I was worried that there would be a difference in the grades
+of students in the main classroom and those in the sub-class. However,
+looking at the results of the four regular exams, we found that the classes
+that performed well in each exam were different, and that there was no
+significant difference in grades depending on whether they took classes
+in the main classroom or the sub-classroom.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>SP_17 THE EFFECTS OF DATA-ENABLED FLIPPED LEARNING IN YEAR 1 DIPLOMA IN
+OPTOMETRY CURRICULUM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>S. Kallakuri<sup>*, a</sup>, T. Tee<sup>a</sup> and L.L. Tan<sup>a</sup> 
+</p>
+<p><sup>a</sup>Singapore Polytechnic, School of Chemical &amp; Life Sciences,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:Sumasri_KALLAKURI@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sumasri_KALLAKURI@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>Data-Enabled Flipped Learning (DEFL) is a strategy where asynchronous
+data such as quizzes or surveys (ALeRT) are used to evaluate student learning
+needs and lessons are customised to meet the specific needs. The current
+study was designed to investigate the effects of DEFL on student engagement
+and conceptual understanding. DEFL was deployed in two core Year 1 modules
+(CP3048 and CP3035) in the Diploma of Optometry with cohort size of sixty-four
+students. Prior to in-class tutorials, students went through asynchronous
+lecture materials, completed a post-lecture quiz and rated their confidence
+levels in understanding the topics. Based on the quiz scores, students
+were assigned to mixed-ability groups. During the in-class tutorial, activities
+and questions aimed at further enhancing their learning were conducted
+(also referred to as intervention). After the tutorial, students completed
+a post-tutorial quiz to evaluate their comprehension and gauge their confidence
+in their understanding of the taught concepts. A final survey was then
+conducted to gather the students’ perspectives on the influence of DEFL
+on their learning. ALeRT response rate ranged from 73% to 98% for the two
+modules. In CP3048, comparing pre- &amp; post-intervention, students scoring
+≥50 marks increased from 21% to 98% (quiz score mean±SD: 41±14 vs 73±13,
+p&lt;0.001); confidence ratings between ‘moderately confident’ to ‘very
+confident’ improved from 40% to 83%. In CP3035, students scoring ≥50 marks
+were lower post-intervention (quiz score 86±20 vs 73±21, p=0.001) despite
+confidence ratings improved from 29% to 48%. In the final survey, students
+responded that DEFL was effective for their learning (85%). They appreciated
+and enjoyed the group discussion as it provided them with an opportunity
+to learn from one another (87%) and helped them to manage their learning
+better (87%) by identifying learning gaps. This study has demonstrated
+the effects of DEFL in enhancing student engagement and promoting understanding
+of conceptual knowledge in year 1 DOPT education.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>VTC_10 ENHANCING ARBORICULTURAL TRAINING WITH VIRTUAL REALITY TECHNOLOGY</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>FUNG Kim Yung, Terry<sup>*,a</sup>, TANG Wing Sze, Kitty<sup>b</sup> ,
+KEUNG Yim Mei, Amy<sup>a </sup>and TO King Ting, Kelvin<sup>b</sup>
+</p>
+<p><sup>a</sup>Department of Health and Life Sciences, Hong Kong Institute
+of Vocational Education (IVE),&nbsp;</p>
+<p>Hong Kong, VTC&nbsp;</p>
+<p><sup>b</sup>Smart City Innovation Centre, VTC&nbsp;</p>
+<p><sup>*</sup><a rel="noopener noreferrer nofollow" target="_blank">terrykyfung@vtc.edu.hk</a>&nbsp;</p>
+<p>Abstract</p>
+<p>Arboriculture is a profession of combining a broad spectrum of knowledge
+and practical skills. Technology Enhanced Learning (TEL) is used to improve
+learning experiences with digital technology to facilitate students' professional
+development and optimise teaching and learning outcomes through embedding
+Virtual Reality (VR) and Augmented Reality (AR) as well as establishing
+new facilities.</p>
+<p></p>
+<p>Department of Health and Life Sciences (HLS) of IVE and Smart City Innovation
+Centre and STEAM Education Centre (SCI-STEAM) jointly developed a set of
+VR Multiplayer Arboricultural Training. This VR Arboricultural Training
+package specifically caters to the pre-employment students enrolled in
+arboricultural management and tree-related programmes, providing a learning
+platform to strengthen their knowledge of safety procedures relevant to
+arboriculture management prior to practical training sessions.</p>
+<p></p>
+<p>For the first time, we have added a multiplayer function, which allows
+two students to train simultaneously in the same virtual environment over
+the internet. 3 scenarios were developed by HLS and SCI-STEAM. HLS was
+responsible to design the training content while SCI-STEAM provided VR
+hardware and assisted with the training process.</p>
+<p></p>
+<p>This paper aims to provide a comprehensive review of the application of
+VR training in arboriculture. It covers different aspects, including the
+introduction, the scope of VR training content, VR hardware set up, design
+detail, VR training flow in class, and the feedback on the VR training.
+The challenge of the traditional arboricultural training is highlighted
+in the introduction. Comparison among the traditional practical training,
+traditional VR training and the multiplayer-based VR training in terms
+of their impact on learning outcomes are discussed. The scope of VR training
+content contains three scenarios in the VR training program. Two of these
+scenarios involve interaction between two players. The "hardware setup"
+section outlines the necessary requirements for the VR training. The design
+detail outlines the software used in the application development and the
+application flow. Moreover, the VR training flow in class is presented,
+clarifying the training flow and the class duration. To evaluate the effectiveness
+and the usability of the VR training, the industrial practitioners, and
+trainees to test it and their feedback was positive. They expressed their
+high praise after using VR training. Feedback from them is collected for
+future TEL development.</p>
 <p></p>
 </div>
 </details>
