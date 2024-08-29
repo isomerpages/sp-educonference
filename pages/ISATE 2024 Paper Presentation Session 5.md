@@ -10,11 +10,11 @@ description: ""
 <summary>JP_42 DESIGN OF AN EASILY REPRODUCIBLE AND SUSTAINABLE MACHINE LEARNING
 EXPERIMENT FOR THE KOSEN CURRICULUM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Eduardo Carabez<sup>*,a</sup>, Takanori Sato<sup>a</sup> 
+<p>Eduardo Carabez<sup>*,a</sup>, Takanori Sato<sup>a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Akita College / Department
 of Electrical and Information Engineering, Akita, Japan</p>
-<p><sup>*</sup><a href="mailto:carabez@akita-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">carabez@akita-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:carabez@akita-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">carabez@akita-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The rapid evolution of machine learning applications has put a light on
@@ -95,8 +95,34 @@ collaborative learning experiences.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>NYP_06</summary>
+<summary>NYP_06 USE OF AI TOOLS IN THE RESEARCH PROCESS OF DESIGN PROJECTS TO ENHANCE
+THE LEARNING EXPERIENCE FOR STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Ka Wai, Ng</p>
+<p>Nanyang Polytechnic/School of Design and Media, Singapore</p>
+<p><a href="mailto:ng_ka_wai@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ka_wai@nyp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>This research study focuses on the integration of Generative Artificial
+Intelligence (Gen AI) into the research process of design projects. The
+study aims to enhance the learning experience for students in the Product
+Technologies and System Design (PDTSD) module. It addresses the challenges
+students face in traditional research methods, such as difficulty in sourcing
+relevant information and time constraints due to other commitments. The
+research employs an action research approach to introduce Gen AI tools,
+specifically ChatGPT, in the early phases of project research and design
+conceptualization. This intervention is applied to a cohort of year 2 students
+in the Experiential Product &amp; Interior Design course (XPID), allowing
+for a comparative analysis with a previous cohort that did not use Gen
+AI tools. The study hypothesizes that Gen AI tools can facilitate a more
+efficient research process, enabling students to obtain preliminary research
+information rapidly, though they are still required to perform verification
+and reflection to ensure the applicability of this information. Mixed methods
+were used in the research, including surveys, interviews, and module feedback
+ratings. The findings reveal a nuanced impact of AI tools on design education,
+indicating a positive shift in learning experiences and increased acceptance
+among students, while also highlighting a critical balance between enhancing
+efficiency and nurturing creativity.</p>
 <p></p>
 </div>
 </details>
