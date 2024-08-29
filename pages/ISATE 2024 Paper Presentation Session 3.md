@@ -527,13 +527,13 @@ the risks and damages more globally in the future.</p>
 LEARNING EXPERIENCE: AN ACTION RESEARCH PROJECT IN EEE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Phyoe Kyaw Kyaw<sup>*a</sup>, Lim Joo Ghee<sup>a</sup>, Mark Wan Chi Ming<sup>a</sup> and
-Chong Siew Kee<sup>b</sup> 
+Chong Siew Kee<sup>b</sup>
 </p>
 <p><sup>a</sup>School of Electrical &amp; Electronic Engineering, Singapore
 Polytechnic, Singapore</p>
 <p><sup>b</sup>Department of Academic Quality &amp; Resources, Singapore
 Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:phyoe_kyaw_kyaw@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phyoe_kyaw_kyaw@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:phyoe_kyaw_kyaw@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phyoe_kyaw_kyaw@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>This paper documents an innovation in which a customized learning assistant
@@ -615,76 +615,220 @@ of science career choice support programs are suggested.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SP_23 HOW A GENERATIVE AI POWERED CUSTOMISED CHATBOT CAN ENHANCE THE STUDENT
-LEARNING EXPERIENCE: AN ACTION RESEARCH PROJECT IN EEE</summary>
+<summary>JP_06 DEVELOPMENT AND EVALUATION OF PRACTICE FOR INTEGRATED CAD CAE-CAM
+EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Phyoe Kyaw Kyaw<sup>*a</sup>, Lim Joo Ghee<sup>a</sup>, Mark Wan Chi Ming<sup>a</sup> and
-Chong Siew Kee<sup>b</sup>
+<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup> 
 </p>
-<p><sup>a</sup>School of Electrical &amp; Electronic Engineering, Singapore
-Polytechnic, Singapore</p>
-<p><sup>b</sup>Department of Academic Quality &amp; Resources, Singapore
-Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:phyoe_kyaw_kyaw@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phyoe_kyaw_kyaw@sp.edu.sg</a>
+<p><sup>a</sup>Institute for Research on Next-generation Semiconductor and
+Sensing Science (IRES²), Toyohashi University of Technology, Toyohashi,
+Japan</p>
+<p><sup>b</sup>Department of Mechanical Engineering, Toyohashi University
+of Technology, Toyohashi, Japan</p>
+<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a> 
 </p>
 <p>Abstract</p>
-<p></p>
-<p>This paper documents an innovation in which a customized learning assistant
-chatbot, built upon the Generative Pre-trained Transformers (GPT), a Generative
-Artificial Intelligence (AI) Large Language Model (LLM), was employed as
-a virtual tutor to supplement the student learning experience in a data-enabled
-flipped learning (DEFL) classroom module. The research sought to explore,
-analyse, and evaluate how students experienced this technology, what could
-be learned to enhance different aspects of the learning process, and the
-challenges this may pose for future practice and research. The pedagogic
-approach was guided by an evidence-based teaching framework in which the
-design and facilitation of learning draws on validated knowledge on how
-students learn best and what teaching methods are most effective and efficient.
-In the chatbot, students were provided with clear learning outcomes, instructional
-content that focused on the key subject concepts essential to building
-understanding, and focused question prompts to initiate their critical
-thinking. They were then encouraged to use their own initiative in experimenting
-with this AI technology. The methodology involved data collection from
-146 first-year students across eight classes in two Digital Electronics
-modules, focus group interviews with a sample of 10 students, and reflective
-practices from three teaching faculty. The research yielded positive results,
-especially on the usefulness of the virtual learning assistant chatbot
-pre-trained on the module content. It significantly enhanced students'
-understanding by providing rapid and accurate feedback. It was also deemed
-effective for supporting various learning tasks, such as answering questions,
-offering explanations, and generating insights. By understanding students’
-perceptions, based on their learning experiences with the chatbot, faculty
-can create instructional strategies to enhance the quality of their teaching
-practices. This also offers the potential for greater differentiation and
-personalization of instruction, which is a highly desirable educational
-aim.</p>
-<p></p>
+<p>The ability to achieve an optimum design based on specifications is a
+skill that should be developed in the mechanical engineering program. We
+have developed a “self-enlightenment” engineering educational scheme for
+designing, creating, and evaluating through the spontaneous participation
+of students themselves. The most significant feature is providing experiences
+such as machining to create “real (not virtual)” parts to assemble and
+form real products with one’s own hands. Achieving this goal requires students
+to repeat the design cycle (CAD-CAE) to avoid any mistakes in the final
+products produced by CAM. Evaluating the final product can reveal how well
+the design cycle worked yet you may find some unexpected things and why
+that happens. In recent years, we used a “smartphone stand” as the targeted
+product and the instructors providing the specifications to third-year
+undergraduate students in Department of Mechanical Engineering, Toyohashi
+University of Technology. Students designed and analyzed using 3D-CAD and
+created component drawings. Through analyses (e.g. CAE; evaluating stress
+distribution and overall shape deformation), an optimal design was determined,
+and students evaluated its feasibility of their design. If not satisfied,
+they were encouraged to modify the design in 3D-CAD and then analyze again.
+By repeating this cycle (CAD-CAE), students learn the optimization process
+in design, which is often experienced in the real manufacturing processes.
+Once the shapes of all parts were finalized, the CAD data was transferred
+to a laser cutter device (CAM), which cuts thick paper to manufacture the
+designed parts. Students assembled the parts to create their own smartphone
+stands, then evaluated them in various ways to check whether they satisfied
+the prescribed specifications. Generally, products do not match all specifications,
+thus students consider the reasons for inconsistencies and areas for improvement,
+which enhances awareness of the important aspects of engineering design.
+By adopting the problem-solving and repetitive learning method using the
+CAD-CAM-CAE cycle, students can improve their ability to become future
+professional engineers in an efficient yet effective manner.</p>
 </div>
 </details>
 </div>
+<p></p>
 <h3>Session 3, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_64 EFFECTIVENESS OF MOBILE-ASSISTED LANGUAGE LEARNING IN ENGLISH EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
+<p>N. Maharjan<sup>*,a</sup>, E. Nobuhiro<sup>a</sup>, Y. Ominato<sup>a</sup>,
+Y. Tsuchida<sup>a</sup>, K. Ichimura<sup>a</sup> 
+</p>
+<p>National Institute of Technology, Nagaoka College / Division of General
+Education (English), Niigata, JAPAN</p>
+<p><sup>*</sup><a href="mailto:namimaha@nagaoka-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">namimaha@nagaoka-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>The upsurge of digital technology after the global pandemic has completely
+transformed the world around us, and its impact on the educational sector
+has been remarkable. With the incessant progress of digital technology,
+numerous technology-assisted learning platforms have been developed. Among
+them, mobile phone learning platforms are grabbing attention as most of
+the students have easier access to mobile phones than any other digital
+tools. Previous studies have shown that various mobile-assisted learning
+(MALL) methods are being utilized to learn and teach different courses
+in educational institutions around the world. However, there are limited
+studies reporting the effectiveness of MALLs particularly in the colleges
+of the National Institute of Technology, known as KOSEN. In this study,
+the objective was to conduct a preliminary study to explore the effectiveness
+of MALL as a new teaching approach in order to motivate them and provide
+an engaging learning environment. For this study, the chosen participants
+were the second-year KOSEN students. They were divided into treatment and
+control groups. In general, majority of the students find vocabulary challenging
+to remember in an English reading course. So, they were given grammar and
+vocabulary assignments and tests using a mobile application called Monoxer.
+The performance of students was assessed through their pre-tests and post-tests.
+Further, questionnaire studies were conducted to understand the perceptions
+of students about MALL and its impact on their performance.</p>
+<p></p>
+<p>It was observed that the students’ experiences using the MALL for English
+reading course were affirmative. They were satisfied by this new approach
+of learning and found it effective for improving their reading comprehension
+in English reading course. Besides, the students accepted the application
+of the MALL app based on its usefulness, ease of use and access, instant
+feedback from teachers, and continuity. For the efficiency assessment,
+when the treatment group was compared with the control group, the treatment
+group outperformed the control group on their academic performance for
+English reading course. Therefore, this study verifies that MALL could
+be an effective pedagogical tool for promoting English reading comprehension
+competency in KOSEN.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>RP_02 EXPLORATION OF FACTORS AFFECTING COURSE OUTCOMES IN E-LEARNING FOR
+CET FULL QUALIFICATION DIPLOMA PROGRAMMES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>S. Teng<sup>*,a</sup> and K. Y. Teh<sup>a</sup>
+</p>
+<p><sup>a</sup>Republic Polytechnic, School of Engineering, Singapore</p>
+<p><sup>*</sup><a href="mailto:teng_suyan@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_suyan@rp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>E-learning/online learning based on the virtual learning environment (VLE)
+has become a viable education alternative, gaining more and more attention
+due to its flexibility, accessibility, cost effectiveness, customized learning
+experience, and variety of courses available. In Republic Polytechnic (RP),
+e-learning has been deliberately planned and carefully designed to provide
+alternative learning options. For Continuing Education and Training (CET)
+full qualification diploma programmes, e-learning has been increasingly
+promoted and significantly ramped up in recent years. Therefore, it is
+important to know if students would have similar learning experiences and
+achieve equivalent course outcomes in e-learning as in Face-to-Face learning.
+This study explored the factors affecting the course outcomes in e-learning
+based on students’ perceptions of e-learning experience. Quantitative methods
+encompassing a 10-factor, 30-item survey were employed in this study. Factor
+and reliability analyses were conducted to verify, validate and refine
+the survey items. Survey responses were analysed through descriptive, comparative
+and correlational analyses. Survey findings were derived to summarize students’
+overall perceptions of e-learning (descriptive), differences in perceptions
+of e-learning across different semesters (comparative), and relationships
+between the various factors and their influences on the e-learning course
+outcomes (correlational). The findings showed that, it is important to
+enhance learner-content interactions through building interactive activities
+into the e-learning package; to ensure the e-learning packages have clear
+instructions, proper workload, and easy access; to increase interactions
+(learner-learner, learner-lecturer) through online discussions and activities
+to promote social presence during e-learning; and to adopt microlearning
+for learners to absorb information before they lose interest or attention,
+which in turn increases knowledge retention.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>SP_12 CULTIVATING AUTHENTIC LEARNING IN CROSS-CULTURAL EDUCATION FOR SUSTAINABLE
+DEVELOPMENT THROUGH LEARNING EXPRESS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>H.K Singh and D. Chen</p>
+<p>Singapore Polytechnic/ School of Life Skills and Communication, Singapore</p>
+<p><a href="mailto:Harveen_Kaur_Singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Harveen_Kaur_Singh@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>In the post-COVID era, the Learning Express (LeX) programme underwent
+two significant transformations: a shift from social innovation to sustainable
+innovation, aligning with the United Nations' Sustainable Development Goals
+(SDGs), and its transition into an Asia-Ready Exposure (AEP) programme.
+The latter aims to foster students' continued interest in the ASEAN, China
+and India (ACI) region, extending learning beyond LeX by championing sustainability
+within these regions. However, with these two transformations, the cornerstone
+of the programme is still Authentic Learning, by which our students are
+engaged as active problem-solver and inquirers. Therefore, this paper investigates
+the key features that contribute to the authenticity of learning in the
+refined LeX programme and its extension, LeXPlus.</p>
+<p>Employing a mixed-methods approach, the study conducted a preliminary
+survey to assess the authenticity of learning within the ACI region and
+interviewed a student and a facilitator to gain insights into how learning
+occurs within and beyond LeX, with a specific focus on Authentic Learning
+in the context of Education for Sustainable Development (ESD). The findings
+revealed that while students possessed baseline knowledge of the interplay
+between ESD elements, the application of this knowledge can be primarily
+observed beyond LeX. Furthermore, the role of the facilitator emerged as
+crucial in championing sustainability during LeX.</p>
+<p>Based on these findings, the paper provides recommendations to enhance
+the authenticity of learning in LeX and LeXPlus, contributing to the broader
+goal of promoting sustainable development within the ACI region while preparing
+our students to become proactive global citizens of the world.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_28 PRACTICE OF STEAM EDUCATION USING LED ILLUMINATIONS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Hiroki Momono<sup>*,a</sup>, Mitsuru Matsumoto<sup>a</sup> and Takashi
+Yamawaki<sup>a</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology, Yonago College, Hikona,
+Japan</p>
+<p><sup>*</sup><a href="mailto:momono@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">momono@yonago-k.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Traditional Japanese education was a passive, instruction-based system
+of teaching knowledge. The current approach to Science, Technology, Engineering,
+Arts, and Mathematics (STEAM) education, by contrast, is of a construction
+type (PBL), inviting active learning. The approach to STEAM education is
+recognized as an important goal of national reform in Japanese education
+from kindergarten to university (K–16). However, in Japan, STEAM education
+has only received implementation over the past few years, such that there
+is little knowledge available on STEAM learning programs, curriculum models,
+and assessment methods. We developed a method for programming LED illuminations
+within STEAM education to enhance fundamental competencies and creativity
+in K–16 students. First, we created web applications using “BIPES“ and
+developed “MicroPython IDE“ to create a programming environment for STEAM
+education that involved LED illuminations that do not require software
+installation. BIPES is a visual programming tool, similar to Scratch and
+MicroPython IDE; it is a code programming tool for the MicroPython language.
+Furthermore, in using these programming environments, we created teaching
+materials to enable hands-on learning of programming from an artistic perspective.
+We investigated several aspects of this teaching material, including its
+appeal to children, enjoyment level, its comparability with Scratch, and
+the motivational aspect it offers for programming learning. The programming
+course, that used teaching materials for STEAM, greatly boosted student
+motivation to learn programming. This finding indicates high levels of
+satisfaction with this teaching material, likely due to the novelty and
+joy of being able to control everyday items, such as push-button switch,
+speaker, and LED, which sparked the interest and curiosity of the students.
+Furthermore, we implemented education using LED illuminations at “Tottori
+Hanakairo” for fifth-year students at a technical college. These students
+applied their knowledge to plan and design LED illumination projects and
+to create electrical circuits and programming. This initiative, in which
+students themselves put their ideas into practice and learn by cycling
+between Input (Knowledge) and Output (Creativity), has notably enhanced
+students’ motivation to learn.</p>
 <p></p>
 </div>
 </details>
@@ -693,21 +837,150 @@ aim.</p>
 <h3>Session 3, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_32 THEME-FINDING INTERNSHIP PROGRAM FOR FUTURE INTRAPRENEURS FROM SMALL
+COMPANIES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>M. Tafu<sup>*,a</sup>, R. Matoba<sup>b</sup>, H. Hasegawa<sup>c</sup>,
+K. Yamamoto<sup>d</sup> and J. Nishida<sup>e</sup> 
+</p>
+<p><sup>a</sup>Department of Applied Chemistry and Chemical Engineering,
+National Institute of Technology (KOSEN), Toyama College, Toyama, Japan</p>
+<p><sup>b</sup>Department of Electronics and Computer Engineering, National
+Institute of Technology (KOSEN), Toyama College, Imizu, Japan</p>
+<p><sup>c</sup>Department of International Business, National Institute of
+Technology (KOSEN), Toyama College, Imizu, Japan</p>
+<p><sup>d</sup>Department of Maritime Technology, National Institute of Technology
+(KOSEN), Toyama College, Imizu, Japan</p>
+<p><sup>e</sup>Office Nishida LLC, Tokyo, Japan</p>
+<p><sup>*</sup><a href="mailto:tafu@nc-toyama.ac.jp" rel="noopener noreferrer nofollow" target="_blank">tafu@nc-toyama.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>Entrepreneurship is recognized as one of the methods of student empowerment
+in KOSEN education. Various KOSENs have been challenged to develop “student
+entrepreneurs” from the education program and startup competitions. However,
+most Japanese small companies have made various innovations through KOSEN
+alumni. These innovations have certainly supported the development potential
+of Japanese industries directly or indirectly. We focus on developing human
+resources in KOSEN as “future intrapreneurs” in small companies for Japanese
+industrial development. An education model was constructed as a form of
+the “theme-finding internship (TFI)” program. The framework of the TFI
+program was conceptualized as follows: first, we constructed student teams
+of three students from other backgrounds; second, the student teams challenged
+hidden problems in the proposed tasks suggested by a company; third, academic
+staff members supported and picked up essential tasks from students/company
+discussions from scientific viewpoints; and third, the company agreed to
+support students financially and in terms of career design via future employment.</p>
+<p>During vacation in 2023, we endeavored to create a proof of concept for
+the TFI programs with three companies in Tokyo, Japan. These companies
+have faced potential problems with environmental issues such as a circular
+economy, low carbon footprint, and so on.</p>
+<p>We found that each student group generated excellent ideas and future
+tasks only within a five-day internship. As one of the achievements, a
+student team developed an image processing algorithm to detect specific
+polymers, such as polyvinyl chloride, by indicating specific colors from
+the view of the smart glasses. Other examples include a production process
+of low-carbon lime resources from unused alkaline chemicals in wastewater
+from washing returnable glass bottles and a management system of reused
+laptop computers based on lifetime prediction. This presentation summarizes
+the effects and outputs of KOSEN students via the TFI program with small
+companies.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NP_01 FLIPPED LEARNING FOR 2 BUSINESS MODULES AT NGEE ANN POLYTECHNIC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Grace Fang and Liong Mei Lai</p>
+<p>Ngee Ann Polytechnic / School of Business and Accountancy, Singapore</p>
+<p><a href="mailto:Grace_Fang@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Grace_Fang@np.edu.sg</a>,
+<a href="mailto:Liong_Mei_Lai@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liong_Mei_Lai@np.edu.s</a>
+</p>
+<p>Abstract</p>
 <p></p>
+<p>While classroom teaching used to be more didactic practice with students
+listening passively, the scenario has changed ever since the Flipped Learning
+(FL) approach was adopted. Teaching &amp; Learning practices and strategies
+have shifted over the years from instructor-led learning to a more constructive
+and collaborative experience so that students can be active and engaged
+participants of learning.</p>
+<p></p>
+<p>FL allows students to take ownership of learning. Research has shown that
+FL has a positive impact on students as they learn to exercise the autonomy
+they are given to decide where and when learning takes place as well as
+how deep and far they would like to learn the content on their own. This
+is in line with the psychology of today’s youth who prefer autonomy in
+decision-making. (R. Brewer and S. Movahedazarhouligh, 2018).</p>
+<p></p>
+<p>FL was formally adopted at Ngee Ann Polytechnic (NP), School of Business
+&amp; Accountancy (BA) in 2022 when the curriculum was redesigned to include
+Online Asynchronous Learning (OAL). Students are to engage with the required
+self-access learning materials and pre-activities made available to them
+through the Learning Management System (LMS) before attending the In-Person
+Lessons (IPL). Currently, at BA, the curriculum ratio of online asynchronous
+learning and in-person learning is on average 40:60.</p>
+<p></p>
+<p>This paper compares the similarities and differences in the design elements
+of each module, the challenges encountered, and the next steps to enhance
+the FL experience for two BA modules: User-Centered Design for Business
+(UCBD), taken by all 1st year BA students, and Digitalisation and Data
+Analytics 2 (DDA2), taken by all 2nd year Accountancy students.</p>
+<p></p>
+<p>Both UCDB and DDA2 were re-conceptualised and re-designed as FL modules
+which incorporate elements that enable students to engage in more self-directed
+learning and lecturers to be able to regularly view and monitor students’
+learning and progress. It is notable that whilst the content of both modules
+is different and UCDB and DDA2 cater to different levels of BA students,
+the adoption of FL in both modules is to achieve the same objective of
+a more learner-centered learning experience that shapes self-directed habits
+in learners. Apart from the LMS, both modules leverage on a range of purposefully
+selected education technology tools such as Feedback Fruits, Padlet and
+Articulate Rise to enhance the FL experience, thereby increasing the engagement
+and motivation of students.</p>
+<p></p>
+<p>Responses to the FL experience have been positive for both modules. Students
+were generally happy with the way the learning materials were designed
+and facilitated. Students also felt positive about how the connection between
+the OAL and IPL components of FL were scaffolded to help them deepen their
+understanding and to apply their learning. A Module Experience Survey was
+conducted with both modules achieving strong positive average scores of
+5.43 for DDA2 and 5.11 for UCDB against a total possible score of 6.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JP_57 PBL COURSES TO DEVELOP PROJECT IMPLEMENTATION ABILITY</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Thanapol Luckanawat<sup>a</sup>, Sanit Teewchim<sup>a</sup>, Arnon Sakonkanapong<sup>a</sup>,
+Takahisa Yamamoto<sup>*,a,b</sup>, Seiji Kano<sup>a,b</sup> 
+</p>
+<p><sup>a</sup>Dept. Mechatronics Engineering, KOSEN-KMITL, Bangkok, Thailand</p>
+<p><sup>b</sup>National Institute of Technology, Tokyo, Japan</p>
+<p><sup>*</sup><a href="mailto:yamamoto@kosen-k.go.jp" rel="noopener noreferrer nofollow" target="_blank">yamamoto@kosen-k.go.jp</a> 
+</p>
+<p>Abstract</p>
+<p>King Mongkut’s Institute of Technology Ladkrabang (KMITL) is committed
+to developing practical and creative engineers through education rooted
+in real-life challenges. The curriculum is strategically designed to equip
+students from their first year to their fifth year with progressive hands-on
+learning experiences emphasizing individual and collaborative skills. In
+the initial years, first-year students learn essential thinking and project
+execution skills through tools like Venn diagrams, mind maps, and Gantt
+charts, alongside feasibility studies and analysis to assess strengths,
+weaknesses, opportunities, and threats. Beginning in the third year, these
+foundational skills are vital for problem-based and project-based learning
+(PBL). Here, students apply their accumulated knowledge to solve practical
+problems assigned in groups, enhancing their ability to research independently
+using various sources, including the internet. By the fourth year, the
+focus shifts to real-world applications, with students undertaking projects
+directly sourced from industry partners. This collaboration continues into
+the fifth year, where students engage in internships and graduation projects
+that confront actual industry challenges, offering a robust experiential
+learning environment. This process affects not only the product but also
+the project execution skills of the students. Faculty and industry experts
+closely mentor and evaluate the students, ensuring a comprehensive learning
+experience that meets educational goals and prepares students for professional
+success.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -717,34 +990,6 @@ aim.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<h3>Session 3, Track 7</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<h3></h3>
 <p></p>
 <p></p>
