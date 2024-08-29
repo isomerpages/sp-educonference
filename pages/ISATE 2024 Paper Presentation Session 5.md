@@ -293,11 +293,11 @@ a concrete study of the construction of social infrastructure.</p>
 <summary>SP_18 PILOTING DATA-ENABLED FLIPPED LEARNING IN A PWE ADVANCED MATHEMATICS
 MODULE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Z. Li<sup>*,a</sup> 
+<p>Z. Li<sup>*,a</sup>
 </p>
 <p><sup>a</sup>School of Mathematics and Science, Singapore Polytechnic,
 Singapore, Singapore</p>
-<p><sup>*</sup><a href="mailto:li_zhong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_zhong@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:li_zhong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_zhong@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -324,14 +324,14 @@ quiz questions embedded within the lessons.</p>
 <summary>JP_75 ENHANCING ARCHITECTURAL DESIGN EDUCATION WITH PRACTICAL KNOWLEDGE
 THROUGH IT COLLABORATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>K. Tsuzukia<sup>*</sup> and H. Maeda<sup>b</sup> 
+<p>K. Tsuzukia<sup>*</sup> and H. Maeda<sup>b</sup>
 </p>
 <p><sup>b</sup>Dept. of Information Technology, National Institute of Technology,
 Toyota College,</p>
 <p>Toyota, Japan</p>
 <p><sup>a</sup>Dept. of Architecture , National Institute of Technology,
 Toyota College, Toyota, Japan</p>
-<p><sup>*</sup><a href="mailto:tsuzuki.keita@toyota.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">tsuzuki.keita@toyota.kosen-ac.jp</a> 
+<p><sup>*</sup><a href="mailto:tsuzuki.keita@toyota.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">tsuzuki.keita@toyota.kosen-ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>This study addresses enhancement of the efficiency of using a Try, Error
@@ -355,7 +355,7 @@ IN POLYTECHNIC EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Edwin Seng</p>
 <p>Singapore Polytechnic/School of Business, Singapore</p>
-<p><a href="mailto:Edwin_Seng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Edwin_Seng@sp.edu.sg</a> 
+<p><a href="mailto:Edwin_Seng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Edwin_Seng@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Design thinking in education faces challenges like fostering innovation
@@ -382,12 +382,12 @@ design thinking education.</p>
 <summary>JP_80 ENGNEERING INCLUSIVE EDUCATION THROUGH THE DEVELOPMENT AND IMPLEMENTATION
 OF ASSISTIVE TOOLS FOR SPECIAL SUPPORT SCHOOL STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Akemi EMOTO<sub>*,a</sub> 
+<p>Akemi EMOTO<sub>*,a</sub>
 </p>
 <p><sup>a</sup>National Institution of Technology, Tokuyama College Department
 of Civil Engineering and Architecture, Associate Professor, Dr. Eng., Shunan,
 Japan</p>
-<p><sup>*</sup><a href="mailto:emoto@tokuyama.ac.jp" rel="noopener noreferrer nofollow" target="_blank">emoto@tokuyama.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:emoto@tokuyama.ac.jp" rel="noopener noreferrer nofollow" target="_blank">emoto@tokuyama.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>In order to realize an inclusive society, this research examines the effectiveness
@@ -430,11 +430,11 @@ as they grow up, allowing for sustainable support.</p>
 <details class="isomer-details">
 <summary>FI_02 PERSPECTIVES ON EMPLOYEE EXPERIENCES DURING ORGANIZATIONAL CHANGE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Ketola<sup>*,a</sup>, and M. Keinänen<sup>a</sup> 
+<p>M. Ketola<sup>*,a</sup>, and M. Keinänen<sup>a</sup>
 </p>
 <p><sup>a</sup>Turku University of Applied Sciences/Faculty of Engineering
 and Business/School of Common Studies, Turku, Finland</p>
-<p><sup>*</sup><a href="mailto:mari.ketola@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">mari.ketola@turkuamk.fi</a> 
+<p><sup>*</sup><a href="mailto:mari.ketola@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">mari.ketola@turkuamk.fi</a>
 </p>
 <p>Abstract</p>
 <p>Turku University of Applied Sciences Faculty of Engineering and Business
@@ -477,11 +477,11 @@ in constantly changing educational field.</p>
 <summary>OT_02 APIS UG MAGAZINE: THE EVOLUTION OF A LEARNING MOTIVATION STRATEGY
 AT THE SALAMANCA HIGH SCHOOL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>G.E. Bernal-Rivas<sup>*,a</sup> 
+<p>G.E. Bernal-Rivas<sup>*,a</sup>
 </p>
 <p><sup>a</sup>University of Guanajuato / Salamanca Highschool, Full-time
 professor, Salamanca, Mexico</p>
-<p><sup>*</sup><a href="mailto:ge.bernal@ugto.mx" rel="noopener noreferrer nofollow" target="_blank">ge.bernal@ugto.mx</a> 
+<p><sup>*</sup><a href="mailto:ge.bernal@ugto.mx" rel="noopener noreferrer nofollow" target="_blank">ge.bernal@ugto.mx</a>
 </p>
 <p>Abstract</p>
 <p>Apis UG is a digital semi-annual dissemination magazine that is made at
@@ -520,7 +520,7 @@ been overcome and those still to master.</p>
 <details class="isomer-details">
 <summary>RP_05 DEVELOPING SELF-DIRECTED LEARNERS USING THE PriME PROCESS FRAMEWORK</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lin, C.<sup>*,a</sup> and Pakirisamy, V.<sup>b</sup> 
+<p>Lin, C.<sup>*,a</sup> and Pakirisamy, V.<sup>b</sup>
 </p>
 <p><sup>a, b</sup>Republic Polytechnic, School of Management and Communication,
 Singapore</p>
@@ -609,10 +609,10 @@ of artificial intelligence.</p>
 LEARNING: A CASE STUDY FOR ENHANCING LEARNING-BY-TEACHING PROGRAM COURSE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>J. Suzuki<sup>*,a</sup>, M. Hattori<sup>a</sup>, A. Minoda<sup>a</sup>,
-and A. Takami<sup>a</sup> 
+and A. Takami<sup>a</sup>
 </p>
 <p><sup>a</sup>NIT, Matsue College, Matsue, Japan</p>
-<p><sup>*</sup><a href="mailto:hattori@matsue-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">hattori@matsue-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:hattori@matsue-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">hattori@matsue-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -696,7 +696,7 @@ experience so that we can continuously refine our assessment strategies.</p>
 AT GUNMA KOSEN AND ITS EFFECTIVENESS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Satoshi Nakajima<sup>a</sup>, Kazuhiro Sato<sup>b</sup>, Yoshiki Kagiya<sup>b</sup>,
-Shinji Morita<sup>b</sup> and Kiyokazu Kimura<sup>*,c</sup> 
+Shinji Morita<sup>b</sup> and Kiyokazu Kimura<sup>*,c</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology (KOSEN), Gunma college/Department
 of Chemistry and Materials Science, Maebashi, Japan</p>
@@ -704,7 +704,7 @@ of Chemistry and Materials Science, Maebashi, Japan</p>
 Support Center for Education and Research, Maebashi, Japan</p>
 <p><sup>c</sup>National Institute of Technology (KOSEN), Gunma college/Department
 of Civil Engineering, Maebashi, Japan</p>
-<p><sup>*</sup><a href="mailto:kkimura@gunma-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kkimura@gunma-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:kkimura@gunma-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kkimura@gunma-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
