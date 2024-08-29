@@ -720,7 +720,7 @@ USING SOCRATIC PEDAGOGY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>L.M. Chan and J. Wee</p>
 <p>School of Life Skills &amp; Communication, Singapore Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:june_wee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_wee@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:june_wee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_wee@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>With our global population reaching 8 billion in 2022, the strain on our
@@ -749,7 +749,7 @@ facilitate meaningful discussions on sustainability in the classroom.</p>
 <summary>JP_63 SENTENCE DIAGRAMMING: A TECHNIQUE FOR MASTERING PASSIVE VOICE IN
 ACADEMIC AND SCIENTIFIC WRITING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>R. Grumbine<sup>*,a</sup>, S. Furuike<sup>b</sup> 
+<p>R. Grumbine<sup>*,a</sup>, S. Furuike<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology/ English Department, Omuta,
 Japan</p>
@@ -833,26 +833,224 @@ engineering principles such Solar Photovoltaic Panel Optimization.</p>
 <h3>Session 4, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_46 BRIDGING CULTURES AND ENGINEERING MINDS: AN INTERNATIONAL EXCHANGE
+PROGRAM IN HACHINOHE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>ENKE HAORIBAO<sup>*,a</sup>, Yoshida Masaaki<sup>b</sup>, Maruoka Akira<sup>a</sup>,
+Kusakari Akemi<sup>b</sup>, NEJO Kyoko<sup>c</sup>, Kikuchi Akio<sup>b</sup> and
+Mawatari Toru<sup>a</sup> 
+</p>
+<p><sup>a</sup>Civil Engineering &amp; Architectural Design Course, National
+Institute of Technology (KOSEN), Hachinohe College, Hachinohe, Japan</p>
+<p><sup>b</sup>General Department, National Institute of Technology (KOSEN),
+Hachinohe College, Hachinohe, Japan</p>
+<p><sup>c</sup>Material &amp; Biological Engineering Course, National Institute
+of Technology (KOSEN), Hachinohe College, Hachinohe, Japan</p>
+<p><sup>*</sup><a href="mailto:enke-z@hachinohe.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">enke-z@hachinohe.kosen-ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>This comprehensive study documents the results and findings of an international
+exchange program jointly organized by the National Institute of Technology,
+Hachinohe College, New Mongol Technique and Engineering College, Mongol
+Kosen College of Technology, Mongolian Institute of Engineering and Technology,
+and Mongolian University of Science and Technology Kosen College of Technology
+in February 2024. Titled "7 Days of Exposure to the Science, Technology
+and Culture of the Hachinohe Area: An International Exchange through Workshops
+with Mongolian and Japanese Students," this program was supported by the
+Japan Science and Technology Agency. The goal of the initiative was to
+immerse students, primarily from the civil engineering and architecture
+departments at Hachinohe College, in an in-depth examination of science
+and technology fields such as building materials, structural mechanics,
+urban and architectural planning, cultural heritage preservation, and disaster
+resilience, while also exploring the rich history and culture of Hachinohe.</p>
+<p></p>
+<p>To complement the academic agenda, the program facilitated extensive multilingual
+and multicultural interactions. Mongolian and Japanese students shared
+living space in an international dormitory and meals in the cafeteria,
+contributing to a broader understanding of global engineering practices.
+The program significantly enhanced participants' professional and personal
+growth by improving English and Japanese language skills, sharing academic
+expertise, and deepening cultural insights.</p>
+<p></p>
+<p>Pre-program orientation sessions were conducted online to provide essential
+information, gather participant expectations, and tailor the program to
+enhance the overall experience and satisfaction. The use of online platforms
+for continuous exchange not only alleviated financial constraints, but
+also paved the way for lasting international connections after the program.
+Through post-activity questionnaires and thorough analysis of results,
+the program was carefully re-evaluated to identify areas of improvement
+for future international engineering education exchanges.</p>
+<p></p>
+<p>Aimed at supporting the continued development of inter-regional engineering
+education activities between international partners, this study underscores
+the imperative of structured international programs in fostering comprehensive
+global competencies among engineering students.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NP_09 LEVERAGING ON DIGITAL TWINS AS A TEACHING AND LEARNING APPROACH
+FOR SUSTAINABLE FACILITIES MANAGEMENT PRACTICES IN NGEE ANN POLYTECHNIC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>S. H. Teo<sup>a</sup>  </p>
+<p><sup>a</sup>Ngee Ann Polytechnic, School of Design and Environment, Singapore </p>
+<p><sup>a</sup><a href="mailto:aTEO_Seow_Hian@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Seow_Hian@np.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>In the journey towards achieving net-zero carbon emissions in educational
+environments, the active involvement of the entire academic community is
+crucial. Traditional Building Management Systems (BMS) are effective in
+managing a building's operational systems. However, it often misses the
+opportunity to engage with key stakeholders particularly, the students
+as occupants and Facility Management (FM) teams. This paper proposes a
+novel approach to integrating Digital Twins within Ngee Ann Polytechnic's
+(NP) curriculum, aiming to significantly elevate student and staff participation
+in sustainable building practices. Through a case study involving second-year
+students from Hotel and Leisure Facilities Management (HLFM) diploma course,
+this initiative seeks to foster sustainable habits and enhance well-being,
+contributing to the broader goal of net-zero emissions in educational settings.</p>
+<p></p>
+<p>Our approach centres on the development and implementation of a Digital
+Twins model. Targeting second-year students enrolled HLFM, this study leverages
+Digital Twin not just as a teaching tool but as a platform for creating
+an authentic learning experience for students.</p>
+<p></p>
+<p>Digital Twin uses real time data from sensors that creates the digital
+counterpart of the physical structure which mirrors the behaviour and characteristics
+of the real-world building, allowing for comprehensive monitoring, analysis,
+and optimization of various aspects of building management. In the module,
+students work with NP’s Estates, Eco and Safety (EES) Department to design
+a digital twin as part of their project. Students are to communicate with
+the EES Department to ensure that issues with facilities management are
+resolved effectively and efficiently based on the data from the digital
+twin and their own perception of the environment.</p>
+<p></p>
+<p>A qualitative survey post-project, involving 25 students, assessed the
+levels of interaction between students and facility managers, providing
+insights into the efficacy of the Digital Twin approach. More than 70%
+of respondents reported engaging in communication with EES relating to
+facilities maintenance, underscoring opportunities for enhancing the Digital
+Twin model to promote more consistent and constructive engagement with
+stakeholders. This survey also revealed a nuanced landscape of student-facility
+manager interactions showing diverse levels of interaction between students
+and facility managers and providing insights into student engagement and
+behaviour.</p>
+<p></p>
+<p>Going forward, the curriculum will continue to leverage on the affordances
+of the Digital Twin approach to provide students with an authentic &amp;
+engaging experience that can deepen students’ understanding of their role
+as a professional for facilities management and influence the culture towards
+more sustainable practices. The integration of Digital Twins within NP
+represents a promising avenue towards cultivating sustainable lifestyles,
+enhancing building efficiency, and progressing toward net-zero emissions.
+This initiative not only arms students with crucial skills and knowledge
+but also fosters a culture of participation, empowering them to effect
+positive change in their environment for improved well-being and environmental
+sustainability.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>JP_51 DEVELOPMENT OF INFORMATION SECURITY TEACHING MATERIALS FOR JUNIOR
+HIGH SCHOOL STUDENTS AND PRACTICE THROUGH DELIVERY CLASSES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Shigeo DOI<sup>*</sup>, Sou TAKAHASHI, Maki TAKAGI, Saki MASAOKA, Syota
+MATSUDA, Sai SASAKI, Yoshihiko NAKAMURA</p>
+<p></p>
+<p>Frontier Course, Department of Innovative Engineering, National Institute
+of Technology, Tomakomai College, Tomakomai, Hokkaido, Japan</p>
+<p><sup>*</sup><a href="mailto:doi@tomakomai-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">doi@tomakomai-ct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>National Institute of Technology, Tomakomai College (NIT Tomakomai College)
+has concluded an agreement with the Hokkaido Prefectural Police for human
+resource foster in the cybersecurity field since March 2018. This academic
+year, NIT Tomakomai College decided to develop information security teaching
+materials as a graduation research project for students in the Frontier
+Course. The Frontier Course is an interdisciplinary course, in which several
+members carry out a single theme in their graduation research. In this
+paper, we report how the research was conducted and the scenery of special
+classes at junior high schools in Tomakomai City. The research consists
+of two phases: preliminary study and final study. In the preliminary study,
+they choose target people to teach information security. As a result, they
+selected junior high school students as a target because the age of our
+students is close to the target people and the target may make mistakes
+on social media. Therefore, our students created two photos, and the target
+students looked for inappropriate points in the photos that led to privacy
+disclosure, legal regulation violation, and physical intrusion, when uploading
+them onto social media. One is a scenery that comes out of a telephone
+pole, mailbox, and bridge. In Japan, they have a clue to identify location
+information. Second is a photo in a room which includes some items prohibited
+by law, private schedule, and group photos. As a result, junior high school
+students felt it was more difficult to find a bridge as a location leakage,
+and alcohol and tobacco as inappropriate items. In other words, junior
+high school students are unaware of these items. In the final study, our
+students created four materials to enlighten threats on social media. First,
+they created slides that help policemen be capable of conducting a special
+class on checking photos before uploading them to social media. Second,
+they created a document of threats on social media for parents. Third,
+they created a video clip televised in Sapporo City and Tomakomai City.
+Last, they created a revised material and conducted a last special class
+at a junior high school in Tomakomai city. Their activities were reported
+by newspapers and on television. Through their graduation study, students
+contributed to the enlightenment of information security, especially social
+media.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JP_81 ENHANCING DISASTER PREPAREDNESS EDUCATION THROUGH CROSS INDUSTRY
+COLLABORATION: A CASE STUDY FROM POST-GEJET JAPAN</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>K. Pak<sup>*,a</sup>, Y. Matsui<sup>a</sup>, S. Seki<sup>b</sup> and P.J.
+Wanner<sup>c</sup> 
+</p>
+<p><sup>a</sup>Department of Liberal Studies, NIT, Nara College, Nara, Japan</p>
+<p><sup>b</sup>Electrical and Electronic Systems Course, Kinki University
+Technical College, Mie, Japan</p>
+<p><sup>c</sup>Graduate School of International Cultural Studies, Tohoku
+University, Sendai, Japan</p>
+<p><sup>*</sup><a href="mailto:pak@nara.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">pak@nara.kosen-ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>The 2011 Great East Japan Earthquake and Tsunami (GEJET) left an indelible
+mark in Japan, reshaping its approach to disaster management. Traditional
+classroom-centric Disaster Preparedness Education (DPE) faced challenges
+in adequately preparing communities for the complexities of modern disasters.
+As a response, educational institutions in post-GEJET areas embarked on
+a transformative journey, seeking collaborative solutions beyond textbooks
+and lectures. To bridge the gap between theory and practice, these institutions
+have forged partnerships with robotics and renewable energy companies.
+This cross-industry collaboration transcends disciplinary boundaries, creating
+a dynamic learning environment that prepares students for real-world challenges.
+Robotics companies are rapidly advancing creative robots capable of assisting
+in post-disaster search and rescue efforts. Meanwhile, some renewable energy
+companies explore innovative solutions for maintaining critical infrastructure
+after natural disasters. This cross-industry collaboration accelerates
+the development of cutting-edge technologies, supporting both immediate
+response and long-term resilience within communities. Two key components
+of the recent collaborative approach:</p>
+<p>1) Robot Test Field (RTF): This field simulates dynamic scenarios using
+robots. The RTF established a dedicated robotics development zone within
+the Minamisoma City Reconstruction Industrial Park. Spanning 1,000 meters
+east-west and 500 meters north-south, this facility features Unmanned Aircraft
+Area, Infrastructure Inspection and Disaster Response Robot Area, Underwater
+and Maritime Robot Area, and Development Base Area.</p>
+<p>2) Renewable Energy Solutions: Collaborating with renewable energy companies,
+educational institutions explore sustainable alternatives for critical
+infrastructure. Solar-powered emergency shelters, wind turbines, and microgrids
+become essential components of disaster resilience. Students delve into
+the intricacies of energy storage, distribution, and grid resilience. They
+learn to design systems that function during power outages, minimizing
+disruption to essential services. By integrating renewable energy sources,
+communities can enhance their resilience and reduce dependence on conventional
+power grids. This collaborative program cultivates a problem-solving approach
+in students, preparing them to address complex issues. It goes beyond technical
+skills, fostering essential qualities like empathy, adaptability, and community
+engagement, all crucial for effective responses. The program’s educational
+methods inform disaster education and sustainable development practices.
+By embracing collaboration across disciplines, we empower future generations
+to build techno-social systems that can withstand adversity.</p>
 <p></p>
 </div>
 </details>
