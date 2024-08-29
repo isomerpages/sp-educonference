@@ -846,14 +846,96 @@ students, require further scrutiny in future studies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_39</summary>
+<summary>JP_39 A LONG RELATIONSHIP BRINGS A SYNERGISTIC EFFECT TO PROMPT STUDENTS
+TO JOIN INTERNATIONAL EXCHANGE PROGRAMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Y. Ichikawa<sup>*,a</sup>, K. Eguchi<sup>a</sup>, K. Tsuzuki<sup>b</sup> and
+T. Miura<sup>b</sup> 
+</p>
+<p><sup>a</sup>Dept. of General Education, National Institute of Technology,
+Toyota College, Toyota, Japan</p>
+<p><sup>b</sup>Dept. of Information Technology, National Institute of Technology,
+Toyota College, Toyota, Japan</p>
+<p><sup>*</sup><a href="mailto:ichikawa.yuri@toyota.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">ichikawa.yuri@toyota.kosen-ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p></p>
+<p>The purpose of the research is to describe what could drive students’
+motivation to participate in international exchange activities and enhance
+their global mindset. Since an institutional project began in 2020, our
+research has shown how input and output activities have been incorporated
+to optimize students’ English communication skills (Ichikawa et al., 2023).
+The survey showed that their international-related skills and awareness
+were developed (Matsumoto et al., 2023). Several international programs
+are involved: International Exchange Video Contest (IEVC), Thailand-Japan
+Students Science Fair (or ICT Fair), and TEDxToyotaKOSEN. One of the advantages
+of all the programs being connected is that each one can be an incentive
+for students to join the other. That can also motivate other students who
+have joined them yet to be involved. A growing number of students want
+to join the contest from the Thai school, and TJ project from our college.
+TEDx has attracted many students since it was launched. As shown in IEVC,
+digital transformation (DX) has expanded the possibility of an educational
+setting that was limited to classrooms before. However, students must be
+rewarded with an opportunity to communicate face-to-face in order to develop
+their relationships. Another advantage is that teachers have also developed
+their bonds so that they can trust each other, and less explanation is
+needed to work on the programs. They have shared their input and achievements
+in managing the programs, which encourages their students to join them
+and supports them flexibly when students have problems. Each program has
+a different outcome in terms of a global mindset. The research will describe
+how the features of the program and its outcome are related. Then, we would
+like to show that all the programs were interrelated to enhance students’
+global mindset holistically.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>NP_04</summary>
+<summary>NP_04 SERVER &amp; CLOUD SECURITY – A LEARNER-CENTRED APPROACH WITH INDUSTRY
+IN CURRICULUM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Lei SUN<sup>*,a</sup>, and Yoon Hin LIEW<sup>a</sup> 
+</p>
+<p><sup>a</sup>Ngee Ann Polytechnic, School of InfoComm Technology, Singapore</p>
+<p><sup>*</sup><a href="mailto:SUN_Lei@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SUN_Lei@np.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>The cybersecurity industry is inherently dynamic, constantly evolving
+to keep pace with ever-changing threats and technologies. Traditional teaching
+and learning methods may not adequately prepare our students for the industry's
+demands. Therefore, there is a growing need to stay updated on the rapidly
+changing landscape of the security industry and shift from conventional
+teacher-centred approaches to more flexible learner-centred strategies.</p>
+<p></p>
+<p>This paper presents a practical approach in teaching Server &amp; Cloud
+Security (SCS) module that integrates learner-centred methodologies with
+industry currency to tackle prevalent challenges. This module is part of
+Diploma in Cybersecurity and Digital Forensics and is undertaken by students
+in the second year of study.</p>
+<p></p>
+<p>The design of this module introduces four innovative features to keep
+teaching and learning up to date. They are (1) Integration industry relevant
+content through the adoption of industry certification (2) Develop self-directed
+learning practices by encouraging learning via online platforms e.g. LinkedIn
+Learning (3) Facilitate opportunities for practice to ensure students have
+develop practical skills even on their own through auto-provisioned and
+auto-graded cloud lab environment (4) Alignment with national initiatives
+for ICT e.g. Artificial Intelligence to ensure the development of relevant
+skillsets.</p>
+<p></p>
+<p>95 students were enrolled in the programme which took place in Academic
+Year 2023. Student were asked about their experiences in this module via
+feedback and questionnaire about this new framework for designing module
+experience. Over 85% of students agreed that the modules enhance SCS learning
+by providing a strong framework, while also improving the overall student
+learning experience. Additionally, the findings provide valuable insights
+such as self-directed learning approach and industry-in-curriculum for
+other teaching teams, promoting the adoption of learner-centred methods
+and industry relevance in curriculum design.</p>
+<p></p>
+<p>By advocating for ongoing enhancements in learner-centred approaches,
+the module is able to ensure learning experience that is responsive to
+industry changes and able to prepare students for success as a work-ready
+graduate with the relevant skills sets for life-long learning.</p>
 <p></p>
 </div>
 </details>
