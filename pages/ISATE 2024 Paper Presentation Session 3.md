@@ -523,66 +523,48 @@ the risks and damages more globally in the future.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
+<summary>SP_23 HOW A GENERATIVE AI POWERED CUSTOMISED CHATBOT CAN ENHANCE THE STUDENT
+LEARNING EXPERIENCE: AN ACTION RESEARCH PROJECT IN EEE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>J. Kontio<sup>*,a </sup>and M. Ketola<sup>b</sup>
+<p>Phyoe Kyaw Kyaw<sup>*a</sup>, Lim Joo Ghee<sup>a</sup>, Mark Wan Chi Ming<sup>a</sup> and
+Chong Siew Kee<sup>b</sup> 
 </p>
-<p><sup>a</sup>Turku University of Applied Sciences, Faculty of Engineering
-and Business Turku, Finland</p>
-<p><sup>b</sup>Turku University of Applied Sciences, Faculty of Engineering
-and Business/ School of Common Studies, Turku, Finland</p>
-<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a>
+<p><sup>a</sup>School of Electrical &amp; Electronic Engineering, Singapore
+Polytechnic, Singapore</p>
+<p><sup>b</sup>Department of Academic Quality &amp; Resources, Singapore
+Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:phyoe_kyaw_kyaw@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phyoe_kyaw_kyaw@sp.edu.sg</a> 
 </p>
 <p>Abstract</p>
-<p>Faculty of Engineering and Business in Turku University of Applied Sciences
-started a major curricula reform in Autumn 2022 with the aim of new curricula
-for autumn 2024. The reform was for all our engineering and business administrations
-programs in bachelor level. The project used CDIO as the general framework
-for the reform. There are altogether 20 different curricula that this reform
-affected. The reform had a project group consisting of representatives
-from all our eight schools. The reform aimed to improve three main goals:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strengthen professional core competencies in programs,</p>
-</li>
-<li>
-<p>Strengthen the quality of education and improve completion and</p>
-</li>
-<li>
-<p>Support personnel well-being.</p>
-</li>
-</ul>
-<p>The first goal challenged the programs to identify their key existing
-principle: What is the professional role and practical context of the profession?
-The second goal challenged the programs to improve their learning outcomes
-and to ensure their students reach the desired learning outcomes by focusing
-on teaching and learning activities, assessment, and overall implementation
-of the curricula. The third goal focused on improving the design of daily
-work by getting rid of fragmented work duties and enabling focusing on
-one’s competences. The project had three main phases:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>General planning, goal definition of each program and intended learning
-outcomes</p>
-</li>
-<li>
-<p>Defining courses’ descriptions and constructive alignment</p>
-</li>
-<li>
-<p>Finalizing the change.</p>
-</li>
-</ul>
-<p>Based on the reform project we currently have new curricula in all the
-programs starting autumn 2024. Their goals are clarified, learning outcomes
-are specified, and the functionality of the whole has been ensured. The
-modular structure has been improved and each program has a clear growth
-story built in the program. Furthermore, several common project modules
-have been embedded in curricula. Currently we are working on constructive
-alignment by planning learning outcomes, teaching/learning activities and
-assessment to form a mutually supportive whole. Furthermore, teaching and
-learning is designed to be based on active methods and our learning environments
-will be in active use. In this paper, we describe the aims of the reform,
-its phases, and its key results and experiences.</p>
+<p>This paper documents an innovation in which a customized learning assistant
+chatbot, built upon the Generative Pre-trained Transformers (GPT), a Generative
+Artificial Intelligence (AI) Large Language Model (LLM), was employed as
+a virtual tutor to supplement the student learning experience in a data-enabled
+flipped learning (DEFL) classroom module. The research sought to explore,
+analyse, and evaluate how students experienced this technology, what could
+be learned to enhance different aspects of the learning process, and the
+challenges this may pose for future practice and research. The pedagogic
+approach was guided by an evidence-based teaching framework in which the
+design and facilitation of learning draws on validated knowledge on how
+students learn best and what teaching methods are most effective and efficient.
+In the chatbot, students were provided with clear learning outcomes, instructional
+content that focused on the key subject concepts essential to building
+understanding, and focused question prompts to initiate their critical
+thinking. They were then encouraged to use their own initiative in experimenting
+with this AI technology. The methodology involved data collection from
+146 first-year students across eight classes in two Digital Electronics
+modules, focus group interviews with a sample of 10 students, and reflective
+practices from three teaching faculty. The research yielded positive results,
+especially on the usefulness of the virtual learning assistant chatbot
+pre-trained on the module content. It significantly enhanced students'
+understanding by providing rapid and accurate feedback. It was also deemed
+effective for supporting various learning tasks, such as answering questions,
+offering explanations, and generating insights. By understanding students’
+perceptions, based on their learning experiences with the chatbot, faculty
+can create instructional strategies to enhance the quality of their teaching
+practices. This also offers the potential for greater differentiation and
+personalization of instruction, which is a highly desirable educational
+aim.</p>
 <p></p>
 </div>
 </details>
