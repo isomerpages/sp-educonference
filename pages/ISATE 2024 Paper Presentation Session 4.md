@@ -4,23 +4,22 @@ permalink: /isate-2024-session-4/
 variant: tiptap
 description: ""
 ---
-<p>Abstracts for Session 4 can be found below.</p>
 <h3>Session 4, Track 1</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>TP_05</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lorem ipsum</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>SP_13</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>NP_10</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -32,6 +31,7 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
 <h3>Session 4, Track 2</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
