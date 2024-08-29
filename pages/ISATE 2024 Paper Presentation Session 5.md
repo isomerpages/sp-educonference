@@ -143,7 +143,7 @@ efficiency and nurturing creativity.</p>
 Matsumoto</p>
 <p>National Institute of Technology, Anan College Dept. of Creative Technology
 Engineering, Course of Electrical Engineering, Anan, Japan</p>
-<p>* <a href="mailto:t_ozaki@anan-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">t_ozaki@anan-nct.ac.jp</a> 
+<p>* <a href="mailto:t_ozaki@anan-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">t_ozaki@anan-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Anan College was one of the first to introduce cooperative robots for
@@ -160,7 +160,7 @@ THE USE OF SMART CLASSROOM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lim Ching Kwang<sup>*</sup>, Sunarto Quek</p>
 <p>Ngee Ann Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:Lim_Ching_Kwang@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Ching_Kwang@np.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Lim_Ching_Kwang@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Ching_Kwang@np.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Mathematics is typically taught in isolation, with students needing to
@@ -208,7 +208,7 @@ STUDENTS IN DIFFERENTIATED INSTRUCTION</summary>
 <p>Ying-Wei Leong</p>
 <p>Singapore Polytechnic, School of Mechanical &amp; Aeronautical Engineering,
 Singapore</p>
-<p><a href="mailto:leong_ying_wei@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_ying_wei@sp.edu.sg</a> 
+<p><a href="mailto:leong_ying_wei@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_ying_wei@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>This paper documents the author’s application of data-enabled flipped
@@ -243,7 +243,7 @@ THE FIELD IMPLEMENTATION FOR THE PARK RENOVATION BY USING VR TECHNOLOGY</summary
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Nozomu Hirose<sup>*,a</sup>, Yukina Obara<sup>b</sup>, Mako Kawakami<sup>b</sup>,
 Kaho Senda<sup>b</sup>, Yoshiya Ogawa<sup>c</sup>, Yasuyuki Okazaki<sup>d</sup>,
-Akinori Fujimori<sup>e</sup>, Fumiya Yamaguchi<sup>e</sup> and Waku Ishimine<sup>e</sup> 
+Akinori Fujimori<sup>e</sup>, Fumiya Yamaguchi<sup>e</sup> and Waku Ishimine<sup>e</sup>
 </p>
 <p><sup>a</sup>Department of Civil and environmental engineering, National
 Institute of technology, Matsue college, Shimane, Japan</p>
