@@ -572,7 +572,7 @@ required for global citizenship.</p>
 and Business Turku, Finland</p>
 <p><sup>b</sup>Turku University of Applied Sciences, Faculty of Engineering
 and Business/School of Common Studies, Turku, Finland</p>
-<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a> 
+<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a>
 </p>
 <p>Abstract</p>
 <p>Faculty of Engineering and Business in Turku University of Applied Sciences
@@ -592,8 +592,7 @@ and to ensure their students reach the desired learning outcomes by focusing
 on teaching and learning activities, assessment, and overall implementation
 of the curricula. The third goal focused on improving the design of daily
 work by getting rid of fragmented work duties and enabling focusing on
-one’s competences.</p>
-<p>The project had three main phases:</p>
+one’s competences. The project had three main phases:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>General planning, goal definition of each program and intended learning
