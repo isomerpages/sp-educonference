@@ -326,8 +326,7 @@ THROUGH IT COLLABORATION</summary>
 <p>K. Tsuzukia<sup>*</sup> and H. Maeda<sup>b</sup>
 </p>
 <p><sup>b</sup>Dept. of Information Technology, National Institute of Technology,
-Toyota College,</p>
-<p>Toyota, Japan</p>
+Toyota College, Toyota, Japan</p>
 <p><sup>a</sup>Dept. of Architecture , National Institute of Technology,
 Toyota College, Toyota, Japan</p>
 <p><sup>*</sup><a href="mailto:tsuzuki.keita@toyota.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">tsuzuki.keita@toyota.kosen-ac.jp</a>
