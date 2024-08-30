@@ -4,7 +4,7 @@ permalink: /isate-2024-session-4/
 variant: tiptap
 description: ""
 ---
-<h3>Session 4, Track 1</h3>
+<h3>Session 4, Track 1 (ST1)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>TP_05 TRANSFORMING EDUCATION: EXPLORING THE IMPACT OF AI CHATBOTS ON PERSONALISED
@@ -132,15 +132,9 @@ learning experience as we keep pace with its changes closely and leverage
 on the innovations for NP’s T&amp;L.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
-<h3>Session 4, Track 2</h3>
+<h3>Session 4, Track 2 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>VTC_04 EMPOWER SUSTAINABLE LEARNING: INTEGRATING MOODLE AND DIGITAL ASSESSMENTS
@@ -331,11 +325,11 @@ future TEL development.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 4, Track 3</h3>
+<h3>Session 4, Track 3 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_71 A CASE STUDY OF THE GUIDANCE FOR EXPERIMENT WITH "INTERACTIVE EXPERIMENT
-NOTEBOOK” (V): TRIAL OF CONFIRMATION TESTS &amp; ELECTRONIC BULLETIN BOARD</summary>
+NOTEBOOK” (V) – TRIAL OF CONFIRMATION TESTS &amp; ELECTRONIC BULLETIN BOARD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Naohiro KOSHIJI<sup>*,a</sup>
 </p>
@@ -508,7 +502,7 @@ research is needed to establish causal relationships.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 4, Track 4</h3>
+<h3>Session 4, Track 4 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_07 EFFECTIVENESS OF LOW-WEIGHTAGE CHECKPOINTS ON ENCOURAGING EARLY
@@ -667,7 +661,7 @@ multiple perspectives.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 4, Track 5</h3>
+<h3>Session 4, Track 5 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>TP_07 BRIDGING THEORY AND PRACTICE THROUGH TRANSFORMATIVE GAMIFICATION:
@@ -830,7 +824,7 @@ engineering principles such Solar Photovoltaic Panel Optimization.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 4, Track 6</h3>
+<h3>Session 4, Track 6 (ST4)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_46 BRIDGING CULTURES AND ENGINEERING MINDS: AN INTERNATIONAL EXCHANGE
