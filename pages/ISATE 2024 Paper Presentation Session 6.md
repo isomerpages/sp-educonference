@@ -804,11 +804,11 @@ enhance entrepreneurial competency development.</p>
 <summary>JP_11 WHAT YOU SEE IS WHAT YOU EAT: EMOTIONAL IMPACT OF WEBSITE VIEWING
 ON THE LOCAL COMMUNITY INVOLVEMENT AND INFORMATION BUSINESS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Hiromi Hanawa<sup>*</sup> 
+<p>Hiromi Hanawa<sup>*</sup>
 </p>
 <p>National Institute of Technology, Fukushima College, Department of Business
 Communication, Iwaki, Japan</p>
-<p><sup>*</sup><a href="mailto:kato-h@fukushima.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">kato-h@fukushima.kosen-ac.jp</a> 
+<p><sup>*</sup><a href="mailto:kato-h@fukushima.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">kato-h@fukushima.kosen-ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Advertising with food photos on websites has commonly utilized among web
@@ -894,7 +894,7 @@ THROUGH COLLABORATION WITH PRACTITIONER INSTRUCTOR</summary>
 <p>Division of Computer Engineering and Informatics, Department of Engineering
 for Future Innovation,</p>
 <p>National Institute of Technology, Ichinoseki College, Japan</p>
-<p><sup>*</sup><a href="mailto:chida+isate2024@g.ichinoseki.ac.jp" rel="noopener noreferrer nofollow" target="_blank">chida+isate2024@g.ichinoseki.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:chida+isate2024@g.ichinoseki.ac.jp" rel="noopener noreferrer nofollow" target="_blank">chida+isate2024@g.ichinoseki.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>In FY2017, the National Institute of Technology, Ichinoseki College (Ichinoseki
@@ -919,41 +919,6 @@ software students and others, with FY2024 marking the third year.</p>
 <p></p>
 <p>This paper presents examples of initiatives in the field of cyber security
 and discusses their educational benefits and challenge.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-<h3>Session 6, Track 7</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
