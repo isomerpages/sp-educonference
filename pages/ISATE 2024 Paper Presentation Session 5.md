@@ -377,7 +377,7 @@ design thinking education.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_80 ENGNEERING INCLUSIVE EDUCATION THROUGH THE DEVELOPMENT AND IMPLEMENTATION
+<summary>JP_80 ENGINEERING INCLUSIVE EDUCATION THROUGH THE DEVELOPMENT AND IMPLEMENTATION
 OF ASSISTIVE TOOLS FOR SPECIAL SUPPORT SCHOOL STUDENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Akemi EMOTO<sub>*,a</sub>
