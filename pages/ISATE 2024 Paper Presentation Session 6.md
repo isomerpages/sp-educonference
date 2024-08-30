@@ -85,7 +85,7 @@ NGEE ANN POLYTECHNIC</summary>
 <p><sup>a</sup>Ngee Ann Polytechnic/ School of Interdisciplinary Studies,
 Singapore</p>
 <p><sup>*</sup><a href="mailto:jeanette_chew@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeanette_chew@np.edu.sg</a>,
-<a href="mailto:low_wai_tuck@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wai_tuck@np.edu.sg</a>, <a href="mailto:evelyn_ng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_ng@np.edu.sg</a>, <a href="mailto:kow_kok_sing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kow_kok_sing@np.edu.sg</a> 
+<a href="mailto:low_wai_tuck@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wai_tuck@np.edu.sg</a>, <a href="mailto:evelyn_ng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_ng@np.edu.sg</a>, <a href="mailto:kow_kok_sing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kow_kok_sing@np.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>This paper presents the development and implementation of a Coordinating
@@ -129,36 +129,30 @@ a culture of excellence and accountability within the academic community.</p>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
 <h3>Session 6, Track 2</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>NYP_03</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lorem ipsum</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
+<summary>JP_77</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_30</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>SP_25</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
