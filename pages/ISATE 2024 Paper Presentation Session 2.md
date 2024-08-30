@@ -173,6 +173,7 @@ In addition, there is a fairly strong correlation between the first CA
 mark (CA1) and the final module mark for many modules. Hence, CA1 marks
 can serve as an early alert to educators to indicate that a student requires
 more support.</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -832,6 +833,7 @@ of our initiative activities and events.</p>
 <p>In this research, the processes and effects of our activities and projects
 are analysed in detail so that the proposed method can adapt to other classrooms
 around the world.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
