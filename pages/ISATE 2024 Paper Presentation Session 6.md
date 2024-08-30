@@ -138,14 +138,14 @@ a culture of excellence and accountability within the academic community.</p>
 THROUGH THE NANYANG POLYTECHNIC PROFESSIONAL COMPETENCY MODEL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Siew Wee Kwek<sup>*,a</sup>, Wei Meng Son<sup>b</sup>, Garry Tan<sup>c</sup>,
-and Miow Ting Teo<sup>d</sup> 
+and Miow Ting Teo<sup>d</sup>
 </p>
 <p><sup>a</sup>Nanyang Polytechnic/ School of Engineering, Singapore</p>
 <p><sup>b</sup>Nanyang Polytechnic/ Centre for Teaching &amp; Learning Development,
 Singapore</p>
 <p><sup>c</sup>Nanyang Polytechnic/ School of Design &amp; Media, Singapore</p>
 <p><sup>d</sup>Nanyang Polytechnic/ School of Information Technology, Singapore</p>
-<p><sup>*</sup><a href="mailto:Kwek_Siew_Wee@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kwek_Siew_Wee@nyp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Kwek_Siew_Wee@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kwek_Siew_Wee@nyp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The Nanyang Polytechnic (NYP) Professional Competency Model (PCM) revolutionises
@@ -183,13 +183,13 @@ and resource efficiency in modern educational frameworks.</p>
 <summary>JP_77 EFFECTIVENESS OF PROJECT-BASED LEARNING IN EMBEDDED DEVICES EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yuma Yoshimoto<sup>*,a</sup>, Yoshinosuke Kato<sup>b</sup>, Tomohiro Aoki<sup>c</sup>,
-Toshihiko Tsutsui<sup>b</sup>, Jun Matsukubo<sup>a</sup> 
+Toshihiko Tsutsui<sup>b</sup>, Jun Matsukubo<sup>a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Kitakyushu College, Fukuoka,
 Japan</p>
 <p><sup>b</sup>Ubiquitous AI Corporation, Tokyo, Japan</p>
 <p><sup>c</sup>Renesas Electronics Corporation, Tokyo, Japan</p>
-<p><sup>*</sup><a href="mailto:yoshimoto@kct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yoshimoto@kct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:yoshimoto@kct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yoshimoto@kct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -213,11 +213,11 @@ the effectiveness of project-based learning in embedded device education.</p>
 <details class="isomer-details">
 <summary>JP_30 MACHINE TRANSLATION ACCURACY THROUGH THE LENS OF PROVERBS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>S.K. Kawakami<sup>*,a</sup> 
+<p>S.K. Kawakami<sup>*,a</sup>
 </p>
 <p><sup>a</sup>Humanities Department, National Institute of Technology, Matsue
 College, Matsue, Japan</p>
-<p><sup>*</sup><a href="mailto:s-kawakami@matsue-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">s-kawakami@matsue-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:s-kawakami@matsue-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">s-kawakami@matsue-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Language teachers often discourage students’ use of translation software.
@@ -256,11 +256,11 @@ was executed, and how it impacted students’ perceptions of machine translation
 MINDSET AND PROCESS OPERATION SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yunyi Wong<sup>*,a</sup>, Ai Ye Oh<sup>a</sup>, Katerina Yang<sup>a</sup> and
-Sin-Moh Cheah<sup>a</sup> 
+Sin-Moh Cheah<sup>a</sup>
 </p>
 <p><sup>a</sup>Singapore Polytechnic, School of Chemical &amp; Life Sciences,
 Singapore</p>
-<p><sup>*</sup><a href="mailto:WONG_Yunyi@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">WONG_Yunyi@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:WONG_Yunyi@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">WONG_Yunyi@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The Diploma in Chemical Engineering (DCHE) implemented a suite of 4 skills-based
@@ -349,12 +349,12 @@ quantitatively.</p>
 <summary>RP_04 INVESTIGATING THE EFFECTIVENESS OF A 3-STAGE QUESTIONING STRATEGY
 FOR DEEPER COMPREHENSION OF PRE-READING RESOURCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>G., Sibal<sup>*,a</sup>, A. Ramli<sup>a</sup> and I. Tay<sup>b</sup> 
+<p>G., Sibal<sup>*,a</sup>, A. Ramli<sup>a</sup> and I. Tay<sup>b</sup>
 </p>
 <p><sup>a</sup>School of Applied Science, Republic Polytechnic, Singapore</p>
 <p><sup>b</sup>Office of Industry and Career Services, Republic Polytechnic,
 Singapore</p>
-<p><sup>*</sup><a href="mailto:gunjan_sibal@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gunjan_sibal@rp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:gunjan_sibal@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gunjan_sibal@rp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>To learn effectively, students must develop proficient reading skills,
@@ -388,14 +388,77 @@ strategy increased active learning, critical thinking, and deeper comprehension.
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_41</summary>
+<summary>JP_41 IMPLEMENTATION OF A HEALTH CLASS USING JAPANESE MANGA-STYLE TEACHING
+MATERIALS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Kenzo Kato*,a, Eikoh Chida<sup>a</sup>, Rie Nakajima<sup>b</sup> and Yukimasa
+Kato<sup>b</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology, Ichinoseki College, Japan</p>
+<p><sup>b</sup>Nihon University, Japan</p>
+<p><sup>*</sup><a href="mailto:kenzokato@ichinoseki.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kenzokato@ichinoseki.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>This study aimed to use manga-incorporated health education materials
+in health education and examine their effects on students' health knowledge
+and their attitudes and impressions toward health education A total of
+128 fourth-grade students at the National Institute of Technology, Ichinoseki
+College were included in the study. The students participated in a health
+class using manga-style teaching materials and answered questionnaires.
+Questionnaires included a health knowledge test, a health class attitude
+scale, and a health class subjective evaluation scale. The knowledge test
+and the health class attitude scale were completed the day before the class
+and at the end of the class. The knowledge test scores were compared using
+a paired t-test, and significant differences were found before and after
+the class. On the health class attitude scale, the percentage of students
+who answered "Yes" to the question "The content covered in the health class
+is interesting" increased from 46.9% before the class to 78.9% after the
+class. The percentage of students who answered "Yes" to the question "The
+health class has increased my interest in current health issues" increased
+from 58.6% before the class to 83.6% after the class. In the subjective
+evaluation scale of the health class, about 80% of the students responded
+positively to the questions about the quality of the teaching materials
+and the class attitude, such as "The teaching methods and materials were
+well designed" and "I was enthusiastic about the class". Therefore, the
+students responded positively to the manga-style teaching materials used
+in this study. It is also believed that one of the reasons for the students'
+active participation in the class was that the teaching materials increased
+their interest in the content of the class. Through the incorporation of
+manga materials in health education, students' health knowledge and their
+attitudes and impressions toward health education improved.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SP_21</summary>
+<summary>SP_21 FLIPPING THE SCRIPT – A REVERSE CASE STUDY APPROACH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Raja Liyana<sup>* </sup>
+</p>
+<p><sup>a</sup>School of Chemical &amp; Life Sciences/ Diploma in Optometry,
+Singapore Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:raja_liyana@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_liyana@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>This study explores the efficacy of reverse case study approach in optometry
+training, where final year Diploma in Optometry (DOPT) students create
+and solve cases akin to real-world scenarios. The approach was implemented
+in the final year of clinical module, Paediatric Optometry, with the highlight
+“Flip the Script” where student groups are paired and role-play as both
+paediatric patients with the case history they created and as optometrist
+performing case history procedures. Data were gathered from surveys of
+students from the 2021 to 2023 cohorts, utilising 5 quantitative Likert
+scale questions and 1 open-ended question to gauge their learning experiences.
+Students' performances are assessed both during the role-play activity
+in Term 1 and competency performance conducted at the end of the semester
+in Term 2. The effects of the reverse case study are evaluated through
+various metrics, including performance skills like information gathering,
+questioning techniques and soft skills, as well as thinking skills with
+diagnostic accuracy. A positive impact on learning was recorded across
+all cohorts (n=138), with statistically significant improvements observed
+in competency assessments post-implementation of reverse case study approach
+(n=101, p value &lt;0.05). This study demonstrates the effectiveness and
+potential of reverse case studies in enhancing the learning outcomes in
+optometry education.</p>
 <p></p>
 </div>
 </details>
