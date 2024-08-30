@@ -4,7 +4,7 @@ permalink: /isate-2024-session-5/
 variant: tiptap
 description: ""
 ---
-<h3>Session 5, Track 1</h3>
+<h3>Session 5, Track 1 (ST1)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_42 DESIGN OF AN EASILY REPRODUCIBLE AND SUSTAINABLE MACHINE LEARNING
@@ -128,7 +128,7 @@ efficiency and nurturing creativity.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 5, Track 2</h3>
+<h3>Session 5, Track 2 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_54 DEVELOPMENT OF STUDENT PRACTICE IN ROBOT TEACHING WITH AR</summary>
@@ -286,7 +286,7 @@ a concrete study of the construction of social infrastructure.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 5, Track 3</h3>
+<h3>Session 5, Track 3 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_18 PILOTING DATA-ENABLED FLIPPED LEARNING IN A PWE ADVANCED MATHEMATICS
@@ -423,10 +423,10 @@ as they grow up, allowing for sustainable support.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 5, Track 4</h3>
+<h3>Session 5, Track 4 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>FI_02 PERSPECTIVES ON EMPLOYEE EXPERIENCES DURING ORGANIZATIONAL CHANGE</summary>
+<summary>FL_02 PERSPECTIVES ON EMPLOYEE EXPERIENCES DURING ORGANIZATIONAL CHANGE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>M. Ketola<sup>*,a</sup>, and M. Keinänen<sup>a</sup>
 </p>
@@ -600,11 +600,11 @@ of artificial intelligence.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 5, Track 5</h3>
+<h3>Session 5, Track 5 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_37 QUALITATIVE STUDY OF LEARNING-BY-TEACHING PROGRAM STAFF’S SELF-REGULATED
-LEARNING: A CASE STUDY FOR ENHANCING LEARNING-BY-TEACHING PROGRAM COURSE</summary>
+LEARNING - A CASE STUDY FOR ENHANCING LEARNING-BY-TEACHING PROGRAM COURSE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>J. Suzuki<sup>*,a</sup>, M. Hattori<sup>a</sup>, A. Minoda<sup>a</sup>,
 and A. Takami<sup>a</sup>
@@ -801,7 +801,7 @@ professional landscape.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 5, Track 6</h3>
+<h3>Session 5, Track 6 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_20 FROM THOUGHT TO ACTION: THE REFLECTIVE PATH TO SELF-DIRECTED LEARNING</summary>
