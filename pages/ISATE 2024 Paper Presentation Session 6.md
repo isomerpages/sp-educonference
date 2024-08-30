@@ -76,18 +76,56 @@ improved knowledge, skills and attitudes.</p>
 <p></p>
 </div>
 </details>
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>NP_05 IMPLEMENTING A CML DASHBOARD FOR ENHANCED ACADEMIC MONITORING IN
+HIGHER EDUCATION: A CASE STUDY FROM THE SCHOOL OF INTERDISCIPLINARY STUDIES,
+NGEE ANN POLYTECHNIC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>J.Chew, W.T. Low, <a href="http://E.Ng" rel="noopener noreferrer nofollow" target="_blank">E.Ng</a>, K.S. Kow</p>
+<p><sup>a</sup>Ngee Ann Polytechnic/ School of Interdisciplinary Studies,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:jeanette_chew@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeanette_chew@np.edu.sg</a>,
+<a href="mailto:low_wai_tuck@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_wai_tuck@np.edu.sg</a>, <a href="mailto:evelyn_ng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_ng@np.edu.sg</a>, <a href="mailto:kow_kok_sing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kow_kok_sing@np.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>This paper presents the development and implementation of a Coordinating
+Module Leader (CML) Dashboard within the School of Interdisciplinary Studies
+(IS) in Ngee Ann Polytechnic (NP), aimed at strengthening academic monitoring
+and intervention strategies especially for very large modules with approximately
+2000 students and 30 tutors each semester. Initiated during the April 2020
+semester, the dashboard emerged as a practical response to the evolving
+needs of IS, aligning with its commitment to fostering student success
+through evidence-informed practices.</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>NP_05</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>The paper showcases IS's proactive approach in recognizing and addressing
+emerging educational challenges enabled by data through the development
+of the CML Dashboard. The dashboard serves as a versatile tool, offering
+insights into student attendance and assessment grades across modules within
+the IS CORE Curriculum. Its primary objective is to facilitate early identification
+of at-risk students, enabling timely intervention and support mechanisms.</p>
+<p></p>
+<p>The implementation of the dashboard has also proven productive in enhancing
+academic oversight and intervention strategies. By providing CMLs with
+data on student performance metrics, educators can make informed decisions
+to address academic challenges more effectively. This approach ensures
+targeted interventions tailored to the specific needs of students, thereby
+maximising the impact of support initiatives.</p>
+<p></p>
+<p>Additionally, the dashboard enables CMLs to monitor grading consistency
+among tutors, ensuring fairness and transparency in assessment practices.
+Through comparative analysis, CMLs can identify anomalies or discrepancies,
+thereby upholding academic standards and integrity.</p>
+<p></p>
+<p>This paper discusses the iterative development process of the dashboard,
+from initiation to implementation, outlining the challenges encountered
+and lessons learned. It aims to provide practical insights for institutions
+seeking to enhance academic oversight through technology integration.</p>
+<p></p>
+<p>The implementation of the CML Dashboard represents a significant step
+towards enhancing academic monitoring and intervention in higher education.
+By leveraging technology to provide evidence-informed insights, IS demonstrates
+its commitment to continuous improvement and student success, fostering
+a culture of excellence and accountability within the academic community.</p>
 <p></p>
 </div>
 </details>
