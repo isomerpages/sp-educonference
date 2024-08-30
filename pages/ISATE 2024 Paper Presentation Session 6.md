@@ -622,7 +622,7 @@ VIDEOS</summary>
 <p>Soo Bee Hong</p>
 <p>Singapore Polytechnic/School of Electrical &amp; Electronic Engineering,
 Singapore</p>
-<p><a href="mailto:Soo_Bee_Hong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Soo_Bee_Hong@sp.edu.sg</a> 
+<p><a href="mailto:Soo_Bee_Hong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Soo_Bee_Hong@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Covid-19 was the catalyst for many changes in pedagogy, one of which included
@@ -668,11 +668,11 @@ within open-source learning contexts.</p>
 <summary>JP_78 PRACTICAL AND COLLABORATIVE EDUCATION THROUGH “URBAN HAZARD SINGS”
 INSTALLTION IN LOACAL COMMUNITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Keisuke OHASHI<sup>*,a</sup> 
+<p>Keisuke OHASHI<sup>*,a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Ishikawa College /Department
 of Civil Engineering, Tsubata, Japan</p>
-<p><sup>*</sup><a href="mailto:ohasikei@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ohasikei@ishikawa-nct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:ohasikei@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ohasikei@ishikawa-nct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>Japan faces frequent natural disasters due to its geographical location.
@@ -714,7 +714,7 @@ activities in subsequent years.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Henry Koh<sup>*</sup> and Lula Chee</p>
 <p>Ngee Ann Polytechnic, School of Business &amp; Accountancy, Singapore</p>
-<p><sup>*</sup><a href="mailto:kce@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kce@np.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:kce@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kce@np.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>In a world defined by rapid technological change and the blurring of traditional
@@ -770,7 +770,7 @@ broader and deeper industry partnerships.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Edwin Seng, Lynn Lam, Cynthia Lam and Angela Koh</p>
 <p>Singapore Polytechnic/School of Business, Singapore</p>
-<p><a href="mailto:Edwin_Seng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Edwin_Seng@sp.edu.sg</a> 
+<p><a href="mailto:Edwin_Seng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Edwin_Seng@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>This study examines the effectiveness of the Business Essentials Through
@@ -801,21 +801,124 @@ enhance entrepreneurial competency development.</p>
 <h3>Session 6, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>JP_11 WHAT YOU SEE IS WHAT YOU EAT: EMOTIONAL IMPACT OF WEBSITE VIEWING
+ON THE LOCAL COMMUNITY INVOLVEMENT AND INFORMATION BUSINESS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Hiromi Hanawa<sup>*</sup> 
+</p>
+<p>National Institute of Technology, Fukushima College, Department of Business
+Communication, Iwaki, Japan</p>
+<p><sup>*</sup><a href="mailto:kato-h@fukushima.kosen-ac.jp" rel="noopener noreferrer nofollow" target="_blank">kato-h@fukushima.kosen-ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>Advertising with food photos on websites has commonly utilized among web
+marketers, as local restaurants have emphasized emotional impact of digital
+images using interactive information services with customers. However,
+due to declining local population and aging society, current situation
+is that information technology implementation in the local areas has fell
+behind, and it has been difficult to revitalize the local businesses and
+create a new information service. Open and consumer-centred online communication
+and interaction over human-centred computing are required in order to promote
+local business revitalization.</p>
+<p></p>
+<p>As a solution to the problem, multi-institution collaborations such as
+the local colleges and universities, the local city hall, and the local
+chambers of commerce has created a new information service as well as opportunities
+of students’ learning in website technology and development. In particular,
+a group of local restaurants that had sales reduction have been supported
+by multi-institution collaboration websites that college students developed
+in order to revitalize the local businesses.</p>
+<p></p>
+<p>This study tested two hypotheses. Firstly, Websites would increase involvement,
+which improve online communication among people and lead to increase the
+potential restaurant customers. Secondly, digitalization would promote
+local establishment, that is, creation of information services requires
+human resources who stay in the region and engage in that information technology
+businesses.</p>
+<p></p>
+<p>Data has been obtained from the National Household Survey, website analytics,
+website usability test, and the local Chamber of Commerce data to conduct
+hypothesis test. Data analysis found that frequent view of product photos
+increased consumers’ interest, and reduced consumers’ emotional stress
+against unfamiliar food. As a result, two hypotheses were supported with
+positive effects that websites increased online activities and involvement
+to the local restaurants, and has established a new information business
+and handover in the local area even after COVID-19.</p>
+<p></p>
+<p>This research supports multi-institution collaboration with utilizing
+open data, and provides design of human-centred informatics that may create
+potential local businesses in a wide range of areas.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>TP_10 BRIDGING THEORY AND PRACTICE: THE TRANSFORMATIVE ROLE OF MENTORING
+IN STUDENT INTERNSHIP PROGRAMS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>S.G. Andrew Kor</p>
+<p>Temasek Polytechnic/School of Engineering/Student Development, Singapore</p>
+<p><a href="mailto:Andrew_KOR@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Andrew_KOR@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>This paper explores the vital role of effective mentoring in student internship
+programs at Temasek Polytechnic (TP) School of Engineering, focusing on
+its impact on career development. In today's dynamic educational landscape,
+fostering connections between academic institutions and industries is crucial
+for preparing students for real-world challenges and advancing professional
+development in a VUCA (Volatility, Uncertainty, Complexity, and Ambiguity)
+environment. Mentoring stands as the linchpin of successful student internships,
+guiding students through industry intricacies and fostering holistic development.
+This guidance equips students with practical skills and a deeper understanding
+of their chosen fields. Educators engaged in attachment programs also benefit
+from mentoring relationships, gaining valuable perspectives, and refining
+teaching methods. On-campus flash mentoring activities offer students diverse
+perspectives and networking opportunities within condensed timeframes,
+illuminating various career paths and industries. This paper discusses
+practices in mentoring within TP's student internship programs, addressing
+unique considerations for programs spanning local and international boundaries.
+Effective mentorship enhances learning outcomes, boosts engagement with
+industry projects, and co-creates enriching learning experiences. Incorporating
+mentoring into internship programs provides students with global perspectives,
+enhancing adaptability and intercultural competence. Drawing on practical
+insights, this paper underscores mentoring's transformative impact on education
+and advocates for structured mentoring programs to bridge theory and practice,
+preparing students for the evolving professional landscape.</p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JP_16 PRACTICAL IMPLEMENTATION OF INFORMATION INCIDENT HANDLING EXERCISES
+THROUGH COLLABORATION WITH PRACTITIONER INSTRUCTOR</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Eikoh Chida<sup>*</sup>, Masato Wayama and Hiroyuki Haga</p>
+<p>Division of Computer Engineering and Informatics, Department of Engineering
+for Future Innovation,</p>
+<p>National Institute of Technology, Ichinoseki College, Japan</p>
+<p><sup>*</sup><a href="mailto:chida+isate2024@g.ichinoseki.ac.jp" rel="noopener noreferrer nofollow" target="_blank">chida+isate2024@g.ichinoseki.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>In FY2017, the National Institute of Technology, Ichinoseki College (Ichinoseki
+KOSEN) reorganized from the previous four departments to one department,
+four divisions, and seven fields to respond to social needs and regional
+changes and enable new development and expansion. In line with this, a
+new Department of Information and Software Engineering was established.
+Although each of the two existing departments had its own information course,
+it was decided to organize a new curriculum specializing in the field of
+information engineering. The first batch of students graduated in March
+2022, and all subjects of the new curriculum were offered; however, in
+the course of practical education, they were adapted to the rapid development
+of technology. This situation called for more practical lectures and exercises.</p>
+<p></p>
+<p>Therefore, in April 2022, the school hired six practitioner teachers in
+the fields of cyber security, artificial intelligence (AI)/machine learning
+and social implementation project management to accept professional personnel
+from the private sector as “sideline teachers” in education. Since the
+first semester’s courses in FY2022, practical exercises and lectures on
+the latest technology topics have been held for senior information and
+software students and others, with FY2024 marking the third year.</p>
+<p></p>
+<p>This paper presents examples of initiatives in the field of cyber security
+and discusses their educational benefits and challenge.</p>
 </div>
 </details>
 <details class="isomer-details">
