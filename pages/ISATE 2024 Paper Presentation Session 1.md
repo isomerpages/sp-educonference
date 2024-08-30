@@ -4,7 +4,7 @@ permalink: /isate-2024-session-1/
 variant: tiptap
 description: ""
 ---
-<h3>Session 1, Track 1</h3>
+<h3>Session 1, Track 1 (ST1)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_17 PRACTICE REPORT ON CONTINUOUS ASSIGNMENTS USING READING PROGRESS
@@ -181,7 +181,7 @@ effectiveness.</p>
 </div>
 </details>
 </div>
-<h3>Session 1, Track 2</h3>
+<h3>Session 1, Track 2 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_08 EFFECTS OF IMMERSION, INTERACTION, AND IMAGINATION ON STUDENTS’
@@ -366,7 +366,7 @@ before and after the practice.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 3</h3>
+<h3>Session 1, Track 3 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>NYP_02 AN EXAMINATION OF THE IMPACT OF PEER-COLLABORATION ON STUDENT MOTIVATION
@@ -561,10 +561,10 @@ required for global citizenship.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 1, Track 4</h3>
+<h3>Session 1, Track 4 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
+<summary>FL_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>J. Kontio<sup>*,a</sup> and M. Ketola<sup>b</sup>
 </p>
@@ -754,7 +754,8 @@ educational effectiveness.</p>
 </div>
 </details>
 </div>
-<h3>Session 1, Track 5</h3>
+<p></p>
+<h3>Session 1, Track 5 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_26 EVALUATION OF SUSTAINABLE DEVELOPMENT IN DIPLOMA IN CHEMICAL ENGINEERING
@@ -893,7 +894,7 @@ environment, the LXD Methodology fosters greater learner engagement.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>VTC_07 AI TUTORHUB: A SYSTEM FOR SPECIAL EDUCATION NEEDS IN POST SECONDARY
+<summary>VTC_07 AI TUTORHUB: A SYSTEM FOR SPECIAL EDUCATION NEEDS IN POST-SECONDARY
 STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>W.H. Chiu<sup>*†a</sup>, Nanoka K.M. Tse<sup>†a</sup>, K.H. Cheung<sup>†ab</sup>,
@@ -950,11 +951,11 @@ full potential in their educational journey.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 6</h3>
+<h3>Session 1, Track 6 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
-DESIGN FOR LEARNING (UDL), AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
+DESIGN FOR LEARNING (UDL) AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
 AND SELF-EFFICACY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A. Lee<sup>a*</sup>, J. Ho<sup>b</sup>, C.K. Kiu<sup>a</sup> and D. Kwok<sup>a</sup>
