@@ -594,9 +594,17 @@ programs in bachelor level. The project used CDIO as the general framework
 for the reform. There are altogether 20 different curricula that this reform
 affected. The reform had a project group consisting of representatives
 from all our eight schools. The reform aimed to improve three main goals:</p>
-<p>• Strengthen professional core competencies in programs,</p>
-<p>• Strengthen the quality of education and improve completion and</p>
-<p>• Support personnel well-being.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strengthen professional core competencies in programs,</p>
+</li>
+<li>
+<p>Strengthen the quality of education and improve completion and</p>
+</li>
+<li>
+<p>Support personnel well-being.</p>
+</li>
+</ul>
 <p>The first goal challenged the programs to identify their key existing
 principle: What is the professional role and practical context of the profession?
 The second goal challenged the programs to improve their learning outcomes
