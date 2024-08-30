@@ -130,6 +130,7 @@ to evolve very quickly. NP continues to collect more data from staff &amp;
 students with regards to their perceptions and impact of Gen AI on the
 learning experience as we keep pace with its changes closely and leverage
 on the innovations for NP’s T&amp;L.</p>
+<p></p>
 </div>
 </details>
 </div>
