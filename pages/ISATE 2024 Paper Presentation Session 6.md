@@ -510,14 +510,14 @@ related experiential learning.</p>
 <details class="isomer-details">
 <summary>JP_44 PRACTICAL EDUCATION IN IOT SYSTEM SECURITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>T. Yukawa<sup>*,a</sup>, T. Ogino<sup>b,c</sup> and J. Takubo<sup>d</sup> 
+<p>T. Yukawa<sup>*,a</sup>, T. Ogino<sup>b,c</sup> and J. Takubo<sup>d</sup>
 </p>
 <p><sup>a</sup>Nagaoka University of Technology, Nagaoka-shi, Niigata, Japan</p>
 <p><sup>b</sup>ZeroOne Laboratory LLC., Shinagawa-ku, Tokyo, Japan</p>
 <p><sup>c</sup>Institute of Information Security, Yokohama-shi, Kanagwa,
 Japan</p>
 <p><sup>d</sup>MASTTOP, Inc., Shinagawa-ku, Tokyo, Japan</p>
-<p><sup>*</sup><a href="mailto:yukawa@vos.nagaokaut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yukawa@vos.nagaokaut.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:yukawa@vos.nagaokaut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yukawa@vos.nagaokaut.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>This paper describes the IoT security education course established within
@@ -537,11 +537,11 @@ and the results of the course practice.</p>
 <summary>SP_22 MAKING MATH CLICK: INTEGRATING REAL-WORLD SCENARIOS TO CAPTURE STUDENT
 INTEREST</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Quek Kai Leong<sup>a</sup> 
+<p>Quek Kai Leong<sup>a</sup>
 </p>
 <p><sup>a</sup>School of Mathematics and Science, Singapore Polytechnic,
 Singapore</p>
-<p><sup>*</sup><a href="mailto:quek_kai_leong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kai_leong@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:quek_kai_leong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kai_leong@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>Instruction Traditional math instruction often leads to student disengagement.
@@ -616,26 +616,183 @@ at Fukushima KOSEN were shown.</p>
 <h3>Session 6, Track 5</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>SP_04 ENGAGING STUDENTS IN ASYNCHRONOUS LEARNING WITH ADVANCE ORGANISER
+VIDEOS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Soo Bee Hong</p>
+<p>Singapore Polytechnic/School of Electrical &amp; Electronic Engineering,
+Singapore</p>
+<p><a href="mailto:Soo_Bee_Hong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Soo_Bee_Hong@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>Covid-19 was the catalyst for many changes in pedagogy, one of which included
+the adoption and acceptance of asynchronous lectures. A recent large-scale
+study with 1214 respondents found that students have positive attitudes
+towards asynchronous lectures and find the medium efficacious (Soo et al.,
+2023). However, this result comes with the important caveat that the students
+prefer “social presence” in the recorded videos (which, in the study, comprises
+of live narration and/or a teacher’s thumbnail). Subsequently, a second
+survey with 3159 participants was conducted to investigate the effectiveness
+of student engagement during asynchronous lectures. It was observed that
+modules with lower engagement scores had predominantly relied on external
+open-source learning materials that are commonly adopted by many higher
+education institutions for professional certification. While these certified
+resources facilitate valuable industry connections and enhance graduates’
+marketability, this sparks concern regarding their efficacy in student
+learning experiences because of the noted low level of engagement. In view
+of the students’ desires for the instructor presence during learning, the
+lack of engagement may stem from the lack of “social presence” in the external
+learning materials rather than the quality of the materials.</p>
+<p></p>
+<p>Thus, to test this hypothesis, pre-recorded advance organiser videos were
+developed to enhance the asynchronous learning experience with social presence.
+These advance organisers serve as scaffolding for complex concepts, promoting
+greater engagement with the course materials. The approach integrated quantitative
+and qualitative analyses through surveys and content review. A two-tailed
+statistical analysis of students’ survey results found that implementing
+advance organizer videos significantly improved students’ self-reported
+engagement levels from 4.23 to 4.63, (t (228) = 2.07, P = 0.0390). This
+underscores the significance of maintaining human connection and adapting
+tried-and-true methods of student engagement, even with the rising popularity
+of asynchronous lectures.</p>
+<p></p>
+<p>This paper documents students’ favourable responses to advance organiser
+videos and offers recommendations for optimising their implementation.
+The authors hope these insights drawn from student experiences will provide
+valuable guidance to educators aiming to enhance instructional strategies
+within open-source learning contexts.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_78 PRACTICAL AND COLLABORATIVE EDUCATION THROUGH “URBAN HAZARD SINGS”
+INSTALLTION IN LOACAL COMMUNITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Keisuke OHASHI<sup>*,a</sup> 
+</p>
+<p><sup>a</sup>National Institute of Technology, Ishikawa College /Department
+of Civil Engineering, Tsubata, Japan</p>
+<p><sup>*</sup><a href="mailto:ohasikei@ishikawa-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">ohasikei@ishikawa-nct.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>Japan faces frequent natural disasters due to its geographical location.
+The archipelago lies within the Ring of Fire, where approximately 80% of
+the world’s active volcanoes are concentrated. Consequently, the entire
+Japanese territory is susceptible to high seismic risk. Although the regions
+that have risks of flood and tsunami are limited to the alluvial plains
+that account 10% of the territory, they account 50% of the population in
+Japan and 75% of the assets.</p>
+<p></p>
+<p>In 2020, the ruling government introduced the concept of Self-help, Mutual
+Aid, and Public Assistance for disaster response. The order of sequence
+of these words emphasizes self-help as the most critical activity immediately
+after a disaster happens. Given that many disasters escalate over time,
+minimizing the lead time—the time required to move to a safe location immediately
+after a disaster event—is crucial for survival. Therefore, in regional
+disaster preparedness, lead time is equivalent to the time it takes to
+travel from the current location to an evacuation area. To reduce evacuation
+time, students at the National Institute of Technology, Ishikawa College
+(Ishikawa KOSEN) have been promoting the use of Urban Hazard Signs since
+2022. This sign consists of a pictogram, an evacuation site name, a distance,
+and a QR code indicating evacuation routes. A total of a dozen signs in
+2022 and 142 signs in 2023 were installed, covering the entire target area.
+The installation process involved coordination with stakeholders such as
+local municipalities and residents based on iterative cycles of feedback,
+on-site surveys, trial production, placement, and post-installation surveys.</p>
+<p></p>
+<p>This initiative, combining regional challenges and practical education,
+received high acclaim in the National Institute of Technology Contests
+and achieved consecutive awards in 2022 and 2023. Furthermore, a local
+municipality, Tsubata Town has entrusted the sign installation task to
+Ishikawa KOSEN in its 2023 supplementary budget, with plans for continued
+activities in subsequent years.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>NP_02 PREPARING STUDENTS FOR THE DIGITAL AGE </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Henry Koh<sup>*</sup> and Lula Chee</p>
+<p>Ngee Ann Polytechnic, School of Business &amp; Accountancy, Singapore</p>
+<p><sup>*</sup><a href="mailto:kce@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kce@np.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>In a world defined by rapid technological change and the blurring of traditional
+business functions, educators face the challenge of infusing technology
+into existing curricula while equipping students with 21st-century skill
+sets for success in the workplace. This paper presents an innovative approach
+to transformational business education, developed and implemented at Ngee
+Ann Polytechnic in Singapore.  </p>
+<p></p>
+<p>Traditional academic programs often fail to keep pace with the rapid technological
+changes in the workplace. This leaves graduates unprepared for the demands
+of a digital economy.  The Business Digitalisation Track (BDT) at Ngee
+Ann Polytechnic's School of Business and Accountancy (BA) addresses this
+gap. The BDT's focus on digital skills provides students with the essential
+tools to navigate this evolving business landscape. </p>
+<p></p>
+<p>The BDT is a one-year, cross-diploma program integrating internships for
+selected final-year students. The program's core strategies are to "bring
+the industries into the classroom" and "bring the classroom into the industries."
+This is achieved through a collaborative model with industry partners,
+who co-design, co-teach, and co-evaluate courses alongside educators. </p>
+<p></p>
+<p>BDT's unconventional curricular structure features an emphasis on competency-based
+training, replacing traditional modules and exams with intensive workshops,
+seminars, real-world company projects, and industry-based certifications.
+Two project-based internships are integrated into the curricular structure
+to enhance digital skills application and knowledge acquisition.</p>
+<p></p>
+<p>Student and industry feedback indicate significant learner transformation.
+Students gain relevant digital skills, enhanced adaptability, and independence.
+Companies value student contributions in projects such as digital playbooks
+and livestreaming. The program's model has influenced changes within BA’s
+other diploma programmes and has been adapted for adult learners pursuing
+Continuing Education and Training (CET) at NP.  As a case in point, a new
+programme in Digital Marketing &amp; Digital Commerce, modelled after the
+BDT, was introduced for working adults planning career transitions.  </p>
+<p></p>
+<p>A survey to evaluate the curricula structure of the BDT was conducted
+in 2020 and the results validated the effectiveness of the program.  Results
+show that a vast majority of students were in strong agreement that the
+structure of this programme had a positive impact on their learning and
+motivation.</p>
+<p></p>
+<p>The BDT's success demonstrates the value of industry collaboration in
+preparing students for the complexities of digital business.  Looking ahead,
+plans for scaling include extending "classroom in the industry" through
+broader and deeper industry partnerships.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>SP_29 ENHANCING ENTREPRENEURIAL COMPETENCIES THROUGH SELF-DIRECTED LEARNING</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Edwin Seng, Lynn Lam, Cynthia Lam and Angela Koh</p>
+<p>Singapore Polytechnic/School of Business, Singapore</p>
+<p><a href="mailto:Edwin_Seng@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Edwin_Seng@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>This study examines the effectiveness of the Business Essentials Through
+Action (BETA) module at the Singapore Polytechnic School of Business in
+fostering entrepreneurial competencies through self-directed learning.
+Our research anchors on the premise that self-directed learning, as a critical
+component of entrepreneurial education, enhances critical thinking, creativity,
+resilience, and adaptability—skills vital for navigating today’s business
+challenges. Utilising a mixed-methods approach, the study contrasts the
+entrepreneurial competencies of students engaged in the BETA module with
+those in a traditional curriculum. Quantitative assessments through pre-post
+tests and qualitative insights from focus groups were used to evaluate
+the impact of the BETA module. The findings suggest significant improvements
+in competencies such as "Opportunity Seeking and Initiative," "Persistence,"
+"Demand for Efficiency and Quality," and "Systematic Planning and Monitoring"
+for students in the BETA group compared to their peers. This study contributes
+to the educational discourse by demonstrating how integrative frameworks
+combining experiential learning with reflective practices can effectively
+cultivate the entrepreneurial skills necessary for today’s complex economic
+landscape. The results underscore the potential of self-directed learning
+models to bridge gaps in traditional education methods and significantly
+enhance entrepreneurial competency development.</p>
 <p></p>
 </div>
 </details>
