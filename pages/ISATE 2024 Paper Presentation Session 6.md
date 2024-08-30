@@ -392,11 +392,11 @@ strategy increased active learning, critical thinking, and deeper comprehension.
 MATERIALS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Kenzo Kato*,a, Eikoh Chida<sup>a</sup>, Rie Nakajima<sup>b</sup> and Yukimasa
-Kato<sup>b</sup> 
+Kato<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Ichinoseki College, Japan</p>
 <p><sup>b</sup>Nihon University, Japan</p>
-<p><sup>*</sup><a href="mailto:kenzokato@ichinoseki.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kenzokato@ichinoseki.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:kenzokato@ichinoseki.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kenzokato@ichinoseki.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>This study aimed to use manga-incorporated health education materials
@@ -432,11 +432,11 @@ attitudes and impressions toward health education improved.</p>
 <details class="isomer-details">
 <summary>SP_21 FLIPPING THE SCRIPT – A REVERSE CASE STUDY APPROACH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Raja Liyana<sup>* </sup>
+<p>Raja Liyana<sup>*</sup>
 </p>
 <p><sup>a</sup>School of Chemical &amp; Life Sciences/ Diploma in Optometry,
 Singapore Polytechnic, Singapore</p>
-<p><sup>*</sup><a href="mailto:raja_liyana@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_liyana@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:raja_liyana@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raja_liyana@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>This study explores the efficacy of reverse case study approach in optometry
@@ -467,26 +467,147 @@ optometry education.</p>
 <h3>Session 6, Track 4</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
+<summary>TP_09 LOGISTICS SANDBOX IN SCHOOL OF BUSINESS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Foo Choo Yen<sup>a</sup>, Murray Ho<sup>b</sup> and James Chua<sup>c</sup>
+</p>
+<p>Temasek Polytechnic/School of Business</p>
+<p><sup>a</sup><a href="mailto:chooyen@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chooyen@tp.edu.sg</a>, <sup>b</sup>
+<a href="mailto:murray_ho@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">murray_ho@tp.edu.sg</a>, <sup>c</sup><a href="mailto:chua_james_js@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_james_js@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>By introducing technology in a tangible and accessible manner, the Logistics
+Sandbox aims to demystify critical Industry 4.0 (i4.0) technologies for
+business students. Through early exposure to these transformative technologies,
+students are primed to cultivate a deeper understanding and affinity towards
+applied Industry 4.0 concepts. This initiative serves as a precursor to
+future coursework in smart manufacturing and logistics, nurturing a fertile
+ground for further exploration and innovation. Within the Logistics Sandbox,
+six experiential stations have been curated to facilitate hands-on workshops
+lasting from one to three hours each. These stations are tailored for versatility,
+enabling their deployment in various learning and outreach initiatives
+across diverse locations. The stations include Sensor Applications in Warehouse
+Environmental Monitoring and Carton Box Dimensioning, Warehouse Motion
+Monitoring with Camera, Warehouse Order Picking &amp; Routing Optimization
+Game, Introduction to Robotics, Logistics Data Analytics &amp; Demand Forecasting,
+and simulating Distribution Centre Picking Operations through VR. Each
+station provides practical insights and hands-on activities to ignite learners’
+curiosity and enhance their understanding of key logistics technologies.
+Trial workshops were conducted for students as knowledge-building exercises
+on how to facilitate workshops for a varied target audience, ranging from
+pre-poly students to freshmen business students. The goal was to introduce
+participants to the evolving landscape of technology in their respective
+industries, from the early stages of Industry 1.0 to the advancements of
+Industry 4.0. The feedback from participants highlighted the workshops
+impact, with many students expressing how the sessions expanded their horizons
+and provided valuable insights into technology-driven solutions. A number
+of participants expressed their desire to continue exploring the technology
+associated with the Logistics Sandbox, demonstrating an interest in technology
+related experiential learning.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
+<summary>JP_44 PRACTICAL EDUCATION IN IOT SYSTEM SECURITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>T. Yukawa<sup>*,a</sup>, T. Ogino<sup>b,c</sup> and J. Takubo<sup>d</sup> 
+</p>
+<p><sup>a</sup>Nagaoka University of Technology, Nagaoka-shi, Niigata, Japan</p>
+<p><sup>b</sup>ZeroOne Laboratory LLC., Shinagawa-ku, Tokyo, Japan</p>
+<p><sup>c</sup>Institute of Information Security, Yokohama-shi, Kanagwa,
+Japan</p>
+<p><sup>d</sup>MASTTOP, Inc., Shinagawa-ku, Tokyo, Japan</p>
+<p><sup>*</sup><a href="mailto:yukawa@vos.nagaokaut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yukawa@vos.nagaokaut.ac.jp</a> 
+</p>
+<p>Abstract</p>
+<p>This paper describes the IoT security education course established within
+the Information and Management Systems Engineering Program at Nagaoka University
+of Technology. Exercising penetration testing in security education programs
+is highly effective for students to consolidate their knowledge and skills.
+However, conducting such tests in an actual environment is illegal. To
+address this challenge, a virtual environment (cyber range) simulating
+a smart home system was developed, and hands-on exercises utilizing this
+environment was designed. This paper presents the design of the course,
+the design of the training equipment, the scenarios of the hands-on exercises
+and the results of the course practice.</p>
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
+<summary>SP_22 MAKING MATH CLICK: INTEGRATING REAL-WORLD SCENARIOS TO CAPTURE STUDENT
+INTEREST</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Quek Kai Leong<sup>a</sup> 
+</p>
+<p><sup>a</sup>School of Mathematics and Science, Singapore Polytechnic,
+Singapore</p>
+<p><sup>*</sup><a href="mailto:quek_kai_leong@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_kai_leong@sp.edu.sg</a> 
+</p>
+<p>Abstract</p>
+<p>Instruction Traditional math instruction often leads to student disengagement.
+Students struggle to see the relevance of the skills they're learning,
+resulting in a disconnect between theory and practical application. This
+action research addresses this challenge by introducing real-world application
+problems through short trigger videos before teaching the necessary mathematical
+skills. This "begin with the end in mind" approach aims to spark student
+interest and curiosity at the outset, fostering a deeper understanding
+of the purpose and relevance of the mathematical concepts being taught.</p>
+<p>The study involved dividing module topics into manageable blocks. Each
+block features three key elements:</p>
+<p>1. Trigger Video: A captivating video (around 6 minutes) introduces a
+real-world application problem. It is designed to be relevant to students'
+lives and experiences.</p>
+<p>2. Skill Development: Targeted instruction focused on the mathematical
+skills needed to solve the application problem.</p>
+<p>3. Application Practice: Students apply the newly acquired skills to solve
+the application problem introduced in the trigger video.</p>
+<p>The duration of a block (1-4 weeks) depends on the complexity of the application
+problem. One of the blocks included an additional assignment related to
+the application.</p>
+<p>Surveys using a Likert scale and open-ended questions were administered
+to students and teachers. 14 staff and 566 students from 4 schools participated
+in the surveys. The results indicated that the application problems piqued
+student interest in math and helped them see its relevance in real life.
+Most teachers found this approach of introducing the application first
+to be more beneficial than the traditional method of teaching skills first.
+Implementing this approach in another math module yielded similar positive
+results.</p>
+<p>This research proposes a portable pedagogy that has the potential to be
+applied across math modules to enhance student engagement and foster a
+deeper understanding of the subject's relevance.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JP_48 THE EFFECTS OF ENTREPRENEURSHIP EDUCATION AT NATIONAL INSTITUTE
+OF TECHNOLOGY</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Kaori ONITA</p>
+<p>National Institute of Technology, Fukushima College/Business Communication,
+Fukushima, Japan</p>
+<p><a href="mailto:onita@fukushima-nct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">onita@fukushima-nct.ac.jp</a>
+</p>
+<p>Abstract</p>
+<p>In this study, the effectiveness of entrepreneurship education at the
+National Institute of Technology is discussed. The National Institute of
+Technology called KOSEN is one of Japan's higher education institutions
+where students mostly specialize in engineering. The Ministry of Education,
+Culture, Sports, Science and Technology (MEXT) started entrepreneurship
+education at Kosen in 2023. What is the effect of the entrepreneurship
+education on KOSEN students? This study examines the effect of the entrepreneurship
+education based on the case surveys. The entrepreneurship education started
+in 2023 at KOSEN. The entrepreneurship education at Fukushima KOSEN is
+an optional subject for the first-year students. In this study, the author
+provided the questionnaire to the students. The author assigned the students
+essays because the author tries to find the details of student’s attitude
+in the essay. The author analyzed their essays using KH-Coder text analyzer
+which is available as a computer software package for text mining. In this
+study, the students have positive impacts on tolerance for uncertainty,
+interpersonal skills, initiative, and proactivity. In addition, the students
+improve their communication and teamwork. The students could collaborate
+and communicate with each other, and they created business ideas throughout
+the course. In this study, positive effects of entrepreneurship education
+at Fukushima KOSEN were shown.</p>
 <p></p>
 </div>
 </details>
