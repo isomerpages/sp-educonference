@@ -19,9 +19,8 @@ variant: tiptap
 <p>Speech by GOH Ms Gan Siow Huang, Minister of State for Education</p>
 </li>
 <li>
-<p>Speech by Dr Taniguchi Isao, President, National Institute of Technology
-Japan <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">Click to view CV</a>
-</p>
+<p>Speech by <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener noreferrer nofollow" target="_blank">Dr Taniguchi Isao</a>,
+President, National Institute of Technology Japan</p>
 </li>
 <li>
 <p>Keynote Address by <a href="https://www.rhgraham.org/" rel="noopener noreferrer nofollow" target="_blank">Dr Ruth Graham</a>
