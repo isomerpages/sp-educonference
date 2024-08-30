@@ -20,7 +20,7 @@ variant: markdown
 <p>Speech by GOH Ms Gan Siow Huang, Minister of State for Education</p>
 </li>
 <li>
-<p>Speech by Dr Taniguchi Isao, President, National Institute of Technology Japan</p>
+<p>Speech by Dr Taniguchi Isao, President, National Institute of Technology Japan [Click here for CV](/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf)</p>
 </li>
 <li>
 <p>Keynote Address by <a target="_blank" href="https://www.rhgraham.org/"> Dr Ruth Graham</a></p>
