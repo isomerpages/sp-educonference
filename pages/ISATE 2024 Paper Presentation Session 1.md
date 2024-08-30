@@ -4,7 +4,6 @@ permalink: /isate-2024-session-1/
 variant: tiptap
 description: ""
 ---
-<p>Abstracts for Session 1 can be found below.</p>
 <h3>Session 1, Track 1</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -101,8 +100,8 @@ paper.</p>
 <summary>JP_18 MEASURING LEARNING EFFECT ON ENGLISH COMPOSITION BY AN ENGLISH APPLICATION
 WITH AI AUTOMATIC CORRECTION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>1. Y. Shimura<sup>*,a</sup> 2. D. Marsh,<sup>a</sup> 3. C. Grady,<sup>a</sup> and
-4. N. Iwasaki<sup>b</sup>
+<p>Y. Shimura<sup>*,a</sup>, D. Marsh,<sup>a</sup>, C. Grady,<sup>a</sup> and
+N. Iwasaki<sup>b</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Wakayama College / Faculty
 of Liberal Arts, Gobo, Japan</p>
@@ -281,57 +280,42 @@ A BUILT ENVIRONMENT COURSE PILOT STUDY IN SINGAPORE</summary>
 <p><sup>*</sup><a href="mailto:Hadiatmadja_juniarto@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hadiatmadja_juniarto@tp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p>The development of students’ abilities to hand</p>
-<p>sketch and manually model design ideas have been a</p>
-<p>long standing, important part of built environment</p>
-<p>courses. In recent years this has been significantly</p>
-<p>reduced in the curriculum with preference for the use</p>
-<p>of digital drafting and 3D modelling software. These</p>
-<p>digital activities require less development of student</p>
-<p>hands-on ability, the interface requiring only the click</p>
-<p>of a mouse and keyboard. However, the potential</p>
-<p>benefits of higher efficiency and precision of this</p>
-<p>digital trend seems to come with a significant loss in</p>
-<p>the intuitive sketching and modelling abilities of</p>
-<p>recent student cohorts.</p>
-<p>This paper wishes to discuss the findings of a pilot</p>
-<p>study on digital mediums that promises a reversal of</p>
-<p>this worrying decline. The study is on digital tools that</p>
-<p>support development of intuitive sketching and</p>
-<p>manual modelling skills. Focus is on the use of virtual</p>
-<p>reality (VR) equipment as well as the use of digital pen</p>
-<p>&amp; tablet as the main medium of formulating 3D</p>
-<p>design ideas with interest for conceptual design of</p>
-<p>built environment projects.</p>
-<p>The research is supported by analysing the</p>
-<p>empirical artefacts and firsthand experience of the</p>
-<p>users. For an objective comparison, artefacts</p>
-<p>produced use software that supports both mediums.</p>
-<p>In terms of the user experience, observations and</p>
-<p>interviews with second year built environment</p>
-<p>students who participated in the study will be used.</p>
-<p>Student’s feedback were also useful insights on how</p>
-<p>novice users faired in steadily developing their</p>
-<p>abilities to use the mediums.</p>
-<p>The research will initially conduct a comparison</p>
-<p>between mediums when used separately. This is done</p>
-<p>on different stages. This starts from a comparison of</p>
-<p>the process of setting up each medium. Subsequently</p>
-<p>comparison is done on the day-to-day use of the</p>
-<p>mediums. Finally, a qualitative comparison is done of</p>
-<p>the expanse and limits of conceptual forms that could</p>
-<p>be finally achieved by each medium.</p>
-<p>A further study was then conducted on the</p>
-<p>possible combined use of the two mediums. This analysis is done on how
-one medium could be further</p>
-<p>developed in another medium.</p>
-<p>The findings of this study were then used to</p>
-<p>envision arrangements for deployment of the</p>
-<p>mediums in larger class settings. This encompasses</p>
-<p>feasible ratios between VR and digital tablet-based</p>
-<p>equipment in the classroom setting. The different</p>
-<p>medium could also be tailored to different class</p>
-<p>scenarios.</p>
+<p>The development of students’ abilities to hand sketch and manually model
+design ideas have been a long standing, important part of built environment
+courses. In recent years this has been significantly reduced in the curriculum
+with preference for the use of digital drafting and 3D modelling software.
+These digital activities require less development of student hands-on ability,
+the interface requiring only the click of a mouse and keyboard. However,
+the potential benefits of higher efficiency and precision of this digital
+trend seems to come with a significant loss in the intuitive sketching
+and modelling abilities of recent student cohorts.</p>
+<p>This paper wishes to discuss the findings of a pilot study on digital
+mediums that promises a reversal of this worrying decline. The study is
+on digital tools that support development of intuitive sketching and manual
+modelling skills. Focus is on the use of virtual reality (VR) equipment
+as well as the use of digital pen &amp; tablet as the main medium of formulating
+3D design ideas with interest for conceptual design of built environment
+projects.</p>
+<p>The research is supported by analysing the empirical artefacts and firsthand
+experience of the users. For an objective comparison, artefacts produced
+use software that supports both mediums. In terms of the user experience,
+observations and interviews with second year built environment students
+who participated in the study will be used. Student’s feedback were also
+useful insights on how novice users faired in steadily developing their
+abilities to use the mediums.</p>
+<p>The research will initially conduct a comparison between mediums when
+used separately. This is done on different stages. This starts from a comparison
+of the process of setting up each medium. Subsequently comparison is done
+on the day-to-day use of the mediums. Finally, a qualitative comparison
+is done of the expanse and limits of conceptual forms that could be finally
+achieved by each medium.</p>
+<p>A further study was then conducted on the possible combined use of the
+two mediums. This analysis is done on how one medium could be further developed
+in another medium. The findings of this study were then used to envision
+arrangements for deployment of the mediums in larger class settings. This
+encompasses feasible ratios between VR and digital tablet-based equipment
+in the classroom setting. The different medium could also be tailored to
+different class scenarios.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -439,12 +423,12 @@ SOCIETY</summary>
 <p>Kenta Endo<sup>*,a</sup>, Toshiya Itaya<sup>a</sup>, Yuya Sato<sup>b</sup>,
 Hiroshi Nishiguchi<sup>c</sup>
 </p>
-<p><sup>a</sup>National Institute of Technology, Suzuka College/</p>
-<p>Department of Electronic and Information Engineering, Suzuka, Japan</p>
-<p><sup>b</sup>National Institute of Technology, Toyota College /</p>
-<p>Department of Civil Engineering, Toyota, Japan</p>
-<p><sup>c</sup>National Institute of Technology, Sasebo College /</p>
-<p>Department of Mechanical Engineering, Sasebo, Japan</p>
+<p><sup>a</sup>National Institute of Technology, Suzuka College/ Department
+of Electronic and Information Engineering, Suzuka, Japan</p>
+<p><sup>b</sup>National Institute of Technology, Toyota College / Department
+of Civil Engineering, Toyota, Japan</p>
+<p><sup>c</sup>National Institute of Technology, Sasebo College / Department
+of Mechanical Engineering, Sasebo, Japan</p>
 <p><sup>*</sup><a href="mailto:endo-k@info.suzuka-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">endo-k@info.suzuka-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
@@ -485,7 +469,7 @@ Hydrogen Stations.</p>
 <details class="isomer-details">
 <summary>NP_03 STUDENTS' PERCEPTION OF FLIPPED LEARNING AT NGEE ANN POLYTECHNIC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Paul Ng, Tan Hui Leng</p>
+<p>Paul Ng and Tan Hui Leng</p>
 <p>Centre for Learning &amp; Teaching Excellence, Ngee Ann Polytechnic, Singapore</p>
 <p><a href="mailto:paul_ng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paul_ng@np.edu.sg</a>,
 <a href="mailto:tan_hui_leng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_leng@np.edu.sg</a>
@@ -580,60 +564,69 @@ required for global citizenship.</p>
 <h3>Session 1, Track 4</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>JP_06 DEVELOPMENT AND EVALUATION OF PRACTICE FOR INTEGRATED CAD-CAE-CAM
-EDUCATION</summary>
+<summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup>
+<p>J. Kontio<sup>*,a</sup> and M. Ketola<sup>b</sup>
 </p>
-<p><sup>a</sup>Institute for Research on Next-generation Semiconductor and
-Sensing Science (IRES²), Toyohashi University of Technology, Toyohashi,
-Japan</p>
-<p><sup>b</sup>Department of Mechanical Engineering, Toyohashi University
-of Technology, Toyohashi, Japan</p>
-<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a>
+<p><sup>a</sup>Turku University of Applied Sciences, Faculty of Engineering
+and Business Turku, Finland</p>
+<p><sup>b</sup>Turku University of Applied Sciences, Faculty of Engineering
+and Business/School of Common Studies, Turku, Finland</p>
+<p><sup>*</sup><a href="mailto:juha.kontio@turkuamk.fi" rel="noopener noreferrer nofollow" target="_blank">juha.kontio@turkuamk.fi</a>
 </p>
 <p>Abstract</p>
-<p>The ability to achieve an optimum design based on specifications is a
-skill that should be developed in the mechanical engineering program. We
-have developed a “self-enlightenment” engineering educational scheme for
-designing, creating, and evaluating through the spontaneous participation
-of students themselves. The most significant feature is providing experiences
-such as machining to create “real (not virtual)” parts to assemble and
-form real products with one’s own hands. Achieving this goal requires students
-to repeat the design cycle (CAD-CAE) to avoid any mistakes in the final
-products produced by CAM. Evaluating the final product can reveal how well
-the design cycle worked yet you may find some unexpected things and why
-that happens. In recent years, we used a “smartphone stand” as the targeted
-product and the instructors providing the specifications to third-year
-undergraduate students in Department of Mechanical Engineering, Toyohashi
-University of Technology. Students designed and analyzed using 3D-CAD and
-created component drawings. Through analyses (e.g. CAE; evaluating stress
-distribution and overall shape deformation), an optimal design was determined,
-and students evaluated its feasibility of their design. If not satisfied,
-they were encouraged to modify the design in 3D-CAD and then analyze again.
-By repeating this cycle (CAD-CAE), students learn the optimization process
-in design, which is often experienced in the real manufacturing processes.
-Once the shapes of all parts were finalized, the CAD data was transferred
-to a laser cutter device (CAM), which cuts thick paper to manufacture the
-designed parts. Students assembled the parts to create their own smartphone
-stands, then evaluated them in various ways to check whether they satisfied
-the prescribed specifications. Generally, products do not match all specifications,
-thus students consider the reasons for inconsistencies and areas for improvement,
-which enhances awareness of the important aspects of engineering design.
-By adopting the problem-solving and repetitive learning method using the
-CAD-CAM-CAE cycle, students can improve their ability to become future
-professional engineers in an efficient yet effective manner.</p>
+<p>Faculty of Engineering and Business in Turku University of Applied Sciences
+started a major curricula reform in Autumn 2022 with the aim of new curricula
+for autumn 2024. The reform was for all our engineering and business administrations
+programs in bachelor level. The project used CDIO as the general framework
+for the reform. There are altogether 20 different curricula that this reform
+affected. The reform had a project group consisting of representatives
+from all our eight schools. The reform aimed to improve three main goals:</p>
+<p>• Strengthen professional core competencies in programs,</p>
+<p>• Strengthen the quality of education and improve completion and</p>
+<p>• Support personnel well-being.</p>
+<p>The first goal challenged the programs to identify their key existing
+principle: What is the professional role and practical context of the profession?
+The second goal challenged the programs to improve their learning outcomes
+and to ensure their students reach the desired learning outcomes by focusing
+on teaching and learning activities, assessment, and overall implementation
+of the curricula. The third goal focused on improving the design of daily
+work by getting rid of fragmented work duties and enabling focusing on
+one’s competences. The project had three main phases:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>General planning, goal definition of each program and intended learning
+outcomes</p>
+</li>
+<li>
+<p>Defining courses’ descriptions and constructive alignment</p>
+</li>
+<li>
+<p>Finalizing the change.</p>
+</li>
+</ul>
+<p>Based on the reform project we currently have new curricula in all the
+programs starting autumn 2024. Their goals are clarified, learning outcomes
+are specified, and the functionality of the whole has been ensured. The
+modular structure has been improved and each program has a clear growth
+story built in the program. Furthermore, several common project modules
+have been embedded in curricula. Currently we are working on constructive
+alignment by planning learning outcomes, teaching/learning activities and
+assessment to form a mutually supportive whole. Furthermore, teaching and
+learning is designed to be based on active methods and our learning environments
+will be in active use. In this paper, we describe the aims of the reform,
+its phases, and its key results and experiences.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>SP_10 STUDYING THE IMPACT OF PRACTICEME IN IMPROVING STUDENTS’ PROGRAMMING
 SKILLS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>T. Kenneth, C. Elynn</p>
+<p>T. Kenneth and C. Elynn</p>
 <p>Singapore Polytechnic/School of Computing, Singapore</p>
-<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg</a>
-</p>
-<p><a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a>
+<p><a href="mailto:Kenneth_TAN@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_TAN@sp.edu.sg,</a> 
+<a href="mailto:Elynn_Chee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Elynn_Chee@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -810,11 +803,10 @@ to extend their learning to address multi-faceted sustainability issues.</p>
 <summary>JP_13 IMPLEMENTATION OF ENGINEERING CLASSES INCORPORATING CAREER AND FINANCIAL
 ELEMENTS TO PROMOTE SELF-INVESTMENTS AND THEIR EDUCATIONAL EFFECTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Naoki KAKUDA<sup>*,a</sup>
-</p>
+<p>Naoki KAKUDA</p>
 <p>Department of Electronic Control Engineering, National Institute of Technology
 (KOSEN), Yonago College, Yonago, Tottori, Japan</p>
-<p><sup>*</sup><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a>
+<p><a href="mailto:kakuda@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">kakuda@yonago-k.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -910,8 +902,9 @@ Y.K. Yan<sup>a</sup> and Jesse L.C. Shum<sup>a</sup>
 <p><sup>a</sup>Hong Kong Institute of Information Technology, Hong Kong SAR,
 China</p>
 <p><sup>b</sup>University of Sunderland in Hong Kong, Hong Kong SAR, China</p>
-<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a>  <sup>†</sup>authors
-with equal contributions</p>
+<p><sup>*</sup><a href="mailto:cschiu@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">cschiu@vtc.edu.hk</a>
+</p>
+<p><sup>†</sup>authors with equal contributions</p>
 <p>Abstract</p>
 <p>AI TutorHub is a platform that combines Artificial Intelligence (AI) with
 Mixed Reality (MR) technology to offer students' timely access to academic
@@ -960,7 +953,7 @@ full potential in their educational journey.</p>
 <h3>Session 1, Track 6</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RP-06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
+<summary>RP_06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
 DESIGN FOR LEARNING (UDL), AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
 AND SELF-EFFICACY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -1002,48 +995,40 @@ improve students' motivations and learning experiences.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>TP_06 CONVERSE CANVAS: A CATALYST FOR STUDENT MOTIVATION</summary>
+<summary>SP_02 A STITCH IN TIME SAVES NINE: HARNESSING EARLY INSIGHTS TO SCAFFOLD
+SELF-DIRECTED LEARNING WITH SOCIAL SUPPORT AND SELF-REGULATED LEARNING</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ameer-Alrasyeed bin Ramdan</p>
-<p>Temasek Polytechnic/School of Design, Singapore</p>
-<p><a href="mailto:Ameer-Alrasyeed_Ramdan@tp.edu" rel="noopener noreferrer nofollow" target="_blank">Ameer-Alrasyeed_Ramdan@tp.edu.sg</a>
+<p>Zhengping Liow<sup>*,a</sup>
+</p>
+<p><sup>a</sup>School of Architecture and the Built Environment, Singapore
+Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:liow_zhengping@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_zhengping@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
-<p>The pervasive influence of technology challenges students’ cognitive and
-socio-emotional development through digital connectivity issues of maintaining
-attention, fostering isolation. This hinders the development of both interpersonal
-skills and critical thinking essential for effective communication, social
-engagement, and problem-solving – skills increasingly crucial in the evolving
-landscape of work. Consequently, students face difficulties addressing
-their academic and personal concerns, hindering their development.</p>
-<p>Dalvi, Sawant, and Sambhaji (2023) highlighted the critical role of educators
-in addressing these challenges by focusing on psychological outcomes of
-digital education. In response, the proposed Converse Canvas uses guided
-dialogue as a catalyst for cognitive and socio-emotional development during
-Careperson hour. The implementation of Converse Canvas serves as a case
-study of how it can contribute to fostering self-directed learners and
-resilient youths.</p>
-<p>The Careperson session involved students utilising a deck of cards featuring
-structured and diverse topics, curated to address issues relevant to students’
-academic journey. Students select a resonant card, reflecting upon their
-challenges, and are guided through subsequent steps for tailored solutions.
-Converse Canvas generates meaningful conversation based on shared challenges
-within a peer-driven learning environment.</p>
-<p>The case study revealed that it also serves as a forecasting tool. Students
-gained awareness of potential challenges they may encounter, enabling them
-to anticipate obstacles in the future. With improved foresight, students
-experienced reduced stress levels as they prepared for upcoming challenges.
-Findings gathered from this pilot study unveiled a spectrum of challenges,
-spanning from adjusting to new pedagogical approaches in the first year
-to societal integration in subsequent years. These insights have informed
-iterations in the card development process, granting effective resource
-allocation to be tailored to the diverse needs of students requiring support.</p>
-<p>Conducting Converse Canvas for students is imperative given the increasing
-complexities of the digital world. Adopting this tool helps students gain
-autonomy over their learning experiences and cultivate a growth mindset.
-Converse Canvas has shown to be an efficacious approach to nurture resilience
-in students navigating academic transitions and subsequently, the evolving
-professional landscape.</p>
+<p>Self-directed Learning (SDL) attributes are crucial in higher education,
+allowing individuals to manage their learning by planning and evaluating
+outcomes. SDL traits enable learners to adapt to new situations, especially
+in a volatile and rapidly changing world. Studies have posited that SDL
+skills can be developed with the support of tutors, who adjust their roles
+based on the learners’ readiness. This study explored the utilisation of
+first-year students’ levels of SDL characteristics through the School of
+Architecture and the Built Environment’s tutor-facing dashboard as a diagnostic
+tool that measures seven SDL attributes to surface students’ deficient
+SDL attributes for targeted pedagogical interventions. Students’ Motivation
+and Growth Mindset were flagged as the lowest-scoring SDL attributes during
+Datapoint 1. Henceforth, pedagogical scaffolding targeted self-regulation
+facilitations to improve these SDL traits, such as helping students in
+goal setting, self-monitoring, peer-to-peer, and self-evaluation, were
+operationalised through Social Support (teacher-student and student-student
+relationships). Students’ motivation improved significantly from Datapoint
+1 (M = 10.067) to Datapoint 2 (M = 12.067), with a p-value of 0.0265. Although
+learners’ Growth Mindset improved from 8.467 to 8.934, the p-value of 0.307
+reflects a statistical insignificance. The students’ academic scores increased
+significantly from 74.52% to 79.34%, with a p-value of 0.00079. Curiously,
+the other measured SDL variables yielded inconclusive results. This study
+demonstrates the potential benefits of identifying students’ weakest learning
+attributes early, encouraging tutors to tailor their pedagogical practices
+strategically.</p>
 <p></p>
 </div>
 </details>
@@ -1147,34 +1132,7 @@ while having fun.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<h3>Session 1, Track 7</h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Paper 1 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Lorem ipsum</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 2 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 3 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<h3></h3>
 <p></p>
 <p></p>
 <p></p>
