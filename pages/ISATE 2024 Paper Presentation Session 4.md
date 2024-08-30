@@ -419,7 +419,7 @@ education may find useful.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_72 INVESTING THE EFFECTIVENESS OF STEAM EDUCATION BASED ON LEARNING
+<summary>JP_72 INVESTIGATING THE EFFECTIVENESS OF STEAM EDUCATION BASED ON LEARNING
 THROUGH THE INTEGRATION OF DIFFERENT FIELDS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Chiyako ARAYA<sup>*,a</sup> and Naoyuki FUJITA<sup>a</sup>
