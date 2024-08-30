@@ -11,13 +11,13 @@ description: ""
 OF GENERATIVE AI IN FOSTERING AI LITERACY WITHIN THE CURRICULUM</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Chia Tien Chern<sup>*,a</sup>, Lim Pei Chin<sup>a</sup>, Yanto Jakop<sup>a</sup> and
-Victoria Ang<sup>b</sup> 
+Victoria Ang<sup>b</sup>
 </p>
 <p><sup>a</sup>School of Mathematics and Science, Singapore Polytechnic,
 Singapore, Singapore</p>
 <p><sup>b</sup>School of Life Skills &amp; Communication, Singapore Polytechnic,
 Singapore, Singapore</p>
-<p><sup>*</sup><a href="mailto:Chia_Tien_Chern@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chia_Tien_Chern@sp.edu.sg</a> 
+<p><sup>*</sup><a href="mailto:Chia_Tien_Chern@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chia_Tien_Chern@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>The recent advancement in AI, in particular Generative Artificial Intelligence
@@ -53,7 +53,34 @@ empirical evidence of its educational benefits and insights into its effectivene
 </div>
 </details>
 <details class="isomer-details">
-<summary>TP_04</summary>
+<summary>TP_04 USING DIGITAL HUMANS POWERED BY GENAI IN SERVICE QUALITY TRAINING</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Sherly Chiech<sup>*,a</sup>, Cyrena Cheong<sup>a</sup>, Tan Cheng Khoon<sup>a </sup>and
+Tan Hock Soon<sup>a</sup>
+</p>
+<p><sup>a</sup>Temasek Polytechnic, Singapore</p>
+<p><sup>*</sup><a href="mailto:Sherly_Chiech@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sherly_Chiech@tp.edu.sg</a>
+</p>
+<p>Abstract</p>
+<p>The objective of this pilot study is to investigate the effectiveness
+of using digital humans powered by generative artificial intelligence (GenAI)
+in service quality training. There were 69 full-time learners taking the
+Service Quality Management subject in the Diploma in Aviation Management
+who participated in this study. It was conducted from January to February
+2024. A pre and post survey were conducted using the RATER framework, which
+measures reliability, assurance, tangibles, empathy and responsiveness
+of the students in a given scenario. The pre and post survey were administered
+before and after the intervention (role-play with digital humans powered
+by GenAI) was introduced. This is used to investigate the extent of a learner’s
+improved knowledge, skills and attitudes.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
