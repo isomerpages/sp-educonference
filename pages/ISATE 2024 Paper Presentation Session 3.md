@@ -442,7 +442,7 @@ handicap.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 3, Track 4 IST3)</h3>
+<h3>Session 3, Track 4 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_07 GLOBAL WORKSHOP FOR YOUTH EDUCATION FOR CLIMATE CHANGE RELATED INNOVATIONS</summary>
@@ -630,7 +630,7 @@ professional engineers in an efficient yet effective manner.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 5</h3>
+<h3>Session 3, Track 5 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_64 EFFECTIVENESS OF MOBILE-ASSISTED LANGUAGE LEARNING IN ENGLISH EDUCATION</summary>
@@ -802,7 +802,7 @@ students’ motivation to learn.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 6</h3>
+<h3>Session 3, Track 6 (ST4)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_32 THEME-FINDING INTERNSHIP PROGRAM FOR FUTURE INTRAPRENEURS FROM SMALL
@@ -949,12 +949,6 @@ the project execution skills of the students. Faculty and industry experts
 closely mentor and evaluate the students, ensuring a comprehensive learning
 experience that meets educational goals and prepares students for professional
 success.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Paper 4 (Title)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
