@@ -677,6 +677,7 @@ group outperformed the control group on their academic performance for
 English reading course. Therefore, this study verifies that MALL could
 be an effective pedagogical tool for promoting English reading comprehension
 competency in KOSEN.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -752,6 +753,7 @@ crucial in championing sustainability during LeX.</p>
 the authenticity of learning in LeX and LeXPlus, contributing to the broader
 goal of promoting sustainable development within the ACI region while preparing
 our students to become proactive global citizens of the world.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -950,6 +952,7 @@ the project execution skills of the students. Faculty and industry experts
 closely mentor and evaluate the students, ensuring a comprehensive learning
 experience that meets educational goals and prepares students for professional
 success.</p>
+<p></p>
 </div>
 </details>
 </div>
