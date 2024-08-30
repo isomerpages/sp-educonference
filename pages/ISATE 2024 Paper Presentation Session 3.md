@@ -626,6 +626,7 @@ which enhances awareness of the important aspects of engineering design.
 By adopting the problem-solving and repetitive learning method using the
 CAD-CAM-CAE cycle, students can improve their ability to become future
 professional engineers in an efficient yet effective manner.</p>
+<p></p>
 </div>
 </details>
 </div>
