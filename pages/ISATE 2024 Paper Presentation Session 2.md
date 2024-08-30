@@ -1003,7 +1003,7 @@ education with companies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SP-27 HARNESSING FACULTY LEARNING COMMUNITIES FOR PROFESSIONAL DEVELOPMENT:
+<summary>SP_27 HARNESSING FACULTY LEARNING COMMUNITIES FOR PROFESSIONAL DEVELOPMENT:
 AN IMPLEMENTATION MODEL FOR CDIO STANDARD 10</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Geok Ling Soo-Ng<sup>a</sup>, Zhengping Liow<sup>*,a</sup>, Mun Kin Leong<sup>b</sup> and
