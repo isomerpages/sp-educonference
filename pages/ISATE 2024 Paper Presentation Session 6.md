@@ -666,7 +666,7 @@ within open-source learning contexts.</p>
 </details>
 <details class="isomer-details">
 <summary>JP_78 PRACTICAL AND COLLABORATIVE EDUCATION THROUGH “URBAN HAZARD SINGS”
-INSTALLTION IN LOACAL COMMUNITY</summary>
+INSTALLATION IN LOCAL COMMUNITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Keisuke OHASHI<sup>*,a</sup>
 </p>
