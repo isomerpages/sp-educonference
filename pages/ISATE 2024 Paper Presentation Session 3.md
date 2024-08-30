@@ -4,7 +4,7 @@ permalink: /isate-2024-session-3/
 variant: tiptap
 description: ""
 ---
-<h3>Session 3, Track 1</h3>
+<h3>Session 3, Track 1 (ST1)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>VTC_08 EXPLORING THE ROLE OF CHATGPT IN ENHANCING EFFICIENCY IN PROJECT-BASED
@@ -44,39 +44,6 @@ As VPET continues adapts to technological progressions, technologies like
 ChatGPT will apparently play a significant part in shaping the future of
 learning. However, it is vital to address the difficulties connected with
 their use to guarantee the quality and sincerity of the educational experience.</p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>NYP_06 USE OF AI TOOLS IN THE RESEARCH PROCESS OF DESIGN PROJECTS TO ENHANCE
-THE LEARNING EXPERIENCE FOR STUDENTS</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Ka Wai, Ng</p>
-<p>Nanyang Polytechnic/School of Design and Media, Singapore</p>
-<p><a href="mailto:ng_ka_wai@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ka_wai@nyp.edu.sg</a>
-</p>
-<p>Abstract</p>
-<p></p>
-<p>This research study focuses on the integration of Generative Artificial
-Intelligence (Gen AI) into the research process of design projects. The
-study aims to enhance the learning experience for students in the Product
-Technologies and System Design (PDTSD) module. It addresses the challenges
-students face in traditional research methods, such as difficulty in sourcing
-relevant information and time constraints due to other commitments. The
-research employs an action research approach to introduce Gen AI tools,
-specifically ChatGPT, in the early phases of project research and design
-conceptualization. This intervention is applied to a cohort of year 2 students
-in the Experiential Product &amp; Interior Design course (XPID), allowing
-for a comparative analysis with a previous cohort that did not use Gen
-AI tools. The study hypothesizes that Gen AI tools can facilitate a more
-efficient research process, enabling students to obtain preliminary research
-information rapidly, though they are still required to perform verification
-and reflection to ensure the applicability of this information. Mixed methods
-were used in the research, including surveys, interviews, and module feedback
-ratings. The findings reveal a nuanced impact of AI tools on design education,
-indicating a positive shift in learning experiences and increased acceptance
-among students, while also highlighting a critical balance between enhancing
-efficiency and nurturing creativity.</p>
 <p></p>
 </div>
 </details>
@@ -150,7 +117,8 @@ in a rapidly evolving world powered by large language models (LLM).</p>
 </div>
 </details>
 </div>
-<h3>Session 3, Track 2</h3>
+<p></p>
+<h3>Session 3, Track 2 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_29 AN INTERACTIVE LEARNING MATERIAL BASED ON THE DATA HIDING TECHNIQUES
@@ -307,7 +275,7 @@ in the automated scheduling system.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 3</h3>
+<h3>Session 3, Track 3 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_06 VIDEO CLICKSTREAM INSIGHTS: UNDERSTANDING STUDENTS' VIDEO WATCHING
@@ -474,7 +442,7 @@ handicap.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 3, Track 4</h3>
+<h3>Session 3, Track 4 IST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_07 GLOBAL WORKSHOP FOR YOUTH EDUCATION FOR CLIMATE CHANGE RELATED INNOVATIONS</summary>
@@ -615,17 +583,17 @@ of science career choice support programs are suggested.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JP_06 DEVELOPMENT AND EVALUATION OF PRACTICE FOR INTEGRATED CAD CAE-CAM
+<summary>JP_06 DEVELOPMENT AND EVALUATION OF PRACTICE FOR INTEGRATED CAD-CAE-CAM
 EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup> 
+<p>M. Nagai<sup>a</sup>, Y. Nakamura<sup>*,b</sup> and T. Adachi<sup>b</sup>
 </p>
 <p><sup>a</sup>Institute for Research on Next-generation Semiconductor and
 Sensing Science (IRES²), Toyohashi University of Technology, Toyohashi,
 Japan</p>
 <p><sup>b</sup>Department of Mechanical Engineering, Toyohashi University
 of Technology, Toyohashi, Japan</p>
-<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:yuji@me.tut.ac.jp" rel="noopener noreferrer nofollow" target="_blank">yuji@me.tut.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The ability to achieve an optimum design based on specifications is a
@@ -668,11 +636,11 @@ professional engineers in an efficient yet effective manner.</p>
 <summary>JP_64 EFFECTIVENESS OF MOBILE-ASSISTED LANGUAGE LEARNING IN ENGLISH EDUCATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>N. Maharjan<sup>*,a</sup>, E. Nobuhiro<sup>a</sup>, Y. Ominato<sup>a</sup>,
-Y. Tsuchida<sup>a</sup>, K. Ichimura<sup>a</sup> 
+Y. Tsuchida<sup>a</sup>, K. Ichimura<sup>a</sup>
 </p>
 <p>National Institute of Technology, Nagaoka College / Division of General
 Education (English), Niigata, JAPAN</p>
-<p><sup>*</sup><a href="mailto:namimaha@nagaoka-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">namimaha@nagaoka-ct.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:namimaha@nagaoka-ct.ac.jp" rel="noopener noreferrer nofollow" target="_blank">namimaha@nagaoka-ct.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p>The upsurge of digital technology after the global pandemic has completely
@@ -756,7 +724,7 @@ DEVELOPMENT THROUGH LEARNING EXPRESS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>H.K Singh and D. Chen</p>
 <p>Singapore Polytechnic/ School of Life Skills and Communication, Singapore</p>
-<p><a href="mailto:Harveen_Kaur_Singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Harveen_Kaur_Singh@sp.edu.sg</a> 
+<p><a href="mailto:Harveen_Kaur_Singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Harveen_Kaur_Singh@sp.edu.sg</a>
 </p>
 <p>Abstract</p>
 <p>In the post-COVID era, the Learning Express (LeX) programme underwent
@@ -789,11 +757,11 @@ our students to become proactive global citizens of the world.</p>
 <summary>JP_28 PRACTICE OF STEAM EDUCATION USING LED ILLUMINATIONS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Hiroki Momono<sup>*,a</sup>, Mitsuru Matsumoto<sup>a</sup> and Takashi
-Yamawaki<sup>a</sup> 
+Yamawaki<sup>a</sup>
 </p>
 <p><sup>a</sup>National Institute of Technology, Yonago College, Hikona,
 Japan</p>
-<p><sup>*</sup><a href="mailto:momono@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">momono@yonago-k.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:momono@yonago-k.ac.jp" rel="noopener noreferrer nofollow" target="_blank">momono@yonago-k.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -841,7 +809,7 @@ students’ motivation to learn.</p>
 COMPANIES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>M. Tafu<sup>*,a</sup>, R. Matoba<sup>b</sup>, H. Hasegawa<sup>c</sup>,
-K. Yamamoto<sup>d</sup> and J. Nishida<sup>e</sup> 
+K. Yamamoto<sup>d</sup> and J. Nishida<sup>e</sup>
 </p>
 <p><sup>a</sup>Department of Applied Chemistry and Chemical Engineering,
 National Institute of Technology (KOSEN), Toyama College, Toyama, Japan</p>
@@ -852,7 +820,7 @@ Technology (KOSEN), Toyama College, Imizu, Japan</p>
 <p><sup>d</sup>Department of Maritime Technology, National Institute of Technology
 (KOSEN), Toyama College, Imizu, Japan</p>
 <p><sup>e</sup>Office Nishida LLC, Tokyo, Japan</p>
-<p><sup>*</sup><a href="mailto:tafu@nc-toyama.ac.jp" rel="noopener noreferrer nofollow" target="_blank">tafu@nc-toyama.ac.jp</a> 
+<p><sup>*</sup><a href="mailto:tafu@nc-toyama.ac.jp" rel="noopener noreferrer nofollow" target="_blank">tafu@nc-toyama.ac.jp</a>
 </p>
 <p>Abstract</p>
 <p></p>
@@ -952,11 +920,11 @@ conducted with both modules achieving strong positive average scores of
 <summary>JP_57 PBL COURSES TO DEVELOP PROJECT IMPLEMENTATION ABILITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Thanapol Luckanawat<sup>a</sup>, Sanit Teewchim<sup>a</sup>, Arnon Sakonkanapong<sup>a</sup>,
-Takahisa Yamamoto<sup>*,a,b</sup>, Seiji Kano<sup>a,b</sup> 
+Takahisa Yamamoto<sup>*,a,b</sup>, Seiji Kano<sup>a,b</sup>
 </p>
 <p><sup>a</sup>Dept. Mechatronics Engineering, KOSEN-KMITL, Bangkok, Thailand</p>
 <p><sup>b</sup>National Institute of Technology, Tokyo, Japan</p>
-<p><sup>*</sup><a href="mailto:yamamoto@kosen-k.go.jp" rel="noopener noreferrer nofollow" target="_blank">yamamoto@kosen-k.go.jp</a> 
+<p><sup>*</sup><a href="mailto:yamamoto@kosen-k.go.jp" rel="noopener noreferrer nofollow" target="_blank">yamamoto@kosen-k.go.jp</a>
 </p>
 <p>Abstract</p>
 <p>King Mongkut’s Institute of Technology Ladkrabang (KMITL) is committed
