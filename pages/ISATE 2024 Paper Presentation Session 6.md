@@ -50,6 +50,7 @@ and the effectiveness of integrating GAI into the curriculum.</p>
 <p>This study aims to contribute significantly to the discourse on AI in
 education by offering a practical framework for GAI integration, alongside
 empirical evidence of its educational benefits and insights into its effectiveness.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -919,6 +920,7 @@ software students and others, with FY2024 marking the third year.</p>
 <p></p>
 <p>This paper presents examples of initiatives in the field of cyber security
 and discusses their educational benefits and challenge.</p>
+<p></p>
 </div>
 </details>
 </div>
