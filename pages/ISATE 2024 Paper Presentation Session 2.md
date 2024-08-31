@@ -4,7 +4,7 @@ permalink: /isate-2024-session-2/
 variant: tiptap
 description: ""
 ---
-<h3>Session 2, Track 1</h3>
+<h3>Session 2, Track 1 (ST1)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_11 ASKWHATCHER – A GENERATIVE AI ADAPTIVE LEARNING ASSISTANT TO ENHANCE
@@ -173,10 +173,12 @@ In addition, there is a fairly strong correlation between the first CA
 mark (CA1) and the final module mark for many modules. Hence, CA1 marks
 can serve as an early alert to educators to indicate that a student requires
 more support.</p>
+<p></p>
 </div>
 </details>
 </div>
-<h3>Session 2, Track 2</h3>
+<p></p>
+<h3>Session 2, Track 2 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_16 UNLOCKING THE DIGITAL FOOTPRINTS OF SELF-DIRECTED LEARNERS: INSIGHTS
@@ -327,7 +329,7 @@ playing against each AIs, and the analysis of the AI.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 2, Track 3</h3>
+<h3>Session 2, Track 3 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>VTC_05 MOTIVATION AND SUPPORT OF STUDENTS IN PROJECTS ON CONSTRUCTION
@@ -488,7 +490,7 @@ methods and create a more inclusive and effective learning environment.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 2, Track 4</h3>
+<h3>Session 2, Track 4 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>NYP_10 LEARNING FROM ERROR ANALYSIS: IMPACT ON SELF-REGULATION AND ACADEMIC
@@ -690,7 +692,8 @@ positively rated the benefits of working on the MDPs.</p>
 </div>
 </details>
 </div>
-<h3>Session 2, Track 5</h3>
+<p></p>
+<h3>Session 2, Track 5 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_07 EXAMINATION OF IMPACT OF INTERACTIONS IN ASYNCHRONOUS LEARNING ON
@@ -830,6 +833,7 @@ of our initiative activities and events.</p>
 <p>In this research, the processes and effects of our activities and projects
 are analysed in detail so that the proposed method can adapt to other classrooms
 around the world.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -888,7 +892,7 @@ systems.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 2, Track 6</h3>
+<h3>Session 2, Track 6 (ST4)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_24 A NEW COLLABORATION SYSTEM FOR RESEARCH, EDUCATION AND ENROLLMENT
@@ -1001,7 +1005,7 @@ education with companies.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SP-27 HARNESSING FACULTY LEARNING COMMUNITIES FOR PROFESSIONAL DEVELOPMENT:
+<summary>SP_27 HARNESSING FACULTY LEARNING COMMUNITIES FOR PROFESSIONAL DEVELOPMENT:
 AN IMPLEMENTATION MODEL FOR CDIO STANDARD 10</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Geok Ling Soo-Ng<sup>a</sup>, Zhengping Liow<sup>*,a</sup>, Mun Kin Leong<sup>b</sup> and

@@ -4,7 +4,7 @@ permalink: /isate-2024-session-1/
 variant: tiptap
 description: ""
 ---
-<h3>Session 1, Track 1</h3>
+<h3>Session 1, Track 1 (ST1)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_17 PRACTICE REPORT ON CONTINUOUS ASSIGNMENTS USING READING PROGRESS
@@ -49,6 +49,7 @@ trouble. Contrary to these positive reactions, this app did not help relieve
 anxiety and build confidence when students read passages aloud in front
 of others. It is necessary to make improvements to enhance the students’
 motivation and increase their enjoyment.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -94,6 +95,7 @@ provided insights into the considerations that educators can take when
 designing chatbot-assisted learning to develop problem-solving skills.
 Study limitations and directions for future research are discussed in the
 paper.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -139,6 +141,7 @@ the app and the technical or psychological problems using it. In this way,
 we clarify the possibility that the AI app contributes to English education
 in Japan. We conduct this research with the approval of the research ethics
 committee of NIT Wakayama College.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -178,10 +181,11 @@ practically relevant and responsive to learner needs. The findings underscore
 the need for a holistic approach in embedding AI into educational assessments,
 balancing technological advancement with ethical responsibility and pedagogical
 effectiveness.</p>
+<p></p>
 </div>
 </details>
 </div>
-<h3>Session 1, Track 2</h3>
+<h3>Session 1, Track 2 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_08 EFFECTS OF IMMERSION, INTERACTION, AND IMAGINATION ON STUDENTS’
@@ -225,6 +229,7 @@ predictors of BI. The results of the study provided insights for educators
 to better understand the qualities of virtual reality (VR) when using HoloLens
 as an instructional activity. The implications of findings, study limitations,
 and future research will be discussed in the paper.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -267,6 +272,7 @@ restricted student access to the online quiz platform. Nonetheless, the
 combination of CLIL methods with online teaching technologies created a
 more engaging educational environment that encouraged active participation,
 collaboration, and discussion with classmates.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -316,6 +322,7 @@ arrangements for deployment of the mediums in larger class settings. This
 encompasses feasible ratios between VR and digital tablet-based equipment
 in the classroom setting. The different medium could also be tailored to
 different class scenarios.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -362,11 +369,12 @@ we consider the result of the practice of an open course. Finally, we verify
 the effectiveness of our teaching material by considering the results of
 the exercises for participants and comparing the results of questionnaires
 before and after the practice.</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 3</h3>
+<h3>Session 1, Track 3 (ST2)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>NYP_02 AN EXAMINATION OF THE IMPACT OF PEER-COLLABORATION ON STUDENT MOTIVATION
@@ -414,6 +422,7 @@ peer responses, prompting the need for future considerations and improvements.
 Overall, our study paved the way to fine-tune implementation strategies,
 ensuring ongoing success in cultivating collaborative tasks and improving
 motivation in asynchronous e-learning environments.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -464,6 +473,7 @@ utilized GIS to visually clarify geographical data, mapping the relationship
 between Hydrogen Stations and petrochemical plants. Future plans include
 improving our GIS mappings to better analyze and promote the spread of
 Hydrogen Stations.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -514,6 +524,7 @@ us with actionable suggestions for improvement.</p>
 <p>Our study of students’ perceptions of NP’s implementation of Flipped Learning
 provides encouraging insights for others considering how to improve learning
 using data-driven FL.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -556,15 +567,16 @@ of Japanese participants significantly improved after attending the camp,
 in contrast to the international students who studied in KOSEN. The strength
 of our global camp lies in the ability to enhance the "Abilities and Skills"
 required for global citizenship.</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
 <p></p>
-<h3>Session 1, Track 4</h3>
+<h3>Session 1, Track 4 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>FI_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
+<summary>FL_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>J. Kontio<sup>*,a</sup> and M. Ketola<sup>b</sup>
 </p>
@@ -582,9 +594,17 @@ programs in bachelor level. The project used CDIO as the general framework
 for the reform. There are altogether 20 different curricula that this reform
 affected. The reform had a project group consisting of representatives
 from all our eight schools. The reform aimed to improve three main goals:</p>
-<p>• Strengthen professional core competencies in programs,</p>
-<p>• Strengthen the quality of education and improve completion and</p>
-<p>• Support personnel well-being.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strengthen professional core competencies in programs,</p>
+</li>
+<li>
+<p>Strengthen the quality of education and improve completion and</p>
+</li>
+<li>
+<p>Support personnel well-being.</p>
+</li>
+</ul>
 <p>The first goal challenged the programs to identify their key existing
 principle: What is the professional role and practical context of the profession?
 The second goal challenged the programs to improve their learning outcomes
@@ -661,6 +681,7 @@ on their weaker topic(s)”. Students from the focus group interviews also
 shared that “they were highly motivated to use PracticeMe on a daily basis
 as it offered them the flexibility” to select the topics and level of difficulty
 to practise at their own time.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -705,6 +726,7 @@ for fostering effective teamwork and improving the overall FYP experience.
 This study contributes valuable insights into the practical application
 of Scrum in academia and suggests that further research could explore Scrum’s
 adaptability to various project types and industry contexts.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -751,10 +773,12 @@ the increased complexities of clinical practice. Beyond nursing, educators
 may gain valuable insights into students' learning needs and challenges
 through PLS implementation, refining teaching strategies and improving
 educational effectiveness.</p>
+<p></p>
 </div>
 </details>
 </div>
-<h3>Session 1, Track 5</h3>
+<p></p>
+<h3>Session 1, Track 5 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_26 EVALUATION OF SUSTAINABLE DEVELOPMENT IN DIPLOMA IN CHEMICAL ENGINEERING
@@ -797,6 +821,7 @@ in Year 1 modules followed by applying UN SDGs in Year 2 and Year 3 modules.
 This will enable students to understand the relevance of UN SDGs to their
 chemical engineering studies. The terminal objective is to enable them
 to extend their learning to address multi-faceted sustainability issues.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -845,6 +870,7 @@ for self-investment increased, with a high proportion of students studying
 specialized subjects, pursuing qualifications, and investing. As a result,
 it was clear that this class increased students’ motivation to study and
 their level of understanding of specialized subjects.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -890,10 +916,11 @@ compiling the educators' experiences and quantitative results validating
 the findings are presented in this research. When applied in a considered
 and consistent manner to address challenges of the learner and in the learning
 environment, the LXD Methodology fosters greater learner engagement.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>VTC_07 AI TUTORHUB: A SYSTEM FOR SPECIAL EDUCATION NEEDS IN POST SECONDARY
+<summary>VTC_07 AI TUTORHUB: A SYSTEM FOR SPECIAL EDUCATION NEEDS IN POST-SECONDARY
 STUDY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>W.H. Chiu<sup>*†a</sup>, Nanoka K.M. Tse<sup>†a</sup>, K.H. Cheung<sup>†ab</sup>,
@@ -946,15 +973,16 @@ and self‑confidence. By combining AI with MR technology, the platform provides
 an interactive and accessible learning environment. Students are encouraged
 to embrace this innovative approach and join AI TutorHub to unlock their
 full potential in their educational journey.</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 6</h3>
+<h3>Session 1, Track 6 (ST3)</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
-DESIGN FOR LEARNING (UDL), AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
+DESIGN FOR LEARNING (UDL) AND ITS INFLUENCE ON THEIR SITUATIONAL INTEREST
 AND SELF-EFFICACY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A. Lee<sup>a*</sup>, J. Ho<sup>b</sup>, C.K. Kiu<sup>a</sup> and D. Kwok<sup>a</sup>
@@ -992,6 +1020,7 @@ and facilitating varied modes of expression. In conclusion, this study
 provides valuable insights into the effectiveness of UDL interventions
 within a module in polytechnic education, emphasising its potential to
 improve students' motivations and learning experiences.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -1086,6 +1115,7 @@ research contributes to the understanding of how physiological processes
 influenced by external physical stimuli, like sound vibration, can impact
 cognitive and psychological outcomes, offering a novel approach to improving
 student performance and well-being.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -1128,6 +1158,7 @@ of information. These actions allow classes to share discussions of how
 management makes erroneous decisions. The authors verified these lecture
 methods as practical and as allowing students to learn business management
 while having fun.</p>
+<p></p>
 </div>
 </details>
 </div>
