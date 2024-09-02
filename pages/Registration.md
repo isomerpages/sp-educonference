@@ -4,7 +4,7 @@ permalink: /registration/
 description: ""
 variant: markdown
 ---
-**Early Bird:**
+**Early Bird; Early bird registration is OVER**
 - Registration Fee = SGD $400 (approx. USD $300)
 - Registration Period is between 15 June 2024 to 16 August 2024.
 
