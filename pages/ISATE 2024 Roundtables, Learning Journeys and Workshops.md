@@ -293,16 +293,7 @@ in designing the game from concept to delivery.</p>
 <summary>WS02 (Create an AI-enabled Chatbot for Personalized Learning, Temasek
 Polytechnic (TP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This hands-on workshop aims to explore how AI-enabled chatbots can engage
-learners in a personalised and human way, serving various educational purposes
-like knowledge acquisition, formative assessment, administrative tasks,
-and project guidance. The activities will focus on creating and deploying
-chatbots using Dialogflow without the need for any form of coding or programming
-skills. This training demonstrates the use of some basic features in Dialogflow
-and how to integrate the chatbot through Telegram, enhancing student engagement
-and achieving personalised learning. Join us to discover how to utilise
-rich media responses, like emojis, images, and hyperlinks, for a more meaningful
-chatbot experience.</p>
+<p>This WS had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
