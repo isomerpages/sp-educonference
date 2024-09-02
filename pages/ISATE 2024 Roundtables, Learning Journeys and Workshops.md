@@ -8,39 +8,16 @@ description: ""
 <p>Choose ONE from the list below for the Registration</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RT01 (Visit to Robotics Research &amp; Innovation Centre (RRIC) &amp;
-Synergy.Lab)</summary>
+<summary>RT01 (AI X Education – Designing for a more Inclusive future of education)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>At RRIC, the participants will be introduced to robotic projects that
-collaborate with industries (NParks, SingHealth, Moovita). These robotic
-projects are to support industry needs and to optimize commercial operations.</p>
-<p>At Synergy.Lab, the participants will learn the integration of solar energy
-and Electric Vehicle charging infrastructure. The Synergy.lab serves as
-an integrated ‘control centre’ for the various smart mobility technologies
-on campus, incorporating advanced data analysis and simulation capabilities.
-The lab facilitates research to enhance the ecosystem’s efficiency by monitoring
-and analysing data such as solar power generation, as well as EV charging
-load and energy consumption.</p>
-<p></p>
+<p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>RT02 (Transforming Learning, Pedagogy, and Curriculum - A Competency-Based
 Approach)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The focus of this roundtable will be on shifting from traditional, content-driven
-teaching methods to a competency-based approach, which emphasizes mastery
-of skills and knowledge. The need to align curriculum with real-world competencies
-demanded by employers and society will be discussed together with the importance
-of fostering critical thinking, collaboration, communication, and creativity
-skills, essential for success in the 21st-century workforce.</p>
-<p>Key themes include personalized learning pathways tailored to individual
-student needs, leveraging technology for interactive and immersive learning
-experiences, and integrating real-world applications into the curriculum
-to enhance relevance and engagement. Challenges such as standardization
-versus flexibility, assessment methodologies, and teacher training will
-also be addressed. NYP will share contextualized examples in the areas
-of personalized learning pathways to guide the discussion.</p>
+<p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -95,20 +72,7 @@ of its intended users.</p>
 <summary>RT06 (Empowering Learner Diversity: Integrating Technology for Innovative
 Pedagogy in Technology Education)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In this roundtable, we will explore innovative pedagogical approaches
-that leverage technology to empower learner diversity in technology education.
-By examining these methods, we aim to uncover practical strategies for
-creating inclusive learning environments where all students can thrive.</p>
-<p>Participants will have the opportunity to learn from examples of successful
-technology integration for innovative pedagogy from diverse educational
-institutions. These case studies will provide valuable insights into effective
-strategies and inspire educators with tangible ideas they can implement
-in their own teaching contexts.</p>
-<p>Through sharing of best practices in integrating technology to address
-learner diversity, as well as exploring challenges faced, we can work towards
-fostering equitable learning experiences for all students. At the end of
-the roundtable, participants will take away actionable insights and key
-takeaways to apply in their own classrooms and institutions.</p>
+<p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -254,13 +218,7 @@ the industry and government’s perspectives.</p>
 <summary>LJ04 (Pedagogical Innovation at SP Energy &amp; Chemicals Training Centre
 (ECTC), Singapore Polytechnic (SP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The SP Energy &amp; Chemicals Training Centre is an integrated training
-hub comprising of a suite of chemical engineering laboratories, which houses
-key unit operations typically found in the Energy &amp; Chemicals sector.
-Participants will be able to learn how authentic hands-on training are
-crafted for students to apply knowledge into real practice in a simulated
-safe environment. Participants will also learn the various digital tools
-that are used to support the training.</p>
+<p>This LJ had been cancelled: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -306,14 +264,7 @@ in Aeronautical Engineering.</p>
 <summary>LJ07 (Grundfos Sustainability Journey &amp; Tour of Grundfos Innovation
 Hub, Grundfos Singapore)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Demystifying Grundfos’ sustainability spirit, inherited from a Danish
-company and thrive in Singapore.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get to know Grundfos, be inspired
-by its sustainability journey, plus Q&amp;A with Grundfos’ colleagues</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understanding of tool (Sizing +
-Energy Check) to optimize pumping systems</p>
-<p>Tour of Grundfos Innovation Hub to Experience new technology from Grundfos
-(2 applications / demo units)</p>
+<p>This LJ had been cancelled: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -342,16 +293,7 @@ in designing the game from concept to delivery.</p>
 <summary>WS02 (Create an AI-enabled Chatbot for Personalized Learning, Temasek
 Polytechnic (TP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This hands-on workshop aims to explore how AI-enabled chatbots can engage
-learners in a personalised and human way, serving various educational purposes
-like knowledge acquisition, formative assessment, administrative tasks,
-and project guidance. The activities will focus on creating and deploying
-chatbots using Dialogflow without the need for any form of coding or programming
-skills. This training demonstrates the use of some basic features in Dialogflow
-and how to integrate the chatbot through Telegram, enhancing student engagement
-and achieving personalised learning. Join us to discover how to utilise
-rich media responses, like emojis, images, and hyperlinks, for a more meaningful
-chatbot experience.</p>
+<p>This WS had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
