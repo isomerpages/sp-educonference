@@ -27,11 +27,11 @@ President, National Institute of Technology Japan</p>
 </p>
 </li>
 <li>
-<p>Keynote Address by <a href="https://www.kth.se/profile/kristina/" rel="noopener noreferrer nofollow" target="_blank">Dr Kristina Edstrom</a>
+<p>Keynote Address by <a href="https://www.kth.se/profile/kristina/" rel="noopener noreferrer nofollow" target="_blank">Assoc Prof Kristina Edstrom</a>
 </p>
 </li>
 <li>
-<p>Keynote Address by <a href="https://dr.ntu.edu.sg/cris/rp/rp00092/" rel="noopener noreferrer nofollow" target="_blank">Dr Ong Yew Soon</a>
+<p>Keynote Address by <a href="https://dr.ntu.edu.sg/cris/rp/rp00092/" rel="noopener noreferrer nofollow" target="_blank">Prof Ong Yew Soon</a>
 </p>
 </li>
 </ul>
