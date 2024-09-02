@@ -65,7 +65,7 @@ for Polytechnic and ITE Lecturers”</p>
 Training Council, Hong Kong) - “Advancing Sustainable Transportation: Developments
 in New Energy Mobility”</p>
 <p>Representing Finland: Dr Mari Ketola (Head of Education and Research,
-TUAS Common Studies, Faculty of Engineering &amp; Business)- "Optimizing
+TUAS Common Studies, Faculty of Engineering &amp; Business) - "Optimizing
 Operations: Introducing the School of Common Studies”</p>
 <p></p>
 </li>
