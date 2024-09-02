@@ -17,19 +17,7 @@ description: ""
 <summary>RT02 (Transforming Learning, Pedagogy, and Curriculum - A Competency-Based
 Approach)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The focus of this roundtable will be on shifting from traditional, content-driven
-teaching methods to a competency-based approach, which emphasizes mastery
-of skills and knowledge. The need to align curriculum with real-world competencies
-demanded by employers and society will be discussed together with the importance
-of fostering critical thinking, collaboration, communication, and creativity
-skills, essential for success in the 21st-century workforce.</p>
-<p>Key themes include personalized learning pathways tailored to individual
-student needs, leveraging technology for interactive and immersive learning
-experiences, and integrating real-world applications into the curriculum
-to enhance relevance and engagement. Challenges such as standardization
-versus flexibility, assessment methodologies, and teacher training will
-also be addressed. NYP will share contextualized examples in the areas
-of personalized learning pathways to guide the discussion.</p>
+<p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -84,20 +72,7 @@ of its intended users.</p>
 <summary>RT06 (Empowering Learner Diversity: Integrating Technology for Innovative
 Pedagogy in Technology Education)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In this roundtable, we will explore innovative pedagogical approaches
-that leverage technology to empower learner diversity in technology education.
-By examining these methods, we aim to uncover practical strategies for
-creating inclusive learning environments where all students can thrive.</p>
-<p>Participants will have the opportunity to learn from examples of successful
-technology integration for innovative pedagogy from diverse educational
-institutions. These case studies will provide valuable insights into effective
-strategies and inspire educators with tangible ideas they can implement
-in their own teaching contexts.</p>
-<p>Through sharing of best practices in integrating technology to address
-learner diversity, as well as exploring challenges faced, we can work towards
-fostering equitable learning experiences for all students. At the end of
-the roundtable, participants will take away actionable insights and key
-takeaways to apply in their own classrooms and institutions.</p>
+<p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -243,13 +218,7 @@ the industry and government’s perspectives.</p>
 <summary>LJ04 (Pedagogical Innovation at SP Energy &amp; Chemicals Training Centre
 (ECTC), Singapore Polytechnic (SP))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The SP Energy &amp; Chemicals Training Centre is an integrated training
-hub comprising of a suite of chemical engineering laboratories, which houses
-key unit operations typically found in the Energy &amp; Chemicals sector.
-Participants will be able to learn how authentic hands-on training are
-crafted for students to apply knowledge into real practice in a simulated
-safe environment. Participants will also learn the various digital tools
-that are used to support the training.</p>
+<p>This LJ had been cancelled: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -295,14 +264,7 @@ in Aeronautical Engineering.</p>
 <summary>LJ07 (Grundfos Sustainability Journey &amp; Tour of Grundfos Innovation
 Hub, Grundfos Singapore)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Demystifying Grundfos’ sustainability spirit, inherited from a Danish
-company and thrive in Singapore.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get to know Grundfos, be inspired
-by its sustainability journey, plus Q&amp;A with Grundfos’ colleagues</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understanding of tool (Sizing +
-Energy Check) to optimize pumping systems</p>
-<p>Tour of Grundfos Innovation Hub to Experience new technology from Grundfos
-(2 applications / demo units)</p>
+<p>This LJ had been cancelled: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
