@@ -6,7 +6,7 @@ variant: markdown
 ---
 **UPDATED (August 30, 2024):**
 
-Detailed Day-by-Day Program for Paper Presentation now available. Presenting authors are requested to check for any inadvertent clash in scheduling and inform your respective TPC before Sep 6, 2024. <a href="/programme/">Click here to go to the Programme Page now.</a>
+Detailed Day-by-Day Program for Paper Presentation now available. Presenting authors are requested to check for any inadvertent clash in scheduling and inform your respective TPC before Sep 6, 2024. <a href="https://isate2024.sp.edu.sg/programme/">Click here to go to the Programme Page now.</a>
 
 **UPDATED (AUGUST 22, 2024):**
 
