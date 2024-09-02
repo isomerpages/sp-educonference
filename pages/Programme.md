@@ -56,6 +56,18 @@ President, National Institute of Technology Japan</p>
 </li>
 <li>
 <p>Institutional Speakers: Singapore, Japan, Hong Kong and Finland</p>
+<p>Representing Singapore: Dr De Yang LIM (Deputy Director, SP School of
+Computing) - “Developmental Framework of Data and Learning Analytics Competencies
+for Polytechnic and ITE Lecturers”</p>
+<p>Representing Japan: Dr Nobuo ARAKI (President, NIT Kagawa College, Japan)
+- “Entrepreneurship Education: The Next Stage in Kosen”</p>
+<p>Representing Hong Kong: Dr Michael WANG (Deputy Executive Director, Vocational
+Training Council, Hong Kong) - “Advancing Sustainable Transportation: Developments
+in New Energy Mobility”</p>
+<p>Representing Finland: Dr Mari Ketola (Head of Education and Research,
+TUAS Common Studies, Faculty of Engineering &amp; Business)- "Optimizing
+Operations: Introducing the School of Common Studies”</p>
+<p></p>
 </li>
 <li>
 <p>Generative AI Exhibition</p>
