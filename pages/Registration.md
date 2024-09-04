@@ -20,7 +20,8 @@ Please be informed that at the Registration page, you are required to pre-select
 
 <a target="_blank" href="/roundtables-learning-journeys-and-workshops/">For the list of Roundtables, Learning Journeys and Workshops - click here</a>
 
-<a target="_blank" href="/files/ISATE_2024___Detailed_Info_for_LJ_WS__RT_for_Web_Use__June_12__v1_RT_LJ_WS.pdf">Alternatively, you can download this PDF file which contains the details of Roundtables, Learning Journeys and Workshops</a>.
+Alternatively, you can download this [PDF file](/files/ISATE_2024___Detailed_Info_for_LJ_WS__RT_for_Web_Use__June_12__v1_RT_LJ_WS.pdf) which contains the details of Roundtables, Learning Journeys and Workshops
+
 
 * Note that RT01, RT02 and RT06 had been over-subscribed and no longer available for selection. 
 * Note that LJ04 and LJ07 had been cancelled due to poor subscription. And WS02  had been over-subscribed and no longer available for selection.
