@@ -161,22 +161,15 @@ of all students within the learning community.</p>
 </details>
 <details class="isomer-details">
 <summary>RT11 (Journey to Net Zero: Strategies, Challenges and Innovation in the
-Education Sector) - T12310</summary>
+Education Sector)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This roundtable discussion aims to bring together leaders, educators,
-researchers, and stakeholders from the education sector to share insights,
-strategies and experiences in the journey towards net zero emissions. The
-focus will be on understanding the importance of sustainability, exploring
-successful initiatives, addressing practical challenges and promoting climate
-action within educational institutions for a sustainable future.</p>
+<p>This RT had been cancelled: Please choose another one.</p>
 </div>
 </details>
 </div>
 <p></p>
-
-
-Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentations and Roundtables.
-
+<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_04__FINAL.pdf" rel="noopener nofollow" target="_blank">PDF file </a>which
+contains the details of Paper Presentations and Roundtables.</p>
 <h3>Learning Journeys or Workshops</h3>
 <p>Learning Journeys/Workshops are optional. If attending, please choose
 ONE from the list below for the registration.</p>
@@ -210,14 +203,7 @@ University (NTU))</summary>
 <summary>LJ03 (Sharing by Centre for Teaching, Learning and Technology (CTLT) and
 AI Singapore (AISG), National University of Singapore (NUS))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Part 1 – CTLT:</p>
-<p>• Major functions supported by CTLT (Professional Development, Instructional
-Technology)</p>
-<p>• NUS AI + TEL initiative</p>
-<p>Part 2 – AISG:</p>
-<p>Participants will get to deepen their knowledge and understanding of the
-latest AI methodologies, facilities, tools, and applications, from both
-the industry and government’s perspectives.</p>
+<p>This LJ had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
