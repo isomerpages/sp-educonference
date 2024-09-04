@@ -8,20 +8,21 @@ description: ""
 <p>Choose ONE from the list below for the Registration</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RT01 (AI X Education – Designing for a more Inclusive future of education)</summary>
+<summary>RT01 (AI X Education – Designing for a more Inclusive future of education)
+- LT12A</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>RT02 (Transforming Learning, Pedagogy, and Curriculum - A Competency-Based
-Approach)</summary>
+Approach) - T12302, 303</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>RT03 (The BEVI (Beliefs, Events, and Values Inventory)</summary>
+<summary>RT03 (The BEVI (Beliefs, Events, and Values Inventory) - T12304</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Many engineering courses do not have a good measurement tool to track
 students' progress in their beliefs and values. This roundtable discussion
@@ -39,7 +40,8 @@ path towards personal and collective development.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>RT04 (Collaborative Lectures between Polytechnic Schools and NIT Colleges)</summary>
+<summary>RT04 (Collaborative Lectures between Polytechnic Schools and NIT Colleges)
+- T12305</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The aim of this roundtable is to delve into possible approaches for student
 guidance through Collaborative Lectures between Polytechnic Schools and
@@ -57,7 +59,7 @@ for discussion as well.</p>
 </details>
 <details class="isomer-details">
 <summary>RT05 (Desirable Common Platform for ISATE Participants to be Connected
-throughout the Year)</summary>
+throughout the Year) - T12306</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In this roundtable, we will explore the key features of a common platform
 for ISATE participants to network, collaborate with and learn from each
@@ -70,14 +72,14 @@ of its intended users.</p>
 </details>
 <details class="isomer-details">
 <summary>RT06 (Empowering Learner Diversity: Integrating Technology for Innovative
-Pedagogy in Technology Education)</summary>
+Pedagogy in Technology Education) - T12309</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This RT had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>RT07 (Empowering Student Success: Strategies for Motivation, Self-Concept,
-and Volition Control)</summary>
+and Volition Control) - T12604</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This roundtable delves into the intricate relationship between the three
 vital elements (motivation, self-concept and volition control) and self-regulated
@@ -92,7 +94,7 @@ strategies to empower students to succeed academically and thrive personally.</p
 <details class="isomer-details">
 <summary>RT08 (Infusing Sustainability into Education: Sustainable Development
 Goals (SDGs) and Curriculum Design – ideas for creating a meaningful learning
-experience)</summary>
+experience) - T12601</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This roundtable seeks to interactively engage participants to discuss
 the best ways to introduce and infuse the SDGs into curriculum. How can
@@ -105,7 +107,7 @@ discourse with fellow participants attending the roundtable.</p>
 </details>
 <details class="isomer-details">
 <summary>RT09 (Ethical Considerations in the Integration of AI for Teaching and
-Learning)</summary>
+Learning) - T12602</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Artificial Intelligence (AI) has become a transformative influence in
 the education industry, reshaping the delivery of teaching and learning.
@@ -139,7 +141,7 @@ to:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>RT10 (Student engagement and first-year experience)</summary>
+<summary>RT10 (Student engagement and first-year experience) - T12603</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The roundtable discussion will focus on the crucial topic of student engagement,
 the first-year experience in studies, and strategies for supporting incoming
@@ -159,7 +161,7 @@ of all students within the learning community.</p>
 </details>
 <details class="isomer-details">
 <summary>RT11 (Journey to Net Zero: Strategies, Challenges and Innovation in the
-Education Sector)</summary>
+Education Sector) - T12310</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This roundtable discussion aims to bring together leaders, educators,
 researchers, and stakeholders from the education sector to share insights,
@@ -171,6 +173,10 @@ action within educational institutions for a sustainable future.</p>
 </details>
 </div>
 <p></p>
+
+
+Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentations and Roundtables.
+
 <h3>Learning Journeys or Workshops</h3>
 <p>Learning Journeys/Workshops are optional. If attending, please choose
 ONE from the list below for the registration.</p>
@@ -322,4 +328,4 @@ for automation. Say goodbye to repetitive tasks and hello to newfound efficiency
 <p></p>
 <p></p>
 <p></p>
-<p>&lt;</p>
+<p></p>

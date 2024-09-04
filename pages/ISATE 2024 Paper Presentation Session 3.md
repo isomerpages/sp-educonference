@@ -4,7 +4,7 @@ permalink: /isate-2024-session-3/
 variant: tiptap
 description: ""
 ---
-<h3>Session 3, Track 1 (ST1)</h3>
+<h3>Session 3, Track 1 (ST1) - T12302, 303</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>VTC_08 EXPLORING THE ROLE OF CHATGPT IN ENHANCING EFFICIENCY IN PROJECT-BASED
@@ -118,7 +118,7 @@ in a rapidly evolving world powered by large language models (LLM).</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 2 (ST2)</h3>
+<h3>Session 3, Track 2 (ST2) - LT12C</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_29 AN INTERACTIVE LEARNING MATERIAL BASED ON THE DATA HIDING TECHNIQUES
@@ -275,7 +275,7 @@ in the automated scheduling system.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 3 (ST2)</h3>
+<h3>Session 3, Track 3 (ST2) - LT12D</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_06 VIDEO CLICKSTREAM INSIGHTS: UNDERSTANDING STUDENTS' VIDEO WATCHING
@@ -442,7 +442,7 @@ handicap.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 3, Track 4 (ST3)</h3>
+<h3>Session 3, Track 4 (ST3) - LT12A</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_07 GLOBAL WORKSHOP FOR YOUTH EDUCATION FOR CLIMATE CHANGE RELATED INNOVATIONS</summary>
@@ -631,7 +631,7 @@ professional engineers in an efficient yet effective manner.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 5 (ST3)</h3>
+<h3>Session 3, Track 5 (ST3) - LT12B</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_64 EFFECTIVENESS OF MOBILE-ASSISTED LANGUAGE LEARNING IN ENGLISH EDUCATION</summary>
@@ -805,7 +805,7 @@ students’ motivation to learn.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 3, Track 6 (ST4)</h3>
+<h3>Session 3, Track 6 (ST4) - T12304</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_32 THEME-FINDING INTERNSHIP PROGRAM FOR FUTURE INTRAPRENEURS FROM SMALL
@@ -959,3 +959,5 @@ success.</p>
 <h3></h3>
 <p></p>
 <p></p>
+<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_03_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF file</a> which contains
+the details of Paper Presentations and Roundtables.</p>

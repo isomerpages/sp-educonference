@@ -4,7 +4,7 @@ permalink: /isate-2024-session-6/
 variant: tiptap
 description: ""
 ---
-<h3>Session 6, Track 1 (ST1)</h3>
+<h3>Session 6, Track 1 (ST1) - T12302, 303</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_09 FROM DISRUPTION TO INTEGRATION: EMPIRICAL INSIGHTS INTO THE ROLE
@@ -132,7 +132,7 @@ a culture of excellence and accountability within the academic community.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 6, Track 2 (ST2)</h3>
+<h3>Session 6, Track 2 (ST2) - LT12C</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>NYP_03 ENHANCING INSTITUTIONAL PRODUCTIVITY, AGILITY, AND ADAPTABILITY
@@ -300,7 +300,7 @@ technology in the DCHE curriculum are shared.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 6, Track 3 (ST3)</h3>
+<h3>Session 6, Track 3 (ST3) - LT12D</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_40 IMPORTANCE FOR DESIGNING OF LEARNING SUPPORT CONSIDERING THE GAP
@@ -465,7 +465,7 @@ optometry education.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 6, Track 4 (ST3)</h3>
+<h3>Session 6, Track 4 (ST3) - LT12A</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>TP_09 LOGISTICS SANDBOX IN SCHOOL OF BUSINESS</summary>
@@ -614,7 +614,7 @@ at Fukushima KOSEN were shown.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 6, Track 5 (ST3)</h3>
+<h3>Session 6, Track 5 (ST3) - LT12B</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_04 ENGAGING STUDENTS IN ASYNCHRONOUS LEARNING WITH ADVANCE ORGANISER
@@ -799,7 +799,7 @@ enhance entrepreneurial competency development.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 6, Track 6 (ST4)</h3>
+<h3>Session 6, Track 6 (ST4) - T12304</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_11 WHAT YOU SEE IS WHAT YOU EAT: EMOTIONAL IMPACT OF WEBSITE VIEWING
@@ -926,3 +926,5 @@ and discusses their educational benefits and challenge.</p>
 </div>
 <p></p>
 <p></p>
+
+Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentations and Roundtables.
