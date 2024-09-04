@@ -168,8 +168,8 @@ Education Sector)</summary>
 </details>
 </div>
 <p></p>
-<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_03_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF file</a> which contains
-the details of Paper Presentations and Roundtables.</p>
+<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_04__FINAL.pdf" rel="noopener nofollow" target="_blank">PDF file </a>which
+contains the details of Paper Presentations and Roundtables.</p>
 <h3>Learning Journeys or Workshops</h3>
 <p>Learning Journeys/Workshops are optional. If attending, please choose
 ONE from the list below for the registration.</p>
