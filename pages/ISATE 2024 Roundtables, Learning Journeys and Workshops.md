@@ -173,6 +173,10 @@ action within educational institutions for a sustainable future.</p>
 </details>
 </div>
 <p></p>
+
+
+Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentations and Roundtables.
+
 <h3>Learning Journeys or Workshops</h3>
 <p>Learning Journeys/Workshops are optional. If attending, please choose
 ONE from the list below for the registration.</p>
@@ -325,5 +329,3 @@ for automation. Say goodbye to repetitive tasks and hello to newfound efficiency
 <p></p>
 <p></p>
 <p></p>
-
-Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentations and Roundtables.
