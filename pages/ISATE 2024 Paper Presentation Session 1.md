@@ -4,7 +4,7 @@ permalink: /isate-2024-session-1/
 variant: tiptap
 description: ""
 ---
-<h3>Session 1, Track 1 (ST1)</h3>
+<h3>Session 1, Track 1 (ST1) - T12302, 303</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_17 PRACTICE REPORT ON CONTINUOUS ASSIGNMENTS USING READING PROGRESS
@@ -185,7 +185,7 @@ effectiveness.</p>
 </div>
 </details>
 </div>
-<h3>Session 1, Track 2 (ST2)</h3>
+<h3>Session 1, Track 2 (ST2) - LT12C</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_08 EFFECTS OF IMMERSION, INTERACTION, AND IMAGINATION ON STUDENTS’
@@ -374,7 +374,7 @@ before and after the practice.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 3 (ST2)</h3>
+<h3>Session 1, Track 3 (ST2) - LT12D</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>NYP_02 AN EXAMINATION OF THE IMPACT OF PEER-COLLABORATION ON STUDENT MOTIVATION
@@ -573,7 +573,7 @@ required for global citizenship.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 1, Track 4 (ST3)</h3>
+<h3>Session 1, Track 4 (ST3) - LT12A</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>FL_01 CURRICULA REFORM PROCESS AND EXPERIENCES</summary>
@@ -778,7 +778,7 @@ educational effectiveness.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 5 (ST3)</h3>
+<h3>Session 1, Track 5 (ST3) - LT12B</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_26 EVALUATION OF SUSTAINABLE DEVELOPMENT IN DIPLOMA IN CHEMICAL ENGINEERING
@@ -978,7 +978,7 @@ full potential in their educational journey.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 1, Track 6 (ST3)</h3>
+<h3>Session 1, Track 6 (ST3) - T12301</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_06 ASSESSING STUDENTS’ PERCEPTIONS OF A CURRICULUM ENHANCED WITH UNIVERSAL
