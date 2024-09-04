@@ -4,7 +4,7 @@ permalink: /isate-2024-session-2/
 variant: tiptap
 description: ""
 ---
-<h3>Session 2, Track 1 (ST1)</h3>
+<h3>Session 2, Track 1 (ST1) - T12302, 303</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_11 ASKWHATCHER – A GENERATIVE AI ADAPTIVE LEARNING ASSISTANT TO ENHANCE
@@ -178,7 +178,7 @@ more support.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 2, Track 2 (ST2)</h3>
+<h3>Session 2, Track 2 (ST2) - LT12C</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SP_16 UNLOCKING THE DIGITAL FOOTPRINTS OF SELF-DIRECTED LEARNERS: INSIGHTS
@@ -329,7 +329,7 @@ playing against each AIs, and the analysis of the AI.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 2, Track 3 (ST3)</h3>
+<h3>Session 2, Track 3 (ST3) - LT12D</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>VTC_05 MOTIVATION AND SUPPORT OF STUDENTS IN PROJECTS ON CONSTRUCTION
@@ -490,7 +490,7 @@ methods and create a more inclusive and effective learning environment.</p>
 </div>
 <p></p>
 <p></p>
-<h3>Session 2, Track 4 (ST3)</h3>
+<h3>Session 2, Track 4 (ST3) - LT12A</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>NYP_10 LEARNING FROM ERROR ANALYSIS: IMPACT ON SELF-REGULATION AND ACADEMIC
@@ -693,7 +693,7 @@ positively rated the benefits of working on the MDPs.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 2, Track 5 (ST3)</h3>
+<h3>Session 2, Track 5 (ST3) - LT12B</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RP_07 EXAMINATION OF IMPACT OF INTERACTIONS IN ASYNCHRONOUS LEARNING ON
@@ -892,7 +892,7 @@ systems.</p>
 </details>
 </div>
 <p></p>
-<h3>Session 2, Track 6 (ST4)</h3>
+<h3>Session 2, Track 6 (ST4) - T12304</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>JP_24 A NEW COLLABORATION SYSTEM FOR RESEARCH, EDUCATION AND ENROLLMENT
