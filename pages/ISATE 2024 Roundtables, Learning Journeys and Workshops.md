@@ -203,14 +203,7 @@ University (NTU))</summary>
 <summary>LJ03 (Sharing by Centre for Teaching, Learning and Technology (CTLT) and
 AI Singapore (AISG), National University of Singapore (NUS))</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Part 1 – CTLT:</p>
-<p>• Major functions supported by CTLT (Professional Development, Instructional
-Technology)</p>
-<p>• NUS AI + TEL initiative</p>
-<p>Part 2 – AISG:</p>
-<p>Participants will get to deepen their knowledge and understanding of the
-latest AI methodologies, facilities, tools, and applications, from both
-the industry and government’s perspectives.</p>
+<p>This LJ had been over-subscribed: Please choose another one.</p>
 </div>
 </details>
 <details class="isomer-details">
