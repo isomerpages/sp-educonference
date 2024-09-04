@@ -959,5 +959,5 @@ success.</p>
 <h3></h3>
 <p></p>
 <p></p>
-
-Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentation and Roundtables.
+<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_03_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF file</a> which contains
+the details of Paper Presentations and Roundtables.</p>
