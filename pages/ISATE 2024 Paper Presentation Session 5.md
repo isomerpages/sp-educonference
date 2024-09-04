@@ -987,3 +987,5 @@ and to discuss the effectiveness of the class.</p>
 <h3></h3>
 <p></p>
 <p></p>
+
+Alternatively, you can download this [PDF file](/files/Full_Program__Version_Sep_03_.pdf) which contains the details of Paper Presentation and Roundtables.
