@@ -2,11 +2,11 @@
 title: Contact Us
 permalink: /contactus/
 description: ""
+variant: markdown
 ---
 If you need more information on ISATE 2024, please contact the ISATE 2024 Secretariat at [ISATE_2024_Secretariat@sp.edu.sg](mailto:ISATE_2024_Secretariat@sp.edu.sg)
 
 Recipients of this email address are:
-* Christopher Tan
 * Mark Nivan Singh
 * Cheah Sin Moh
 
