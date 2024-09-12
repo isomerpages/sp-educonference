@@ -957,5 +957,5 @@ success.</p>
 </details>
 </div>
 <p></p>
-<p>Alternatively, you can download this<a href="/files/Full_Program__Version_Sep_11_.pdf" rel="noopener nofollow" target="_blank"> </a><a href="/files/Full_Program__Version_Sep_12_.pdf" rel="noopener nofollow" target="_blank">PDF File </a>which
-contains the details of Paper Presentations and Roundtables.</p>
+<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_12_.pdf" rel="noopener nofollow" target="_blank">PDF File </a>which contains
+the details of Paper Presentations and Roundtables.</p>
