@@ -126,3 +126,5 @@ Operations: Introducing the School of Common Studies”</p>
 </li>
 </ul>
 <p></p>
+<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_13_.pdf" rel="noopener nofollow" target="_blank">PDF File </a>which contains
+the details of Paper Presentations and Roundtables.</p>
