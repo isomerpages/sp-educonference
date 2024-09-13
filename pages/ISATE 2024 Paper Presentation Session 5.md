@@ -985,5 +985,4 @@ and to discuss the effectiveness of the class.</p>
 </details>
 </div>
 <h3></h3>
-<p>Alternatively, you can download this <a href="/files/Full_Program__Version_Sep_12_.pdf" rel="noopener nofollow" target="_blank">PDF File </a>which contains
-the details of Paper Presentations and Roundtables.</p>
+<p></p>
