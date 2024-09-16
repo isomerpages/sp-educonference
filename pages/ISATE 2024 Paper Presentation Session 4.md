@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Subtheme 1 (ST1): Artificial intelligence in teaching and learning</p>
 <p>Subtheme 2 (ST2): Technology in education</p>
-<p>Subtheme 3 (ST3): Padegogical innovation in teaching and learning</p>
+<p>Subtheme 3 (ST3): Pedagogical innovation in teaching and learning</p>
 <p>Subtheme 4 (ST4): Stakeholder engagement in education</p>
 <h3>Session 4, Track 1 (ST1) - T12302, 303</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
