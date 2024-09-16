@@ -64,9 +64,9 @@ for Polytechnic and ITE Lecturers”</p>
 <p>Representing Hong Kong: Dr Michael WANG (Deputy Executive Director, Vocational
 Training Council, Hong Kong) - “Advancing Sustainable Transportation: Developments
 in New Energy Mobility”</p>
-<p>Representing Finland: Dr Mari Ketola (Head of Education and Research,
-TUAS Common Studies, Faculty of Engineering &amp; Business) - "Optimizing
-Operations: Introducing the School of Common Studies”</p>
+<p>Representing Finland: Mari Ketola (Head of Education and Research, TUAS
+Common Studies, Faculty of Engineering &amp; Business) - "Optimizing Operations:
+Introducing the School of Common Studies”</p>
 <p></p>
 </li>
 <li>
