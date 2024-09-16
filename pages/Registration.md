@@ -4,16 +4,19 @@ permalink: /registration/
 description: ""
 variant: markdown
 ---
-**Early Bird; Early bird registration is OVER**
+# Registration is now closed
+
+
+**Early Bird; Early bird registration is OVER~~**
 - Registration Fee = SGD $400 (approx. USD $300)
-- Registration Period is between 15 June 2024 to 16 August 2024.
+- Registration Period is between 15 June 2024 to 16 August 2024.~~~~
 
 **Normal:**
 - Registration Fee = SGD $450 
 - Registration Period is between 17 August 2024 to 15 September 2024.
 
 Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance at **all** ISATE events (including Banquet, 2 tea breaks &amp; lunches for Days 1 to 3, event materials, selected bus transport). 
-
+~~
 ## Registration
 
 Please be informed that at the Registration page, you are required to pre-select a Roundtable (on Sep 26, 2024) and an optional Learning Journey or a Workshop (on Sep 27, 2024) at the time of Registration. Places for Learning Journey and Workshops are limited, so allocation will be on a first-come-first-served basis.
