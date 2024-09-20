@@ -11,7 +11,7 @@ variant: markdown
 ##### Any changes to any activities will be broadcast through this App.
 ##### All participants are highly encouraged to use it, so as not to missed out on any important updates.
 ##### And effective immediately, this website will no longer be updated. 
-##### Participants, however, can still refer to this website for abstracts of paper presentations when deciding which track to attend.
+##### Participants, however, can still refer to this [PDF File](/files/Full_Program__Version_Sep_19_.pdf) for abstracts of paper presentations when deciding which track to attend.
 
 **UPDATED (September 16, 2024):**
 
