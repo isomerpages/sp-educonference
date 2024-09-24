@@ -8,7 +8,7 @@ variant: markdown
 
 ##### An Event App had been produced. 
 ![](/images/QR_Code_for_app_edited.jpg)
-##### Any changes to any activities will be broadcast through this App. You may scan the QR code or click on https://www.ilf2024.info/ to access the app.
+##### Any changes to any activities will be broadcast through this App. You may scan the QR code or click [here]( https://www.ilf2024.info/ ) to access the web app.
 ##### All participants are highly encouraged to use it, so as not to missed out on any important updates.
 ##### And effective immediately, this website will no longer be updated. 
 ##### Participants, however, can still refer to this [PDF File](/files/Full_Program__Version_Sep_19_.pdf) for abstracts of paper presentations when deciding which track to attend.
