@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>ISATE 2024 Programme</h1>
 <p>The full programme and paper presentations venues can be found in this
-<a href="https://www.ilf2024.info/" rel="noopener nofollow" target="_blank">webapp link.</a>
+<a href="https://www.ilf2024.info/" rel="noopener nofollow" target="_blank">link.</a>
 </p>
 <p></p>
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Morning)</strong>
