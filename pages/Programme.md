@@ -4,11 +4,14 @@ permalink: /programme/
 description: ""
 variant: tiptap
 ---
-<h1>ISATE 2024 Programme (Draft)</h1>
-<p>The full programme can be found below:</p>
+<h1>ISATE 2024 Programme</h1>
+<p>The full programme and paper presentations venues can be found in this
+<a href="https://www.ilf2024.info/" rel="noopener nofollow" target="_blank">link</a>. You may also scan the QR code below to access the web app.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_ISATE_Overall_Program_for_Web_Site_Use.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_Code_for_app_edited.jpg">
 </div>
+<p></p>
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Morning)</strong>
 </p>
 <ul data-tight="true" class="tight">
