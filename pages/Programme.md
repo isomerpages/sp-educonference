@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>ISATE 2024 Programme</h1>
-<p>The full programme can be found below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_ISATE_Overall_Program_for_Web_Site_Use.jpg">
-</div>
+<p>The full programme and paper presentations venues can be found in this
+<a href="https://www.ilf2024.info/" rel="noopener nofollow" target="_blank">webapp link.</a>
+</p>
+<p></p>
 <p><strong>ISATE Day 1: 24 Sep 2024 (Tuesday, Morning)</strong>
 </p>
 <ul data-tight="true" class="tight">
