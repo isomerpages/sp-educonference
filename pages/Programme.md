@@ -4,7 +4,7 @@ permalink: /programme/
 description: ""
 variant: tiptap
 ---
-<h1>ISATE 2024 Programme (Draft)</h1>
+<h1>ISATE 2024 Programme</h1>
 <p>The full programme can be found below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_ISATE_Overall_Program_for_Web_Site_Use.jpg">
