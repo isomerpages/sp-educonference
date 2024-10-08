@@ -1077,7 +1077,7 @@ Beijing, China&nbsp;</p>
 <p><sup>b</sup>Tsinghua University High School, Beijing, China&nbsp;</p>
 <p><sup>c</sup>Department of Engineering, Hong Kong Institute of Vocational
 Education, Tsing Yi, HKSAR&nbsp;&nbsp;</p>
-<p><a href="mailto:mhchow@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">mhchow@vtc.edu.hk</a>,
+<p><a href="mhchow@vtc.edu.hk" rel="noopener nofollow" target="_blank">mhchow@vtc.edu.hk,</a> 
 <a href="sai9022@vtc.edu.hk" rel="noopener nofollow" target="_blank">sai9022@vtc.edu.hk</a>
 </p>
 <p>Abstract</p>
