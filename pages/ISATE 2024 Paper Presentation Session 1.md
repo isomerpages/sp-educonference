@@ -1077,9 +1077,11 @@ Beijing, China&nbsp;</p>
 <p><sup>b</sup>Tsinghua University High School, Beijing, China&nbsp;</p>
 <p><sup>c</sup>Department of Engineering, Hong Kong Institute of Vocational
 Education, Tsing Yi, HKSAR&nbsp;&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">mhchow@vtc.edu.hk</a><sup>1</sup>,
-<a rel="noopener noreferrer nofollow" target="_blank">sai9022@vtc.edu.hk</a><sup>2</sup>
+<p><a href="mailto:mhchow@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">mhchow@vtc.edu.hk</a>
 </p>
+<p><a href="mailto:sai9022@vtc.edu.hk" rel="noopener noreferrer nofollow" target="_blank">sai9022@vtc.edu.hk</a>
+</p>
+<p></p>
 <p>Abstract</p>
 <p>This study investigates the development and application of monitoring
 equipment for sound vibration in neuroscience, focusing on its effects
